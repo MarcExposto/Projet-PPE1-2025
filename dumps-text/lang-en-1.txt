@@ -1,0 +1,571 @@
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Types
+       (BUTTON) Toggle Types subsection
+          + 1.1 Preventive lockdown
+          + 1.2 Emergency lockdown
+          + 1.3 Purposes
+          + 1.4 In epidemics and pandemics
+               o 1.4.1 2009 swine flu pandemic
+               o 1.4.2 COVID-19 pandemic
+     * 2 Typical scenarios
+       (BUTTON) Toggle Typical scenarios subsection
+          + 2.1 Schools
+          + 2.2 Prisons
+          + 2.3 Hospitals
+          + 2.4 Lean manufacturing process
+     * 3 Newsworthy lockdowns
+     * 4 See also
+     * 5 References
+     * 6 External links
+
+   [ ] Toggle the table of contents
+
+Lockdown
+
+   [ ] 42 languages
+     * Afrikaans
+     * العربية
+     * বাংলা
+     * Brezhoneg
+     * Čeština
+     * Cymraeg
+     * Dagbanli
+     * Deutsch
+     * Ελληνικά
+     * Esperanto
+     * فارسی
+     * Français
+     * Gaeilge
+     * 한국어
+     * हिन्दी
+     * Hrvatski
+     * Bahasa Indonesia
+     * Interlingua
+     * Italiano
+     * עברית
+     * Kiswahili
+     * Malagasy
+     * മലയാളം
+     * मराठी
+     * Bahasa Melayu
+     * Nederlands
+     * नेपाली
+     * 日本語
+     * Nordfriisk
+     * پنجابی
+     * Papiamentu
+     * Português
+     * Shqip
+     * Slovenčina
+     * Српски / srpski
+     * Svenska
+     * தமிழ்
+     * Türkçe
+     * Українська
+     * اردو
+     * 粵語
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Emergency protocol that prevents people from leaving or entering a
+   location
+   This article is about the emergency measure. For the mass quarantine
+   measure in a disease outbreak, see Stay-at-home order and COVID-19
+   lockdowns. For the practice of isolating prisoners, see Solitary
+   confinement. For other uses, see Lockdown (disambiguation).
+
+   A lockdown (/ˈlɒkˌdaʊn/ ^ⓘ) is a restriction policy for people,
+   community or a country to stay where they are, usually due to specific
+   risks that could possibly harm the people if they move and interact
+   freely.
+
+   The term is used for a prison protocol that usually prevents people,
+   information or objects from leaving an area. The protocol can usually
+   only be initiated by someone in a position of authority.^[1]
+
+   A lockdown can also be used to protect people inside a facility or, for
+   example, a computing system, from a threat or other external event. In
+   buildings doors leading outside are usually locked so that no person
+   may enter or exit.
+   [250px-Zone_wise_lockdown_in_new_Bhopal_2.jpg] Street barricades that
+   were set up due to an outbreak of COVID-19 in Bhopal, Madhya Pradesh,
+   India
+
+Types
+
+   [edit]
+
+   Lockdowns may be adopted as a preventative measure or in response to a
+   crisis as an emergency measure.
+
+Preventive lockdown
+
+   [edit]
+
+   See also: Preventive action
+
+   A preventive lockdown is a preemptive action plan implemented to
+   address an unusual scenario or a weakness in system to preempt any
+   danger to ensure the safety and security of people, organisation and
+   system. The focus for preventive actions is to avoid dangers and risks
+   arising from the nonconformity to the normal circumstances, but also
+   commonly includes improvements in efficiency.
+
+   Preventive lockdowns are preemptive lockdowns to mitigate risk. Most
+   organisations plan for the emergency lockdowns but fail to plan for
+   other situations that might quickly degrade to dangerous levels. These
+   protocols must be based on the type of threat, and should be kept
+   simple and short for quick learning and implementation, and flexible
+   enough to handle several scenarios. This allows administrators more
+   options to choose from which are easier to use in various scenarios.
+   For example, in case of a loud scene by a parent or an unarmed petty
+   thief being chased by the police through the school playground, this
+   flexible procedure allows school administrators the flexibility to
+   implement a more limited lockdown while teaching in school continues,
+   thus eliminating need for complete emergency lockdown, disruption and
+   delays in resumption of teaching, etc. The consequences of not having
+   procedures to implement such lockdowns is that the situation might
+   quickly escalate where there could be loss of human lives.^[2]
+
+Emergency lockdown
+
+   [edit]
+   See also: Emergency procedure
+
+   Emergency lockdowns are implemented when there is imminent threat to
+   the lives or risk of injury to humans, for example, a school's
+   emergency lockdown procedures must be kept short and simple to make
+   them easier to use under real life crisis conditions. Simple procedures
+   can be easily taught with periodic lockdown drills instead of lengthy
+   training.^[2]
+
+Purposes
+
+   [edit]
+
+   Both preventative and emergency lockdowns can be adopted for similar
+   goals. They may be use for security purposes to reduce the number of
+   people on the street to allow police to conduct rescue missions after
+   natural disasters. They may be used in public health emergencies, such
+   as Ebola and COVID-19, to prevent air-borne diseases from spreading and
+   they may be used as counterinsurgency measures to prevent local
+   populations mixing with insurgents so that governments can conduct
+   military missions against the insurgents.^[3] They may also be used in
+   police emergencies, as in school shootings or hostage situations.
+
+In epidemics and pandemics
+
+   [edit]
+   Main article: Stay-at-home order
+   See also: Pandemic prevention § Testing and containment
+
+   Lockdowns can limit movements or activities in a community while
+   allowing most organizations to function normally, or limit movements or
+   activities such that only organizations supplying basic needs and
+   services can function normally.^[4]
+
+2009 swine flu pandemic
+
+   [edit]
+
+   A lockdown was implemented in Mexico from April 30 to May 5, 2009 in
+   response to the 2009 swine flu pandemic.^[5]
+
+COVID-19 pandemic
+
+   [edit]
+   Main article: COVID-19 lockdowns
+
+   During the COVID-19 pandemic, the term lockdown was used for actions
+   related to mass quarantines or stay-at-home orders.^[6] The first
+   lockdown during the pandemic was implemented in Wuhan on January 23,
+   2020.^[7] By early April 2020, 3.9 billion people worldwide were under
+   some form of lockdown—more than half the world's population.^[8]^[9] By
+   late April, around 300 million people were under lockdown in European
+   countries, while around 200 million people were under lockdown in Latin
+   America.^[10] Nearly 300 million people, or about 90 per cent of the
+   population, were under some form of lockdown in the United States,^[11]
+   and 1.3 billion people have been under lockdown in India.^[12]
+
+   The lockdown in the Philippines started on 14 March 2020 and is one of
+   the longest and strictest lockdowns with varying levels of community
+   quarantine being imposed on all major islands and cities.^[13]^[14]
+   Similarly the lockdown in South Africa started on 27 March 2020^[15]
+   and progressed through various levels. It is also one of the strictest
+   lockdowns in the world with cigarettes and alcohol banned
+   throughout.^[16]
+
+Typical scenarios
+
+   [edit]
+
+Schools
+
+   [edit]
+
+   Lockdown procedures vary by site and country. Generally, a lockdown
+   means that interior and exterior doors are locked, and all students and
+   staff must remain in their location from the time the lockdown is
+   announced. In some locations, windows are covered, and students stand
+   at the back of the classroom or away from windows.
+
+   Since the Columbine shooting in 1999 and the September 11, 2001
+   attacks, lockdown procedures in schools have been changing. Some
+   schools direct teachers to continue with standard procedures while
+   remaining quiet, while some recommend an active approach against
+   threats.^[17]
+
+Prisons
+
+   [edit]
+
+   In prisons, the term lockdown can be defined as a course of action to
+   control the movement of inmates. Confining all prisoners, except
+   workers, to their cells until the end of the day is an example of a
+   "lockdown period" in a corrections schedule.^[citation needed] However
+   a "full lockdown" is used when all prisoners are locked in their cells
+   to prevent prison riots or unrest from spreading or during an
+   emergency.^[18]
+
+Hospitals
+
+   [edit]
+
+   In US guidelines, occasions for preventing entry into a hospital may
+   include: power failure, earthquake, flooding, fire, bomb threat,
+   hostage crisis and active shooter.^[19]^[20] Occasions for preventing
+   both entry and exit from a hospital may include: external
+   contamination, civil disturbance and abduction of an infant or
+   child.^[19]^[20]
+
+Lean manufacturing process
+
+   [edit]
+
+   In manufacturing, the term lockdown event refers to a continuous
+   improvement initiative in which manufacturing in a specific area
+   (typically a cell or specific piece of machinery) is halted in order to
+   contain, and determine, what are the issues that are preventing the
+   manufacture of goods from meeting quality specifications. During the
+   lockdown event a multi-disciplinary team reviews the specific area's
+   manufacturing processes, tooling and machine condition, to find the
+   root cause(s) of the problem(s). Once changes to the process, or
+   machine repairs that may include adjustments or replacement are
+   effected, a sample run is initiated and evaluated. If the results of
+   the validation are within the required specifications, the area
+   lockdown is lifted and production is resumed. Follow-up sampling is
+   conducted subsequently to ensure continuity of the lockdown results.
+
+Newsworthy lockdowns
+
+   [edit]
+   This article appears to be slanted towards recent events. Please try to
+   keep recent events in historical perspective and add more content
+   related to non-recent events. (March 2020)
+
+   In the wake of the September 11 attacks (2001), a three-day lockdown of
+   American civilian airspace was initiated.
+
+   At the University of British Columbia (UBC) on January 30, 2008, an
+   unknown threat was made, and the Royal Canadian Mounted Police (RCMP)
+   issued a lockdown order on one of the buildings on campus for six
+   hours, cordoning off the area. A campus alert was sent via email to
+   everyone affiliated with UBC, while those in the building remained
+   locked in it.^[21]^[22]^[23]
+
+   On April 10, 2008, two Canadian secondary schools were locked down due
+   to suspected firearm threats. George S. Henry Academy was locked down
+   in Toronto, Ontario at approximately 2:00 p.m.^[24] The ETF were
+   contacted and the lockdown lasted for more than two hours. New
+   Westminster Secondary School was locked down in New Westminster,
+   British Columbia at approximately 1:40 p.m.^[25] The Emergency Response
+   Team (ERT) was called, and the school was under lockdown until
+   4:30 p.m. Due to the size of the school some students were not able to
+   leave until 7:00 p.m.
+
+   On April 19, 2013, the entire city of Boston, US was locked down and
+   all public transportation stopped during the manhunt for terrorists
+   Dzhokhar and Tamerlan Tsarnaev, the perpetrators of the Boston Marathon
+   bombing, while the town of Watertown was under heavily armed police and
+   SWAT surveillance, and systematic house-to-house searches were carried
+   out.^[26]^[27]^[28]
+
+   In Belgium, its capital Brussels was locked down in 2015 for days while
+   security services sought suspects involved with the November 2015 Paris
+   attacks. Later in 2015, a terror threat caused the 2015 Los Angeles
+   Unified School District closure.
+
+   In August 2019, the Indian government imposed a lockdown on Jammu and
+   Kashmir after the revocation of the special status of the state,^[29]
+   by communications and media blackout, claiming that the lockdown was to
+   curb terrorism.^[30]
+
+   According to Merriam-Webster, the first known use of lockdown occurred
+   in 1973, referring to the confinement of prisoners.^[31]
+
+   Tracking usage changes through events reported up to 1999 in The New
+   York Times:^[32]
+
+          Feb 12, 1974, Violent Inmates Are Isolated at San Quentin
+          contains the first reference to lockdown.
+
+          Jul 29, 1998, Children in Tow, Tourists Stream to Capitol to
+          Mourn Its Guardians, By Lizette Alvarez: "Friday's act by a
+          gunman prompted few calls for a lockdown of the Capitol."
+
+          Oct 25, 1998, Report Card in Yonkers On New Schools Chief, By
+          Elsa Brenner: "Dr. Hornsby declared a lockdown in the city's
+          high schools, informing 6,000 students that they could no longer
+          ventue off campus for pizzas and Chinese food."
+
+          Nov 8, 1998, No More Rotten Odors, Sewage Protesters Say, By
+          David Koeppel: "At Seaford Harbor School, Principal Barbara
+          Bauer, who attended the rally, acknowledged that the smells had
+          resulted in one 'lockdown' in the past year. On Oct. 26, parents
+          say, a lockdown was declared at another school, Mandalay
+          elementary."
+
+          Feb 10, 1999, As Senate Goes Into Lockdown, Quiet Fills Capitol,
+          By Frances X. Clines: "the Senate went into lockdown with
+          President Clinton's fate in its hands."
+
+          Jun 6, 1999, In Brief: School Hot Line: "there has also been 'a
+          massive security lockdown' at all Yonkers schools. ...All but
+          one entrance door in each school is locked, and safety officers
+          are stationed at each. Everyone entering school buildings is
+          being scanned for weapons."
+
+          Aug 13, 1999, Schools in New York Area Reassess Safety for
+          Students, By Randal C. Archibold: "The shootings at Columbine
+          High School in Littleton, Colo., have led school officials in
+          the New York City metropolitan area to reassess security and in
+          some cases to make changes to minimize threats. At one extreme
+          is West Hartford, Conn., where administrators devised what they
+          termed a 'lockdown' drill in which students and teachers,
+          practicing in case there should be a shooting, lock all doors
+          and stay put until they are told that the police have arrived."
+
+See also
+
+   [edit]
+     * Amber alert – US based child abduction emergency alert system
+     * Code Adam – Missing-child safety program
+     * Curfew – Order imposing certain regulations during specified hours,
+       often stay-at-home orders
+     * Martial law – Imposition of direct military control or suspension
+       of civil law by a government
+
+References
+
+   [edit]
+    1. ^ "Capitalist lockdown is bad. Capitalist reopening is worse | Red
+       Flag". redflag.org.au. Retrieved 1 May 2021.
+    2. ^ ^a ^b Why Schools Need 2 Types of Lockdowns,
+       campussafetymagazine.com, June 14, 2012.
+    3. ^ Brancati, Dawn (2023). "Locking Down Violence: The COVID-19
+       Pandemic's Impact on Non-State Actor Violence". American Political
+       Science Review. January (1): 1327–1343.
+       doi:10.1017/S0003055422001423.
+    4. ^ Dineros, Kevin; Dipasupil, Jan Paolo (15 March 2020). "COVID-19
+       Crisis Management and Prevention Plan". COVID-19 Crisis Management
+       and Prevention Plan. Retrieved 21 March 2020.
+    5. ^ Carroll, Rory; Tuckman, Jo (30 April 2009). "Swine flu: Mexico's
+       government orders businesses to close and citizens to stay indoors
+       for five days in an effort to halt swine flu". The Guardian.
+       Retrieved 21 March 2021.
+    6. ^ Resnick, Brian (10 March 2020). "Italy and China used lockdowns
+       to slow the coronavirus. Could we?". VOX. Retrieved 25 March 2020.
+    7. ^ Illmer, Andreas; Wang, Yitsing; Wong, Tessa (22 January 2021).
+       "Wuhan lockdown: A year of China's fight against the Covid
+       pandemic". BBC News. Archived from the original on 14 May 2023.
+       Retrieved 27 May 2023.
+    8. ^ "Coronavirus: Half of humanity now on lockdown as 90 countries
+       call for confinement". Euronews. 3 April 2020.
+    9. ^ "A third of the global population is on coronavirus
+       lockdown—here's our constantly updated list of countries and
+       restrictions". Business Insider. 28 March 2020.
+   10. ^ "What Share of the World Population Is Already on COVID-19
+       Lockdown?". Statista. 23 April 2020.
+   11. ^ "About 90% of Americans have been ordered to stay at home. This
+       map shows which cities and states are under lockdown". Business
+       Insider. 2 April 2020.
+   12. ^ Nair S (29 March 2020). "For a billion Indians, lockdown has not
+       prevented tragedy". The Guardian.
+   13. ^ "COVID-19 in Philippines: Police deployed to implement fresh
+       lockdowns". Deutsche Welle. Deutsche Welle. 20 July 2020. Retrieved
+       5 August 2020.
+   14. ^ "The Philippines' fierce lockdown drags on, despite uncertain
+       benefits". The Economist. ISSN 0013-0613. Retrieved 5 August 2020.
+   15. ^ "South Africa Begins Nationwide Coronavirus Lockdown". Voice of
+       America. 27 March 2020. Retrieved 24 June 2020.
+   16. ^ Flanagan, Jane. "Coronavirus in South Africa: tobacco smugglers
+       benefit from world's strictest lockdown". The Times.
+       ISSN 0140-0460. Retrieved 24 June 2020.
+   17. ^ "School Safety Questioned After Shooting". ABC News. 16 December
+       2012.
+   18. ^ Spiegel, Sarah (2007). Spiegel, Sarah (ed.). "Prison Race Rights:
+       An Easy Case for Segregation". California Law Review. 95 (6): 2261.
+       doi:10.15779/Z382M61. Archived from the original on 16 January
+       2016.
+   19. ^ ^a ^b Lockdown Policy from California Hospital Association.
+       Retrieved December 2012
+   20. ^ ^a ^b Lockdown Policy at Iroquois Healthcare Alliance. Retrieved
+       December 2012
+   21. ^ "Cause for UBC Lockdown still uncertain but initial posting may
+       reveal some clues". The Georgia Straight. 31 January 2008.
+       Retrieved 15 October 2020.
+   22. ^ "Police increase presence at UBC following lockdown"
+   23. ^ "Threat prompts lockdown at UBC". The Globe and Mail. Retrieved
+       15 October 2020.
+   24. ^ "North York: Two charged after George S. Henry Academy lockdown".
+       Retrieved 15 October 2020.
+   25. ^ "Teen arrested in connection with school lockdown". Archived from
+       the original on 17 February 2009. Retrieved 15 October 2020.
+   26. ^ This Is What It Looks Like When the Police Shut Down a City, The
+       Atlantic Wire, 19 Apr 2013. Retrieved Jun 2013.
+   27. ^ A Town Under Siege: Watertown Residents Describe Life Under
+       Lockdown, Time, 19 Apr 2013. Retrieved Jun 2013.
+   28. ^ Boston faces lockdown as police hunt for marathon bombing
+       suspect, The Guardian, 19 April 2013. Retrieved 19 April 2013.
+   29. ^ "Restrictions eased as Kashmir enters Day 22 of lockdown". India
+       TV news. 26 August 2019.
+   30. ^ "India PM defends Kashmir decision". 9 August 2019.
+   31. ^ Merriam-Webster definition of lockdown
+   32. ^ The New York Times TimesMachine
+
+External links
+
+   [edit]
+   Wikimedia Commons has media related to Lockdowns.
+     * The dictionary definition of lockdown at Wiktionary
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Lockdown&oldid=1312213499"
+
+   Categories:
+     * Criminology
+     * Penal imprisonment
+     * Emergency management
+
+   Hidden categories:
+     * Pages using the Phonos extension
+     * CS1: long volume value
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Use British English from January 2021
+     * All Wikipedia articles written in British English
+     * Use dmy dates from January 2021
+     * Pages including recorded pronunciations
+     * All articles with unsourced statements
+     * Articles with unsourced statements from March 2019
+     * Articles slanted towards recent events from March 2020
+     * Commons category link from Wikidata
+
+     * This page was last edited on 19 September 2025, at 09:56 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Lockdown
+   (BUTTON) 42 languages Add topic
