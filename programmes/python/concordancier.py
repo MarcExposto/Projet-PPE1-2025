@@ -24,7 +24,7 @@ window_size = args.window_size
 key_word = args.key_word
 
 
-def select_tokenizer(language: str) -> function:
+def select_tokenizer(language: str) -> "function":
     """retourne le tokenizer correspondant à la langue donnée en entrée.
     l'entrée doit être le code iso de la langue, soit (en|fa|fr)."""
     match language:
@@ -39,7 +39,7 @@ def select_tokenizer(language: str) -> function:
     return tokenizer
 
 
-def select_lemmatizer(language: str) -> function:
+def select_lemmatizer(language: str) -> "function":
     """retourne le lemmatizer correspondant à la langue donnée en entrée.
     l'entrée doit être le code iso de la langue, soit (en|fa|fr)."""
     match language:

@@ -1,4 +1,6 @@
 MonUrl=$1
+Malangue=$2
+Monmot=$3
 
 if [ -n "$MonUrl" ] #verifie si il y a qqch dans l'argument avec -n #-ne pour dire si vide faire x
 then
@@ -6,9 +8,16 @@ then
 
 	echo '<html>'
 	echo '<head>
-    <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"> <title>Tableau miniprojet</title> </head>'
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <title>Tableau miniprojet</title>
+    </head>'
 	echo "<body>"
-	echo '<section class="hero is-info mb-5"> <div class="hero-body"> <p class="title is-3">Resultats du mini projet sous forme tableau</p> </div> </section>'
+	echo '<section class="hero is-info mb-5">
+	<div class="hero-body">
+	<p class="title is-3">Resultats du mini projet sous forme tableau</p>
+	</div> </section>'
 
 	##DEBUT TABLEAU
 
@@ -16,7 +25,8 @@ then
 	echo '<table class="table is-bordered is-striped is-centered">
         <thead>
             <tr>
-                <th> # </th><th> lien </th><th> Code http </th><th> Encodage </th><th> Nombre de mots </th>
+                <th> # </th><th> lien </th><th> Code http </th><th> Encodage </th><th> Dump Txt </th><th> Nombre de mots </th><th> Concordance </th>
+            </tr>
             </tr>
         </thead>'
 	echo '<tbody>'
@@ -32,15 +42,21 @@ do
 		ligneEncodage="N/A" # petit raccourci qu'on peut utiliser à la place du if : encoding=${encoding:-"N/A"}
 	fi
 
+	fichierTexte="../dumps-text/lang-${Malangue}-${compte}.txt"
+	bash text_dump.sh $line $fichierTexte
 	nbMots=$(cat ./.data.tmp | lynx -dump -nolist -stdin | wc -w)
+	fichierConcordance="../concordances/lang-${Malangue}-${compte}-concordance.html"
+	bash concordances.sh $fichierTexte $Malangue 5 $Monmot >$fichierConcordance
+
 	echo -e "			<tr>
 				<td>$compte</td>
-				<td>$line</td>
+				<td><a href="$line"> Lien page </a></td>
 				<td>$codeHTTP</td>
 				<td>$ligneEncodage</td>
+				<td><a href="${fichierTexte}"> Lien dump </a></td>
 				<td>$nbMots</td>
+				<td><a href="${fichierConcordance}"> Lien concordance </a></td>
 			</tr>"
-
 
 	((compte++))
 done < $MonUrl
