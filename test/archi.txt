@@ -1,0 +1,15 @@
+L'idée ce serait d'utiliser chaque petit script comme une fonction pour que le code soit plus clair.
+
+Dans la liste en dessous, j'ai mis le nom du script, entre parenthèses les arguments dont il a besoin et après la flèche, la sortie qu'il génère
+
+gen_index.sh () -> 
+gen_tab.sh () ->
+  gen_aspirations.sh (url) -> x.html data.tmp
+  get_http_code.sh (data.tmp) -> http_code
+  get_charset.sh (data.tmp) -> charset
+  gen_dump_text.sh  -> dump_text
+  get_number_words.sh (dump_text) -> number_words
+  gen_concordances.sh (dump_text) -> concordances.html
+  gen_contexts.sh (dump_text) -> contexts.txt
+  get_coocurents.sh (contexts.txt) -> coocurents.txt
+
