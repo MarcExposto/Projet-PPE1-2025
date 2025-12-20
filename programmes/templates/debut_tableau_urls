@@ -1,0 +1,9 @@
+  <section class="container mb-5">
+    <table class="table is-bordered is-striped is-centered">
+      <thead>
+        <tr>
+          <th> # </th><th> lien </th><th> Code http </th><th> Encodage </th><th> Dump Txt </th><th> Nombre de mots </th><th> Concordance </th>
+        </tr>
+        </tr>
+      </thead>
+      <tbody>
