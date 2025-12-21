@@ -49,13 +49,10 @@ from math import log10
 __punctuations = re.compile("[" + re.escape(string.punctuation) + "«»…" + "]+")
 
 __tool_delta = {
-    'itrameur': -1.0,
+    "itrameur": -1.0,
 }
 
-match_strategy = {
-    'exact': str.__eq__,
-    'regex': re.fullmatch
-}
+match_strategy = {"exact": str.__eq__, "regex": re.fullmatch}
 
 
 # No tqdm to keep scripts autonomous.
@@ -67,10 +64,13 @@ def progress(x):
     L = len(data) - 1
     for i, dat in enumerate(data):
         if i != L:
-            print(f"{100*i/L:.2f}%", end='\r', file=sys.stderr)
+            print(f"{100 * i / L:.2f}%", end="\r", file=sys.stderr)
             yield dat
         else:
-            print(f"100.00% in {datetime.timedelta(seconds=time.time()-start)}", file=sys.stderr)
+            print(
+                f"100.00% in {datetime.timedelta(seconds=time.time() - start)}",
+                file=sys.stderr,
+            )
             return
 
 
@@ -83,9 +83,9 @@ def log_binomial(n: int, k: int) -> float:
     k = int(k)
 
     if n < 0 or k < 0:
-        raise ValueError('binomial: found number < 0')
+        raise ValueError("binomial: found number < 0")
     if k > n:
-        raise ValueError('binomial: k > n')
+        raise ValueError("binomial: k > n")
 
     if k == 0 or k == n:
         return 0.0
@@ -104,7 +104,9 @@ def log_hypergeometric(T: int, t: int, F: int, f: int) -> float:
     return a + b - c
 
 
-def lafon_specificity(T: int, t: int, F: int, f: int, tool_emulation: str = 'None') -> float:
+def lafon_specificity(
+    T: int, t: int, F: int, f: int, tool_emulation: str = "None"
+) -> float:
     """
     Compute Lafon specificity given corpus and subcorpus counts. Internally, it
     uses a symmetry in the hypergeometric formula for a quicker computation.
@@ -127,20 +129,24 @@ def lafon_specificity(T: int, t: int, F: int, f: int, tool_emulation: str = 'Non
     """
 
     if any((t < 0, T < 0, f < 0, F < 0)):
-        raise ValueError('Lafon specificity: found count < 0')
+        raise ValueError("Lafon specificity: found count < 0")
 
     if t > T:
-        if tool_emulation == 'itrameur': return 0.0
-        raise ValueError('token count greater than corpus size')
+        if tool_emulation == "itrameur":
+            return 0.0
+        raise ValueError("token count greater than corpus size")
     if f > t:
-        if tool_emulation == 'itrameur': return 0.0
-        raise ValueError('token count greater than subcorpus size')
+        if tool_emulation == "itrameur":
+            return 0.0
+        raise ValueError("token count greater than subcorpus size")
     if f > F:
-        if tool_emulation == 'itrameur': return 0.0
-        raise ValueError('token subcorpus count greater than token corpus count')
+        if tool_emulation == "itrameur":
+            return 0.0
+        raise ValueError("token subcorpus count greater than token corpus count")
     if t > T:
-        if tool_emulation == 'itrameur': return 0.0
-        raise ValueError('subcorpus bigger than corpus')
+        if tool_emulation == "itrameur":
+            return 0.0
+        raise ValueError("subcorpus bigger than corpus")
 
     # using a symmetry in hypergeometric distribution that is quicker to compute
     specif = log_hypergeometric(T, F, t, f) + __tool_delta.get(tool_emulation, 0.0)
@@ -153,22 +159,21 @@ def lafon_specificity(T: int, t: int, F: int, f: int, tool_emulation: str = 'Non
 
 def read_corpus(
     sources: list[str | Path],
-    target : str,
-    punctuations: str = 'ignore',
-    case_sensitivity: str = 'sensitive',
+    target: str,
+    punctuations: str = "ignore",
+    case_sensitivity: str = "sensitive",
     match: typing.Callable = str.__eq__,
 ) -> tuple[list, list, list]:
-
     tokens: list[str] = []
     sentences: list[tuple[int, int]] = []
     target_indices: list[int] = []
     start = 0
     end = 0
-    ignore_punctuations = punctuations == 'ignore'
-    do_fold = case_sensitivity in ('i', 'insensitive')
+    ignore_punctuations = punctuations == "ignore"
+    do_fold = case_sensitivity in ("i", "insensitive")
 
     for source in progress(sources):
-        with open(source, encoding='utf-8') as input_stream:
+        with open(source, encoding="utf-8") as input_stream:
             for line in input_stream:
                 line = line.strip()
                 if line:
@@ -193,13 +198,12 @@ def read_corpus(
 
 def get_counts(
     tokens: list[str],
-    sentences: list[tuple[int,int]],
+    sentences: list[tuple[int, int]],
     target_indices: list[int],
     context_length: int,
-    ignore_sentences : bool = False,
-    tool_emulation: str='None',
+    ignore_sentences: bool = False,
+    tool_emulation: str = "None",
 ):
-
     T = len(tokens)
     t = 0
     Fs = Counter(tokens)
@@ -226,7 +230,7 @@ def get_counts(
                     item
                     for item in range(
                         max(idx - context_length, start),
-                        min(idx + context_length + 1, end)
+                        min(idx + context_length + 1, end),
                     )
                     if item != idx
                 ]
@@ -237,14 +241,13 @@ def get_counts(
             lst = [
                 item
                 for item in range(
-                    max(idx - context_length, start),
-                    min(idx + context_length + 1, end)
+                    max(idx - context_length, start), min(idx + context_length + 1, end)
                 )
                 if item != idx
             ]
             fs_tmp.update(lst)
 
-    if tool_emulation == 'itrameur':
+    if tool_emulation == "itrameur":
         for idx, count in fs_tmp.most_common():
             fs[tokens[idx]] += count
     else:
@@ -257,18 +260,17 @@ def get_counts(
 def run(
     inputs: list[str | Path],
     target: str,
-    match_mode: str='exact',
+    match_mode: str = "exact",
     n_firsts: int = 1000,
-    punctuations: str = 'ignore',
-    case_sensitivity: str = 'sensitive',
+    punctuations: str = "ignore",
+    case_sensitivity: str = "sensitive",
     context_length: int = 10,
     min_frequency: int = 1,
     min_cofrequency: int = 1,
-    ignore_sentences : bool = False,
-    tool_emulation: str = 'None',
+    ignore_sentences: bool = False,
+    tool_emulation: str = "None",
 ) -> None:
-
-    if tool_emulation == 'itrameur':
+    if tool_emulation == "itrameur":
         given_punctuations = punctuations
         given_context_length = context_length
 
@@ -277,26 +279,28 @@ def run(
         # spaces). There cannot be two consecutive tokens. This is an optimistic
         # approximation because tokens may be separated by multiple delimiters.
         context_length = context_length // 2
-        punctuations = 'ignore'
+        punctuations = "ignore"
 
         if given_punctuations != punctuations:
             print(
                 f"WARNING: itrameur emulation => punctuations set to {punctuations}\n",
-                file=sys.stderr
+                file=sys.stderr,
             )
 
-    elif tool_emulation == 'TXM':
+    elif tool_emulation == "TXM":
         given_ignore_sentences = ignore_sentences
 
         ignore_sentences = True
         if given_ignore_sentences != ignore_sentences:
             print(
                 f"WARNING: TXM emulation => ignore_sentences set to {ignore_sentences}\n",
-                file=sys.stderr
+                file=sys.stderr,
             )
 
     if context_length < 1:
-        raise ValueError(f"Context length should be at least 1, but is {context_length}")
+        raise ValueError(
+            f"Context length should be at least 1, but is {context_length}"
+        )
 
     print("Reading...", file=sys.stderr)
 
@@ -305,48 +309,67 @@ def run(
     )
 
     T, t, Fs, fs = get_counts(
-        tokens, sentences, target_indices, context_length, ignore_sentences=ignore_sentences, tool_emulation=tool_emulation
+        tokens,
+        sentences,
+        target_indices,
+        context_length,
+        ignore_sentences=ignore_sentences,
+        tool_emulation=tool_emulation,
     )
 
     print("Computing specificities...", file=sys.stderr)
 
     filteredin = Counter()  # for more accurate log
     for token, count in fs.most_common():
-        if count < min_cofrequency: break
-        if Fs[token] < min_frequency: continue
+        if count < min_cofrequency:
+            break
+        if Fs[token] < min_frequency:
+            continue
         filteredin[token] = count
 
     data = []
     for token, count in progress(filteredin.most_common()):
-        data.append((
-            token,
-            Fs[token],
-            filteredin[token],
-            lafon_specificity(
-                T, t, Fs[token], filteredin[token], tool_emulation=tool_emulation
+        data.append(
+            (
+                token,
+                Fs[token],
+                filteredin[token],
+                lafon_specificity(
+                    T, t, Fs[token], filteredin[token], tool_emulation=tool_emulation
+                ),
             )
-        ))
+        )
 
     data.sort(key=lambda x: -x[-1])
 
     target_count = len(target_indices)  # works for both exact and regex match
     target_shapes = set(tokens[idx] for idx in target_indices)
-    shape_counts = sorted([[shape, Fs[shape]] for shape in target_shapes], key=lambda x: -x[1])
-    if match_mode == 'regex':
-        target = f'{match_mode}={target}'
+    shape_counts = sorted(
+        [[shape, Fs[shape]] for shape in target_shapes], key=lambda x: -x[1]
+    )
+    if match_mode == "regex":
+        target = f"{match_mode}={target}"
         shape_counts.insert(0, [target, target_count])
 
     print(file=sys.stderr)
-    print('target', 'frequency', sep='\t', file=sys.stderr)
+    print("target", "frequency", sep="\t", file=sys.stderr)
     for shape, count in shape_counts:
-        print(shape, count, sep='\t', file=sys.stderr)
+        print(shape, count, sep="\t", file=sys.stderr)
     print(file=sys.stderr)
 
-    print('token', 'corpus size', 'all contexts size', 'frequency', 'co-frequency', 'specificity', sep='\t')
+    print(
+        "token",
+        "corpus size",
+        "all contexts size",
+        "frequency",
+        "co-frequency",
+        "specificity",
+        sep="\t",
+    )
 
-    n_firsts = (n_firsts if n_firsts > 0 else len(data))
+    n_firsts = n_firsts if n_firsts > 0 else len(data)
     for token, tok_F, tok_f, tok_specif in data[:n_firsts]:
-        print(token, T, t, tok_F, tok_f, f'{tok_specif:.2f}', sep='\t')
+        print(token, T, t, tok_F, tok_f, f"{tok_specif:.2f}", sep="\t")
 
 
 def main(argv=None):
@@ -355,62 +378,76 @@ def main(argv=None):
     parser = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawTextHelpFormatter
     )
-    parser.add_argument('inputs', nargs='+', help='The parts of the corpus (list of files/folders)')
-    parser.add_argument('--target', required=True, help='The target item')
     parser.add_argument(
-        '--match-mode',
-        choices=('exact', 'regex'),
-        default='exact',
-        help='Exact match mode performs string comparison, regex mode performs a full match.'
+        "inputs", nargs="+", help="The parts of the corpus (list of files/folders)"
+    )
+    parser.add_argument("--target", required=True, help="The target item")
+    parser.add_argument(
+        "--match-mode",
+        choices=("exact", "regex"),
+        default="exact",
+        help="Exact match mode performs string comparison, regex mode performs a full match.",
     )
     parser.add_argument(
-        '-N',
-        '--n-firsts',
+        "-N",
+        "--n-firsts",
         type=int,
         default=1000,
-        help='Output n first elements in terms of rank in the global corpus (default: %(default)s)',
+        help="Output n first elements in terms of rank in the global corpus (default: %(default)s)",
     )
     parser.add_argument(
-        '-p',
-        '--punctuations',
-        choices=('ignore', 'acknowledge'),
-        default='ignore',
-        help='What to do with punctuations? (default: %(default)s)'
+        "-p",
+        "--punctuations",
+        choices=("ignore", "acknowledge"),
+        default="ignore",
+        help="What to do with punctuations? (default: %(default)s)",
     )
     parser.add_argument(
-        '-s',
-        '--case-sensitivity',
-        choices=('sensitive', 's', 'insensitive', 'i'),
-        default='sensitive',
-        help='Set case sensitivity (default: %(default)s)',
+        "-s",
+        "--case-sensitivity",
+        choices=("sensitive", "s", "insensitive", "i"),
+        default="sensitive",
+        help="Set case sensitivity (default: %(default)s)",
     )
     parser.add_argument(
-        '-l', '--context-length', type=int, default=10, help='left/right context (default: %(default)s)'
+        "-l",
+        "--context-length",
+        type=int,
+        default=10,
+        help="left/right context (default: %(default)s)",
     )
     parser.add_argument(
-        '-f', '--min-frequency', type=int, default=1, help='Minimal frequency of token to compute specificity (default: %(default)s)'
+        "-f",
+        "--min-frequency",
+        type=int,
+        default=1,
+        help="Minimal frequency of token to compute specificity (default: %(default)s)",
     )
     parser.add_argument(
-        '-c', '--min-cofrequency', type=int, default=0, help='Minimal co-frequency of token to compute specificity (default: %(default)s)'
+        "-c",
+        "--min-cofrequency",
+        type=int,
+        default=0,
+        help="Minimal co-frequency of token to compute specificity (default: %(default)s)",
     )
     parser.add_argument(
-        '-t',
-        '--tool-emulation',
-        choices=('None', 'itrameur', 'TXM'),
-        default='None',
-        help='Try to emulate the results of the given tool (default: %(default)s)',
+        "-t",
+        "--tool-emulation",
+        choices=("None", "itrameur", "TXM"),
+        default="None",
+        help="Try to emulate the results of the given tool (default: %(default)s)",
     )
     parser.add_argument(
-        '-i',
-        '--ignore-sentences',
-        action='store_true',
-        help='Ignore sentence bounds when counting cooccurrents.',
+        "-i",
+        "--ignore-sentences",
+        action="store_true",
+        help="Ignore sentence bounds when counting cooccurrents.",
     )
 
     args = parser.parse_args(argv)
     run(**vars(args))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
     sys.exit(0)
