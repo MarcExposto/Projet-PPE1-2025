@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 if [[ -z "$1" ]]; then
-  echo "Veuillez entrer le chemin vers le dossier des dumps en premier argument."
+  echo "Veuillez entrer le chemin vers le fichier contenant le dump en premier argument."
   exit
 else
-  CheminDossierDumps=$1
+  CheminFichierDump=$1
 fi
 
 #if [[ -z "$2" ]]; then
@@ -14,4 +14,4 @@ fi
 #  Langue=$2
 #fi
 
-cat "${CheminDossierDumps}"/* | egrep -o "(\w+ ?)+[.?\!]" | tr "[.?\!]" "\n" | tr " " "\n"
+awk -f ./awk/supprime_retours_ligne.awk $CheminFichierDump | awk -f ./awk/tokeniseur_de_phrases.awk | awk -f ./awk/tokeniseur_de_mots.awk

@@ -1,0 +1,808 @@
+   HTTP/1.1 200 OK Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+   X-Content-Type-Options: nosniff X-Powered-By: PHP/5.4.16
+   X-Drupal-Cache: HIT Etag: "1766434486-0" Content-Language: fr
+   X-Frame-Options: SAMEORIGIN X-Content-Type-Options: nosniff Link:
+   /www.pasteur.fr/sites/default/files/styles/socialnetwork/public/rubriqu
+   e_espace_presse/institutpasteur_59255.jpg>;
+   rel="image_src",/www.pasteur.fr/fr/journal-recherche/actualites/covid-1
+   9-chronique-emergence-annoncee-sortie-confinement-ou-somme-tous-dangers
+   >; rel="canonical",/www.pasteur.fr/fr/node/13293>; rel="shortlink"
+   Cache-Control: public, max-age=180 Last-Modified: Mon, 22 Dec 2025
+   20:14:46 GMT Vary: Cookie,Accept-Encoding Content-Type: text/html;
+   charset=utf-8 Strict-Transport-Security: max-age=15768000;
+   includeSubDomains Accept-Ranges: bytes Connection: Keep-Alive Date:
+   Mon, 22 Dec 2025 21:05:53 GMT Expires: Mon, 22 Dec 2025 21:07:29 GMT
+   Age: 85 Content-Length: 133433
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KJSH3X
+
+   (BUTTON) Fermer
+     * EN
+     * FR
+
+   Accueil
+   Saisissez vos mots-clés________________
+   Rechercher
+     * L'Institut Pasteur
+          + À propos
+          + Nos engagements
+          + Gouvernance
+          + Partenariats académiques
+          + Notre histoire
+          + Musée
+     * Nos missions
+          + Recherche
+          + Santé
+          + Enseignement
+          + Innovation et transfert de technologie
+     * Nous soutenir
+          + Comment nous soutenir ?
+          + Pourquoi nous soutenir ?
+          + Pasteur et vous
+          + Covid-19 : merci pour votre soutien !
+          + FAQ
+          + Espace Donateur
+     * Centre médical
+          + Infos pratiques
+          + Consultations
+          + Vaccination
+          + Préparer votre voyage
+          + Fiches maladies
+          + FAQ santé
+     * Le journal de la recherche
+     * Espace presse
+          + Documents de presse
+          + Ressources pour la presse
+     * Tout sur SARS-CoV-2 / Covid-19 à l'Institut Pasteur
+
+     * Accueil
+          + L'Institut Pasteur
+          + Nos missions
+          + Nous soutenir
+          + Centre médical
+          + Le journal de la recherche
+          + Espace presse
+          + Tout sur SARS-CoV-2 / Covid-19 à l'Institut Pasteur
+     * Recherche
+     * Enseignement
+          + Centre d'enseignement
+          + Programmes et cours
+          + Hébergements
+          + Toute l'actualité
+     * Santé publique
+          + Tous les CNR
+          + Missions et organisation des CNR
+          + CCOMS
+          + CIBU
+          + Centre de Ressources Biologiques
+          + CCOMSA
+          + EURL
+     * International
+          + Coopérations
+          + Programmes internationaux
+          + Appels à propositions
+          + Bourses et mobilité
+          + Pasteur Network
+          + Actualités
+     * Innovation
+          + Qui sommes-nous ?
+          + Partenariats industriels
+          + Partenariats avec des investisseurs
+          + Label Carnot
+          + Toute l'actualité
+     * Carrières
+          + Pourquoi nous rejoindre
+          + Nos offres d'emploi
+          + Votre arrivée
+          + Le campus
+          + Pasteuriens et Alumni
+     * CeRIS
+          + Archives
+          + Bibliothèque
+          + PaJ@Mo
+          + Photothèque
+
+     * Suivre l'Institut Pasteur sur LinkedIn
+     * Suivre l'Institut Pasteur sur Bluesky
+     * Suivre l'Institut Pasteur sur Facebook
+     * Suivre l'Institut Pasteur sur Instagram
+     * Suivre l'Institut Pasteur sur Youtube
+
+     * Accueil
+     * Recherche
+     * Enseignement
+     * Santé publique
+     * International
+     * Innovation
+     * Carrières
+     * CeRIS
+
+     * EN
+     * FR
+
+   (BUTTON)
+     * Faites un don
+
+   (BUTTON) Menu
+   Accueil
+     * L'Institut Pasteur
+     * Nos missions
+     * Nous soutenir
+     * Centre médical
+     * Le journal de la recherche
+     * Espace presse
+     * Tout sur SARS-CoV-2 / Covid-19 à l'Institut Pasteur
+
+   Saisissez vos mots-clés________________
+   Rechercher
+   Vous êtes ici
+   AccueilLe journal de la rechercheActualitésCovid-19 : chronique d’une
+   émergence annoncée / sortie de confinement
+   Le journal de la recherche
+   Toutes les actualités
+   (BUTTON) Imprimer |
+   Partager
+   LinkedIn logo Facebook logo
+
+Covid-19 : chronique d’une émergence annoncée / sortie de confinement, ou la
+somme de tous les dangers
+
+   Philippe Sansonetti, professeur au Collège de France et professeur
+   émérite à l'Institut Pasteur
+   Actualité
+   14.04.2020
+   (BUTTON) Imprimer |
+   Partager
+   LinkedIn logo Facebook logo
+   Institutionnel
+
+   Expliquant les raisons du confinement par l’insuffisance de la seule
+   distanciation sociale, Philippe Sansonetti, professeur au Collège de
+   France et professeur émérite à l'Institut Pasteur, pose les conditions
+   nécessaires pour un futur déconfinement – qui ne mettra pas fin aux
+   mesures de distanciation.
+
+     __________________________________________________________________
+
+   Philippe Sansonetti - Institut Pasteur
+   Ce texte a été écrit par Philippe Sansonetti et publié sur le site de
+   La Vie des Idées, coopérative intellectuelle, lieu de débat et atelier
+   du savoir, rattachée à l’Institut du Monde Contemporain (Collège de
+   France). Cette prise de parole consacrée à la sortie de confinement est
+   le chapitre 2 d'un essai "Covid-19 : chronique d’une émergence
+   annoncée".
+     __________________________________________________________________
+
+
+   La stratégie initiale « d’écrasement du pic » (lire le chapitre 1 de la
+   prise de parole de Philippe Sansonetti, "Covid-19 : chronique d’une
+   émergence annoncée, les visages de la pandémie", sur le site de La Vie
+   des Idées) afin d’étaler la période de progression de l’épidémie de
+   Covid-19 et préserver les systèmes de santé, a initialement reposé sur
+   la mise en place d’une distanciation sociale. Fondée sur le respect des
+   gestes barrières (distances, pas d’embrassade ni de serrage de main) et
+   sur une hygiène stricte préconisant essentiellement le lavage fréquent
+   des mains, elle s’est avérée insuffisante.
+
+"On croit difficilement aux fléaux lorsqu’ils vous tombent sur la tête."
+– Albert Camus, La peste
+
+   Deux marqueurs en témoignaient dès la seconde semaine de mars :
+   l’augmentation exponentielle des cas de Covid-19 hospitalisés et la
+   menace de saturation rapide des capacités de réanimation. On avait vu
+   le drame italien les deux semaines précédentes et tous les éléments
+   étaient réunis pour que ce scénario « à l’italienne » se reproduise en
+   France. Se présentaient alors deux solutions : le pari sur l’immunité
+   de groupe ; la distanciation sociale.
+
+Les deux méthodes pour endiguer une épidémie
+
+   1/ La première méthode consiste à ne rien changer, comme on l’a
+   envisagé en Hollande et initialement au Royaume-Uni, et attendre que la
+   prévalence de l’infection dans la population génère un pourcentage
+   assez élevé d’individus immunisé pour constituer une immunité de groupe
+   empêchant le virus de circuler faute de trouver assez de cibles
+   immunologiquement naïves. Le taux de reproduction de base (R0) de
+   Covid-19 étant de 2,5, le pourcentage de population infectée nécessaire
+   pour obtenir cette immunité de groupe et ramener le R0 au-dessous du
+   seuil épidémique (R0<1) se calcule à partir de l’équation : %
+   population infectée nécessaire = 1-1/R0, soit 60 %. Sous réserve bien
+   sûr que la maladie génère dans tous les cas une solide immunité
+   protectrice, ce qui n’est pas encore formellement démontré pour ce
+   virus très performant pour neutraliser les réponses immunitaires
+   cellulaires indispensables à son éradication totale chez les patients
+   infectés.
+
+   Lire le flash presse de l'Institut Pasteur : qu'est-ce que l'immunité
+   collective ?
+
+   Cette option n’était pas tenable compte tenu du nombre de malades
+   graves qu’allait générer l’épidémie déjà en croissance exponentielle
+   dans un espace de temps très court. Il s’avérait en parallèle que le
+   virus était très contagieux, en particulier du fait de son excrétion
+   importante par de très nombreux sujets porteurs asymptomatiques,
+   pauci-symptomatiques, ou en tout début de maladie. Clairement le nombre
+   réel de sujets infectés était déjà à ce moment très supérieur au nombre
+   de cas biologiquement confirmés correspondant quasi exclusivement aux
+   malades hospitalisés. En un mot, on était aveugle, faute de données
+   épidémiologiques même approximatives du réel taux d’attaque de la
+   maladie. L’histoire des épidémies nous apprend à quel point la capacité
+   d’identifier exhaustivement les patients, y compris les porteurs sains,
+   est importante pour engager un contrôle efficace de la diffusion du
+   pathogène.
+
+   Lire le communiqué de presse de l'Institut Pasteur : "Covid-19 :  une
+   modélisation indique que près de 6% des Français ont été infectés"
+
+"Cette option [l’immunité de groupe] n’était pas tenable compte tenu du
+nombre de malades graves qu’allait générer l’épidémie déjà en croissance
+exponentielle dans un espace de temps très court."
+
+   Au tournant du XIX^e et du XX^e siècle, l’Europe et les États-Unis
+   furent régulièrement frappés d’épidémies de fièvre typhoïde qui, en
+   milieu urbain, pouvaient prendre une ampleur dramatique. Robert Koch
+   identifia très vite que l’origine, souvent mystérieuse, de ces
+   épidémies, était l’existence de porteurs chroniques asymptomatiques du
+   bacille typhique excrétant le pathogène dans leurs selles et
+   contaminant leur environnement. Un cas caricatural fut la fameuse
+   « Typhoid Mary » à New York qui, comme cuisinière de restaurant,
+   contamina des centaines d’individus de manière itérative, car elle
+   refusait obstinément de changer de métier. Ceci amena les autorités �
+   la jeter en prison… Robert Koch et ses élèves établirent, dès le début
+   des épidémies de fièvre typhoïde, une approche de diagnostic à grande
+   échelle, y compris de dépistage des porteurs asymptomatiques, avec mise
+   en quarantaine de tout sujet présentant une coproculture positive.
+   Cette approche était si bien rodée et efficace, au prix d’un travail
+   intensif d’agents sanitaires et de laboratoires de diagnostic, qu’avant
+   sa mort en 1911, Robert Koch doutait ouvertement de la nécessité de
+   vacciner contre cette maladie…
+
+   100 ans plus tard, sans capacité de diagnostic suffisante, donc sans
+   capacité d’identifier les contaminateurs, particulièrement les porteurs
+   asymptomatiques, nous avons été réduit à une extrapolation du nombre de
+   cas et de porteurs. Prenant une base minimale de 10 fois le nombre
+   d’hospitalisations, on pouvait facilement conclure qu’avec 10% de
+   formes graves, les capacités hospitalières seraient submergées en
+   quelques jours. Il y avait un précédent : lors de la pandémie de grippe
+   asiatique de 1957, au Royaume Uni, le National Health Service débordé
+   avait sombré pendant 10 jours devant la marée de patients sévèrement
+   atteints et l’amputation massive de ses effectifs de personnels
+   eux-mêmes malades. Qui a dit que l’histoire ne se reproduisait jamais �
+   l’identique ? Plus près de nous, en 2002-2003, l’épidémie de SRAS a
+   montré à quel point le personnel médical était exposé et infecté. À
+   Hong Kong, le « patient 0 » était d’ailleurs un professeur de médecine
+   de Canton confronté aux premiers patients dans sa ville, berceau de
+   l’épidémie. Même scénario à Toronto, l’autre foyer secondaire majeur.
+   Pire, le personnel médical contaminé devenait lui-même source de
+   contamination. Un comble… Une leçon aurait dû être tirée de ces
+   épisodes dramatiques (et de bien d’autres) : la première cible d’une
+   épidémie de cette nature est le personnel médical, d’où la nécessité de
+   maintenir des stocks suffisants de matériel adapté à la protection
+   contre le risque microbiologique.
+
+   2/ La situation dans le Grand-Est où s’était créé un foyer très
+   virulent « à l’italienne » a confirmé rapidement la crainte d’un
+   dépassement irréversible du personnel de santé et de ses moyens
+   thérapeutiques. Cela a conduit dès la mi-mars à la deuxième solution :
+   le renforcement de la distanciation sociale en introduisant une vraie
+   dimension suppressive avec la fermeture des écoles, des lieux publics
+   et commerces « non essentiels » et, dans les jours qui ont suivi, au
+   confinement de l’ensemble de la population, en toute conscience du
+   risque économique et social de cette décision. L’observation de petits
+   signes de ralentissement de la dynamique de l’épidémie ne survenant
+   qu’après quatre semaines de confinement laisse à penser ce qu’aurait
+   été l’ampleur de la catastrophe si l’on était resté aux mesures de
+   distanciation sociale telles qu’initialement appliquées. Dans cette
+   période incertaine, la tenue héroïque du front par les personnels
+   soignants, eux-mêmes maintenant principales victimes de l’infection,
+   méritera d’être inscrite dans nos livres d’histoire.
+
+La distanciation devra continuer après le déconfinement
+
+   Il est dès maintenant essentiel d’analyser les causes possibles de
+   l’échec de la distanciation sociale qui a amené au confinement dans
+   notre pays, mais aussi en Italie, en Espagne et au Royaume Uni, ces
+   quatre pays supportant actuellement l’essentiel du poids de la maladie
+   en Europe, et de s’interroger sur la faible mortalité observée en
+   Allemagne qui avait appliqué une approche similaire. En effet, la
+   sortie de confinement ne pourra se concevoir autrement que par la
+   reprise de la distanciation sociale au moment où les conditions seront
+   réunies et en engageant tous les moyens de sa réussite.
+
+   Si la Chine a opté en une étape pour une approche de confinement total,
+   rigoureusement exécuté par un appareil étatico-politique qui en a les
+   moyens, d’autres pays asiatiques comme Singapour, Taïwan et la Corée du
+   Sud ont réussi à ce stade une politique de contrôle de l’épidémie par
+   la mise en place précoce de la distanciation sociale, bien suivie par
+   des populations plusieurs fois traumatisées par ces événements
+   infectieux émergents. Cette approche est marquée par des mesures
+   d’hygiène individuelle intensive comprenant l’usage de masques dans la
+   population générale, une large utilisation de tests diagnostiques
+   visant à identifier et isoler les malades et les porteurs du virus,
+   combinée à des enquêtes exploitant les progrès de l’intelligence
+   artificielle pour détecter les sujets contact et les mettre en
+   quatorzaine. Les sujets à risque étaient confinés, en particulier les
+   personnes âgées. La Corée a ainsi réussi à contrôler l’épidémie, alors
+   qu’elle subissait un foyer très virulent dans le sud de la péninsule,
+   qui menaçait sérieusement l’ensemble du pays. Ces pays ne sont bien sûr
+   pas à l’abri de rebonds car ils n’ont vraisemblablement pas, du fait de
+   ce succès précoce, atteint la prévalence d’infections nécessaire pour
+   développer une immunité de groupe. Singapour, considéré comme un des
+   « bons élèves », après un semblant de contrôle initial, a vu ces
+   derniers jours s’envoler le nombre de cas, y compris de décès et a
+   décidé pour le 7 avril un confinement total de sa population. C’est
+   quoi qu’il arrive très inquiétant et les échanges que j’ai avec mes
+   collègues chinois qui ne pratiquent pas la langue de bois traduisent
+   aussi une profonde crainte d’un rebond après s’être réjouis des
+   premiers succès impressionnants dans le contrôle du Covid-19.
+
+   Lire le flash presse de l'Institut Pasteur sur les tests pour le
+   diagnostic des infections par le SARS-CoV-2
+
+"Singapour, considéré comme un des « bons élèves », après un semblant de
+contrôle initial, a vu ces derniers jours s’envoler le nombre de cas, y
+compris de décès et a décidé pour le 7 avril un confinement total de sa
+population."
+
+   Il est clair que les « Tigres Asiatiques » ont voulu préserver en
+   priorité l’outil économique et ont adopté des stratégies en ce sens.
+   Tout tiendra à leur durabilité. Rien n’est manifestement définitivement
+   scellé à ce stade… Des pans entiers de ce que Charles Nicolle appelait
+   « le génie évolutif des maladies infectieuses » nous échappent encore.
+   Peut-être le prix humain que nous payons pour cette épidémie sera-t-il
+   payé en retour d’un niveau d’immunité de groupe, certes insuffisant,
+   mais qui, joint à des mesures de distanciation sociale rigoureuses,
+   permettra de bloquer efficacement la circulation du virus.
+
+"Des pans entiers de ce que Charles Nicolle appelait « le génie évolutif des
+maladies infectieuses » nous échappent encore."
+
+   De l’analyse objective de l’échec de la distanciation sociale en entrée
+   de crise et de l’accumulation rapide de données sur la maladie et le
+   virus causal ces dernières semaines, peut émerger un schéma pour sortir
+   de la crise, gardant toujours à l’esprit que rien ne ressemblera à un
+   retour total à la normale tant que nous ne disposerons pas d’un vaccin.
+   On peut plus précocement espérer qu’une combinaison de molécules
+   antivirales repositionnées permettra de traiter les formes graves et de
+   diminuer la charge virale des patients, donc de ralentir la circulation
+   du virus, sans risquer la sélection de résistance que comporterait la
+   monothérapie. Ceci pourrait faciliter un passage plus rapide sous le
+   seuil épidémique. Sur le long terme, les médicaments ne remplaceront
+   cependant pas un vaccin efficace, comme on le voit pour le SIDA, en
+   particulier dans les pays à bas revenus où les coûts des molécules et
+   la nécessité d’une administration prolongée ont un poids logistique et
+   financier difficile à tenir.
+
+   Il est essentiel d’expliquer dès maintenant ces perspectives à nos
+   concitoyens. Il faut les aider à comprendre que cette situation
+   d’exception va durer. La fin du confinement ne sonnera pas la fin de
+   l’épidémie ! L’épidémie sera toujours présente, moins virulente,
+   certes, que la vague que nous sommes en train de subir, mais ne
+   demandant qu’à rebondir. Non seulement le déconfinement devra être
+   progressif comme déjà annoncé, par zones, sur des critères qu’il
+   conviendra de définir rapidement, mais il devra s’accompagner du
+   maintien des mesures de distanciation sociale, adaptées, améliorées…
+   intelligentes, sur lesquelles nous allons revenir. Notre pays, son
+   économie, son personnel médical, ses forces vives ne tiendront pas
+   contre un ou plusieurs rebonds qui nécessiteraient une reprise de
+   mesures de confinement « en accordéon ». C’est inimaginable, nous
+   devons réussir notre déconfinement et n’avons que peu de temps pour le
+   préparer. Son succès sera facteur de confiance de nos concitoyens dans
+   les autorités politiques et sanitaires, mais aussi pour les grands
+   organismes bancaires, qui prêtent encore à taux zéro à l’État Français
+   pour aider à la reconstruction rapide de notre économie. Ils perdront
+   vite patience, si nous ne montrons pas une discipline et une
+   intelligence collective exemplaires. Une fois encore, notre destin est
+   entre nos mains…
+
+Les raisons de l’échec de la stratégie initiale
+
+   Réfléchissons aux raisons possibles de l’échec de la stratégie initiale
+   de distanciation sociale en France, puisque son efficacité sera la clé
+   du succès de notre sortie de confinement.
+
+   1 – Nos concitoyens ne se sont clairement pas sentis assez tôt
+   concernés par le risque épidémique en dépit des images en provenance de
+   Chine, puis d’Italie. Ce fut en particulier le cas des adultes jeunes
+   qui, devant l’idée initialement entretenue que n’était touchée que la
+   population des plus de 65 ans, se sont moins motivés pour une stricte
+   prévention. La « pandémie du siècle » annoncée en 2009 lors de
+   l’émergence d’une souche de virus grippal A-H1N1 avait donné lieu à une
+   mobilisation générale précoce, sans précédent, des services sanitaires
+   nationaux et internationaux. Elle avait finalement déjoué les
+   prévisions en s’avérant relativement bénigne, créant ainsi un
+   référentiel négatif démobilisant les esprits et entamant la confiance
+   dans les autorités scientifiques, médicales et politiques qui après
+   tout avaient – certes au prix de quelques maladresses – rempli leur
+   rôle.
+
+   2 – Nous avons manqué de moyens de diagnostic à la hauteur de l’ampleur
+   et de la rapidité de progression de l’épidémie : nombre insuffisant de
+   tests moléculaires (q-RT-PCR) disponibles, complexité initiale des
+   prélèvements et de la réalisation technique de ces tests. Par manque de
+   capacité, nous n’avons pu développer une approche proactive de
+   diagnostic élargi, particulièrement dans les zones les plus touchées,
+   au moment clé où l’épidémie s’accélérait. Aveugles sur le nombre, même
+   approximatif, des cas réels, nous n’avons pu procéder à un large
+   isolement de sujets contagieux et à une mise en « quatorzaine » de
+   leurs contacts directs, voire à un confinement plus précoce. Ce qui a
+   laissé se développer la transmission exponentielle d’un virus dont le
+   R0 est supérieur à celui de la grippe saisonnière.
+
+   Les pays qui ont largement pratiqué ces tests, comme la Corée, Taiwan,
+   Singapour et même l’Allemagne présentent à ce jour un bilan plus
+   favorable, particulièrement en nombre absolu de décès. Certes il y a
+   toujours loin de la corrélation à la causalité et beaucoup de facteurs
+   confondants possibles, mais rappelons-nous l’exemple de Robert Koch et
+   du contrôle des épidémies de fièvre typhoïde par le dépistage
+   systématique des porteurs asymptomatiques.
+
+   3 – Les mesures d’hygiène individuelles ont été insuffisantes, ce
+   qu’illustre la non-disponibilité de masques. Face à cette pénurie, la
+   communication visant à convaincre la population que ces masques, en
+   nombre cruellement insuffisant, devaient être parcimonieusement
+   utilisés et réservés aux personnels de santé était logique et louable.
+   Mais devant la circulation active du virus et la connaissance de sa
+   transmission par gouttelettes et aérosols, pourquoi avoir discrédité
+   l’usage des masques dans la population générale et affirmé avec
+   assurance qu’ils étaient inutiles ou que les experts étaient à ce sujet
+   divisés ? Nos collègues asiatiques n’en sont toujours pas revenus.
+   Pourquoi au contraire ne pas avoir invité la population à fabriquer,
+   même imparfaits, des masques personnels ? Les sites officiels auraient
+   même pu s’emparer du sujet et donner des consignes et des modus
+   operandi. Sans doute ces masques artisanaux sont-ils imparfaits, mais
+   le mouvement aurait aussi contribué à responsabiliser plus encore nos
+   concitoyens sous réserve de leur expliquer clairement que le masque
+   était complémentaire et non exclusif des autres mesures d’hygiène. Dans
+   une épidémie tout est bon pour ralentir la circulation du pathogène,
+   réduire l’excrétion et la contamination, même si les dispositifs
+   utilisés ne protègent pas à 99%... C’est l’addition des mesures qui va
+   ramener la circulation du virus sous le seuil épidémique.
+
+Les conditions pour prononcer le déconfinement
+
+   Quand faudra-t-il sortir du confinement ? Le plus tôt serait bien sûr
+   le mieux, la santé mentale de notre population et les chances de
+   relance de notre économie en dépendent. Impossible d’attendre
+   médicaments et vaccin. Mais ne confondons pas vitesse et précipitation.
+
+   Deux conditions doivent absolument être réunies, elles sont affaire de
+   bon sens, plus même que de science :
+
+   Sommes-nous clairement sortis du pic épidémique ? Non ! Même si l’on
+   observe aujourd’hui quelques signaux que l’on aimerait considérer comme
+   positifs, comme la stabilisation du nombre de nouveaux patients
+   hospitalisés et de ceux nécessitant la réanimation, la situation reste
+   incertaine, car la tension sur les personnels de santé et les moyens
+   hospitaliers demeure extrême, en dépit de quatre semaines de
+   confinement, alors que se fait sentir un véritable relâchement dans
+   l’adhésion de certains.
+
+   Réunissons-nous à ce jour les éléments permettant de donner à la
+   stratégie de déconfinement des chances maximales de succès ? Non ! Et
+   il y a encore beaucoup à faire, alors que le temps nous est compté.
+
+   Il faut dire clairement à nos concitoyens que la date de déconfinement
+   ne se décidera pas comme celle des vacances scolaires. Elle se décidera
+   sur des critères objectifs, sur des données montrant clairement l’état,
+   région par région, du statut de l’épidémie, donc sur la disponibilité
+   des outils de diagnostic moléculaire et sérologique nécessaires à ces
+   enquêtes. Elle se décidera aussi sur la disponibilité des outils de
+   protection individuelle de la population « libérée » contre la
+   circulation persistante du virus. Tout ceci peut certes être modélisé,
+   avec des scénarios optimistes et pessimistes, mais il faut avoir le
+   courage de dire à nos concitoyens qu’aussi brillants que soient nos
+   modélisateurs, aussi importante que soit l’intégration des
+   mathématiques sous forme d’algorithmes performants et sophistiqués, il
+   persiste des zones d’ombre dans la biologie de l’interaction entre le
+   SARS-CoV-2 et l’homme, qui rendent difficile les prédictions. On l’a vu
+   dans la période précédant le confinement. Voici quelques questions
+   essentielles non encore résolues, même si avec le temps – mais en
+   avons-nous ? – quelques points tendent à s’éclaircir.
+
+"Il faut dire clairement à nos concitoyens que la date de déconfinement ne se
+décidera pas comme celle des vacances scolaires. Elle se décidera sur des
+critères objectifs, sur des données montrant clairement l’état, région par
+région, du statut de l’épidémie, donc sur la disponibilité des outils de
+diagnostic moléculaire et sérologique nécessaires à ces enquêtes."
+
+   S’il devient clair que les sujets infectés émettent une charge virale
+   importants, dès le début de leur maladie, à un stade asymptomatique ou
+   pauci-symptomatique auquel beaucoup vont demeurer, les données sur la
+   durée d’excrétion virale après guérison clinique sont rares et pour
+   celles qui existent, ne sont guère rassurantes. Les sujets guéris
+   sont-ils protégés naturellement contre l’infection, qu’ils aient ou non
+   développé ces fameux anticorps spécifiques neutralisants dont on espère
+   tant ? A fortiori, les sujets demeurés asymptomatiques ou
+   pauci-symptomatiques sont-ils protégés et pour combien de temps ? En
+   effet le virus sera demeuré dans ce cas circonscrit à la muqueuse
+   rhinopharyngée, ce qui peut donner lieu à une immunité locale, mais de
+   quelle durée ? De quelle efficacité protectrice ? De quelle capacité �
+   faire transition vers une immunité systémique globalement efficace ? En
+   un mot, l’immunité de groupe offerte par beaucoup de maladies
+   infectieuses et par les vaccins répondra-t-elle aux équations
+   habituelles ? La connaissance de ces éléments serait importante pour se
+   projeter dans l’avenir et éviter le « pilotage à vue ». Ce virus est
+   retors et nécessite donc aussi d’encourager et de financer une
+   recherche clinique et fondamentale de haut niveau, visant à éclairer
+   des zones obscures et néanmoins essentielles de cette maladie.
+
+   Tentons finalement de résumer les conditions dans lesquelles un
+   déconfinement pourrait se faire dans des conditions évitant au maximum
+   un rebond local ou général de l’épidémie.
+
+   1 - Il pourra être envisagé sur une base régionale à condition que les
+   données épidémiologiques disponibles indiquent que la vague épidémique
+   est bien passée lorsque des foyers très actifs y ont été observés
+   (Grand-Est, Île-de-France…), ou que le taux d’attaque n’augmente pas
+   sur plusieurs semaines dans les régions relativement préservées. Ces
+   évaluations s’appuieront bien sûr sur les données remontant des
+   hôpitaux et des médecins de ville, confirmant une nette baisse de
+   tension sur le système de santé. Elles devraient aussi pouvoir
+   rapidement s’appuyer sur l’organisation d’études sérologiques très
+   larges, méthodologiquement indiscutables, visant à évaluer, via la
+   présence d’anticorps spécifiques, le taux d’attaque global,
+   c’est-à-dire le pourcentage de la population ayant été infectée par le
+   SARS-CoV-2.
+
+   Lire le communiqué de presse de l'Institut Pasteur : "Covid-19 :  une
+   modélisation indique que près de 6% des Français ont été infectés"
+
+   Par ailleurs, il semble difficile de ne pas aussi s’appuyer sur
+   l’impact épidémiologique complémentaire procuré par une large pratique
+   de tests de diagnostic moléculaire par q-RT-PCR, utilisés pour
+   identifier les cas cliniques, nous y reviendrons.
+
+   Il conviendra aussi de sérieusement s’interroger sur les conséquences
+   d’un déconfinement total si y sont mêlées les populations présentant un
+   haut risque de développer des formes graves comme les sujets au-dessus
+   de 65 ans, les sujets immunodéprimés et les sujets diabétiques et en
+   surpoids important. Il n’y a pas de tabous lorsqu’il s’agit de
+   préserver la vie de nos concitoyens.
+
+   2 - Une fois décidée, la sortie de confinement doit s’accompagner d’un
+   dépistage moléculaire de la présence du virus aussi large que possible
+   chez les sujets symptomatiques, pauci-symptomatiques ou
+   asymptomatiques, pas seulement dans le secteur hospitalier et les
+   EHPAD, dans la population générale avec un effort particulier sur des
+   populations, professions et zones à risque de manière à isoler les
+   sujets positifs dans des conditions qui restent à déterminer et
+   organiser, car le problème sera humainement et logistiquement très
+   complexe, aussi complexe d’ailleurs que la mise en place de la
+   réalisation de ces tests à grande échelle : conditionsde prélèvement en
+   masse, transport des échantillons, réalisation technique, retour de
+   l’information et exécution de la décision d’isolement.
+
+   À cette approche sera naturellement associée la recherche des contacts
+   de ces patients infectés. Le fameux « contact tracing » qui fait déj�
+   l’objet d’un débat sociétal compréhensible, car on y voit d’emblée un
+   pas supplémentaire dans l’atteinte de nos libertés individuelles, déj�
+   passablement entamées par les lois antiterroristes. Il faut au plus
+   vite aborder ce débat et clairement exposer les extraordinaires appuis
+   à la détection et à la mise en « quatorzaine » des sujets en contacts
+   étroits et/ou renouvelés avec les sujets dépistés positifs.
+   Intelligence artificielle, « machine learning », « big data », tout
+   cela peut se conjuguer avec les méthodes plus classiques pour assurer
+   ce quadrillage épidémiologique indispensable pour éviter les rebonds
+   après déconfinement. Il est clair que ce paradigme inédit, s’il est
+   choisi, doit s’accompagner d’un encadrement légal et éthique
+   incontournable, et doit être organisé et piloté pour sa logistique
+   complexe et l’intégration de ses dimensions méthodologiques
+   multidisciplinaires par des personnalités de haute valeur morale et
+   scientifique. Il doit aussi être accompagné par les citoyens, et non
+   imposé, grâce à une pédagogie transparente et à l’incitation à leur
+   participation active. Le confinement, le « restez chez vous ! » pour
+   sauver des vies et ménager nos personnels de santé est vital, mais crée
+   une situation socialement paradoxale où les seuls horizons du citoyen
+   deviennent l’hôpital, la queue dans les supermarchés ou la police
+   contrôlant les autorisations dérogatoires... Nos concitoyens doivent
+   pouvoir sortir de cette perspective étroite et dès maintenant se
+   préparer à jouer un rôle actif lorsque le confinement sera levé. Cette
+   « troisième ligne » devrait dès maintenant être mobilisée en
+   préparation de la phase de déconfinement où des citoyens volontaires et
+   formés pourraient prendre dans les immeubles, dans les quartiers, dans
+   les zones pavillonnaires, dans les transports, des responsabilités
+   organisationnelles du déconfinement que l’on ne pourra pas faire porter
+   uniquement aux représentants de l’autorité sanitaire et de la police.
+   Et si Covid-19 nous aidait à retrouver les fondements de notre
+   démocratie et de notre esprit républicain ? Charles Nicolle écrivait
+   que « les maladies infectieuses apprennent aux hommes qu’ils sont
+   frères et solidaires ». Après la « réserve sanitaire » au sens le plus
+   large qui a fait merveille, il faut une place pour la « réserve
+   citoyenne ». N’oublions cependant pas une autre réserve, la « réserve
+   scientifique ». Hors la minorité travaillant dans nos centres de
+   recherche sur Covid-19, des centaines, des milliers de scientifiques
+   capables de concevoir, d’innover, de réaliser des tests sophistiqués
+   « piaffent » de ne pouvoir participer au combat. Ils/elles sont souvent
+   inscrits sur des listes de volontaires et ont montré quand nécessaire
+   une générosité exceptionnelle. Certains/certaines, bravant le danger,
+   avait mis leurs projets de recherche, leur travail de thèse, entre
+   parenthèse pour partir en Guinée en 2015 comme volontaires pour
+   soutenir le laboratoire de diagnostic que l’Institut Pasteur avait
+   monté sur la ligne de front de l’épidémie d’Ebola. Sur le front italien
+   du Covid-19, plusieurs de nos collègues ont très tôt reconverti leurs
+   laboratoires en centres de diagnostic. Il faut trouver une place aux
+   scientifiques dans le dispositif. Si « nous sommes en guerre », alors
+   « faisons la guerre », oublions un peu les barrières administratives,
+   les régulations et autres certifications, engageons la « réserve
+   scientifique ».
+
+   3 - Une fois décidée, la sortie de confinement devra s’accompagner d’un
+   maintien rigoureux des mesures de distanciation sociale et d’hygiène
+   individuelle et collective, incluant le port de masques,
+   « professionnels » selon disponibilité ou « artisanaux ». Impossible de
+   déconfiner tant que les pharmacies seront en rupture chronique de
+   stocks de masques et de gels hydro-alcooliques. Comme proposé, la
+   « réserve citoyenne » pourrait jouer à plein dans ce contexte pour
+   informer, aider, accompagner, dans la rue, dans des lieux se prêtant
+   aux regroupements, dans les transports en commun qui risquent d’être un
+   lieu de recrudescence de la contamination lorsque reprendront les
+   activités professionnelles.
+
+   4 - Les transports interrégionaux devront rester limités, sauf
+   exceptions à définir, aux nécessités professionnelles.
+
+   5 - Les rassemblements devront rester interdits avec certaines
+   exceptions, mais sous des formes très limitées comme les enterrements.
+   Certains rassemblements sportifs et religieux semblent avoir
+   malheureusement joué un rôle important dans la création de foyers de
+   transmission hyperactifs en Italie, Espagne et France. Les entreprises
+   devront soigneusement organiser la distanciation sociale. Pour ce qui
+   concerne les métiers d’accueil de population, les commerces, la
+   restauration, l’hôtellerie qui sont un pan important de notre vie
+   économique et sociale, il est urgent de réfléchir à des solutions,
+   sans-doute contraignantes, mais vitales. Certaines ont été
+   expérimentées dans les commerces de première nécessité. Pour les
+   spectacles et l’école, projetons-nous dès maintenant vers la rentrée de
+   septembre.
+
+Conclusion provisoire
+
+   En fait, ce n’est que lorsque l’on commencera à disposer d’une vraie
+   cartographie de l’évolution de l’épidémie, suite au déconfinement,
+   lorsque le R0 se sera stablement établi au-dessous de 1, c’est-à-dire
+   sous le seuil épidémique, indiquant l’absence de tendance au rebond,
+   que l’on pourra commencer à relâcher prudemment, rationnellement,
+   progressivement la pression des mesures ci-dessus, car il faudra bien
+   entendu accompagner le redémarrage de la vie et de l’économie afin
+   d’éviter que le traitement fasse plus de mal que la maladie.
+
+   Combien de temps ? Un certain temps, serait-on tenté de répondre… Mais
+   encore ?
+
+   Il faut avoir l’humilité de dire que l’on ne sait pas vraiment à ce
+   stade, qu’une partie du « génie évolutif » de la maladie nous échappe
+   encore et que SARS-CoV-2 peut à tout instant modifier son comportement
+   dans un bon ou un mauvais sens, du fait d’une mutation. Des modèles
+   indiquent même que le confinement actuel pourrait ne faire que pousser
+   l’épidémie à rebondir après l’été… Mais ce délai dépendra d’abord de
+   l’adhésion citoyenne aux mesures prises.
+
+   Pour s’avancer, disons au mieux dans le courant de l’été – sauf si un
+   traitement efficace intervenait rapidement, ce que les essais cliniques
+   en cours vont nous dire dans les semaines qui viennent. Sa large
+   disponibilité permettrait d’atténuer d’un coup ce qui fait le spectre
+   de cette maladie, à savoir ses formes graves voire mortelles, et de
+   diminuer la charge virale globale en circulation, donnant un coup de
+   pouce significatif et possiblement définitif à la stabilisation du R0
+   sous le seuil épidémique.
+
+   Quoi qu’il advienne, les mesures de distanciation sociale et d’hygiène
+   renforcée devront être maintenues tant que nous ne disposerons pas d’un
+   vaccin, c’est-à-dire pas avant plusieurs mois, sans doute une année.
+   Nous nous y habituerons, l’espèce humaine est résiliente.
+
+Pour terminer, une note personnelle d’espoir, une de tristesse et une
+d’angoisse
+
+   Espoir et confiance d’abord : la science apportera les solutions �
+   cette crise qui paralyse notre pays, notre continent et la planète.
+   Recherche biomédicale, fondamentale, académique et industrielle, toutes
+   les forces sont mobilisées et globalement financées pour découvrir,
+   tester, valider et développer molécules thérapeutiques et vaccins.
+
+   Tristesse pour le rêve européen. L’Europe a raté l’examen du Covid-19.
+   Raté son examen d’entrée dans la crise, sans coordination, avec des
+   replis nationalistes malheureusement attendus. Les pays européens
+   particulièrement touchés garderont cette cicatrice des égoïsmes
+   nationaux. L’Europe semble aussi être en passe de rater son examen de
+   sortie. La nécessité d’une gestion intégrée, sanitaire, scientifique,
+   économique, sociale, de ce moment clé du déconfinement des citoyens
+   européens, ce moment qui porte en lui la somme de tous les dangers et
+   de tous les espoirs, semble devoir être aussi géré à l’aune des
+   égoïsmes nationaux. Que vaudront les milliards d’Euros de la BCE sans
+   une intelligence européenne collective et solidaire ? Le pire n’est pas
+   certain, un miracle est toujours possible, mais que deviendra l’Union
+   Européenne après cette crise ?
+
+   Une note d’angoisse enfin. Cette réaction massive, scientifique,
+   médicale, sociale, économique, à la pandémie serait-elle survenue si
+   Covid-19 n’avait pas d’abord touché les pays nantis ? La pandémie se
+   développe lentement mais sûrement sur le Continent africain et dans
+   d’autres régions pauvres de la planète. Faisons tout, dès maintenant,
+   pour que le Sud bénéficie en toute équité des moyens thérapeutiques et
+   des vaccins qui vont être développés. « Frères et solidaires… »,
+   n’oublions pas Charles Nicolle.
+
+"Faisons tout, dès maintenant, pour que le Sud bénéficie en toute équité des
+moyens thérapeutiques et des vaccins qui vont être développés."
+
+
+   Cette étude entre dans le cadre de l’axe scientifique prioritaire
+   Maladies infectieuses émergentes du plan stratégique 2019-2023 de
+   l’Institut Pasteur.
+
+   Pour plus d'informations, rendez-vous sur le site
+   Chapitre publié sur "La Vie des Idées"
+
+Contenus liés
+
+   Coronavirus : attention aux fausses informations circulant sur les
+   réseaux sociaux - Institut Pasteur
+   Actualité
+   16.03.2020
+   Institutionnel
+
+Coronavirus : attention aux fausses informations sur la Covid-19 circulant
+sur les réseaux sociaux
+
+   Mis à jour le 6 septembre 2023. En 2020-2021, lorsque la pandémie de
+   Covid-19 était à son pic, de nombreuses informations circulaient dans
+   les médias...
+   En savoir plus
+   Les leçons de la pandémie COVID-19 et la préparation aux futures
+   pandémies par Arnaud Fontanet
+   Document de presse
+   16.02.2024
+   Coronavirus
+
+Les leçons de la pandémie COVID-19 et la préparation aux futures pandémies
+par Arnaud Fontanet
+
+   La crise sanitaire liée au COVID-19 nous a montré à quel point une
+   pandémie pouvait être dévastatrice : 26 millions de morts, 12500
+   milliards de...
+   En savoir plus
+   Document de presse
+   08.08.2023
+
+SARS-COV-2 : comment l'histoire des populations influence leur réponse
+immunitaire
+
+   Pendant la pandémie de Covid-19, des variations cliniques ont été
+   observées parmi les personnes infectées par le SARS-CoV-2, allant de
+   cas...
+   En savoir plus
+
+Abonnez-vous à la newsletter
+
+IFRAME:
+https://9acb8900.sibforms.com/serve/MUIEABMPvxgPdZtCjsFs8ytJbsZIlEk0npAoI-_ev
+QTMZ7fzGNLzR6f1tGbtDyLJdP0TyCxC-hT3nBJ17iRbM9J6XtEcJFDsNuBzLDyS_tUq8QHKgYiOlr
+uGsEGwWS1UC_h0Nt_k4uMKIw4Ak-70aixq60U3slrzO0TYuFTK8d5X_EFhx6uzv1T1sFbBkOqSNr_
+jjtEco25Q1w==
+
+   Institut Pasteur
+   25-28 Rue du Dr Roux, 75015 Paris
+   +33 1 45 68 80 00
+     * L'Institut Pasteur
+     * Nos missions
+     * Nous soutenir
+     * Centre médical
+     * Le journal de la recherche
+     * Newsletter
+
+     * Faites un don
+     * Espace presse
+     * CeRIS
+     * Centre de conférences
+     * Mentions légales
+     * Credits
+
+     * Suivre l'Institut Pasteur sur LinkedIn
+     * Suivre l'Institut Pasteur sur Bluesky
+     * Suivre l'Institut Pasteur sur Facebook
+     * Suivre l'Institut Pasteur sur Instagram
+     * Suivre l'Institut Pasteur sur Youtube
+
+   Retour en haut

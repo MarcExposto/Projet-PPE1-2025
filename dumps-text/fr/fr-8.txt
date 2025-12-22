@@ -1,0 +1,201 @@
+   HTTP/1.1 200 OK Server: nginx Date: Mon, 22 Dec 2025 21:05:51 GMT
+   Content-Type: text/html; charset=UTF-8 Transfer-Encoding: chunked
+   Connection: keep-alive Vary: Accept-Encoding Cache-Control: max-age=0,
+   public, s-maxage=600 Http_x_hbx_device_type: desktop
+   Strict-Transport-Security: max-age=31536000 Surrogate-Control:
+   content="ESI/1.0" X-Frame-Options: DENY X-Vcap-Request-Id:
+   318ec1cc-d961-47b4-70f5-dff8aad08983 Vary: User-Agent,Accept-Encoding,
+   x-hbx-device-type x-hbx-device-type: desktop Age: 0 X-Mid: pr4b
+   X-Cache: MISS Accept-Ranges: bytes
+
+     * Actu
+     * Sports
+     * Auto
+     * Météo
+     * Vidéos
+
+     * Telethon
+
+     * France
+     * Monde
+     * Politique
+     * Économie
+     * Société
+
+   (BUTTON) France
+   France Monde Politique Économie Société
+     * Article
+       Avis aux automobilistes ! Le prix de l'essence atteint son niveau
+       le plus bas depuis 2022
+     * Article
+       Crues: le département de l'Hérault en vigilance rouge, Agde sous
+       surveillance
+     * Article
+       Quatre blessés dans une explosion dans une usine chimique près de
+       Lyon
+     * Article
+       Le département de l'Hérault placé en vigilance rouge pour les crues
+     * Article
+       Budget et loi spéciale : certains Français risquent de payer plus
+       d'impôts
+     * Article
+       Banque Postale, Caisse d’Épargne et Banque Populaire... Plusieurs
+       services bancaires touchés par une cyberattaque
+     * Article
+       Météo : l'Hérault placé en alerte rouge pour crues, cinq autres
+       départements maintenus en vigilance orange
+     * Article
+       ZFE: le Grand Paris prolonge d'un an les dérogations et la dispense
+       de contrôle
+     * Article
+       Université: dans la Creuse dépeuplée, le pari d'un "campus en
+       ruralité"
+     * Article
+       Dordogne : Laurent Nuñez pourrait suspendre ou révoquer un maire
+       pour des propos antisémites
+     * Article
+       Électricité : une stabilité des prix malgré la fin du dispositif
+       Arenh ?
+     * Article
+       Inondations dans le Tarn : une femme et son bébé de 18 mois
+       secourus après avoir été pris au piège en voiture
+
+   (BUTTON) Précédent (BUTTON) Suivant
+   France
+
+Covid-19 : les habitudes du confinement qui ont marqué notre quotidien il y a
+cinq ans
+
+   (BUTTON) Partager
+   (BUTTON) (BUTTON) Fermer
+
+Partager
+
+     *
+     * Logo de partage Facebook
+     *
+     * Logo de partage Twitter
+     *
+     * Logo de partage LinkedIn
+     *
+     * Logo de partage Pinterest
+
+   #URL
+   (BUTTON) Copier
+
+   © Pixabay
+
+À lire aussi :
+
+     *
+
+Origine du Covid-19 : la Maison Blanche défend la thèse d'une fuite d'un
+laboratoire chinois
+     *
+
+Elle refuse que son employeur vienne chez elle, il lui interdit le
+télétravail : la Cour de cassation a tranché
+     *
+
+Sucreries, biscuits apéritifs… en ces temps difficiles, les Français se
+tournent vers des "produits doudous"
+
+   Pendant le confinement lié au Covid-19, qui démarrait le 17 mars 2020,
+   de nouvelles habitudes de vie quotidienne ont émergé. Si certaines ont
+   rapidement disparu, d'autres ont perduré et sont devenues des pratiques
+   courantes dans la vie des Français.
+
+   Désinfecter les aliments après les courses, ne plus faire la bise,
+   pratiquer du sport en intérieur, applaudir les soignants, ou encore
+   porter le masque en extérieur… Le 17 mars 2020, la France entrait dans
+   un confinement strict face à la pandémie du Covid-19. Pendant près de
+   deux mois, les Français ont modifié leurs comportements, suivant les
+   recommandations du gouvernement pour éviter de contracter et de
+   transmettre le virus. Si ces habitudes sont, pour la plupart, désormais
+   oubliées, certaines persistent encore dans notre quotidien.
+
+   Comme à chaque crise, l'humain s'adapte. La crise du Covid-19 n'a pas
+   fait exception. BFMTV a répertorié les habitudes prises durant le
+   confinement qui, aujourd'hui, semblent presque comiques. Par exemple,
+   la désinfection des courses. Les autorités sanitaires avaient dû
+   rappeler qu'il ne fallait pas laver fruits et légumes à la javel ou au
+   détergent, comme l’a rappelé la chaîne d'info en continu. On se
+   souvient également des visites de musées virtuelles. Selon le ministère
+   de la Culture, le Louvre avait attiré entre le 12 mars et le 21 avril
+   pas moins de 8,4 millions de visiteurs en ligne.
+
+Des habitudes encore ancrées dans notre quotidien ?
+
+   Avec l'interdiction des rassemblements et des déplacements, les
+   Français ont adapté leurs loisirs. Les "apéros virtuels" ont été lancés
+   pour garder le contact, permettant à beaucoup de lutter contre
+   l'isolement. Pour les plus sportifs, les activités en plein air ont été
+   transformées en séances d'intérieur. D'autres ont profité de l'occasion
+   pour se lancer dans la course à pied et le fitness.
+
+   La majorité de ces habitudes a disparu, mais certaines sont désormais
+   profondément ancrées. Le télétravail, par exemple, est devenu courant.
+   Avant 2020, il était encore peu répandu, mais aujourd'hui, il s'est
+   largement implanté dans de nombreuses entreprises. Selon la Dares (la
+   Direction de l'animation de la recherche, des études et des
+   statistiques), la part des salariés pratiquant le télétravail au moins
+   occasionnellement est passée de 9 % à 26 % entre 2019 et 2023.
+
+   En matière de santé, il n’est plus rare de voir des gens porter des
+   masques dans les transports ou au bureau. La bise, si chère aux
+   Français, est devenue moins systématique. "Avant le Covid, elle était
+   tellement ancrée culturellement que refuser de s’y plier pouvait être
+   perçu comme un manque de politesse, voire un rejet. Aujourd’hui, c’est
+   mieux accepté socialement. Il n’est plus nécessaire de justifier son
+   choix", explique Dominique Picard, psychosociologue, dans le Nouvel
+   Obs. Heureusement, l'habitude de se couper les cheveux en famille, qui
+   avait pris de l’ampleur pendant le confinement, n’a, elle, pas perduré
+   !
+
+   publié le 17 mars à 18h56, Justin Schroeder, 6Medias
+   (BUTTON) Partager
+
+   Vos réactions doivent respecter nos CGU.
+     * 22:00
+       Politique - Emmanuel Macron souhaite un budget "au plus vite", la
+       loi spéciale votée dès mardi
+     * 21:45
+       Sports - Brésil : Neymar opéré avec succès
+     * 21:31
+       Économie - Colère agricole: pas de "trêve" à l'approche de Noël,
+       nouveau cas de dermatose
+     * 21:29
+       Faits divers - Mort du petit Émile : les enquêteurs de retour au
+       Haut-Vernet, un objet volumineux saisi
+     * 07:00
+       Auto - Radars intelligents : jusqu'à 8 points retirés dès 2026 ?
+
+   Météo nationale
+
+Vidéos
+
+   Tous publics
+
+LE CHOIX D'YVES THRÉARD - Budget: le 49.3, seule option pour sortir de
+l'impasse
+
+   22 décembre 2025 - BFMTV
+   Toute l'actu en vidéos
+
+Liens commerciaux
+
+   (BUTTON) (BUTTON) fermer
+
+On en parle ...
+
+     *
+
+Au Parlement européen, Jordan Bardella s’abstient de voter un texte pour
+faciliter l'accès à l'IVG
+     *
+
+Du saumon et du foie gras rappelés partout en France, il est déconseillé de
+les consommer
+     *
+
+Le chanteur britannique Chris Rea est mort à l’âge de 74 ans

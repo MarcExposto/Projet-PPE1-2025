@@ -1,0 +1,293 @@
+   HTTP/2 200 x-dns-prefetch-control: on content-type: text/html;
+   charset=UTF-8 access-control-allow-methods: GET,POST
+   access-control-allow-headers: Content-Type, Authorization
+   content-security-policy: upgrade-insecure-requests;
+   cross-origin-embedder-policy: unsafe-none; report-to='default'
+   cross-origin-embedder-policy-report-only: unsafe-none;
+   report-to='default' cross-origin-opener-policy: unsafe-none
+   cross-origin-opener-policy-report-only: unsafe-none;
+   report-to='default' cross-origin-resource-policy: cross-origin
+   permissions-policy: accelerometer=(), autoplay=(), camera=(),
+   cross-origin-isolated=(), display-capture=(self), encrypted-media=(),
+   fullscreen=*, geolocation=(self), gyroscope=(), keyboard-map=(),
+   magnetometer=(), microphone=(), midi=(), payment=*,
+   picture-in-picture=(), publickey-credentials-get=(),
+   screen-wake-lock=(), sync-xhr=(), usb=(), xr-spatial-tracking=(),
+   gamepad=(), serial=() referrer-policy: strict-origin-when-cross-origin
+   strict-transport-security: max-age=63072000 x-content-security-policy:
+   default-src 'self'; img-src *; media-src * data:;
+   x-content-type-options: nosniff x-frame-options: SAMEORIGIN
+   x-permitted-cross-domain-policies: none link: /www.inserm.fr/wp-json/>;
+   rel="https://api.w.org/" link:
+   /www.inserm.fr/wp-json/wp/v2/posts/115576>; rel="alternate";
+   title="JSON"; type="application/json" link: /www.inserm.fr/?p=115576>;
+   rel=shortlink etag: "8919-1766437462;;;" x-litespeed-cache: hit
+   content-length: 445695 date: Mon, 22 Dec 2025 21:05:49 GMT server:
+   LiteSpeed alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000,
+   h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443";
+   ma=2592000, quic=":443"; ma=2592000; v="43,46" #oEmbed (JSON) oEmbed
+   (XML) JSON
+
+     * Accès direct au contenu
+     * Accès direct au menu principal
+     * Accès direct au formulaire de recherche
+
+   Retour à l’accueil – République française
+   République française
+   Logo Inserm Header
+   Retour à l'accueil (logo Inserm)
+
+     * English
+
+   (BUTTON) Ouvrir la recherche Fermer la recherche
+   Rechercher ____________________ (BUTTON) Lancer la recherche
+
+   (BUTTON) Menu Fermer
+     * Connaître
+       l’Inserm
+       Connaître l’Inserm
+          + L’Institut
+               o L’Inserm en un coup d’œil
+               o Missions
+               o Organigramme
+               o Infrastructures de recherche
+               o Documents stratégiques
+               o Prix Inserm
+          + Notre écosystème
+               o Partenariats de recherche
+               o L’Inserm et les associations
+               o Coopération en Europe et à l’international
+               o France 2030
+               o Programme Investissements d’Avenir (PIA)
+          + Nos programmes
+               o Programmes de recherche
+               o Programme Atip–Avenir
+               o École de l’Inserm Liliane Bettencourt
+     * La recherche
+       à l’Inserm
+       La recherche à l’Inserm
+          + Du laboratoire jusqu’au patient
+               o Le continuum de la recherche
+               o La recherche fondamentale
+               o La recherche clinique
+               o La recherche en santé publique
+               o La recherche technologique
+               o Valorisation et transfert des découvertes
+               o La recherche participative
+          + Une recherche responsable
+               o Nos bonnes pratiques
+               o La science ouverte
+               o L’éthique à l’Inserm
+               o Les modèles animaux
+               o La transition écologique et sociétale
+          + Portraits et reportages
+               o Portraits de chercheuses et de chercheurs
+               o Reportages en labo
+     * Information
+       en santé
+       Information en santé
+          + Pour tout public
+               o Dossiers thématiques
+               o C’est quoi ? Les mots de la science
+               o Magazine de l’Inserm
+               o Podcast « Les Volontaires »
+               o Expositions et ressources pédagogiques
+          + Pour public avancé
+               o Expertises collectives
+               o Rapports thématiques
+               o Revue médecine/sciences
+     * Actualités & évènements
+       Actualités & évènements
+          + Nos actualités
+               o Actu science
+               o Actu institutionnelle
+               o Toutes les actualités
+          + Nos évènements
+               o Évènéments
+     * Faire un don
+     *
+          + English
+     *
+
+    1. Accueil
+    2. Actualité
+    3. Science
+    4. Les effets négatifs du premier confinement sur l’hygiène de vie des
+       Français
+
+Les effets négatifs du premier confinement sur l’hygiène de vie des Français
+
+     * Publié le : 26/11/2020
+     * Temps de lecture : 5 min
+     * Actualité, Science
+
+   Imposé pour lutter contre la première vague de l’épidémie de Covid-19,
+   le confinement que nous avons vécu au printemps a induit des
+   changements de comportements négatifs chez une majorité de Français :
+   80% des 4 005 participants à une cohorte de personnes représentatives
+   de la population adulte ont fait moins d’exercice ou moins bien mangé,
+   avec un risque pour leur santé. Ces changements négatifs seraient en
+   partie liés à la peur de l’épidémie.
+
+   Alors que les Français vivent leur deuxième épisode de confinement, que
+   savons-nous sur les changements de comportements induits par le
+   premier ? Comment les Français ont-ils réagi face à cette situation ?
+   Quelle était leur perception de l’épidémie au printemps ? Pour répondre
+   à ces questions, Aymery Constant* et Jocelyn Raude**, maîtres de
+   conférences à l’École des hautes études en santé publique à Rennes, ont
+   interrogé 4 005 personnes représentatives de la population adulte
+   française, via une société spécialisée.
+
+   Les participants à l’étude ont répondu à un questionnaire diffusé entre
+   la troisième et la quatrième semaine de confinement, du 8 au 20 avril
+   dernier. Les questions portaient sur l’évolution de leurs habitudes
+   depuis la mi-mars (début du confinement), pour cinq comportements
+   associés à l’hygiène de vie : temps passé devant les écrans,
+   grignotage, consommation de fruits et légumes, exercice physique et
+   marche. En parallèle, les participants étaient interrogés sur leur
+   perception de l’épidémie. Les questions portaient sur leur sentiment de
+   vulnérabilité (« Suis-je susceptible d’être contaminé ? »), leur
+   perception de la sévérité de la maladie, leur peur face à l’épidémie
+   (« Est-ce que l’infection me fait peur, est-ce que j’y pense
+   souvent ? ») et enfin leur confiance envers les mesures prises par le
+   gouvernement (« Me paraissent-elles efficaces pour contenir
+   l’épidémie ? Les gestes barrières sont-ils utiles ? »).
+
+   La cohorte était composée à 55% de femmes. Par ailleurs, 42% des
+   personnes étaient en activité et 22% retraitées. Trois quarts des
+   individus vivaient en ville dans des surfaces supérieures à 80 m2 et �
+   plusieurs dans la même habitation. Environ 66% avaient un jardin et/ou
+   une terrasse. Enfin, 60% buvaient occasionnellement ou régulièrement de
+   l’alcool, un quart fumait et 4 % étaient obèses.
+
+Plus d’écran et moins d’activité physique
+
+   Plus de 8 personnes sur 10 ont déclaré au moins un changement négatif
+   depuis le début confinement alors que seulement 4 sur 10 ont déclaré un
+   changement positif. Concrètement 60% marchaient moins qu’avant, 59%
+   passaient plus de temps devant les écrans et 45% faisaient moins
+   d’exercice en intérieur. Parmi les profils à risque, on trouve les
+   hommes, les personnes exposées à des problèmes financiers du fait de
+   l’épidémie, les personnes ayant un jardin ou une terrasse (qui incite
+   moins à sortir pour prendre l’air) ou vivant en ville, ainsi que les
+   personnes obèses. Mais ces comportements négatifs étaient surtout
+   associés, d’après les questionnaires, à la peur de l’épidémie et au
+   sentiment de vulnérabilité. « Les personnes qui avaient ces sentiments
+   osaient moins sortir car elles craignaient d’être infectées et de
+   tomber malade. La peur est paralysante et peut entraîner un repli, des
+   décisions défensives ou un isolement, ce qui s’est traduit ici par une
+   moins bonne hygiène de vie », explique Aymery Constant.
+
+   Cependant, certains participants ont aussi déclaré des changements
+   positifs intervenus pendant cette période : 18% ont réduit leur
+   grignotage, 13% ont augmenté leur consommation de fruits et légumes et
+   11% leur pratique du sport à la maison. Ces évolutions étaient quant �
+   elles davantage associées à un bon niveau de confiance envers les
+   mesures gouvernementales, incitant probablement à l’adoption de mesures
+   positives pour se maintenir en bonne santé, lutter contre le surpoids
+   ou la prise de poids, des facteurs de gravité de la Covid-19. « Ces
+   personnes reconnaissaient que la Covid-19 est une maladie grave mais se
+   sentaient dans une situation de contrôle du danger. Elles ne se sont
+   pas laissé envahir par la peur ou l’anxiété, suppose Aymery Constant.
+   Il faut toutefois noter que des changements positifs pouvaient
+   coexister avec des changements négatifs, ce qui incite à interpréter
+   ces résultats avec prudence. »
+
+   Par ailleurs, sur le plan de l’alcool et du tabac, 15% des participants
+   se sont mis à boire plus et 21% à boire moins, tandis que 22% ont fumé
+   davantage et 17% ont réduit leur tabagisme, sans que les auteurs aient
+   pu associer de profil significatif à ces changements.
+
+Sortir courir ou acheter des fruits et des légumes
+
+   « Lors du confinement, le gouvernement laisse la possibilité à chacun
+   de sortir une heure par jour pour effectuer une activité physique. Il
+   était donc possible ce printemps d’adopter une hygiène de vie correcte.
+   Mais on voit à travers cette étude que le sentiment de peur était
+   important, certainement en raison des messages anxiogènes qui visaient
+   à expliquer la nécessité du confinement. Ces messages étaient légitimes
+   du fait de la situation, mais ils ont probablement eu un impact plus ou
+   moins paralysant sur une partie de la population, avec un effet négatif
+   secondaire sur l’hygiène de vie et donc, à plus long terme, sur la
+   santé mentale et physique, estime le chercheur. Les messages doivent
+   favoriser la confiance dans la prévention à l’échelle individuelle,
+   pour que chacun adhère aux mesures barrières et continue à vivre le
+   plus normalement possible par ailleurs. Il faut encourager
+   l’utilisation des attestations pour aller marcher, courir ou acheter
+   des fruits et légumes frais », ajoute-il.
+
+   Une autre enquête a été lancée en juin-juillet pour suivre l’évolution
+   de ces comportements, avec les mêmes questionnaires et les mêmes
+   participants. Les résultats ne sont pas encore disponibles. « Face �
+   une situation inédite, les peurs se cristallisent et les changements
+   peuvent être brutaux. Puis il y a un phénomène d’habituation naturel
+   qui modifie de nouveau les comportements. C’est ce que l’on devrait
+   retrouver dans cette seconde enquête », prévoit Aymery Constant. Ce
+   phénomène d’habituation pourrait en outre contribuer à réduire les
+   changements d’habitude lors du deuxième confinement, mais cela reste
+   évidemment à vérifier.
+
+   Notes :
+   *unité 1241 Inserm/INRAE/Université de Rennes 1, Institut NuMeCan
+   **unité 1207 Inserm/IRD/Aix-Marseille université
+
+   Source : A. Constant et coll. Socio-Cognitive Factors Associated With
+   Lifestyle Changes in Response to the COVID-19 Epidemic in the General
+   Population : Results From a Cross-Sectional Study in France. Front
+   Psychol. du 29 septembre 2020. DOI : 10.3389/fpsyg.2020.579460
+
+Nos délégations régionales
+
+     * Auvergne Rhône-Alpes
+     * Est
+     * Grand Ouest
+     * Île-de-France Centre Est
+     * Île-de-France Centre Nord
+     * Île-de-France Sud
+     * Nord-Ouest
+     * Nouvelle-Aquitaine
+     * Occitanie Méditerranée
+     * Occitanie Pyrénées
+     * PACA et en Corse
+
+Newsletter
+
+     * S’abonner à la newsletter
+
+Accès direct
+
+     * Volontaire pour des tests
+     * Faire un don à l’Inserm
+
+Autres sites Inserm
+
+     * Professionnels de la recherche
+     * Ressources Humaines
+     * Marchés publics
+     * Évaluation
+     * Orphanet
+
+Associés à l’Inserm
+
+     * ANRS | MIE
+     * Inserm Transfert
+     * Fondation Inserm
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Questions fréquentes
+     * Nous contacter
+     * Plan du site
+     * Mentions légales
+     * Accessibilité (partiellement conforme)
+     * Données personnelles
+     * Paramétrer les cookies
+     * © Inserm 2025
+
+   (BUTTON) Retour en haut de page
