@@ -14,4 +14,4 @@ fi
 #  Langue=$2
 #fi
 
-LC_ALL=fr_FR.UTF-8 gawk -f ./awk/supprime_retours_ligne.awk $CheminFichierDump | gawk -f ./awk/tokeniseur_de_phrases.awk | gawk -f ./awk/tokeniseur_de_mots.awk
+awk -f ./awk/supprime_retours_ligne.awk $CheminFichierDump | awk -f ./awk/tokeniseur_de_phrases.awk | awk -f ./awk/tokeniseur_de_mots.awk

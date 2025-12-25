@@ -1,0 +1,40 @@
+   HTTP/2 403 date: Tue, 23 Dec 2025 01:44:40 GMT content-type: text/html;
+   charset=UTF-8 accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
+   Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
+   Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
+   Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version,
+   UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA cf-mitigated:
+   challenge critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
+   Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
+   Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
+   Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version,
+   UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+   cross-origin-embedder-policy: require-corp cross-origin-opener-policy:
+   same-origin cross-origin-resource-policy: same-origin
+   origin-agent-cluster: ?1 permissions-policy:
+   accelerometer=(),browsing-topics=(),camera=(),clipboard-read=(),clipboa
+   rd-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magne
+   tometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen
+   -wake-lock=(),serial=(),sync-xhr=(),usb=() server-timing:
+   chlray;desc="9b242cd6fbb799dc" cache-control: private, max-age=0,
+   no-store, no-cache, must-revalidate, post-check=0, pre-check=0 expires:
+   Thu, 01 Jan 1970 00:00:01 GMT report-to:
+   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=sN8E
+   vojoiVn%2BL%2FDA8XkVfOuyNrl3U%2FBJQ4YnEQ2D5U%2F0IwZ3c%2B1ptOPtnjcvJ%2Fo
+   vDdPVcWbbyyglT4cQdq6xIHKOTBmKndrmmHmfpBE55ooGMi%2B4k9pMh0P%2FPf6HSMtZEg
+   qWzpPtYA%3D%3D"}],"group":"cf-nel","max_age":604800} nel:
+   {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+   strict-transport-security: max-age=31536000; includeSubDomains; preload
+   speculation-rules: "/cdn-cgi/speculation" expect-ct: max-age=86400,
+   enforce referrer-policy: same-origin x-content-type-options: nosniff
+   x-frame-options: SAMEORIGIN x-xss-protection: 1; mode=block server:
+   cloudflare cf-ray: 9b242cd6fbb799dc-CDG alt-svc: h3=":443"; ma=86400
+   server-timing:
+   cfL4;desc="?proto=TCP&rtt=880&min_rtt=790&rtt_var=185&sent=8&recv=11&lo
+   st=0&retrans=0&sent_bytes=4507&recv_bytes=1813&delivery_rate=4866425&cw
+   nd=254&unsent_bytes=0&cid=cadab55fbb1ff3e8&ts=80&x=0"
+   REFRESH(360 sec):
+   file://localhost/Users/lena/Documents/Cours/Projet-PPE1-2025/aspiration
+   s/fr/fr-.html
+
+   Enable JavaScript and cookies to continue

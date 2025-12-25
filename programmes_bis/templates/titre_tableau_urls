@@ -1,0 +1,5 @@
+  <section class="hero is-info mb-5">
+    <div class="hero-body">
+      <p class="title is-3">Tableau résumant les traitements effectués</p>
+    </div> 
+  </section>
