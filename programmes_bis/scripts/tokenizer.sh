@@ -7,6 +7,13 @@ else
   CheminFichierDump=$1
 fi
 
+if [[ -z "$2" ]]; then
+  echo "Veuillez entrer le chemin vers le fichier contenant les tokens en second argument (sortie)."
+  exit
+else
+  CheminFichierTokens=$2
+fi
+
 #if [[ -z "$2" ]]; then
 #  echo "Veuillez entrer la langue en second argument."
 #  exit
@@ -14,4 +21,4 @@ fi
 #  Langue=$2
 #fi
 
-awk -f ./awk/supprime_retours_ligne.awk $CheminFichierDump | awk -f ./awk/tokeniseur_de_phrases.awk | awk -f ./awk/tokeniseur_de_mots.awk
+awk -f ./awk/supprime_retours_ligne.awk $CheminFichierDump | awk -f ./awk/tokeniseur_de_phrases.awk | awk -f ./awk/tokeniseur_de_mots.awk >$CheminFichierTokens
