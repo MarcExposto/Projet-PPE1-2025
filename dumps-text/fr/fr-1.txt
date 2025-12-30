@@ -1,9 +1,9 @@
-   HTTP/2 200 date: Sun, 28 Dec 2025 12:20:45 GMT server:
-   mw-web.eqiad.main-8f8dcf6c-zb8x4 x-content-type-options: nosniff
-   content-language: fr accept-ch: last-modified: Sat, 27 Dec 2025
-   18:17:51 GMT content-type: text/html; charset=UTF-8 age: 80919
-   accept-ranges: bytes x-cache: cp6013 hit, cp6010 hit/3 x-cache-status:
-   hit-front server-timing: cache;desc="hit-front", host;desc="cp6010"
+   HTTP/2 200 date: Tue, 30 Dec 2025 04:02:05 GMT server:
+   mw-web.eqiad.main-8f8dcf6c-f5s2k x-content-type-options: nosniff
+   content-language: fr accept-ch: last-modified: Mon, 29 Dec 2025
+   21:30:17 GMT content-type: text/html; charset=UTF-8 age: 208
+   accept-ranges: bytes x-cache: cp6013 miss, cp6009 hit/1 x-cache-status:
+   hit-front server-timing: cache;desc="hit-front", host;desc="cp6009"
    strict-transport-security: max-age=106384710; includeSubDomains;
    preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
    [{ "url":
@@ -11,24 +11,24 @@
    .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
    nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
    0.05, "success_fraction": 0.0} set-cookie:
-   WMF-Last-Access=29-Dec-2025;Path=/;HttpOnly;secure;Expires=Fri, 30 Jan
+   WMF-Last-Access=30-Dec-2025;Path=/;HttpOnly;secure;Expires=Sat, 31 Jan
    2026 00:00:00 GMT set-cookie:
-   WMF-Last-Access-Global=29-Dec-2025;Path=/;Domain=.wikipedia.org;HttpOnl
-   y;secure;Expires=Fri, 30 Jan 2026 00:00:00 GMT set-cookie:
-   WMF-DP=e72;Path=/;HttpOnly;secure;Expires=Mon, 29 Dec 2025 00:00:00 GMT
-   x-client-ip: 2a01:cb15:84c1:e500:1496:8369:e2fc:32ea cache-control:
+   WMF-Last-Access-Global=30-Dec-2025;Path=/;Domain=.wikipedia.org;HttpOnl
+   y;secure;Expires=Sat, 31 Jan 2026 00:00:00 GMT set-cookie:
+   WMF-DP=653;Path=/;HttpOnly;secure;Expires=Tue, 30 Dec 2025 00:00:00 GMT
+   x-client-ip: 2a01:cb15:84c1:e500:11a4:783:b55b:3623 cache-control:
    private, s-maxage=0, max-age=0, must-revalidate, no-transform vary:
    Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
    GeoIP=FR:ARA:Vif:45.06:5.67:v4; Path=/; secure; Domain=.wikipedia.org
    set-cookie:
    NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
    set-cookie:
-   WMF-Uniq=auSyaVMAi0apotJkgOI0rQLYAAAAAFvd_miG72t-QhWcbMfdVLucI-VYm2J1tN
-   Kt;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=T
-   ue, 29 Dec 2026 00:00:00 GMT server-timing:
-   WMF-Uniq;fy25-26-we-1-1-19-mobile-section-dead-end-phase-2=treatment;
+   WMF-Uniq=A5BDkpw7vg9MDJ-qQIWWEgLZAAAAAFvdyeYYc2O0QMgcQXMedTh5DjMM2FqcaN
+   t4;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=W
+   ed, 30 Dec 2026 00:00:00 GMT server-timing:
+   WMF-Uniq;fy25-26-we-1-1-19-mobile-section-dead-end-phase-2=control;
    content-length: 267027 x-request-id:
-   a7db4ed8-f100-4491-8166-1d1100365e0c #Modifier Wikipédia (fr) Flux Atom
+   4a109707-6287-4820-8cf0-38a6c867568a #Modifier Wikipédia (fr) Flux Atom
    de Wikipédia
 
    Aller au contenu

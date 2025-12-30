@@ -29,7 +29,7 @@ CheminRacineProjet="$(cd "${CheminScript}/.." && pwd)"
 # Génération du tableau (tsv)
 id=1
 
-printf "id \t url \t gestion de robots.txt \t code http \t encodage initial de la page \t lien vers la page brute \t statut de la conversion en UTF-8 \t lien vers le dump textuel \t numbre total de mots dans le dump \t nombre d'occurrences du mot cible dans le dump \t lien vers le concordancier \t lien vers l'analyse des bigrammes\n"
+printf " id \t url \t gestion de robots.txt \t code http \t encodage initial de la page \t lien vers la page brute \t statut de la conversion en UTF-8 \t lien vers le dump textuel \t numbre total de mots dans le dump \t nombre d'occurrences du mot cible dans le dump \t lien vers le concordancier \t lien vers l'analyse des bigrammes \n"
 
 while read -r line; do
 
@@ -74,6 +74,9 @@ while read -r line; do
 
   CheminFichierTokens="${CheminRacineProjet}/dumps-tokenises/${Langue}/${Langue}-${id}.conll"
   ${CheminRacineProjet}/programmes/scripts/tokenizer.sh $CheminFichierTexte $CheminFichierTokens
+
+  CheminFichierContextes="${CheminRacineProjet}/contextes/${Langue}/${Langue}-${id}-concordance.html"
+  echo XXX >$CheminFichierContextes
 
   CheminFichierConcordances="${CheminRacineProjet}/concordances/${Langue}/${Langue}-${id}-concordance.html"
   echo XXX >$CheminFichierConcordances
