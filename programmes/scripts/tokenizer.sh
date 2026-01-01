@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
 if [[ -z "$1" ]]; then
-  echo "Veuillez entrer le chemin vers le fichier contenant le dump en premier argument."
+  echo "Veuillez entrer le chemin vers le fichier contenant le dump en premier argument. (script ${0})" >&2
   exit
 else
   CheminFichierDump=$1
 fi
 
 if [[ -z "$2" ]]; then
-  echo "Veuillez entrer le chemin vers le fichier contenant les tokens en second argument (sortie)."
+  echo "Veuillez entrer le chemin vers le fichier contenant les tokens en second argument (sortie). (script ${0})" >&2
   exit
 else
   CheminFichierTokens=$2

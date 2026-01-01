@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
 if [ -z "$1" ]; then
-  echo "Veuillez entrer le chemin vers le fichier aspiré en premier argument."
+  echo "Veuillez entrer le chemin vers le fichier aspiré en premier argument. (script ${0})" >&2
   exit
 else
   Aspiration=$1
 fi
 
 if [ -z "$2" ]; then
-  echo "Veuillez entrer l'encodage donné par le content-type en second argument."
+  echo "Veuillez entrer l'encodage donné par le content-type en second argument. (script ${0})" >&2
   exit
 else
   Encodage=$2

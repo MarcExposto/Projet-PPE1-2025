@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
 if [[ -z "$1" ]]; then
-  echo "Veuillez entrer le chemin vers le fichier aspiré en premier argument."
+  echo "Veuillez entrer le chemin vers le fichier aspiré en premier argument. (script ${0})" >&2
   exit
 else
   CheminFichierAspiration=$1
 fi
 
 if [[ -z "$2" ]]; then
-  echo "Veuillez entrer le titre de la page en second argument."
+  echo "Veuillez entrer le titre de la page en second argument. (script ${0})" >&2
   exit
 else
   CheminFichierDump=$2
