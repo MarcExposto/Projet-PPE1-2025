@@ -2,21 +2,21 @@
 
 # Vérification des arguments
 if [ -z "$1" ]; then
-  echo "Veuillez entrer le chemin vers le fichier d'URLs en premier argument. (script ${0})"
+  echo "Veuillez entrer le chemin vers le fichier d'URLs en premier argument. (script ${0})" >&2
   exit
 else
   FichierUrls=$1
 fi
 
 if ! [[ "$2" =~ ^(en)|(fa)|(fr)$ ]]; then
-  echo "Le deuxième argument doit être le code ISO-639-1 de la langue. (script ${0})"
+  echo "Le deuxième argument doit être le code ISO-639-1 de la langue. (script ${0})" >&2
   exit
 else
   Langue=$2
 fi
 
 if [ -z "$3" ]; then
-  echo "Veuillez entrer le mot cible en troisième argument. (script $0)"
+  echo "Veuillez entrer le mot cible en troisième argument. (script $0)" >&2
   exit
 else
   MotCible=$3
@@ -26,16 +26,26 @@ fi
 CheminScript="$(cd "$(dirname "$0")" && pwd)"
 CheminRacineProjet="$(cd "${CheminScript}/.." && pwd)"
 
+# alias vers les autres scripts pour plus de lisibilité dans la boucle while
+alias bigrammes="${CheminRacineProjet}/programmes/scripts/bigrammes.sh"
+alias concordances="${CheminRacineProjet}/programmes/scripts/concordances.sh"
+alias convert_utf-8="${CheminRacineProjet}/programmes/scripts/convert_utf-8.sh"
+alias coocurrents="${CheminRacineProjet}/programmes/scripts/coocurrents.sh"
+alias robots="${CheminRacineProjet}/programmes/scripts/robots.sh"
+alias text_dump="${CheminRacineProjet}/programmes/scripts/text_dump.sh"
+alias tokenizer="${CheminRacineProjet}/programmes/scripts/tokenizer.sh"
+
 # Génération du tableau (tsv)
 id=1
 
+# Entête du tableau
 printf " id \t url \t gestion de robots.txt \t code http \t encodage initial de la page \t lien vers la page brute \t statut de la conversion en UTF-8 \t lien vers le dump textuel \t numbre total de mots dans le dump \t nombre d'occurrences du mot cible dans le dump \t lien vers le concordancier \t lien vers l'analyse des bigrammes \n"
 
 while read -r line; do
 
   Url=$line
 
-  Robots=$(${CheminRacineProjet}/programmes/scripts/robots.sh $Url)
+  Robots=$(robots $Url)
   if [[ $Robots = 'Disallow' ]]; then
     printf "${id}\t${Url}\t${Robots}\t\t\t\t\t\t\t\t\t\n"
     ((id++))
@@ -59,7 +69,7 @@ while read -r line; do
     Encodage="Non Renseigné"
   fi
 
-  ErreurConversion=$(${CheminRacineProjet}/programmes/scripts/convert_utf-8.sh ${CheminFichierAspiration} ${Encodage} 2>&1)
+  ErreurConversion=$(convert_utf-8 ${CheminFichierAspiration} ${Encodage} 2>&1)
   if [[ -n $ErreurConversion ]]; then
     printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t${Encodage}\tÉchec\t\t\t\t\t\t\n"
     ((id++))
@@ -67,19 +77,19 @@ while read -r line; do
   fi
 
   CheminFichierTexte="${CheminRacineProjet}/dumps-text/${Langue}/${Langue}-${id}.txt"
-  ${CheminRacineProjet}/programmes/scripts/text_dump.sh $CheminFichierAspiration $CheminFichierTexte
+  text_dump $CheminFichierAspiration $CheminFichierTexte
 
   NbMots=$(cat ${CheminFichierTexte} | wc -w)
   NbOccurrences=$(egrep -o ${MotCible} ${CheminFichierTexte} | wc -w)
 
   CheminFichierTokens="${CheminRacineProjet}/dumps-tokenises/${Langue}/${Langue}-${id}.conll"
-  ${CheminRacineProjet}/programmes/scripts/tokenizer.sh $CheminFichierTexte $CheminFichierTokens
+  tokenizer $CheminFichierTexte $CheminFichierTokens
 
   CheminFichierContextes="${CheminRacineProjet}/contextes/${Langue}/${Langue}-${id}-concordance.html"
   echo XXX >$CheminFichierContextes
 
   CheminFichierConcordances="${CheminRacineProjet}/concordances/${Langue}/${Langue}-${id}-concordance.html"
-  echo XXX >$CheminFichierConcordances
+  concordances >$CheminFichierConcordances
   #${CheminRacineProjet}/programmes/scripts/concordances.sh $CheminFichierTexte $Langue 5 $Monmot >$CheminFichierConcordance
 
   CheminFichierBigrammes="${CheminRacineProjet}/bigrammes/${Langue}/${Langue}-${id}.XXX"
