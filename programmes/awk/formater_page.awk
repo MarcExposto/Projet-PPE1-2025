@@ -6,5 +6,6 @@ BEGIN {
   {
   gsub(/___TITRE___/, titre)
   gsub(/___TABLEAU___/, tableau)
+  gsub(/___RACINE___/, racine)
   print
 }
