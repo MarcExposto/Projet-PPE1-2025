@@ -1,14 +1,53 @@
 <html>
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
-    <title>Tableau miniprojet</title>
-    </head>
+    <style>
+        :root {
+    --bulma-primary-h: 194deg;
+    --bulma-link-h: 178deg;
+    --bulma-link-l: 37%;
+    --bulma-info-h: 226deg;
+    --bulma-danger-l: 56%;
+    --bulma-scheme-h: 278;
+    --bulma-light-l: 85%;
+    }
+    </style>
+
+    <title>Programmation et Projet encadré Tableau Anglais</title>
+</head>
 <body>
-<section class="hero is-info mb-5">
+ <!-- Section avec le menu -->
+    <nav class="navbar has-shadow is-info">
+        <div class="navbar-brand m1">
+            <a href="../index.html" class="navbar-item">
+                <h1 class="title is-4"> PPE1</h1>
+            </a>
+        </div>
+
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                <a href="../index.html" class="navbar-item">Accueil</a>
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-link">
+                        Tableaux
+                    </a>
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="tableaux/fr.html"> Tableau Français </a>
+                        <a class="navbar-item" href="tableaux/en.html"> Tableau Anglais </a>
+                        <a class="navbar-item" href="tableaux/pe.html"> Tableau Persan </a>
+                    </div>
+                </div>
+                <a href="equipe.html" class="navbar-item">Equipe</a>
+                <a href="info.html" class="navbar-item">Informations</a>
+            </div>
+        </nav>
+
+<section class="hero mb-5">
 	<div class="hero-body">
-	<p class="title is-3">Resultats du mini projet sous forme tableau</p>
+	<p class="title is-3">Tableau Anglais</p>
 	</div> </section>
 <section class="container mb-5">
 <table class="table is-bordered is-striped is-centered">
@@ -67,10 +106,5 @@
 </tbody>
 </table>
 </section>
-<div class="container mb-5">
-        <a href="../../index.html">
-        <button class="button is-small is-info is-outlined is-focused"> Retour </button>
-        </a>
-        </div>
 </body>
 </html>
