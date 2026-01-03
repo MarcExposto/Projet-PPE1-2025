@@ -14,7 +14,7 @@ else
   Encodage=$2
 fi
 
-if [[ $Encodage == "_" ]]; then
+if [[ $Encodage == "" ]]; then
   Encodage=$(uchardet $Aspiration) # Tente de déterminer l'encodage du fichier s'il n'était pas spécifié dans le content-type.
 fi
 

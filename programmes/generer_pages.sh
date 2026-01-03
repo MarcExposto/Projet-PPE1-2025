@@ -31,4 +31,4 @@ ${CheminRacineProjet}/programmes/pipeline.sh $FichierUrls $Langue $MotCible >${C
 Titre="Tableau ${Langue}"
 CheminTableau="${CheminRacineProjet}/tableaux/tableau_urls.tsv"
 Tableau="$(awk -f ${CheminRacineProjet}/programmes/awk/tsv_vers_html.awk -v indentation=4 ${CheminTableau})"
-printf "${Tableau}" | awk -f ${CheminRacineProjet}/programmes/awk/formater_page.awk -v titre="${Titre}" ${CheminRacineProjet}/programmes/templates/tableau.html
+printf "${Tableau}" | awk -f ${CheminRacineProjet}/programmes/awk/formater_page.awk -v racine="${CheminRacineProjet}" -v titre="${Titre}" ${CheminRacineProjet}/programmes/templates/tableau.html
