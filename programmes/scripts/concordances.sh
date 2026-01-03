@@ -18,13 +18,13 @@ CheminFichierTexte=$1
 TailleFenetre=$2
 MotCible=$3
 
-printf "Contexte Gauche \t Mot Cible \t Contexte Droit\n"
+printf "%s\t%s\t%s\n" "Contexte Gauche" "Mot Cible" "Contexte Droit"
 
-LignesOccurrences=$(egrep ${MotCible})
+LignesOccurrences=$(egrep "${MotCible}" "${CheminFichierTexte}")
 
 while read -r line; do
-  ContexteGauche=$(sed "s/\(\([^\s]+\){0,${TailleFenetre}}\)\(${MotCible}\)\(\([^\s]+\){0,${TailleFenetre}}\)/\1/")
-  OccurrenceMotCible=$(sed "s/\(\([^\s]+\){0,${TailleFenetre}}\)\(${MotCible}\)\(\([^\s]+\){0,${TailleFenetre}}\)/\3/")
-  ContexteDroit=$(sed "s/\(\([^\s]+\){0,${TailleFenetre}}\)\(${MotCible}\)\(\([^\s]+\){0,${TailleFenetre}}\)/\4/")
-  printf "${ContexteGauche}\t${OccurrenceMotCible}\t${ContexteDroit}\n"
+  ContexteGauche=$(echo "${line}" | LC_CTYPE=C sed -E "s/(.*)(${MotCible})(.*)/\1/")
+  OccurrenceMotCible=$(echo "${line}" | LC_CTYPE=C sed -E "s/(.*)(${MotCible})(.*)/\2/")
+  ContexteDroit=$(echo "${line}" | LC_CTYPE=C sed -E "s/(.*)(${MotCible})(.*)/\3/")
+  printf "%s\t%s\t%s\n" "${ContexteGauche}" "${OccurrenceMotCible}" "${ContexteDroit}"
 done <<<"${LignesOccurrences}" # trois chevrons pour lire le contenu de la variable et pas le contenu du fichier dont le chemin est stoqué dans la variable, ce langage est HORRIBLE

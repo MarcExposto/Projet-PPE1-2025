@@ -21,4 +21,4 @@ else
   MotCible=$3
 fi
 
-awk -f ./awk/supprime_retours_ligne.awk $CheminFichierDump | awk -f ./awk/tokeniseur_de_phrases.awk | awk -f ./awk/tokeniseur_de_mots.awk | awk -f ./awk/tokeniseur_de_bigrammes.awk -v mot_cible="${MotCible}" >$CheminFichierBigrammes
+LC_CTYPE=C awk -f ./awk/supprime_retours_ligne.awk $CheminFichierDump | LC_CTYPE=C awk -f ./awk/tokeniseur_de_phrases.awk | LC_CTYPE=C awk -f ./awk/tokeniseur_de_mots.awk | LC_CTYPE=C awk -f ./awk/tokeniseur_de_bigrammes.awk -v mot_cible="${MotCible}" >$CheminFichierBigrammes

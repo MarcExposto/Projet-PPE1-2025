@@ -8,12 +8,13 @@ else
 fi
 
 if [[ -z "$2" ]]; then
-  echo "Veuillez entrer le titre de la page en second argument. (script ${0})" >&2
+  echo "Veuillez entrer le chemin vers le fichier du dump (sortie) en second argument. (script ${0})" >&2
   exit
 else
   CheminFichierDump=$2
 fi
 
 # Extrait le texte brut de la page
-Dump=$(lynx -dump -nolist -display_charset=UTF-8 ${CheminFichierAspiration})
-echo "$Dump" >$CheminFichierDump
+#Dump=$(LC_ALL=C.UTF-8 LANG=C.UTF-8 lynx -dump -nolist -assume_charset=UTF-8 -display_charset=UTF-8 "${CheminFichierAspiration}")
+Dump=$(lynx -dump -nolist "${CheminFichierAspiration}")
+echo "$Dump" >"$CheminFichierDump"

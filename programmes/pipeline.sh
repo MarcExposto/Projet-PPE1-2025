@@ -34,7 +34,7 @@ mkdir -p \
   "${CheminRacineProjet}/bigrammes/${Langue}" \
   "${CheminRacineProjet}/contextes/${Langue}" \
   "${CheminRacineProjet}/concordances/${Langue}" \
-  "${CheminRacineProjet}/coocurents" \
+  "${CheminRacineProjet}/coocurrents" \
   "${CheminRacineProjet}/images"
 
 # Définition de fonctions à partir des scripts pour plus de lisibilité du code
@@ -67,11 +67,7 @@ TailleFenetre=5
 id=1
 
 # Entête du tableau
-printf " id \t url \t gestion de robots.txt \t code http \t encodage initial de la page \t lien vers la page brute \t statut de la conversion en UTF-8 \t lien vers le dump textuel \t numbre total de mots dans le dump \t nombre d'occurrences du mot cible dans le dump \t lien vers le concordancier \t lien vers l'analyse des bigrammes \n"
-
-#  printf "\n"
-#  printf "${Encodage}\n"
-#  printf "\n"
+printf " id \t url \t gestion de robots.txt \t code http \t encodage initial de la page \t lien vers la page brute \t lien vers le dump textuel \t nombre total de mots dans le dump \t nombre d'occurrences du mot cible dans le dump \t lien vers le concordancier\n"
 
 while read -r line; do
 
@@ -79,7 +75,7 @@ while read -r line; do
 
   Robots=$(robots $Url)
   if [[ $Robots = 'Disallow' ]]; then
-    printf "${id}\t${Url}\t${Robots}\t\t\t\t\t\t\t\t\t\n"
+    printf "${id}\t${Url}\t${Robots}\t\t\t\t\t\t\t\n"
     ((id++))
     continue
   fi
@@ -89,7 +85,7 @@ while read -r line; do
 
   CodeHTTP=$(echo "${data}" | head -1)
   if [[ ! "${CodeHTTP}" =~ (2|3).. ]]; then
-    printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t\t\t\t\t\t\t\t\n"
+    printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t\t\t\t\t\t\n"
     ((id++))
     continue
   fi
@@ -98,13 +94,15 @@ while read -r line; do
 
   ErreurConversion=$(convert_utf-8 "${CheminFichierAspiration}" "${Encodage}" 2>&1)
   if [[ -n "$ErreurConversion" ]]; then
-    printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t${Encodage}\tÉchec\t\t\t\t\t\t\n"
+    printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t${Encodage}\t\t\t\t\t\n"
     ((id++))
     continue
   fi
 
   CheminFichierTexte="${CheminRacineProjet}/dumps-text/${Langue}/${Langue}-${id}.txt"
   text_dump "${CheminFichierAspiration}" "${CheminFichierTexte}"
+
+  convert_utf-8 "${CheminFichierTexte}" ISO-8859-1
 
   NbMots=$(cat "${CheminFichierTexte}" | wc -w)
   if [[ -z "${NbMots}" ]]; then
@@ -129,28 +127,26 @@ while read -r line; do
   CheminFichierConcordances="${CheminRacineProjet}/concordances/${Langue}/${Langue}-${id}-concordances.tsv"
   concordances "${CheminFichierTexte}" "${TailleFenetre}" "${MotCible}" >"${CheminFichierConcordances}"
 
-  printf "${id}\t\
-    <a href=${Url}>${Url}</a>\t\
-    ${Robots}\t\
-    ${CodeHTTP}\t\
-    ${Encodage}\t\
-    Converti\t\
-    <a href=${CheminFichierTexte}>Lien dump</a>\t\
-    ${NbMots}\t\
-    ${NbOccurrences}\t\
-    <a href=${CheminFichierTokens}>Lien Fichier Tokens</a>\t\
-    <a href=${CheminFichierBigrammes}>Lien Fichier Bigrammes</a>\t\
+  printf "${id}\t
+    <a href=${Url}>${Url}</a>\t
+    ${Robots}\t
+    ${CodeHTTP}\t
+    ${Encodage}\t
+    <a href=${CheminFichierAspiration}>Lien page brute</a>\t
+    <a href=${CheminFichierTexte}>Lien dump</a>\t
+    ${NbMots}\t
+    ${NbOccurrences}\t
     <a href=${CheminFichierConcordances}>Lien Concordancier</a>\n"
 
   ((id++))
 done <"${FichierUrls}"
 
-# Génération du tableau des coocurents
-CheminFichierCoocurrents="${CheminRacineProjet}/coocurents/${Langue}.tsv"
+# Génération du tableau des coocurrents
+CheminFichierCoocurrents="${CheminRacineProjet}/coocurrents/${Langue}.tsv"
 coocurrents "${CheminRacineProjet}/dumps-tokenises/${Langue}" "${MotCible}" "${CheminFichierCoocurrents}"
 
 # Génération du tableau des bigrammes coocurrents
-CheminFichierBigrammesCoocurrents="${CheminRacineProjet}/coocurents/${Langue}_bigrammes.tsv"
+CheminFichierBigrammesCoocurrents="${CheminRacineProjet}/coocurrents/${Langue}_bigrammes.tsv"
 coocurrents "${CheminRacineProjet}/bigrammes/${Langue}" "${MotCible}" "${CheminFichierBigrammesCoocurrents}"
 
 # Génération du nuage de mots
