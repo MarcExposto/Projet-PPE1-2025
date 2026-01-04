@@ -74,48 +74,52 @@
     </nav>
     <!-- Section avec le code et explication -->
     <div class="container mb-5">
-      <h3 class="title is-5">Les scripts du projet </h3>
-      <p>
-        La partie code du projet s'articule autour de deux scripts : 
-        pipeline.sh, qui gère les traitements sur les données de l'aspiration des pages au calcul des coocurrents et à la génération du nuage de mots;
-        et generer_pages.sh, qui appelle pipeline.sh pour générer les tableaux html, les concordanciers et les tableaux des coocurrents.
-      </p>
-      <p>
-        Ce découpage avait pour but de séparer le traitement des données de la génération du code html afin de ne pas avoir du code html écrit en dur dans le script traitant les données.
-      </p>
-      <p>
-        Pour ce faire, tout les tableaux générés lors de l'execution de pipeline.sh sont au format tsv.
-        Ces tableaux sont ensuite convertis en tableaux html grace au script awk tsv_vers_html.awk, puis le template tableau.html est rempli par le contenu du tableau grace au script formater_page.awk afin de générer une page html complète.
-      </p>
+      <div class="content">
+        <h3 class="title is-5">Les scripts du projet </h3>
+        <p>
+          La partie code du projet s'articule autour de deux scripts : 
+          pipeline.sh, qui gère les traitements sur les données de l'aspiration des pages au calcul des coocurrents et à la génération du nuage de mots;
+          et generer_pages.sh, qui appelle pipeline.sh pour générer les tableaux html, les concordanciers et les tableaux des coocurrents.
+        </p>
+        <p>
+          Ce découpage avait pour but de séparer le traitement des données de la génération du code html afin de ne pas avoir du code html écrit en dur dans le script traitant les données.
+        </p>
+        <p>
+          Pour ce faire, tout les tableaux générés lors de l'execution de pipeline.sh sont au format tsv.
+          Ces tableaux sont ensuite convertis en tableaux html grace au script awk tsv_vers_html.awk, puis le template tableau.html est rempli par le contenu du tableau grace au script formater_page.awk afin de générer une page html complète.
+        </p>
+      </div>
     </div>
     <div class="container mb-5">
-      <h3 class="title is-5">Étapes de la chaine de traitement</h3>
-      <p>
-        La chaine de traitement a été au maximum découpée en scripts dédiés à une seule tache afin d'en facilité le débuggage.
-        Ces scripts sont placés dans le dossier "programmes/scripts"
-      </p>
-      <p>
-        Pour chaque url, 
-      </p>
-      <ol>
-        <li>robots.sh est appelé afin de s'assurer qu'il est autorisé d'aspirer le contenu de la page;</li>
-        <li>curl aspire la page;</li>
-        <li>convert_utf-8.sh converti la page aspirée en utf-8 si ce n'est pas son encodage d'origine;</li>
-        <li>text_dump.sh extrait le texte de la page grace à lynx (la sortie par défaut de lynx est encodée en ISO-8859-1 et la spécification de l'encodage de sortie avec -display_charset=UTF-8 a causé des bugs);</li>
-        <li>convert_utf-8.sh converti le dump en utf-8;</li>
-        <li>tokenizer.sh et bigrammes.sh tokenisent le dump repectivement en unigrammes et en bigrammes avec des scripts awk;</li>
-        <li>egrep extrait le contexte du mot cible sur 4 lignes avant et après ses occurences;</li>
-        <li>concordances.sh génère un concordancier au format tsv.</li>
-      </ol>
-      <p>
-        Une fois que toutes les urls ont été parsées, le script appelle coocurrents.py sur les fichiers tokenisés en unigrammes et en bigrammes.
-      </p>
-      <p>
-        Ce script génère les tableaux des unigrammes et bigrammes coocurrents du mots cible.
-      </p>
-      <p>
-        Enfin le programme wordcloud_cli génère les nuages de mots.
-      </p>
+      <div class="content">
+        <h3 class="title is-5">Étapes de la chaine de traitement</h3>
+        <p>
+          La chaine de traitement a été au maximum découpée en scripts dédiés à une seule tache afin d'en facilité le débuggage.
+          Ces scripts sont placés dans le dossier "programmes/scripts"
+        </p>
+        <p>
+          Pour chaque url, 
+        </p>
+        <ol>
+          <li>robots.sh est appelé afin de s'assurer qu'il est autorisé d'aspirer le contenu de la page;</li>
+          <li>curl aspire la page;</li>
+          <li>convert_utf-8.sh converti la page aspirée en utf-8 si ce n'est pas son encodage d'origine;</li>
+          <li>text_dump.sh extrait le texte de la page grace à lynx (la sortie par défaut de lynx est encodée en ISO-8859-1 et la spécification de l'encodage de sortie avec -display_charset=UTF-8 a causé des bugs);</li>
+          <li>convert_utf-8.sh converti le dump en utf-8;</li>
+          <li>tokenizer.sh et bigrammes.sh tokenisent le dump repectivement en unigrammes et en bigrammes avec des scripts awk;</li>
+          <li>egrep extrait le contexte du mot cible sur 4 lignes avant et après ses occurences;</li>
+          <li>concordances.sh génère un concordancier au format tsv.</li>
+        </ol>
+        <p>
+          Une fois que toutes les urls ont été parsées, le script appelle coocurrents.py sur les fichiers tokenisés en unigrammes et en bigrammes.
+        </p>
+        <p>
+          Ce script génère les tableaux des unigrammes et bigrammes coocurrents du mots cible.
+        </p>
+        <p>
+          Enfin le programme wordcloud_cli génère les nuages de mots.
+        </p>
+      </div>
     </div>
 </body>
 <!-- Section avec le footer -->
