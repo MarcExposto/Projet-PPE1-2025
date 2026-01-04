@@ -1,195 +1,195 @@
    (BUTTON) Menu
-   enquêtes/études Publié le 20 mai 2021
-   CONFEADO : une étude destinée aux enfants sur le vécu du confinement
-   lié...
-   (BUTTON) Rechercher une actualité, une publication, un
+   enquÃªtes/Ã©tudes PubliÃ© le 20 mai 2021
+   CONFEADO : une Ã©tude destinÃ©e aux enfants sur le vÃ©cu du confinement
+   liÃ©...
+   (BUTTON) Rechercher une actualitÃ©, une publication, un
    document...Rechercher
    (BUTTON) Index
    (BUTTON)
-   L'info accessible à tous
+   L'info accessible Ã  tous
      * Maladies et traumatismes
-     * Déterminants de santé
-     * La santé à tout âge
-     * Régions et territoires
+     * DÃ©terminants de santÃ©
+     * La santÃ© Ã  tout Ã¢ge
+     * RÃ©gions et territoires
 
      * Publications
      * Espace Presse
-     * Études et enquêtes
+     * Ãtudes et enquÃªtes
      * A propos
 
-   L'info accessible à tous
+   L'info accessible Ã  tous
    Maladies et traumatismes
      * Cancers
-     * Diabète
-     * Hépatites virales
-     * Infections à streptocoque A
-     * Infections associées aux soins et résistance aux antibiotiques
-     * Infections respiratoires aiguës
+     * DiabÃ¨te
+     * HÃ©patites virales
+     * Infections Ã  streptocoque A
+     * Infections associÃ©es aux soins et rÃ©sistance aux antibiotiques
+     * Infections respiratoires aiguÃ«s
      * Infections sexuellement transmissibles
-     * Maladies à prévention vaccinale
-     * Maladies à transmission vectorielle
-     * Maladies cardiovasculaires et accident vasculaire cérébral
+     * Maladies Ã  prÃ©vention vaccinale
+     * Maladies Ã  transmission vectorielle
+     * Maladies cardiovasculaires et accident vasculaire cÃ©rÃ©bral
      * Maladies d'origine tropicale
-     * Maladies de la mère et de l'enfant
+     * Maladies de la mÃ¨re et de l'enfant
      * Maladies et infections respiratoires
      * Maladies hivernales
      * Maladies infectieuses d'origine alimentaire
-     * Maladies liées au travail
-     * Maladies neurodégénératives
-     * Maladies transmissibles de l'animal à l'homme
-     * Santé mentale
+     * Maladies liÃ©es au travail
+     * Maladies neurodÃ©gÃ©nÃ©ratives
+     * Maladies transmissibles de l'animal Ã  l'homme
+     * SantÃ© mentale
      * Stress post-traumatique
      * Traumatismes
 
-   Déterminants de santé
+   DÃ©terminants de santÃ©
      * Alcool
      * Climat
      * Drogues illicites
-     * Exposition à des agents physiques
-     * Exposition à des substances chimiques
-     * Nutrition et activité physique
-     * Pollution et santé
-     * Santé sexuelle
+     * Exposition Ã  des agents physiques
+     * Exposition Ã  des substances chimiques
+     * Nutrition et activitÃ© physique
+     * Pollution et santÃ©
+     * SantÃ© sexuelle
      * Sommeil
      * Tabac
      * Vaccination
      * Virus hivernaux
      * Voyage
 
-   La santé à tout âge
-     * La santé à tout âge
+   La santÃ© Ã  tout Ã¢ge
+     * La santÃ© Ã  tout Ã¢ge
 
    (BUTTON)
    Cancers
 
-   Les cancers représentent en France la première cause de décès chez
-   l'homme et la deuxième chez la femme. Santé Publique France copilote la
-   surveillance épidémiologique et participe à leur prévention.
+   Les cancers reprÃ©sentent en France la premiÃ¨re cause de dÃ©cÃ¨s chez
+   lâhomme et la deuxiÃ¨me chez la femme. SantÃ© Publique France copilote la
+   surveillance Ã©pidÃ©miologique et participe Ã  leur prÃ©vention.
    Tout savoir sur Cancers
-     * Cancer du col de l'utérus
+     * Cancer du col de l'utÃ©rus
      * Cancer du colon rectum
      * Cancer du sein
      * Cancers de la peau
-     * Mésothéliomes
+     * MÃ©sothÃ©liomes
 
-Odissé
+OdissÃ©
 
-   Portail open data de Santé publique France basé sur ses 70 systèmes de
-   surveillance, ses enquêtes et son expertise scientifique.
-   Accéder au portail Odissé
-   Hépatites virales
-   Tout savoir sur Hépatites virales
-     * Hépatite A
-     * Hépatite C
-     * Hépatite E
-     * Hépatites aiguës pédiatriques d'origine inconnue
-     * Hépatites B et D
+   Portail open data de SantÃ© publique France basÃ© sur ses 70 systÃ¨mes de
+   surveillance, ses enquÃªtes et son expertise scientifique.
+   AccÃ©der au portail OdissÃ©
+   HÃ©patites virales
+   Tout savoir sur HÃ©patites virales
+     * HÃ©patite A
+     * HÃ©patite C
+     * HÃ©patite E
+     * HÃ©patites aiguÃ«s pÃ©diatriques dâorigine inconnue
+     * HÃ©patites B et D
 
-   Infections associées aux soins et résistance aux antibiotiques
-   Tout savoir sur Infections associées aux soins et résistance aux
+   Infections associÃ©es aux soins et rÃ©sistance aux antibiotiques
+   Tout savoir sur Infections associÃ©es aux soins et rÃ©sistance aux
    antibiotiques
-     * Infections associées aux soins
-     * Résistance aux antibiotiques
+     * Infections associÃ©es aux soins
+     * RÃ©sistance aux antibiotiques
 
    Infections sexuellement transmissibles
 
    Les infections sexuellement transmissibles (IST) se transmettent
    principalement lors des rapports sexuels. Il existe de nombreux virus
-   ou bactéries transmissibles de cette manière.
+   ou bactÃ©ries transmissibles de cette maniÃ¨re.
    Tout savoir sur Infections sexuellement transmissibles
      * Chlamydiae
      * Gonococcie
-     * Hépatites B et D
-     * Infections à papillomavirus
+     * HÃ©patites B et D
+     * Infections Ã  papillomavirus
      * Syphilis
      * VIH/sida
 
-   Maladies à prévention vaccinale
+   Maladies Ã  prÃ©vention vaccinale
      * Coqueluche
      * COVID-19
-     * Diphtérie
-     * Encéphalite à tiques
-     * Fièvre jaune
-     * Fièvres typhoïde et paratyphoïde
+     * DiphtÃ©rie
+     * EncÃ©phalite Ã  tiques
+     * FiÃ¨vre jaune
+     * FiÃ¨vres typhoÃ¯de et paratyphoÃ¯de
      * Grippe
-     * Hépatite A
-     * Hépatites B et D
-     * Infections à papillomavirus
-     * Infections à pneumocoque
-     * Infections invasives à Haemophilus influenzae de type b
-     * Infections invasives a` méningocoque
+     * HÃ©patite A
+     * HÃ©patites B et D
+     * Infections Ã  papillomavirus
+     * Infections Ã  pneumocoque
+     * Infections invasives Ã  Haemophilus influenzae de type b
+     * Infections invasives aÌ mÃ©ningocoque
      * Leptospirose
-     * Maladie à virus ebola
+     * Maladie Ã  virus ebola
      * Oreillons
-     * Poliomyélite
+     * PoliomyÃ©lite
      * Rage
      * Rougeole
-     * Rubéole
-     * Tétanos
+     * RubÃ©ole
+     * TÃ©tanos
      * Tuberculose
 
-   Maladies à transmission vectorielle
+   Maladies Ã  transmission vectorielle
 
-   Les maladies à transmission vectorielle sont des maladies infectieuses
+   Les maladies Ã  transmission vectorielle sont des maladies infectieuses
    transmises par des vecteurs, essentiellement insectes et acariens
-   hématophages. Santé publique France participe à leur surveillance.
-   Tout savoir sur les maladies à transmission vectorielle
-     * Bilharziose urogénitale
-     * Borréliose de lyme
+   hÃ©matophages. SantÃ© publique France participe Ã  leur surveillance.
+   Tout savoir sur les maladies Ã  transmission vectorielle
+     * Bilharziose urogÃ©nitale
+     * BorrÃ©liose de lyme
      * Chikungunya
      * Dengue
-     * Encéphalite à tiques
-     * Fièvre jaune
+     * EncÃ©phalite Ã  tiques
+     * FiÃ¨vre jaune
      * Paludisme
      * West nile virus
      * Zika
 
-   Maladies cardiovasculaires et accident vasculaire cérébral
+   Maladies cardiovasculaires et accident vasculaire cÃ©rÃ©bral
 
    Les maladies cardio-neuro-vasculaires regroupent un ensemble de
-   troubles affectant le coeur et les vaisseaux sanguins.
+   troubles affectant le cÅur et les vaisseaux sanguins.
    Tout savoir sur Maladies cardiovasculaires et accident vasculaire
-   cérébral
-     * Accident vasculaire cérébral
-     * Anévrisme de l'aorte abdominale
-     * Hypercholestérolémie
-     * Hypertension artérielle
+   cÃ©rÃ©bral
+     * Accident vasculaire cÃ©rÃ©bral
+     * AnÃ©vrisme de l'aorte abdominale
+     * HypercholestÃ©rolÃ©mie
+     * Hypertension artÃ©rielle
      * Infarctus du myocarde
      * Insuffisance cardiaque
      * Maladie thromboembolique veineuse
      * Maladies vasculaires de la grossesse
      * Valvulopathies
 
-Odissé
+OdissÃ©
 
-   Portail open data de Santé publique France basé sur ses 70 systèmes de
-   surveillance, ses enquêtes et son expertise scientifique.
-   Accéder au portail Odissé
+   Portail open data de SantÃ© publique France basÃ© sur ses 70 systÃ¨mes de
+   surveillance, ses enquÃªtes et son expertise scientifique.
+   AccÃ©der au portail OdissÃ©
    Maladies d'origine tropicale
      * Chikungunya
      * Dengue
-     * Fièvre jaune
-     * Fièvres typhoïde et paratyphoïde
-     * Maladie à virus ebola
+     * FiÃ¨vre jaune
+     * FiÃ¨vres typhoÃ¯de et paratyphoÃ¯de
+     * Maladie Ã  virus ebola
      * Paludisme
      * Peste
      * Zika
 
-   Maladies de la mère et de l'enfant
-     * Anomalies et malformations congénitales
+   Maladies de la mÃ¨re et de l'enfant
+     * Anomalies et malformations congÃ©nitales
      * Bronchiolite
      * Coqueluche
      * Grippe
      * Maladies vasculaires de la grossesse
      * Mort inattendue du nourrisson
      * Saturnisme de l'enfant
-     * Surdité permanente néonatale
+     * SurditÃ© permanente nÃ©onatale
 
-Odissé
+OdissÃ©
 
-   Portail open data de Santé publique France basé sur ses 70 systèmes de
-   surveillance, ses enquêtes et son expertise scientifique.
-   Accéder au portail Odissé
+   Portail open data de SantÃ© publique France basÃ© sur ses 70 systÃ¨mes de
+   surveillance, ses enquÃªtes et son expertise scientifique.
+   AccÃ©der au portail OdissÃ©
    Maladies et infections respiratoires
      * Asthme
      * BPCO et insuffisance respiratoire chronique
@@ -197,131 +197,131 @@ Odissé
      * Coqueluche
      * COVID-19
      * Grippe
-     * Infection à coronavirus
-     * Infections à pneumocoque
-     * Légionellose
-     * Mésothéliomes
+     * Infection Ã  coronavirus
+     * Infections Ã  pneumocoque
+     * LÃ©gionellose
+     * MÃ©sothÃ©liomes
      * Tuberculose
 
-Odissé
+OdissÃ©
 
-   Portail open data de Santé publique France basé sur ses 70 systèmes de
-   surveillance, ses enquêtes et son expertise scientifique.
-   Accéder au portail Odissé
+   Portail open data de SantÃ© publique France basÃ© sur ses 70 systÃ¨mes de
+   surveillance, ses enquÃªtes et son expertise scientifique.
+   AccÃ©der au portail OdissÃ©
    Maladies hivernales
      * Bronchiolite
-     * Gastro-entérites aiguës
+     * Gastro-entÃ©rites aiguÃ«s
      * Grippe
 
-Odissé
+OdissÃ©
 
-   Portail open data de Santé publique France basé sur ses 70 systèmes de
-   surveillance, ses enquêtes et son expertise scientifique.
-   Accéder au portail Odissé
+   Portail open data de SantÃ© publique France basÃ© sur ses 70 systÃ¨mes de
+   surveillance, ses enquÃªtes et son expertise scientifique.
+   AccÃ©der au portail OdissÃ©
    Maladies infectieuses d'origine alimentaire
      * Botulisme
      * Brucellose
      * Campylobacter
-     * Choléra
-     * Fièvres typhoïde et paratyphoïde
-     * Gastro-entérites aiguës
-     * Hépatite A
-     * Hépatite E
-     * Listériose
+     * CholÃ©ra
+     * FiÃ¨vres typhoÃ¯de et paratyphoÃ¯de
+     * Gastro-entÃ©rites aiguÃ«s
+     * HÃ©patite A
+     * HÃ©patite E
+     * ListÃ©riose
      * Maladie de Creutzfeldt-Jakob
-     * Poliomyélite
+     * PoliomyÃ©lite
      * Salmonellose
-     * Syndrome hémolytique et urémique pédiatrique
+     * Syndrome hÃ©molytique et urÃ©mique pÃ©diatrique
      * Toxi-infections alimentaires collectives
 
-Odissé
+OdissÃ©
 
-   Portail open data de Santé publique France basé sur ses 70 systèmes de
-   surveillance, ses enquêtes et son expertise scientifique.
-   Accéder au portail Odissé
-   Maladies liées au travail
+   Portail open data de SantÃ© publique France basÃ© sur ses 70 systÃ¨mes de
+   surveillance, ses enquÃªtes et son expertise scientifique.
+   AccÃ©der au portail OdissÃ©
+   Maladies liÃ©es au travail
 
-   Dues à des expositions professionnelles, les principales maladies en
-   lien avec le travail sont surveillées par Santé publique France dans
-   l'objectif d'élaborer, avec les partenaires, les politiques publiques
-   de prévention.
-   Maladies liées au travail
+   Dues Ã  des expositions professionnelles, les principales maladies en
+   lien avec le travail sont surveillÃ©es par SantÃ© publique France dans
+   lâobjectif dâÃ©laborer, avec les partenaires, les politiques publiques
+   de prÃ©vention.
+   Maladies liÃ©es au travail
      * Asthme
      * Maladie de Parkinson
      * Maladie du motoneurone
-     * Maladies à caractère professionnel
-     * Mésothéliomes
-     * Souffrance psychique et épuisement professionnel
+     * Maladies Ã  caractÃ¨re professionnel
+     * MÃ©sothÃ©liomes
+     * Souffrance psychique et Ã©puisement professionnel
      * Troubles musculo-squelettiques
 
-   Maladies neurodégénératives
+   Maladies neurodÃ©gÃ©nÃ©ratives
 
-   Les maladies neurodégénératives sont des maladies chroniques
-   progressives qui touchent le système nerveux central. Santé publique
-   France en assure la surveillance épidémiologique.
-   Tout savoir sur les maladies Neurodégénératives
-     * Maladie d'Alzheimer et autres démences
+   Les maladies neurodÃ©gÃ©nÃ©ratives sont des maladies chroniques
+   progressives qui touchent le systÃ¨me nerveux central. SantÃ© publique
+   France en assure la surveillance Ã©pidÃ©miologique.
+   Tout savoir sur les maladies NeurodÃ©gÃ©nÃ©ratives
+     * Maladie d'Alzheimer et autres dÃ©mences
      * Maladie de Parkinson
      * Maladie du motoneurone
 
-Odissé
+OdissÃ©
 
-   Portail open data de Santé publique France basé sur ses 70 systèmes de
-   surveillance, ses enquêtes et son expertise scientifique.
-   Accéder au portail Odissé
-   Maladies transmissibles de l'animal à l'homme
-     * Borréliose de lyme
+   Portail open data de SantÃ© publique France basÃ© sur ses 70 systÃ¨mes de
+   surveillance, ses enquÃªtes et son expertise scientifique.
+   AccÃ©der au portail OdissÃ©
+   Maladies transmissibles de l'animal Ã  l'homme
+     * BorrÃ©liose de lyme
      * Brucellose
      * Campylobacter
      * Charbon
-     * Diphtérie
-     * Encéphalite à tiques
-     * Fièvre Q
+     * DiphtÃ©rie
+     * EncÃ©phalite Ã  tiques
+     * FiÃ¨vre Q
      * Grippe aviaire
      * Grippe porcine
      * Hantavirus
-     * Hépatite E
+     * HÃ©patite E
      * Leptospirose
-     * Listériose
-     * Maladie à virus ebola
+     * ListÃ©riose
+     * Maladie Ã  virus ebola
      * Mpox
      * Peste
      * Rage
      * Salmonellose
-     * Tularémie
+     * TularÃ©mie
      * West nile virus
 
-Odissé
+OdissÃ©
 
-   Portail open data de Santé publique France basé sur ses 70 systèmes de
-   surveillance, ses enquêtes et son expertise scientifique.
-   Accéder au portail Odissé
-   Santé mentale
+   Portail open data de SantÃ© publique France basÃ© sur ses 70 systÃ¨mes de
+   surveillance, ses enquÃªtes et son expertise scientifique.
+   AccÃ©der au portail OdissÃ©
+   SantÃ© mentale
 
-   Selon l'Organisation mondiale de la santé, la santé est un état de
-   complet bien-être physique, mental et social, et ne consiste pas
-   seulement en une absence de maladie ou d'infirmité.
-   Tout savoir sur Santé mentale
+   Selon lâOrganisation mondiale de la santÃ©, la santÃ© est un Ã©tat de
+   complet bien-Ãªtre physique, mental et social, et ne consiste pas
+   seulement en une absence de maladie ou dâinfirmitÃ©.
+   Tout savoir sur SantÃ© mentale
      * Autisme
-     * Dépression et anxiété
-     * Schizophrénie et autres troubles psychotiques
-     * Souffrance psychique et épuisement professionnel
+     * DÃ©pression et anxiÃ©tÃ©
+     * SchizophrÃ©nie et autres troubles psychotiques
+     * Souffrance psychique et Ã©puisement professionnel
      * Suicides et tentatives de suicide
 
-A télécharger
+A tÃ©lÃ©charger
 
-Santé mentale
+SantÃ© mentale
 
-   Bulletins mensuels nationaux de l'analyse des indicateurs surveillés en
+   Bulletins mensuels nationaux de l'analyse des indicateurs surveillÃ©s en
    continu
-   Lire les derniers numéros
+   Lire les derniers numÃ©ros
    Traumatismes
 
-   Les traumatismes non intentionnels entraînent chaque année environ 40
-   000 décès, dont 21000 décès suite à un accident de la vie courante et
+   Les traumatismes non intentionnels entraÃ®nent chaque annÃ©e environ 40
+   000 dÃ©cÃ¨s, dont 21â¯000 dÃ©cÃ¨s suite Ã  un accident de la vie courante et
    plusieurs millions de recours aux urgences.
    Tout savoir sur les traumatismes et accidents de la vie courante
-     * Brûlures
+     * BrÃ»lures
      * Chute
      * Noyade
 
@@ -332,72 +332,72 @@ Santé mentale
      * Grand froid
      * UV
 
-GÉODES
+GÃODES
 
-   Suivez l'évolution des canicules au cours des années en France et dans
-   votre région
-   Accédez à GÉODES
-   Exposition à des agents physiques
-   Tout savoir sur Exposition à des agents physiques
+   Suivez l'Ã©volution des canicules au cours des annÃ©es en France et dans
+   votre rÃ©gion
+   AccÃ©dez Ã  GÃODES
+   Exposition Ã  des agents physiques
+   Tout savoir sur Exposition Ã  des agents physiques
      * Amiante
-     * Nanomatériaux
+     * NanomatÃ©riaux
      * UV
 
-   Exposition à des substances chimiques
+   Exposition Ã  des substances chimiques
 
-   L'exposition à des substances chimiques présentes dans l'environnement
-   ou en milieu de travail peut avoir des conséquences néfastes sur la
-   santé. Santé publique France met en oeuvre des dispositifs de
-   surveillance pour caractériser et évaluer leurs impacts sur la santé.
-   Tout savoir sur Exposition à des substances chimiques
+   Lâexposition Ã  des substances chimiques prÃ©sentes dans lâenvironnement
+   ou en milieu de travail peut avoir des consÃ©quences nÃ©fastes sur la
+   santÃ©. SantÃ© publique France met en Åuvre des dispositifs de
+   surveillance pour caractÃ©riser et Ã©valuer leurs impacts sur la santÃ©.
+   Tout savoir sur Exposition Ã  des substances chimiques
      * Monoxyde de carbone
      * Perturbateurs endocriniens
      * Pesticides
 
-Odissé
+OdissÃ©
 
-   Portail open data de Santé publique France basé sur ses 70 systèmes de
-   surveillance, ses enquêtes et son expertise scientifique.
-   Accéder au portail Odissé
-   Pollution et santé
-   Tout savoir sur Pollution et santé
+   Portail open data de SantÃ© publique France basÃ© sur ses 70 systÃ¨mes de
+   surveillance, ses enquÃªtes et son expertise scientifique.
+   AccÃ©der au portail OdissÃ©
+   Pollution et santÃ©
+   Tout savoir sur Pollution et santÃ©
      * Air
-     * Air et environnements intérieurs
+     * Air et environnements intÃ©rieurs
      * Eau
      * Sols
 
-GÉODES
+GÃODES
 
-   Suivez l'évolution de l'impact de la pollution de l'air sur la santé en
-   France et dans votre région
-   Accédez à GÉODES
-   La santé à tout âge
+   Suivez lâÃ©volution de l'impact de la pollution de lâair sur la santÃ© en
+   France et dans votre rÃ©gion
+   AccÃ©dez Ã  GÃODES
+   La santÃ© Ã  tout Ã¢ge
 
-   A chaque âge correspondent des conditions de vie et des préoccupations
-   différentes. Il est donc cohérent de s'adresser différemment aux
-   personnes selon les différents âges de la vie.
+   A chaque Ã¢ge correspondent des conditions de vie et des prÃ©occupations
+   diffÃ©rentes. Il est donc cohÃ©rent de sâadresser diffÃ©remment aux
+   personnes selon les diffÃ©rents Ã¢ges de la vie.
    EN SAVOIR PLUS
-     * Les bilans de prévention aux âges clés de la vie
+     * Les bilans de prÃ©vention aux Ã¢ges clÃ©s de la vie
      * Bien vieillir
      * Enfants et jeunes
-     * Adultes et avancée en âge
+     * Adultes et avancÃ©e en Ã¢ge
      * Les 1000 premiers jours
 
-Restez informé
+Restez informÃ©
 
-   Pour suivre notre actualité, abonnez-vous à nos newsletters en
+   Pour suivre notre actualitÃ©, abonnez-vous Ã  nos newsletters en
    remplissant le formulaire ci-dessous
    En savoir plus
-   AccueilÉtudes et enquêtes
+   AccueilÃtudes et enquÃªtes
 
-CONFEADO : une étude destinée aux enfants sur le vécu du confinement lié à
-l'épidémie de COVID-19
+CONFEADO : une Ã©tude destinÃ©e aux enfants sur le vÃ©cu du confinement liÃ© Ã 
+lâÃ©pidÃ©mie de COVID-19
 
-   Santé publique France lance en partenariat avec d'autres institutions
-   une grande recherche nationale sur la manière dont les enfants et les
-   adolescents âgés de 9 à 16 ans ont vécu le confinement dans le contexte
-   épidémique de la COVID-19.
-   Publié le 20 mai 2021
+   SantÃ© publique France lance en partenariat avec dâautres institutions
+   une grande recherche nationale sur la maniÃ¨re dont les enfants et les
+   adolescents Ã¢gÃ©s de 9 Ã  16 ans ont vÃ©cu le confinement dans le contexte
+   Ã©pidÃ©mique de la COVID-19.
+   PubliÃ© le 20 mai 2021
    (BUTTON) Imprimer
    (BUTTON) Partager
      *
@@ -406,136 +406,136 @@ l'épidémie de COVID-19
      * Linkedin
      * Mail
 
-Restez informés sur l'épidémie de COVID-19, France et Monde
+Restez informÃ©s sur l'Ã©pidÃ©mie de COVID-19, France et Monde
 
-   Points de situation, questions-réponses, interviews d'experts... tout
-   savoir sur l'infection au nouveau coronavirus (SARS-CoV-2), COVID-19,
+   Points de situation, questions-rÃ©ponses, interviews d'experts... tout
+   savoir sur lâinfection au nouveau coronavirus (SARS-CoV-2), COVID-19,
    en France et dans le Monde
    En savoir plus
 
-CONFEADO : une étude qui donne la parole aux enfants
+CONFEADO : une Ã©tude qui donne la parole aux enfants
 
-   Parmi les mesures de contrôle de l'épidémie de COVID-19, la fermeture
-   de toutes les écoles de France a été mise en oeuvre à partir du lundi
-   16 mars 2020. Cette mesure a concerné plusieurs millions d'élèves, qui
-   ont été confinés pendant plusieurs semaines. Comment ont-ils vécu cette
-   période particulière et quelles ont été leurs stratégies pour y faire
+   Parmi les mesures de contrÃ´le de lâÃ©pidÃ©mie de COVID-19, la fermeture
+   de toutes les Ã©coles de France a Ã©tÃ© mise en Åuvre Ã  partir du lundi 16
+   mars 2020. Cette mesure a concernÃ© plusieurs millions dâÃ©lÃ¨ves, qui ont
+   Ã©tÃ© confinÃ©s pendant plusieurs semaines. Comment ont-ils vÃ©cu cette
+   pÃ©riode particuliÃ¨re et quelles ont Ã©tÃ© leurs stratÃ©gies pour y faire
    face ?
 
-   Pour répondre à cette question, Santé publique France lance l'étude
-   CONFEADO, en partenariat avec l'hôpital Avicenne de Bobigny,
-   l'Université Sorbonne Paris Nord, l'Inserm, l'Université de Tours,
+   Pour rÃ©pondre Ã  cette question, SantÃ© publique France lance lâÃ©tude
+   CONFEADO, en partenariat avec l'hÃ´pital Avicenne de Bobigny,
+   l'UniversitÃ© Sorbonne Paris Nord, l'Inserm, l'UniversitÃ© de Tours,
    CN2R, l'EHESS, le Lab School Network, le CNRS et avec le soutien du
    Fonds FHF.
 
-   Cette étude vise à comprendre la manière dont les enfants et les
-   adolescents âgés de 9 à 16 ans ont vécu le confinement jusqu'au 11 mai
-   2020 et comment celui-ci a pu avoir des conséquences sur leur
-   bien-être. Elle permettra de faire des recommandations aux pouvoirs
+   Cette Ã©tude vise Ã  comprendre la maniÃ¨re dont les enfants et les
+   adolescents Ã¢gÃ©s de 9 Ã  16 ans ont vÃ©cu le confinement jusqu'au 11 mai
+   2020 et comment celui-ci a pu avoir des consÃ©quences sur leur
+   bien-Ãªtre. Elle permettra de faire des recommandations aux pouvoirs
    publics pour accompagner les enfants et les adolescents dans cette
-   période de déconfinement et de reprise de l'école.
+   pÃ©riode de dÃ©confinement et de reprise de l'Ã©cole.
 
 Objectifs
 
-     * Evaluer l'état émotionnel et la résilience des enfants durant le
-       confinement et le déconfinement en fonction de leurs conditions de
-       vie durant cette période
-     * Mesurer, pour les enfants concernés, un éventuel trouble de stress
-       post traumatique au cas où un proche a été hospitalisé des suites
+     * Evaluer lâÃ©tat Ã©motionnel et la rÃ©silience des enfants durant le
+       confinement et le dÃ©confinement en fonction de leurs conditions de
+       vie durant cette pÃ©riode
+     * Mesurer, pour les enfants concernÃ©s, un Ã©ventuel trouble de stress
+       post traumatique au cas oÃ¹ un proche a Ã©tÃ© hospitalisÃ© des suites
        de la COVID-19
 
-Qui peut participer à l'étude ?
+Qui peut participer Ã  lâÃ©tude ?
 
-   Tous les enfants âgés de 9 à 16 ans et un de leurs parents
+   Tous les enfants Ã¢gÃ©s de 9 Ã  16 ans et un de leurs parents
 
-Comment participer à l'étude ?
+Comment participer Ã  lâÃ©tude ?
 
-   Les personnes souhaitant participer à l'étude CONFEADO peuvent répondre
-   à un questionnaire en ligne. Le questionnaire s'adresse :
-     * tout d'abord aux parents, qui renseignent les conditions de vie et
-       d'habitat de leurs enfants pendant le confinement (durée : moins de
+   Les personnes souhaitant participer Ã  lâÃ©tude CONFEADO peuvent rÃ©pondre
+   Ã  un questionnaire en ligne. Le questionnaire sâadresse :
+     * tout dâabord aux parents, qui renseignent les conditions de vie et
+       dâhabitat de leurs enfants pendant le confinement (durÃ©e : moins de
        5 minutes),
-     * puis aux enfants, qui répondent eux-mêmes à une série de questions
-       (durée : moins de 30 minutes).
+     * puis aux enfants, qui rÃ©pondent eux-mÃªmes Ã  une sÃ©rie de questions
+       (durÃ©e : moins de 30 minutes).
 
-Résultats
+RÃ©sultats
 
-Résultats préliminaires
+RÃ©sultats prÃ©liminaires
 
-   On observe des disparités en santé mentale, classiquement retrouvés
-   selon l'âge et le sexe avec une santé mentale plus impactée chez les
-   adolescents (13-18 ans) que chez les enfants (9-12 ans) et une santé
-   mentale plus impactée chez les filles que chez les garçons.
+   On observe des disparitÃ©s en santÃ© mentale, classiquement retrouvÃ©s
+   selon lâÃ¢ge et le sexe avec une santÃ© mentale plus impactÃ©e chez les
+   adolescents (13-18 ans) que chez les enfants (9-12 ans) et une santÃ©
+   mentale plus impactÃ©e chez les filles que chez les garÃ§ons.
 
-   Les résultats font également ressortir une nette fracture sociale lors
+   Les rÃ©sultats font Ã©galement ressortir une nette fracture sociale lors
    du premier confinement.  En effet, les enfants et les adolescents qui
-   ont ressenti davantage de détresse sont ceux qui étaient issues de
-   familles plus fragilisées (familles monoparentales, avec un niveau
-   d'étude plus faible, davantage ouvriers ou employés, nés à l'étranger,
-   et en situation d'isolement social) et exposés à :
-     * des conditions de logement difficiles (confinés en zone urbaine,
-       dans un appartement ou une maison sans jardin, sans accès à un
-       extérieur dans le logement, une sur-occupation du logement sans
-       possibilité de s'isoler),
-     * des conditions économiques difficiles (difficultés financières et
-       alimentaires, période de chômage des parents avant le confinement,
-       baisse des revenus suite à l'épidémie et pas de connexion à
+   ont ressenti davantage de dÃ©tresse sont ceux qui Ã©taient issues de
+   familles plus fragilisÃ©es (familles monoparentales, avec un niveau
+   dâÃ©tude plus faible, davantage ouvriers ou employÃ©s, nÃ©s Ã  lâÃ©tranger,
+   et en situation dâisolement social) et exposÃ©s Ã  :
+     * des conditions de logement difficiles (confinÃ©s en zone urbaine,
+       dans un appartement ou une maison sans jardin, sans accÃ¨s Ã  un
+       extÃ©rieur dans le logement, une sur-occupation du logement sans
+       possibilitÃ© de sâisoler),
+     * des conditions Ã©conomiques difficiles (difficultÃ©s financiÃ¨res et
+       alimentaires, pÃ©riode de chÃ´mage des parents avant le confinement,
+       baisse des revenus suite Ã  lâÃ©pidÃ©mie et pas de connexion Ã 
        internet),
 
-   Ces enfants et adolescents ont souffert davantage d'un manque
-   d'activité pendant le confinement : moins de sorties à l'extérieur, une
-   forte consommation d'écran avec davantage de temps quotidien passé sur
-   les réseaux sociaux, moins de contacts avec leurs amis et moins
-   d'activités ludiques avec des adultes. Ces enfants étaient davantage
-   dépassés par les devoirs que les autres. La détresse psychologique
-   était également influencée par l'infection et l'hospitalisation d'un
-   proche, suite à la Covid-19.
+   Ces enfants et adolescents ont souffert davantage dâun manque
+   dâactivitÃ© pendant le confinement : moins de sorties Ã  lâextÃ©rieur, une
+   forte consommation dâÃ©cran avec davantage de temps quotidien passÃ© sur
+   les rÃ©seaux sociaux, moins de contacts avec leurs amis et moins
+   dâactivitÃ©s ludiques avec des adultes. Ces enfants Ã©taient davantage
+   dÃ©passÃ©s par les devoirs que les autres. La dÃ©tresse psychologique
+   Ã©tait Ã©galement influencÃ©e par lâinfection et lâhospitalisation dâun
+   proche, suite Ã  la Covid-19.
 
-   Les enfants les plus résilients étaient ceux qui n'ont pas eu de
-   détresse pendant le confinement, avaient de meilleures conditions de
-   vie, avec des activités à l'extérieur, des contacts avec des amis, une
-   consommation modérée des réseaux sociaux et ayant eu des activités
+   Les enfants les plus rÃ©silients Ã©taient ceux qui nâont pas eu de
+   dÃ©tresse pendant le confinement, avaient de meilleures conditions de
+   vie, avec des activitÃ©s Ã  lâextÃ©rieur, des contacts avec des amis, une
+   consommation modÃ©rÃ©e des rÃ©seaux sociaux et ayant eu des activitÃ©s
    ludiques avec des adultes tous les jours.
-     * Voir le Bulletin épidémiologique hebdomadaire (BEH) n°8 série
+     * Voir le Bulletin Ã©pidÃ©miologique hebdomadaire (BEH) nÂ°8 sÃ©rie
        Covid-19 du 20 mai 2021.
-     * Consulter l'actualité
+     * Consulter l'actualitÃ©
 
-Information concernant l'utilisation des données
+Information concernant lâutilisation des donnÃ©es
 
-   Toutes les réponses sont anonymes, confidentielles et sont utilisées
-   uniquement pour la recherche en santé publique. L'Université Paris 13
-   et Santé publique France sont responsables conjointement du traitement
-   de données à caractère personnel mis en oeuvre. Ce traitement est fondé
-   sur l'exécution d'une mission d'intérêt public.
+   Toutes les rÃ©ponses sont anonymes, confidentielles et sont utilisÃ©es
+   uniquement pour la recherche en santÃ© publique. L'UniversitÃ© Paris 13
+   et SantÃ© publique France sont responsables conjointement du traitement
+   de donnÃ©es Ã  caractÃ¨re personnel mis en Åuvre. Ce traitement est fondÃ©
+   sur l'exÃ©cution d'une mission d'intÃ©rÃªt public.
 
-Vous souhaitez participer l'étude ?
+Vous souhaitez participer l'Ã©tude ?
 
-   Plus d'informations sur l'étude CONFEADO et accès au questionnaire en
+   Plus d'informations sur l'Ã©tude CONFEADO et accÃ¨s au questionnaire en
    ligne
-   Participez à l'étude
+   Participez Ã  l'Ã©tude
 
 #TousAntiCovid
 
-   Soyez alerté et alertez les personnes en cas d'exposition à la Covid-19
-   Découvrir l'application
+   Soyez alertÃ© et alertez les personnes en cas dâexposition Ã  la Covid-19
+   DÃ©couvrir l'application
 
-Nous écrire par email
+Nous Ã©crire par email
 
-   Vous avez une question, une demande (changement de coordonnées, presse,
-   reproduction de documents, demande de stages, données à caractère
-   personnel...), écrivez-nous par mail
-   Civilité
+   Vous avez une question, une demande (changement de coordonnÃ©es, presse,
+   reproduction de documents, demande de stages, donnÃ©es Ã  caractÃ¨re
+   personnelâ¦), Ã©crivez-nous par mail
+   CivilitÃ©
    (*) Madame
    ( ) Monsieur
-   Veuillez renseigner votre civilité
-   Votre prénom ____________________
+   Veuillez renseigner votre civilitÃ©
+   Votre prÃ©nom ____________________
    Votre nom ____________________
-   Veuillez renseigner votre prénom
+   Veuillez renseigner votre prÃ©nom
    Veuillez renseigner votre nom
    Votre courriel ____________________
    Veuillez renseigner votre email
    Votre email n'est pas valide
-   Objet de votre demande[Objet de la demande_________________]
+   Objet de votre demande[Objet de la demande__________________]
    Veuillez renseigner l'objet de votre demande
    Votre message
    ____________________________________________________________
@@ -545,10 +545,10 @@ Nous écrire par email
    Veuillez renseigner votre message
    Veuillez cocher le recaptcha a
    (BUTTON) Envoyer mon message
-   Réinitialiser
-   Une erreur s'est produite, veuillez réessayer ultérieurement
+   RÃ©initialiser
+   Une erreur s'est produite, veuillez rÃ©essayer ultÃ©rieurement
 
-Votre demande a bien été envoyée
+Votre demande a bien Ã©tÃ© envoyÃ©e
 
    Nos services
    santementale-info-service.fr vaccination-info-service.fr
@@ -563,10 +563,10 @@ Votre demande a bien été envoyée
      *
      *
 
-   © Santé Publique France - Tous droits réservés
-     * Mentions légales
+   Â© SantÃ© Publique France - Tous droits rÃ©servÃ©s
+     * Mentions lÃ©gales
      * Cookies
-     * Accessibilité
+     * AccessibilitÃ©
      * Offres d'emploi
      * Plan du site
      * Nous contacter
@@ -582,7 +582,7 @@ Votre demande a bien été envoyée
      * Coronavirus
      * Dengue
      * Grippe
-     * Maladies à déclaration obligatoire
+     * Maladies Ã  dÃ©claration obligatoire
      * Nutri-Score
      * Vaccination
 
@@ -593,5 +593,5 @@ Votre demande a bien été envoyée
 
    Un instant...
 
-   Nous cherchons les réponses les plus pertinentes pour votre recherche.
+   Nous cherchons les rÃ©ponses les plus pertinentes pour votre recherche.
    (BUTTON)

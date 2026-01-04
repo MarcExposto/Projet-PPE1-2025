@@ -1,32 +1,32 @@
     1. Accueil
-    2. Mécanismes de transfert aéraulique au travers d'ou...
+    2. MÃ©canismes de transfert aÃ©raulique au travers dâou...
 
-Mécanismes de transfert aéraulique au travers d'ouvertures : application à
-l'efficacité du confinement dynamique d'enceintes de chantier
+MÃ©canismes de transfert aÃ©raulique au travers dâouvertures : application Ã 
+lâefficacitÃ© du confinement dynamique dâenceintes de chantier
 
      * (BUTTON) Imprimer
      * (BUTTON) Partager
        Partager la page
 --
 
-   &#8203;Salima Kaissoun a soutenu sa thèse le 14 juin 2018 à Saclay.
-   Type de document > *Mémoire/HDR/Thèse
+   âSalima Kaissoun a soutenu sa thÃ¨se le 14 juin 2018 Ã  Saclay.
+   Type de document > *MÃ©moire/HDR/ThÃ¨se
 
    Le confinement dynamique est une technique mise en oeuvre dans les
-   installations nucléaires. Elle consiste à imposer un sens d'écoulement
-   d'air préférentiel au travers d'une ouverture (nominale ou
-   intempestive) séparant deux zones physiques afin d'orienter la
-   contamination vers la zone la plus polluée et d'éviter tout transfert
-   vers l'extérieur de l'enceinte de confinement. Des critères aérauliques
-   tels qu'une vitesse débitante à l'ouverture ou une dépression imposée
-   sont actuellement utilisés par les exploitants, y compris dans les sas
-   de chantiers lors des opérations de maintenance et de démantèlement.
+   installations nuclÃ©aires. Elle consiste Ã  imposer un sens dâÃ©coulement
+   dâair prÃ©fÃ©rentiel au travers dâune ouverture (nominale ou
+   intempestive) sÃ©parant deux zones physiques afin dâorienter la
+   contamination vers la zone la plus polluÃ©e et dâÃ©viter tout transfert
+   vers lâextÃ©rieur de lâenceinte de confinement. Des critÃ¨res aÃ©rauliques
+   tels quâune vitesse dÃ©bitante Ã  lâouverture ou une dÃ©pression imposÃ©e
+   sont actuellement utilisÃ©s par les exploitants, y compris dans les sas
+   de chantiers lors des opÃ©rations de maintenance et de dÃ©mantÃ¨lement.
 
 --
-   Laboratoire IRSN impliqué
+   Laboratoire IRSN impliquÃ©
    Migration content text
 
-   &#8203;Laboratoire d'études et de modélisation en aérodispersion et
+   âLaboratoire d'Ã©tudes et de modÃ©lisation en aÃ©rodispersion et
    confinement (LEMAC)
    Migration content title
    Contact

@@ -1,4 +1,4 @@
-   #1jour1actu.com » C'est quoi, le confinement ? Flux des commentaires
+   #1jour1actu.com Â» Câest quoi, le confinement ? Flux des commentaires
    oEmbed (JSON) oEmbed (XML) JSON
 
    Logo 1jour1actu Logo 1jour1actu
@@ -10,7 +10,7 @@
    Logo 1jour1actu Logo 1jour1actu
      * Accueil
      * Actus
-     * Vidéos
+     * VidÃ©os
      * Podcasts
 
    ____________________ (BUTTON) Rechercher
@@ -20,317 +20,318 @@
    ____________________ (BUTTON) Rechercher
 
      * Accueil enseignants
-     * Séances hebdo
+     * SÃ©ances hebdo
      *
           + EMC
             Les Essentiels
           + EMC
             Les podcasts
-          + Éducation aux médias
+          + Ãducation aux mÃ©dias
           + Esprit critique
-       Parcours Thématiques EMC
-     * Ressources par matière
+       Parcours ThÃ©matiques EMC
+     * Ressources par matiÃ¨re
           + Histoire
-          + Géo
+          + GÃ©o
           + Sciences
           + Anglais
           + Culture
-     * Émissions
+     * Ãmissions
      * 1jour1actu, c'est quoi?
 
    Contactez
-   votre délégué
+   votre dÃ©lÃ©guÃ©
    Facebook Facebook Twitter Twitter Instagram Instagram
 
      * Actus
-     * Vidéos
+     * VidÃ©os
      * Podcasts
      * Jeux
 
      * Accueil
 
-     o
+     â¢
 
-     Vidéos
+     VidÃ©os
 
-     o
+     â¢
 
      Monde
 
-     o
+     â¢
 
-     C'est quoi, le confinement ?
+     Câest quoi, le confinement ?
 
-                          C'est quoi, le confinement ?
+                         Câest quoi, le confinement ?
 
-   Publié le 05 avril 2020 à 23:00
-   Modifié le 14 octobre 2021 à 11:47
+   PubliÃ© le 05 avril 2020 Ã  23:00
+   ModifiÃ© le 14 octobre 2021 Ã  11:47
    60
 
    confinement confinement
 
-   (BUTTON) Jeux (BUTTON) Voir d'autres vidéos
+   (BUTTON) Jeux (BUTTON) Voir d'autres vidÃ©os
 
-   En raison de l'épidémie de COVID-19, près de 4 milliards de personnes
-   sont obligées de rester chez elles, ou vivement encouragées à le faire.
-   Cela représente la moitié de la population mondiale. Cette vidéo
-   t'explique pourquoi autant de pays ont pris cette décision, parfois
-   difficile à vivre au quotidien pour chacun d'entre nous.
+   En raison de lâÃ©pidÃ©mie de COVID-19, prÃ¨s de 4 milliards de personnes
+   sont obligÃ©es de rester chez elles, ou vivement encouragÃ©es Ã  le faire.
+   Cela reprÃ©sente la moitiÃ© de la population mondiale. Cette vidÃ©o
+   tâexplique pourquoi autant de pays ont pris cette dÃ©cision, parfois
+   difficile Ã  vivre au quotidien pour chacun dâentre nous.
 
    IFRAME: https://player.vimeo.com/video/403624241?dnt=1&app_id=122963
 
-C'est quoi, le confinement ?
+Câest quoi, le confinement ?
 
-   Le confinement, c'est quand on enferme quelqu'un pour le protéger, ou
-   protéger les autres. Ainsi, en cas de maladie contagieuse, on confine
-   les malades pour qu'ils ne contaminent pas d'autres personnes... Ou on
-   confine toute la population, pour éviter qu'elle tombe malade. Comme
-   c'est le cas pour la pandémie de Covid-19.
+   Le confinement, câest quand on enferme quelquâun pour le protÃ©ger, ou
+   protÃ©ger les autres. Ainsi, en cas de maladie contagieuse, on confine
+   les malades pour quâils ne contaminent pas dâautres personnesâ¦ Ou on
+   confine toute la population, pour Ã©viter quâelle tombe malade. Comme
+   câest le cas pour la pandÃ©mie de Covid-19.
 
-   Face à cette maladie, de nombreux pays comme la France, l'Italie ou
-   l'Inde, ont décidé de confiner leurs habitants pendant plusieurs
+   Face Ã  cette maladie, de nombreux pays comme la France, lâItalie ou
+   lâInde, ont dÃ©cidÃ© de confiner leurs habitants pendant plusieurs
    semaines. Ils leur demandent de rester chez eux, et de ne sortir que si
-   c'est nécessaire. Ce confinement touche des milliards de personnes à
-   travers le monde. La planète n'avait jamais connu ça !
+   câest nÃ©cessaire. Ce confinement touche des milliards de personnes Ã 
+   travers le monde. La planÃ¨te nâavait jamais connu Ã§a !
 
-Mais pourquoi c'est efficace, le confinement ?
+Mais pourquoi câest efficace, le confinement ?
 
-   En temps normal, les gens passent leur journée à se croiser : au
-   bureau, à l'école, dans les magasins... Un virus peut facilement passer
-   d'une personne à une autre. En confinant la population, on réduit les
+   En temps normal, les gens passent leur journÃ©e Ã  se croiser : au
+   bureau, Ã  lâÃ©cole, dans les magasinsâ¦ Un virus peut facilement passer
+   dâune personne Ã  une autre. En confinant la population, on rÃ©duit les
    contacts entre les personnes. Et on freine la diffusion de la maladie !
 
-   Dès le Moyen Âge, on a utilisé le confinement. Notamment contre la
-   peste, une maladie très contagieuse. À l'époque, on s'est aperçu qu'en
-   isolant les malades et leurs familles, on ralentissait l'épidémie.
+   DÃ¨s le Moyen Ãge, on a utilisÃ© le confinement. Notamment contre la
+   peste, une maladie trÃ¨s contagieuse. Ã lâÃ©poque, on sâest aperÃ§u quâen
+   isolant les malades et leurs familles, on ralentissait lâÃ©pidÃ©mie.
 
-   Le confinement n'est pas la seule solution. On teste aussi des
-   médicaments, et on cherche un vaccin. Mais cette recherche peut prendre
+   Le confinement nâest pas la seule solution. On teste aussi des
+   mÃ©dicaments, et on cherche un vaccin. Mais cette recherche peut prendre
    beaucoup de temps. Alors que le confinement, lui, est efficace
    rapidement !
 
-   Émilie Leturcq
+   Ãmilie Leturcq
 
-   La rédac'
+   La rÃ©dac'
    60 commentaires (BUTTON) J'envoie un message
-    1. Répondre Signaler un abus
-       Cléclé 586 | le 01/02/2021 à 20:10
-       Le confinement c'est trop triste!!!!!!!!!!!!!!!!!!!!! ¡
-    2. Répondre Signaler un abus
-       billieedo | le 18/05/2020 à 19:35
-       comment a commencé l'apparition de la langue francaise
-    3. Répondre Signaler un abus
-       Shadow Ghita | le 18/05/2020 à 14:57
+    1. RÃ©pondre Signaler un abus
+       ClÃ©clÃ© 586 | le 01/02/2021 Ã  20:10
+       Le confinement câest trop triste!!!!!!!!!!!!!!!!!!!!! ð¡
+    2. RÃ©pondre Signaler un abus
+       billieedo | le 18/05/2020 Ã  19:35
+       comment a commencÃ© lâapparition de la langue francaise
+    3. RÃ©pondre Signaler un abus
+       Shadow Ghita | le 18/05/2020 Ã  14:57
        Restez chez vous et tout se passera bien !!!
-    4. Répondre Signaler un abus
-       oumou Tawel | le 14/05/2020 à 17:31
+    4. RÃ©pondre Signaler un abus
+       oumou Tawel | le 14/05/2020 Ã  17:31
        Bonjour a tous,
-       Je m'appelle oumou de Guinée Conakry, restez a la maison on peut
-       apprendre a lire et faire le sport dans son salon pour éviter
-       d'être contaminer par cette maladie invisible .
-    5. Répondre Signaler un abus
-       CLEO | le 12/05/2020 à 11:07
-       moi je déteste le comfinement je voulai retourner a l'école
-    6. Répondre Signaler un abus
-       Brrrrrrrrrr | le 08/05/2020 à 18:49
-       C'est incroyable que vous ayez fait ça depuis chez vous. Bien joué!
-    7. Répondre Signaler un abus
-       Sniff | le 08/05/2020 à 9:38
-       Salut, cést tres interessant ¡
-    8. Répondre Signaler un abus
-       tyty 58 | le 07/05/2020 à 15:06
-       c'est quoi l'amour????
-    9. Répondre Signaler un abus
-       Paolo | le 06/05/2020 à 8:59
+       Je mâappelle oumou de GuinÃ©e Conakry, restez a la maison on peut
+       apprendre a lire et faire le sport dans son salon pour Ã©viter
+       dâÃªtre contaminer par cette maladie invisible .
+    5. RÃ©pondre Signaler un abus
+       CLEO | le 12/05/2020 Ã  11:07
+       moi je dÃ©teste le comfinement je voulai retourner a lâÃ©cole
+    6. RÃ©pondre Signaler un abus
+       Brrrrrrrrrr | le 08/05/2020 Ã  18:49
+       Câest incroyable que vous ayez fait Ã§a depuis chez vous. Bien jouÃ©!
+    7. RÃ©pondre Signaler un abus
+       Sniff | le 08/05/2020 Ã  9:38
+       Salut, cÃ©st tres interessant ð¡
+    8. RÃ©pondre Signaler un abus
+       tyty 58 | le 07/05/2020 Ã  15:06
+       câest quoi lâamour????
+    9. RÃ©pondre Signaler un abus
+       Paolo | le 06/05/2020 Ã  8:59
+       ð
        salut, je suis italien.
-       il est très important de rester à la maison en ce moment. En fait,
-       je ne suis jamais sorti
-   10. Répondre Signaler un abus
-       Paolo | le 05/05/2020 à 11:24
-       biodiversité
-   11. Répondre Signaler un abus
-       Yassin | le 04/05/2020 à 16:36
-       C'est quoi le « Coronavirus »
-   12. Répondre Signaler un abus
-       Nassim | le 04/05/2020 à 10:54
-       rester cher vous, proteger vos proche les plus vulnérable, frénons
-       la pandémie
-   13. Répondre Signaler un abus
-       Chloe | le 29/04/2020 à 22:30
-       Je ne comprend pas ques-ce que c'est le confinement.
-   14. Répondre Signaler un abus
-       coco | le 23/04/2020 à 14:27
+       il est trÃ¨s important de rester Ã  la maison en ce moment. En fait,
+       je ne suis jamais sorti ð
+   10. RÃ©pondre Signaler un abus
+       Paolo | le 05/05/2020 Ã  11:24
+       biodiversitÃ©
+   11. RÃ©pondre Signaler un abus
+       Yassin | le 04/05/2020 Ã  16:36
+       Câest quoi le Â« Coronavirus Â»
+   12. RÃ©pondre Signaler un abus
+       Nassim | le 04/05/2020 Ã  10:54
+       rester cher vous, proteger vos proche les plus vulnÃ©rable, frÃ©nons
+       la pandÃ©mie
+   13. RÃ©pondre Signaler un abus
+       Chloe | le 29/04/2020 Ã  22:30
+       Je ne comprend pas ques-ce que câest le confinement.
+   14. RÃ©pondre Signaler un abus
+       coco | le 23/04/2020 Ã  14:27
        et lavez vous bien les mains
-   15. Répondre Signaler un abus
-       Avery | le 21/04/2020 à 8:35
+   15. RÃ©pondre Signaler un abus
+       Avery | le 21/04/2020 Ã  8:35
        Yo that shit is crazy! Wow! Insane!
-   16. Répondre Signaler un abus
-       Emma | le 20/04/2020 à 17:55
-       hier c est té ma fete mais je suis en confinement grrrrrrr
-   17. Répondre Signaler un abus
-       Yeasmin | le 20/04/2020 à 10:54
-       Cela me manque d'être avec mes amis, mais j'espère que tout le
-       monde est en sécurité
-   18. Répondre Signaler un abus
-       Ida | le 20/04/2020 à 9:30
-       Restez chez vous et prenez soin de vous et protégez les plus
-       vulnérables
-   19. Répondre Signaler un abus
-       Lélé | le 17/04/2020 à 14:06
-       Moi, l'école me manque beaucoup pour apprendre et voir mes copains.
-   20. Répondre Signaler un abus
-       Ryad | le 16/04/2020 à 10:04
-       Rester chez vous sinon vous serait contaminé
-   21. Répondre Signaler un abus
-       Clara | le 15/04/2020 à 16:28
-       Restez chez vous et prenez soin de vous et protégez les plus
-       vulnérables et les et n'oubliez pas restez chez vous si vous êtes
-       malade restez chez vous c est pas que je veux être méchante mes
-       c'est pour votre bien de tous et n'oubliez pas aidez nou à faire
+   16. RÃ©pondre Signaler un abus
+       Emma | le 20/04/2020 Ã  17:55
+       hier c est tÃ© ma fete mais je suis en confinement grrrrrrr
+   17. RÃ©pondre Signaler un abus
+       Yeasmin | le 20/04/2020 Ã  10:54
+       Cela me manque dâÃªtre avec mes amis, mais jâespÃ¨re que tout le
+       monde est en sÃ©curitÃ© ð
+   18. RÃ©pondre Signaler un abus
+       Ida | le 20/04/2020 Ã  9:30
+       Restez chez vous et prenez soin de vous et protÃ©gez les plus
+       vulnÃ©rables ð
+   19. RÃ©pondre Signaler un abus
+       LÃ©lÃ© | le 17/04/2020 Ã  14:06
+       Moi, lâÃ©cole me manque beaucoup pour apprendre et voir mes copains.
+   20. RÃ©pondre Signaler un abus
+       Ryad | le 16/04/2020 Ã  10:04
+       Rester chez vous sinon vous serait contaminÃ©
+   21. RÃ©pondre Signaler un abus
+       Clara | le 15/04/2020 Ã  16:28
+       Restez chez vous et prenez soin de vous et protÃ©gez les plus
+       vulnÃ©rables et les et nâoubliez pas restez chez vous si vous Ãªtes
+       malade restez chez vous c est pas que je veux Ãªtre mÃ©chante mes
+       câest pour votre bien de tous et nâoubliez pas aidez nou Ã  faire
        des masques et restez chez vous merci ?????????????????????
-   22. Répondre Signaler un abus
-       Pierre | le 15/04/2020 à 15:05
-       Applaudissez svp les aide soignants, les médecins, et les
+   22. RÃ©pondre Signaler un abus
+       Pierre | le 15/04/2020 Ã  15:05
+       Applaudissez svp les aide soignants, les mÃ©decins, et les
        infirmiers !!!!!
-   23. Répondre Signaler un abus
-       Mil/k-shake.Chøcø | le 15/04/2020 à 10:57
-       Prenez bien soin de vous en restant dans votre maison!
-   24. Répondre Signaler un abus
-       Adam | le 14/04/2020 à 19:05
+   23. RÃ©pondre Signaler un abus
+       MÄ¯Åk-Å¡hÄkÄ.ÄhÃ¸ÄÃ¸ | le 15/04/2020 Ã  10:57
+       Prenez bien soin de vous en restant dans votre maison! ð ð
+   24. RÃ©pondre Signaler un abus
+       Adam | le 14/04/2020 Ã  19:05
        Restez chez vous
-   25. Répondre Signaler un abus
-       le petit chaperon rouge | le 10/04/2020 à 18:24
-       Merci à tous les gens qui nous aident !!!
-   26. Répondre Signaler un abus
-       azeerff | le 10/04/2020 à 11:49
-       RESTEZ CHEZ VOUS
-   27. Répondre Signaler un abus
-       reine nooelly | le 09/04/2020 à 22:38
-       bizzare pourquoi parler de ça
-   28. Répondre Signaler un abus
-       Val | le 09/04/2020 à 19:20
-       moi c'es pareil
-   29. Répondre Signaler un abus
-       Arthur-omega | le 09/04/2020 à 15:52
-       cool la vidéo mais je crains pour mes vacances et mon anniv
-   30. Répondre Signaler un abus
-       the mec | le 09/04/2020 à 15:16
-       moi j'aime pas le confinement parce qu'on ne peux pas voir ses
-       copains !!
-   31. Répondre Signaler un abus
-       Rachou | le 08/04/2020 à 18:45
-       Salut moi j'aime le confinement car on voit plus sa famille même si
-       ma mère fait du télétravail donc je la voit moins et que je suis
-       tombé malade mais
+   25. RÃ©pondre Signaler un abus
+       le petit chaperon rouge | le 10/04/2020 Ã  18:24
+       Merci Ã  tous les gens qui nous aident !!! ð
+   26. RÃ©pondre Signaler un abus
+       azeerff | le 10/04/2020 Ã  11:49
+       â â RESTEZ CHEZ VOUS â â
+   27. RÃ©pondre Signaler un abus
+       reine nooelly | le 09/04/2020 Ã  22:38
+       bizzare pourquoi parler de Ã§a
+   28. RÃ©pondre Signaler un abus
+       Val | le 09/04/2020 Ã  19:20
+       moi câes pareil
+   29. RÃ©pondre Signaler un abus
+       Arthur-omega | le 09/04/2020 Ã  15:52
+       cool la vidÃ©o ð mais je crains pour mes vacances et mon anniv â
+   30. RÃ©pondre Signaler un abus
+       the mec | le 09/04/2020 Ã  15:16
+       moi jâaime pas le confinement parce quâon ne peux pas voir ses
+       copains !! ð
+   31. RÃ©pondre Signaler un abus
+       Rachou | le 08/04/2020 Ã  18:45
+       Salut moi jâaime le confinement car on voit plus sa famille mÃªme si
+       ma mÃ¨re fait du tÃ©lÃ©travail donc je la voit moins et que je suis
+       tombÃ© malade mais
        maintenant je vais mieux.
-   32. Répondre Signaler un abus
-       CestSuper | le 08/04/2020 à 17:23
-       ® Tre bien! Super Francais!
-   33. Répondre Signaler un abus
-       Laroris | le 08/04/2020 à 14:27
-       Moi aussi mes copains ils me manquant un peu
-   34. Répondre Signaler un abus
-       Laroris | le 08/04/2020 à 14:25
-       Est-ce que les animaux peuvent avoir le Covid 19
-   35. Répondre Signaler un abus
-       Elodie | le 08/04/2020 à 14:15
-       C'est quoi la maladie la peste
-   36. Répondre Signaler un abus
-       Bokuto The ACE | le 07/04/2020 à 19:09
-       C'est un bon video. Merci.
-   37. Répondre Signaler un abus
-       élora masson | le 07/04/2020 à 17:30
+   32. RÃ©pondre Signaler un abus
+       CestSuper | le 08/04/2020 Ã  17:23
+       ð® Tre bien! ð Super Francais!
+   33. RÃ©pondre Signaler un abus
+       Laroris | le 08/04/2020 Ã  14:27
+       Moi aussi mes copains ils me manquant un peu ð
+   34. RÃ©pondre Signaler un abus
+       Laroris | le 08/04/2020 Ã  14:25
+       Est-ce que les animaux peuvent avoir le Covid 19 â
+   35. RÃ©pondre Signaler un abus
+       Elodie | le 08/04/2020 Ã  14:15
+       Câest quoi la maladie la peste
+   36. RÃ©pondre Signaler un abus
+       Bokuto The ACE | le 07/04/2020 Ã  19:09
+       Câest un bon video. Merci.
+   37. RÃ©pondre Signaler un abus
+       Ã©lora masson | le 07/04/2020 Ã  17:30
        pourquois les chats voit bien dans le noir
-   38. Répondre Signaler un abus
-       Alyssa | le 07/04/2020 à 15:42
-       J'ai bien aimé cette video surtout restez bien chez vous
-   39. Répondre Signaler un abus
-       Nael | le 07/04/2020 à 15:12
-       J'ai compris mais mes copains de l'école me manque quand même.
-   40. Répondre Signaler un abus
-       Cookie | le 06/04/2020 à 22:55
+   38. RÃ©pondre Signaler un abus
+       Alyssa | le 07/04/2020 Ã  15:42
+       Jâai bien aimÃ© cette video ð surtout restez bien chez vous ð
+   39. RÃ©pondre Signaler un abus
+       Nael | le 07/04/2020 Ã  15:12
+       Jâai compris mais mes copains de lâÃ©cole me manque quand mÃªme.
+   40. RÃ©pondre Signaler un abus
+       Cookie | le 06/04/2020 Ã  22:55
        Une super cool video! Comme tout les autres. Merci!
-   41. Répondre Signaler un abus
-       clémous | le 06/04/2020 à 20:08
-       trop bien!!
-   42. Répondre Signaler un abus
-       Safaa Mofaddel | le 06/04/2020 à 19:22
-       ?? C'est quoi la « peste »?
-   43. Répondre Signaler un abus
-       volcan mon cheval | le 06/04/2020 à 18:32
+   41. RÃ©pondre Signaler un abus
+       clÃ©mous | le 06/04/2020 Ã  20:08
+       ð ð trop bien!!
+   42. RÃ©pondre Signaler un abus
+       Safaa Mofaddel | le 06/04/2020 Ã  19:22
+       ?? Câest quoi la Â« peste Â»?
+   43. RÃ©pondre Signaler un abus
+       volcan mon cheval | le 06/04/2020 Ã  18:32
        Merci encore pour cette superbe video
-   44. Répondre Signaler un abus
-       Volcan mon cheval | le 06/04/2020 à 18:30
+   44. RÃ©pondre Signaler un abus
+       Volcan mon cheval | le 06/04/2020 Ã  18:30
        Coucou, cette video est parfaitement claire. Mes amies me manquent.
-       Mais, je sais que c'est pour notre bien.
-       Merci beaucoup à 1jour1actu. #restez chez vous. Et à bientôt pour
+       Mais, je sais que câest pour notre bien.
+       Merci beaucoup Ã  1jour1actu. #restez chez vous. Et Ã  bientÃ´t pour
        un nouveau commentaire.
-   45. Répondre Signaler un abus
-       chichilaqueen | le 06/04/2020 à 17:55
-       je suis daccord mes amis me manque
-   46. Répondre Signaler un abus
-       Mimi | le 06/04/2020 à 17:21
-       je ne trouve pas sa amusant car mes amie me manque et jai une
-       question le corona vérus est t`il dangereu pour nous les enfant
-   47. Répondre Signaler un abus
-       ali33097 | le 06/04/2020 à 17:18
+   45. RÃ©pondre Signaler un abus
+       chichilaqueen | le 06/04/2020 Ã  17:55
+       je suis daccord mes amis me manque ð ð
+   46. RÃ©pondre Signaler un abus
+       Mimi | le 06/04/2020 Ã  17:21
+       ð je ne trouve pas sa amusant car mes amie me manque et jai une
+       question le corona vÃ©rus est t`il dangereu pour nous les enfant
+   47. RÃ©pondre Signaler un abus
+       ali33097 | le 06/04/2020 Ã  17:18
        mes amie ma manque .Mais ses pour notre bien
-   48. Répondre Signaler un abus
-       ZAVE | le 06/04/2020 à 17:15
-       Pourquoi ça a toucher plusieurs pays? ³
-   49. Répondre Signaler un abus
-       Eva Queen | le 06/04/2020 à 16:23
+   48. RÃ©pondre Signaler un abus
+       ZAVE | le 06/04/2020 Ã  17:15
+       Pourquoi Ã§a a toucher plusieurs pays? ð³
+   49. RÃ©pondre Signaler un abus
+       Eva Queen | le 06/04/2020 Ã  16:23
        Restez Chez Vous Mes Queens
-   50. Répondre Signaler un abus
-       Lucy à Londres | le 06/04/2020 à 13:35
+   50. RÃ©pondre Signaler un abus
+       Lucy Ã  Londres | le 06/04/2020 Ã  13:35
        Je suis anglaise.
-       Merci bien, j'aime lire les articles en français
-   51. Répondre Signaler un abus
-       MARINE | le 06/04/2020 à 13:30
+       Merci bien, jâaime lire les articles en franÃ§ais ð ð ð
+   51. RÃ©pondre Signaler un abus
+       MARINE | le 06/04/2020 Ã  13:30
        TROP COOL
-   52. Répondre Signaler un abus
-       Milan | le 06/04/2020 à 12:09
-       j' ai bien compris le confinement grâce à cette vidéo .
-   53. Répondre Signaler un abus
-       Milie :) | le 06/04/2020 à 10:50
-       Moi je suis confiné et je n'aime pas mais ca arrête la maladie be
+   52. RÃ©pondre Signaler un abus
+       Milan | le 06/04/2020 Ã  12:09
+       jâ ai bien compris le confinement grÃ¢ce Ã  cette vidÃ©o ð .
+   53. RÃ©pondre Signaler un abus
+       Milie :) | le 06/04/2020 Ã  10:50
+       Moi je suis confinÃ© et je nâaime pas mais ca arrÃªte la maladie be
        suis pour le confinement
-   54. Répondre Signaler un abus
-       Nola | le 06/04/2020 à 10:49
-       Je trouve ça normale d'être confiné quand une maladie mortelle
-       touche plusieurs pays . Le gouvernement ne fait pas ça pour nous
-       embêter ,non il le fait pour nous protéger , et plus vite nous
+   54. RÃ©pondre Signaler un abus
+       Nola | le 06/04/2020 Ã  10:49
+       Je trouve Ã§a normale dâÃªtre confinÃ© quand une maladie mortelle
+       touche plusieurs pays . Le gouvernement ne fait pas Ã§a pour nous
+       embÃªter ,non il le fait pour nous protÃ©ger , et plus vite nous
        respecterons ce confinement plus vite nous pourrons vaincre la
        maladie.
-   55. Répondre Signaler un abus
-       Milie :) | le 06/04/2020 à 10:42
-       Moi je suis confiné je n'aime pas mais si sa tue la maladie je suis
-       pour le confinement
-   56. Répondre Signaler un abus
-       Adam | le 06/04/2020 à 10:36
-       C'est quoi un virus
-   57. Répondre Signaler un abus
-       Samy | le 06/04/2020 à 10:31
-       Mais alors c'est mieux d'être confiné
-   58. Répondre Signaler un abus
-       luffy | le 06/04/2020 à 10:29
-       ca va durer longtemps
-   59. Répondre Signaler un abus
-       Kimia | le 06/04/2020 à 10:27
-       Merci pour ces explications très claires.
-   60. Répondre Signaler un abus
-       kenzou | le 06/04/2020 à 10:11
-       Salut , moi j'aime bien le confinement ,on reste chez sois et les
-       parents travaille pas (pour certain ,ma mère travaille a l'hopital
+   55. RÃ©pondre Signaler un abus
+       Milie :) | le 06/04/2020 Ã  10:42
+       Moi je suis confinÃ© je nâaime pas mais si sa tue la maladie je suis
+       pour le confinement ð
+   56. RÃ©pondre Signaler un abus
+       Adam | le 06/04/2020 Ã  10:36
+       Câest quoi un virus
+   57. RÃ©pondre Signaler un abus
+       Samy | le 06/04/2020 Ã  10:31
+       Mais alors câest mieux dâÃªtre confinÃ©
+   58. RÃ©pondre Signaler un abus
+       luffy | le 06/04/2020 Ã  10:29
+       ð ð ð ca va durer longtemps â
+   59. RÃ©pondre Signaler un abus
+       Kimia | le 06/04/2020 Ã  10:27
+       Merci pour ces explications trÃ¨s claires.
+   60. RÃ©pondre Signaler un abus
+       kenzou | le 06/04/2020 Ã  10:11
+       Salut , moi jâaime bien le confinement ,on reste chez sois et les
+       parents travaille pas (pour certain ,ma mÃ¨re travaille a lâhopital
        )
        (BUTTON) Voir plus de commentaires
 
 Donne ton avis ! Annuler
 
-   Une fois ton message envoyé, il sera en attente de validation par un
+   Une fois ton message envoyÃ©, il sera en attente de validation par un
    administrateur du site.
 
-   Trucs et astuces : Comment t'assurer que ton commentaire sera publié ?
+   Trucs et astuces : Comment t'assurer que ton commentaire sera publiÃ© ?
    Ton message
    ____________________________________________________________
    ____________________________________________________________
@@ -338,26 +339,26 @@ Donne ton avis ! Annuler
    ____________________________________________________________
 
    Le groupe Milan qui publie ton magazine 1jour1actu te demande tes
-   données personnelles pour que tu puisses commenter sur notre site
-   1jour1actu.com. Nous les gardons dans un fichier sécurisé. Tu as le
-   droit de vérifier les données que tu nous as transmises, de les faire
-   supprimer, ou de demander à ne plus être inscrit à cette notification,
-   en écrivant à la rédaction à milancnil[at]milan.fr. Tu dois demander
-   l'autorisation de tes parents pour t'inscrire et Milan se réserve le
-   droit de le vérifier. Ils peuvent aussi consulter la politique de
-   confidentialité du groupe Bayard auquel Milan appartient.
+   donnÃ©es personnelles pour que tu puisses commenter sur notre site
+   1jour1actu.com. Nous les gardons dans un fichier sÃ©curisÃ©. Tu as le
+   droit de vÃ©rifier les donnÃ©es que tu nous as transmises, de les faire
+   supprimer, ou de demander Ã  ne plus Ãªtre inscrit Ã  cette notification,
+   en Ã©crivant Ã  la rÃ©daction Ã  milancnil[at]milan.fr. Tu dois demander
+   lâautorisation de tes parents pour tâinscrire et Milan se rÃ©serve le
+   droit de le vÃ©rifier. Ils peuvent aussi consulter la politique de
+   confidentialitÃ© du groupe Bayard auquel Milan appartient.
    L'adresse email de tes parents ____________________
-   Ton prénom (ou pseudo) ____________________
+   Ton prÃ©nom (ou pseudo) ____________________
 
    [ ] Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour
    mon prochain commentaire.
 
-   [ ] Notifiez-moi des commentaires à venir via e-mail. Vous pouvez aussi
+   [ ] Notifiez-moi des commentaires Ã  venir via e-mail. Vous pouvez aussi
    vous abonner sans commenter.
 
    (Envoyer) Envoyer
 
-   D
+   Î
    _____________________________________________
    _____________________________________________
    _____________________________________________
@@ -369,204 +370,204 @@ Donne ton avis ! Annuler
 
 Monde
 
-   Cinq personnes font la fête ensemble, chantent et dansent. On voit des
+   Cinq personnes font la fÃªte ensemble, chantent et dansent. On voit des
    confettis autour d'eux et une table remplit de bons plats sur la
-   gauche. Cinq personnes font la fête ensemble, chantent et dansent. On
+   gauche. Cinq personnes font la fÃªte ensemble, chantent et dansent. On
    voit des confettis autour d'eux et une table remplit de bons plats sur
    la gauche.
 
-  Comment se souhaite-t-on la bonne année dans le monde ?
+  Comment se souhaite-t-on la bonne annÃ©e dans le monde ?
 
-   Des Chinois installant un sapin de Noël. Des Chinois installant un
-   sapin de Noël.
+   Des Chinois installant un sapin de NoÃ«l. Des Chinois installant un
+   sapin de NoÃ«l.
 
-  Est-ce que tout le monde fête Noël ?
+  Est-ce que tout le monde fÃªte NoÃ«l ?
 
    Une personne nous montre la Palestine. Une personne nous montre la
    Palestine.
 
-  C'est quoi la Palestine ?
+  Câest quoi la Palestineâ?
 
    Un groupe d'enfants porte une banderole sur laquelle il est inscrit :
    "Les droits de l'enfant". Tous ensemble ils crient "respectons". Un
    groupe d'enfants porte une banderole sur laquelle il est inscrit : "Les
    droits de l'enfant". Tous ensemble ils crient "respectons".
 
-  Est-ce que les droits de l'enfant sont respectés ?
+  Est-ce que les droits de lâenfant sont respectÃ©sâ?
 
-   Trois enfants lisent les droits des enfants. Derrière aux, un enfant
-   est forcé de travailler et ne peut pas aller à l'école. Trois enfants
-   lisent les droits des enfants. Derrière aux, un enfant est forcé de
-   travailler et ne peut pas aller à l'école.
+   Trois enfants lisent les droits des enfants. DerriÃ¨re aux, un enfant
+   est forcÃ© de travailler et ne peut pas aller Ã  l'Ã©cole. Trois enfants
+   lisent les droits des enfants. DerriÃ¨re aux, un enfant est forcÃ© de
+   travailler et ne peut pas aller Ã  l'Ã©cole.
 
-  Les bonnes idées des enfants pour défendre leurs droits
+  Les bonnes idÃ©es des enfants pour dÃ©fendre leurs droits
 
-   inégalités face au changement climatique inégalités face au changement
+   inÃ©galitÃ©s face au changement climatique inÃ©galitÃ©s face au changement
    climatique
 
-  Tous les pays sont-ils égaux face au changement climatique ?
+  Tous les pays sont-ils Ã©gaux face au changement climatiqueâ?
 
    Des gens du monde entier sont debout sur la Terre tenant le drapeau de
    l'ONU. Des gens du monde entier sont debout sur la Terre tenant le
    drapeau de l'ONU.
 
-  C'est quoi l'ONU ?
+  Câest quoi lâONUâ?
 
-   Voir toutes les vidéos Pose ta question
+   Voir toutes les vidÃ©os Pose ta question
 
      * Coronavirus (covid-19)
-     * Épidémie et pandémie
-     * Vidéos
+     * ÃpidÃ©mie et pandÃ©mie
+     * VidÃ©os
      __________________________________________________________________
 
-Tes 10 dernières vidéos
+Tes 10 derniÃ¨res vidÃ©os
 
-   Cinq personnes font la fête ensemble, chantent et dansent. On voit des
+   Cinq personnes font la fÃªte ensemble, chantent et dansent. On voit des
    confettis autour d'eux et une table remplit de bons plats sur la
-   gauche. Cinq personnes font la fête ensemble, chantent et dansent. On
+   gauche. Cinq personnes font la fÃªte ensemble, chantent et dansent. On
    voit des confettis autour d'eux et une table remplit de bons plats sur
    la gauche.
-   Vidéos
+   VidÃ©os
    82
 
-Comment se souhaite-t-on la bonne année dans le monde ?
+Comment se souhaite-t-on la bonne annÃ©e dans le monde ?
 
-   31 Déc 2025
+   31 DÃ©c 2025
 
-   Des Chinois installant un sapin de Noël. Des Chinois installant un
-   sapin de Noël.
-   Vidéos
+   Des Chinois installant un sapin de NoÃ«l. Des Chinois installant un
+   sapin de NoÃ«l.
+   VidÃ©os
    11
 
-Est-ce que tout le monde fête Noël ?
+Est-ce que tout le monde fÃªte NoÃ«l ?
 
-   25 Déc 2025
+   25 DÃ©c 2025
 
    Une belle jeune femme et un monstre poilu se tiennent amoureusement par
-   la main. On voit un tableau avec un jeune homme noble derrière eux. Une
+   la main. On voit un tableau avec un jeune homme noble derriÃ¨re eux. Une
    belle jeune femme et un monstre poilu se tiennent amoureusement par la
-   main. On voit un tableau avec un jeune homme noble derrière eux.
-   Vidéos
+   main. On voit un tableau avec un jeune homme noble derriÃ¨re eux.
+   VidÃ©os
    1
 
-C'est quoi, La Belle et la Bête ?
+Câest quoi, La Belle et la BÃªte ?
 
-   23 Déc 2025
+   23 DÃ©c 2025
 
-   Une personne montre à un enfant en fauteuil roulant (et à son chien)
+   Une personne montre Ã  un enfant en fauteuil roulant (et Ã  son chien)
    une vieille peinture japonaise d'une personne en fauteuil roulant il y
-   a très longtemps. Une personne montre à un enfant en fauteuil roulant
-   (et à son chien) une vieille peinture japonaise d'une personne en
-   fauteuil roulant il y a très longtemps.
-   Vidéos
+   a trÃ¨s longtemps. Une personne montre Ã  un enfant en fauteuil roulant
+   (et Ã  son chien) une vieille peinture japonaise d'une personne en
+   fauteuil roulant il y a trÃ¨s longtemps.
+   VidÃ©os
    5
 
-Qui a inventé le fauteuil roulant ?
+Qui a inventÃ© le fauteuil roulantâ?
 
-   19 Déc 2025
+   19 DÃ©c 2025
 
    Un bateau transportant un personnage avec des valises traverse une mer
-   de la gauche vers la droite. À gauche son pays d'origine qu'il quitte.
-   À droite la France, où il va bientôt accoster, que l'on reconnait car
+   de la gauche vers la droite. Ã gauche son pays d'origine qu'il quitte.
+   Ã droite la France, oÃ¹ il va bientÃ´t accoster, que l'on reconnait car
    il y a la Tour Eiffel. Un bateau transportant un personnage avec des
-   valises traverse une mer de la gauche vers la droite. À gauche son pays
-   d'origine qu'il quitte. À droite la France, où il va bientôt accoster,
+   valises traverse une mer de la gauche vers la droite. Ã gauche son pays
+   d'origine qu'il quitte. Ã droite la France, oÃ¹ il va bientÃ´t accoster,
    que l'on reconnait car il y a la Tour Eiffel.
-   Vidéos
+   VidÃ©os
    2
 
-C'est qui les immigrés en France ?
+Câest qui les immigrÃ©s en Franceâ?
 
-   18 Déc 2025
+   18 DÃ©c 2025
 
-   Effets spéciaux au cinéma Effets spéciaux au cinéma
-   Vidéos
+   Effets spÃ©ciaux au cinÃ©ma Effets spÃ©ciaux au cinÃ©ma
+   VidÃ©os
    11
 
-C'est quoi les effets spéciaux ?
+Câest quoi les effets spÃ©ciauxâ?
 
-   17 Déc 2025
+   17 DÃ©c 2025
 
    On voit plusieurs situations dans lesquelles les militaires
    travaillents : sur le terrain, avec une arme / dans un bureau en train
-   d'étudier des plans / en train de réparer un véhicule / en train de
-   patrouiller dans les rues pour veiller à la sécurité. On voit plusieurs
+   d'Ã©tudier des plans / en train de rÃ©parer un vÃ©hicule / en train de
+   patrouiller dans les rues pour veiller Ã  la sÃ©curitÃ©. On voit plusieurs
    situations dans lesquelles les militaires travaillents : sur le
-   terrain, avec une arme / dans un bureau en train d'étudier des plans /
-   en train de réparer un véhicule / en train de patrouiller dans les rues
-   pour veiller à la sécurité.
-   Vidéos
+   terrain, avec une arme / dans un bureau en train d'Ã©tudier des plans /
+   en train de rÃ©parer un vÃ©hicule / en train de patrouiller dans les rues
+   pour veiller Ã  la sÃ©curitÃ©.
+   VidÃ©os
 
-C'est quoi le métier de militaire ?
+Câest quoi le mÃ©tier de militaireâ?
 
-   16 Déc 2025
+   16 DÃ©c 2025
 
-   Une petite fille tient la main à un petit personnage étonnant,
-   Cass-Noisette. Ils se promènent dans un paysage enneigé, avec des
-   sapins décorés, des cannes à sucre et des bonbons géants et un ciel
-   étoilé. C'est une des parties de l'histoire de Casse-Noisette. Une
-   petite fille tient la main à un petit personnage étonnant,
-   Cass-Noisette. Ils se promènent dans un paysage enneigé, avec des
-   sapins décorés, des cannes à sucre et des bonbons géants et un ciel
-   étoilé. C'est une des parties de l'histoire de Casse-Noisette.
-   Vidéos
+   Une petite fille tient la main Ã  un petit personnage Ã©tonnant,
+   Cass-Noisette. Ils se promÃ¨nent dans un paysage enneigÃ©, avec des
+   sapins dÃ©corÃ©s, des cannes Ã  sucre et des bonbons gÃ©ants et un ciel
+   Ã©toilÃ©. C'est une des parties de l'histoire de Casse-Noisette. Une
+   petite fille tient la main Ã  un petit personnage Ã©tonnant,
+   Cass-Noisette. Ils se promÃ¨nent dans un paysage enneigÃ©, avec des
+   sapins dÃ©corÃ©s, des cannes Ã  sucre et des bonbons gÃ©ants et un ciel
+   Ã©toilÃ©. C'est une des parties de l'histoire de Casse-Noisette.
+   VidÃ©os
    2
 
-C'est qui Casse-Noisette ?
+Câest qui Casse-Noisetteâ?
 
-   15 Déc 2025
+   15 DÃ©c 2025
 
-   Couverture de la vidéo "À quoi ça sert de chanter ?". Couverture de la
-   vidéo "À quoi ça sert de chanter ?".
-   Vidéos
+   Couverture de la vidÃ©o "Ã quoi Ã§a sert de chanter ?". Couverture de la
+   vidÃ©o "Ã quoi Ã§a sert de chanter ?".
+   VidÃ©os
    1
 
-À quoi ça sert de chanter ?
+Ã quoi Ã§a sert de chanter ?
 
-   12 Déc 2025
+   12 DÃ©c 2025
 
-   Couverture de la vidéo "C'est qui Soprano ?". Couverture de la vidéo
+   Couverture de la vidÃ©o "C'est qui Soprano ?". Couverture de la vidÃ©o
    "C'est qui Soprano ?".
-   Vidéos
+   VidÃ©os
    2
 
-C'est qui, Soprano ?
+Câest qui, Soprano ?
 
-   11 Déc 2025
+   11 DÃ©c 2025
 
    Newsletter Milan jeunesse
 
-   Rejoignez la famille Milan Jeunesse et recevez nos actualités et nos
+   Rejoignez la famille Milan Jeunesse et recevez nos actualitÃ©s et nos
    offres exclusives.
-   ____________________ Submit (BUTTON) S'inscrire Icône animée de
-   chargement Icône animée de chargement
+   ____________________ Submit (BUTTON) S'inscrire IcÃ´ne animÃ©e de
+   chargement IcÃ´ne animÃ©e de chargement
    ____________________
-   Ces informations sont destinées au groupe Milan, auquel 1jour1actu.com
-   appartient. Elles sont enregistrées dans notre fichier afin de vous
-   envoyer les newsletters que vous avez demandées. Conformément à la loi
-   « Informatique et Libertés » du 6/01/1978 modifiée et au RGPD du
-   27/04/2016, elles peuvent donner lieu à l'exercice du droit d'accès, de
-   rectification, d'effacement, d'opposition, à la portabilité des données
-   et à la limitation des traitements. Pour plus d'informations, nous vous
-   renvoyons aux dispositions de notre Politique de confidentialité sur le
+   Ces informations sont destinÃ©es au groupe Milan, auquel 1jour1actu.com
+   appartient. Elles sont enregistrÃ©es dans notre fichier afin de vous
+   envoyer les newsletters que vous avez demandÃ©es. ConformÃ©ment Ã  la loi
+   Â« Informatique et LibertÃ©s Â» du 6/01/1978 modifiÃ©e et au RGPD du
+   27/04/2016, elles peuvent donner lieu Ã  lâexercice du droit dâaccÃ¨s, de
+   rectification, dâeffacement, dâopposition, Ã  la portabilitÃ© des donnÃ©es
+   et Ã  la limitation des traitements. Pour plus dâinformations, nous vous
+   renvoyons aux dispositions de notre Politique de confidentialitÃ© sur le
    site groupebayard.com. Lire la suite
 
-Toute l'actualité avec 1jour1actu
+Toute l'actualitÃ© avec 1jour1actu
 
    Monde
      * Europe
      * Afrique
-     * Amérique
+     * AmÃ©rique
      * Asie
      * Moyen-Orient
-     * Océanie
+     * OcÃ©anie
      * Terrorisme
 
    France
      * Politique
-     * Société
-     * Solidarité
-     * Élection présidentielle
+     * SociÃ©tÃ©
+     * SolidaritÃ©
+     * Ãlection prÃ©sidentielle
      * Banlieues
      * Manifestations
      * Attentats en France
@@ -574,139 +575,139 @@ Toute l'actualité avec 1jour1actu
    Technologies
      * Internet
      * Nouvelles techno
-     * Réseaux sociaux
-     * Objets connectés
+     * RÃ©seaux sociaux
+     * Objets connectÃ©s
      * Intelligence artificielle
      * Robots
      * Piratage informatique
 
    Sciences & environnement
-     * Écologie & climat
+     * Ãcologie & climat
      * Animaux
      * Flore
-     * Incendies de forêts
+     * Incendies de forÃªts
      * Pollution
-     * Conquête de l'espace
-     * Planète
+     * ConquÃªte de l'espace
+     * PlanÃ¨te
 
-   Santé
+   SantÃ©
      * Maladies
      * Coronavirus
      * Alimentation
-     * Puberté
+     * PubertÃ©
      * Drogues
      * Vaccin
-     * Épidémie et pandémie
+     * ÃpidÃ©mie et pandÃ©mie
 
    Culture
      * Livres, BD & mangas
-     * Cinéma
-     * Jeux vidéos
+     * CinÃ©ma
+     * Jeux vidÃ©os
      * Voyage
      * Musique
-     * Musées et expositions
-     * Noël
+     * MusÃ©es et expositions
+     * NoÃ«l
 
    Sport
      * Football
      * Rugby
      * Tennis
      * Basketball
-     * Athlétisme
+     * AthlÃ©tisme
      * Handball
      * Jeux olympiques (JO)
 
    Enseignant
-     * École
-     * Première Guerre mondiale
-     * Harcèlement
+     * Ãcole
+     * PremiÃ¨re Guerre mondiale
+     * HarcÃ¨lement
      * Programme cycle 3
-     * Vidéos en anglais
+     * VidÃ©os en anglais
      * Webinaire
-     * Éducation aux médias et à l'information
+     * Ãducation aux mÃ©dias et Ã  l'information
 
    (BUTTON) [svg%3E] [arrow-circle.svg]
      __________________________________________________________________
 
-   Mentions légales CGU Politique de confidentialité Nous contacter Faq
-   Mentions légales CGU Politique de confidentialité
+   Mentions lÃ©gales CGU Politique de confidentialitÃ© Nous contacter Faq
+   Mentions lÃ©gales CGU Politique de confidentialitÃ©
    Logo Milan Logo Milan Logo 1jour1actu Logo 1jour1actu
 
-   © 2026 Milan Presse - Tous droits réservés
+   Â© 2026 Milan Presse - Tous droits rÃ©servÃ©s
 
    [svg%3E] [Back-to-top.svg] Retour
    en haut
 
-   Contactez votre délégué
+   Contactez votre dÃ©lÃ©guÃ©
    (BUTTON)
 
-   Saisissez un code postal ou un numéro de département
+   Saisissez un code postal ou un numÃ©ro de dÃ©partement
    ____________________
-   (BUTTON) Trouver mon délégué
-   Choisissez votre ville pour le département  : [Cliquez ici]
+   (BUTTON) Trouver mon dÃ©lÃ©guÃ©
+   Choisissez votre ville pour le dÃ©partement  : [Cliquez ici]
    Chargement...
-   Aucun délégué, essayez une autre recherche
+   Aucun dÃ©lÃ©guÃ©, essayez une autre recherche
 
    Connectez-vous :)
    (BUTTON)
 
-   Pour télécharger ce contenu, vous devez avoir un compte 1jour1actu.com
+   Pour tÃ©lÃ©charger ce contenu, vous devez avoir un compte 1jour1actu.com
    et vous connecter.
-   Je me connecte Je crée mon compte
+   Je me connecte Je crÃ©e mon compte
 
    Connectez-vous :)
    (BUTTON)
 
-   Pour accéder aux parcours d'éducation aux médias, vous devez avoir un
+   Pour accÃ©der aux parcours d'Ã©ducation aux mÃ©dias, vous devez avoir un
    compte 1jour1actu.com et vous connecter.
-   Je me connecte Je crée mon compte
+   Je me connecte Je crÃ©e mon compte
 
    Connectez-vous :)
    (BUTTON)
 
-   Ce contenu réservé exclusivement aux abonnés aux
-   « Essentiels d'1jour1actu »
+   Ce contenu rÃ©servÃ© exclusivement aux abonnÃ©s aux
+   Â« Essentiels d'1jour1actu Â»
 
    Vous voulez des informations sur Les Essentiels :
 
-   (BUTTON) Trouver mon délégué
+   (BUTTON) Trouver mon dÃ©lÃ©guÃ©
 
-   Vous êtes abonné aux Essentiels :
-   Je me connecte Je crée mon compte
+   Vous Ãªtes abonnÃ© aux Essentiels :
+   Je me connecte Je crÃ©e mon compte
 
    Abonnez-vous ;)
    (BUTTON)
 
-   Si vous êtes abonnés au journal 1jour1actu,
-   nos ressources numériques sont offertes avec votre abonnement. Cliquez
-   sur « Je suis abonné ».
+   Si vous Ãªtes abonnÃ©s au journal 1jour1actu,
+   nos ressources numÃ©riques sont offertes avec votre abonnement. Cliquez
+   sur Â« Je suis abonnÃ© Â».
 
-   Si vous n'êtes pas abonné au journal 1jour1actu, découvrez nos offres
-   en cliquant sur « Je découvre l'offre »
-   Je suis abonné Je découvre l'offre
+   Si vous nâÃªtes pas abonnÃ© au journal 1jour1actu, dÃ©couvrez nos offres
+   en cliquant sur Â« Je dÃ©couvre lâoffre Â»
+   Je suis abonnÃ© Je dÃ©couvre l'offre
 
    Connectez-vous :)
    (BUTTON)
 
    Pour consulter ce fichier, vous devez vous connecter.
-   Je me connecte Je crée mon compte
+   Je me connecte Je crÃ©e mon compte
 
    (BUTTON) Close Close
 
 Recevez l'actu du jour !
 
-   Pour recevoir tous les jours les articles et vidéos d'1jour1actu, merci
+   Pour recevoir tous les jours les articles et vidÃ©os d'1jour1actu, merci
    de renseignez votre e-mail :
-   ____________________ Submit (BUTTON) S'inscrire Icône animée de
-   chargement Icône animée de chargement ____________________
-   Ces informations sont destinées au groupe Milan, auquel 1jour1actu.com
-   appartient. Elles sont enregistrées dans notre fichier afin de vous
-   envoyer les dernières actus. Conformément à la loi « Informatique et
-   Libertés » du 6/01/1978 modifiée et au RGPD du 27/04/2016, elles
-   peuvent donner lieu à l'exercice du droit d'accès, de rectification,
-   d'effacement, d'opposition, à la portabilité des données et à la
-   limitation des traitements. Pour plus d'informations, nous vous
-   renvoyons aux dispositions de notre Politique de confidentialité sur le
+   ____________________ Submit (BUTTON) S'inscrire IcÃ´ne animÃ©e de
+   chargement IcÃ´ne animÃ©e de chargement ____________________
+   Ces informations sont destinÃ©es au groupe Milan, auquel 1jour1actu.com
+   appartient. Elles sont enregistrÃ©es dans notre fichier afin de vous
+   envoyer les derniÃ¨res actus. ConformÃ©ment Ã  la loi Â« Informatique et
+   LibertÃ©s Â» du 6/01/1978 modifiÃ©e et au RGPD du 27/04/2016, elles
+   peuvent donner lieu Ã  lâexercice du droit dâaccÃ¨s, de rectification,
+   dâeffacement, dâopposition, Ã  la portabilitÃ© des donnÃ©es et Ã  la
+   limitation des traitements. Pour plus dâinformations, nous vous
+   renvoyons aux dispositions de notre Politique de confidentialitÃ© sur le
    site groupebayard.com. Lire la suite
 
-   (BUTTON) ×
+   (BUTTON) Ã

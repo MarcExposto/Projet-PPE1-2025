@@ -33,10 +33,10 @@ Prevent cheating during online exams
      * Pricing + Free Trial
      * Resources
 
-   LockDown Browser^® is a custom browser that locks down the testing
+   LockDown Browser^Â® is a custom browser that locks down the testing
    environment within a learning management system. Used at over 2000
-   higher educational institutions, LockDown Browser is the "gold
-   standard" for securing online exams in classrooms or proctored
+   higher educational institutions, LockDown Browser is the âgold
+   standardâ for securing online exams in classrooms or proctored
    environments.
    [lockdown-icon-2@3x.png]
 
@@ -44,7 +44,7 @@ Prevent cheating during online exams
 
    Locks down student computers to prevent cheating during exams
 
-   LockDown Browser's name says it all: it "locks down" the browser on a
+   LockDown Browserâs name says it all: it "locks down" the browser on a
    computer or tablet. Students are unable to copy, print, access other
    applications, or visit other websites during an online exam. LockDown
    Browser also blocks hundreds of common and advanced methods of digital
@@ -110,9 +110,9 @@ Taking on ChatGPT with a Quiz
 
    Using LockDown Browser with essay questions.
 
-LockDown Browser^® vs. "Locked Browser" Extensions
+LockDown Browser^Â® vs. âLocked Browserâ Extensions
 
-   Here's how LockDown Browser compares to a locked browser extension.
+   Hereâs how LockDown Browser compares to a locked browser extension.
 
 10 Reasons to use LockDown Browser
 
@@ -122,7 +122,7 @@ LockDown Browser^® vs. "Locked Browser" Extensions
 Accessibility + LockDown Browser
 
    Everyone should be able to access LockDown Browser in a seamless way.
-   We're committed to making that a reality.
+   Weâre committed to making that a reality.
 
 Attend a free webinar
 

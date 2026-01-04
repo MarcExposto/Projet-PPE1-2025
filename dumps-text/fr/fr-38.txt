@@ -1,24 +1,24 @@
-   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+   #Modifier WikipÃ©dia (fr) Flux Atom de WikipÃ©dia
 
    Aller au contenu
 
    [ ] Menu principal
    Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
    Navigation
-     * Page d'accueil
-     * Portails thématiques
+     * Page dâaccueil
+     * Portails thÃ©matiques
      * Article au hasard
      * Contact
 
    Contribuer
-     * Débuter sur Wikipédia
+     * DÃ©buter sur WikipÃ©dia
      * Aide
-     * Communauté
-     * Pages spéciales
-     * Modifications récentes
+     * CommunautÃ©
+     * Pages spÃ©ciales
+     * Modifications rÃ©centes
 
-   Wikipédia l'encyclopédie libre
+   WikipÃ©dia l'encyclopÃ©die libre
    Rechercher
    ____________________
    (BUTTON) Rechercher
@@ -26,68 +26,70 @@
    [ ] Apparence
 
      * Faire un don
-     * Créer un compte
+     * CrÃ©er un compte
      * Se connecter
 
    [ ] Outils personnels
      * Faire un don
-     * Créer un compte
+     * CrÃ©er un compte
      * Se connecter
 
 Sommaire
 
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-     * Début
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+     * DÃ©but
      * 1 Analyse des risques
-     * 2 Scénarios de crise
-     * 3 Préparation des plans et moyens de secours
-       (BUTTON) Afficher/masquer la sous-section Préparation des plans et
-       moyens de secours
+     * 2 ScÃ©narios de crise
+     * 3 PrÃ©paration des plans et moyens de secours
+       (BUTTON) Afficherâ¯/â¯masquer la sous-section PrÃ©paration des plans
+       et moyens de secours
           + 3.1 Plan OMS d'alerte
           + 3.2 Moyens organisationnels
           + 3.3 Moyens pharmaceutiques
           + 3.4 Moyens non pharmaceutiques
      * 4 Veille sanitaire
-       (BUTTON) Afficher/masquer la sous-section Veille sanitaire
+       (BUTTON) Afficherâ¯/â¯masquer la sous-section Veille sanitaire
           + 4.1 Suivi des oiseaux
-          + 4.2 Adapter les méthodes de test au suivi épidémiologique
+          + 4.2 Adapter les mÃ©thodes de test au suivi Ã©pidÃ©miologique
             humain
      * 5 Recommandations de l'ONU
-       (BUTTON) Afficher/masquer la sous-section Recommandations de l'ONU
+       (BUTTON) Afficherâ¯/â¯masquer la sous-section Recommandations de
+       l'ONU
           + 5.1 Recommandations OMS
           + 5.2 Recommandations FAO et OIE
      * 6 Mise en place de l'organisation de crise
      * 7 Besoins et ressources
-     * 8 Coopération internationale
-       (BUTTON) Afficher/masquer la sous-section Coopération
+     * 8 CoopÃ©ration internationale
+       (BUTTON) Afficherâ¯/â¯masquer la sous-section CoopÃ©ration
        internationale
           + 8.1 Asie
      * 9 Plans de crise par pays
-       (BUTTON) Afficher/masquer la sous-section Plans de crise par pays
-          + 9.1 Pandémie à virus H5N1
-               o 9.1.1 États-Unis
+       (BUTTON) Afficherâ¯/â¯masquer la sous-section Plans de crise par pays
+          + 9.1 PandÃ©mie Ã  virus H5N1
+               o 9.1.1 Ãtats-Unis
           + 9.2 Europe
-               o 9.2.1 Union européenne
+               o 9.2.1 Union europÃ©enne
                o 9.2.2 France
                o 9.2.3 Suisse
-          + 9.3 Amériques
-               o 9.3.1 États-Unis
+          + 9.3 AmÃ©riques
+               o 9.3.1 Ãtats-Unis
                o 9.3.2 Canada
-          + 9.4 Pandémie à virus A(H1N1)
+          + 9.4 PandÃ©mie Ã  virus A(H1N1)
                o 9.4.1 Plan de vaccination de l'automne 2009 en France
-     * 10 Projet de traité mondial
-       (BUTTON) Afficher/masquer la sous-section Projet de traité mondial
+     * 10 Projet de traitÃ© mondial
+       (BUTTON) Afficherâ¯/â¯masquer la sous-section Projet de traitÃ©
+       mondial
           + 10.1 Contention du H7N9
-     * 11 Notes et références
+     * 11 Notes et rÃ©fÃ©rences
      * 12 Annexes
-       (BUTTON) Afficher/masquer la sous-section Annexes
+       (BUTTON) Afficherâ¯/â¯masquer la sous-section Annexes
           + 12.1 Bibliographie
           + 12.2 Articles connexes
           + 12.3 Liens externes
 
-   [ ] Basculer la table des matières
+   [ ] Basculer la table des matiÃ¨res
 
-Plan de crise en cas de pandémie
+Plan de crise en cas de pandÃ©mie
 
    [ ] Ajouter des langues
 
@@ -96,144 +98,144 @@ Plan de crise en cas de pandémie
      * Article
      * Discussion
 
-   [ ] français
+   [ ] franÃ§ais
 
      * Lire
      * Modifier
      * Modifier le code
-     * Voir l'historique
+     * Voir lâhistorique
 
    [ ] Outils
    Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
    Actions
      * Lire
      * Modifier
      * Modifier le code
-     * Voir l'historique
+     * Voir lâhistorique
 
-   Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
+   GÃ©nÃ©ral
+     * Pages liÃ©es
+     * Suivi des pages liÃ©es
+     * TÃ©lÃ©verser un fichier
      * Lien permanent
      * Informations sur la page
      * Citer cette page
      * Obtenir l'URL raccourcie
-     * Télécharger le code QR
+     * TÃ©lÃ©charger le code QR
 
-   Imprimer/exporter
-     * Créer un livre
-     * Télécharger comme PDF
+   Imprimerâ¯/â¯exporter
+     * CrÃ©er un livre
+     * TÃ©lÃ©charger comme PDF
      * Version imprimable
 
-   Dans d'autres projets
-     * Élément Wikidata
+   Dans dâautres projets
+     * ÃlÃ©ment Wikidata
 
    Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Un article de Wikipédia, l'encyclopédie libre.
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+   Un article de WikipÃ©dia, l'encyclopÃ©die libre.
    Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
    savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
    ici pour en savoir plus.
 
-   Cet article ne cite pas suffisamment ses sources (décembre 2025).
+   Cet article ne cite pas suffisamment ses sources (dÃ©cembre 2025).
 
-   Si vous disposez d'ouvrages ou d'articles de référence ou si vous
-   connaissez des sites web de qualité traitant du thème abordé ici, merci
-   de compléter l'article en donnant les références utiles à sa
-   vérifiabilité et en les liant à la section « Notes et références ».
+   Si vous disposez d'ouvrages ou d'articles de rÃ©fÃ©rence ou si vous
+   connaissez des sites web de qualitÃ© traitant du thÃ¨me abordÃ© ici, merci
+   de complÃ©ter l'article en donnant les rÃ©fÃ©rences utiles Ã  sa
+   vÃ©rifiabilitÃ© et en les liant Ã  la section Â« Notes et rÃ©fÃ©rences Â».
    En pratique : Quelles sources sont attendues ? Comment ajouter mes
    sources ?
 
-   Un plan de crise en cas de pandémie est l'ensemble des mesures prévues
-   pour diminuer les risques liés à l'apparition d'une pandémie, et visant
-   à assurer, autant que possible, les besoins vitaux de tous. Dans un
-   contexte de mondialisation accélérée propice à un risque accru de
-   diffusion de maladies émergentes, sa définition est devenue une
-   préoccupation partagée par de nombreux acteurs (autorités politiques et
-   sanitaires, certaines entreprises, etc.). En effet l'intégration
-   croissante des réseaux et des flux de biens et de personnes, et la
-   grande accélération des transports (avion et train notamment) laissent
-   craindre des conséquences différentes de celles qu'eurent les pandémies
-   précédentes.
+   Un plan de crise en cas de pandÃ©mie est l'ensemble des mesures prÃ©vues
+   pour diminuer les risques liÃ©s Ã  l'apparition d'une pandÃ©mie, et visant
+   Ã  assurer, autant que possible, les besoins vitaux de tous. Dans un
+   contexte de mondialisation accÃ©lÃ©rÃ©e propice Ã  un risque accru de
+   diffusion de maladies Ã©mergentes, sa dÃ©finition est devenue une
+   prÃ©occupation partagÃ©e par de nombreux acteurs (autoritÃ©s politiques et
+   sanitaires, certaines entreprises, etc.). En effet l'intÃ©gration
+   croissante des rÃ©seaux et des flux de biens et de personnes, et la
+   grande accÃ©lÃ©ration des transports (avion et train notamment) laissent
+   craindre des consÃ©quences diffÃ©rentes de celles qu'eurent les pandÃ©mies
+   prÃ©cÃ©dentes.
 
-   La nature même du risque pandémique, exige des stratégies parfaitement
-   coordonnées de riposte sanitaire : identification et définition du rôle
-   des acteurs et des modalités de communication entre eux, identification
-   et prise de connaissance de l'agent infectieux concerné afin d'en
-   comprendre les modalités d'action et mettre au point des tests ou
-   vaccins, dépistage, mesures de limitation de la diffusion de la maladie
-   telles qu'isolement, quarantaine, comportements-barrière incluant
+   La nature mÃªme du risque pandÃ©mique, exige des stratÃ©gies parfaitement
+   coordonnÃ©es de riposte sanitaire : identification et dÃ©finition du rÃ´le
+   des acteurs et des modalitÃ©s de communication entre eux, identification
+   et prise de connaissance de l'agent infectieux concernÃ© afin d'en
+   comprendre les modalitÃ©s d'action et mettre au point des tests ou
+   vaccins, dÃ©pistage, mesures de limitation de la diffusion de la maladie
+   telles qu'isolement, quarantaine, comportements-barriÃ¨re incluant
    distanciation sociale et confinement communautaire. La planification
-   s'applique des échelles locales à transnationales et planétaires. La
-   gestion de crise doit être réactive, basée sur une analyse de la
-   situation constamment mise à jour, des modélisations prospectives et
-   les retours d'expérience. Si la maladie est nouvelle, il s'agira de
-   ralentir l'épidémie, pour laisser le temps de comprendre le pathogène
-   et ses modes de propagation, de préparer un éventuel vaccin, des
-   médicaments et des stratégies adaptées.
+   s'applique des Ã©chelles locales Ã  transnationales et planÃ©taires. La
+   gestion de crise doit Ãªtre rÃ©active, basÃ©e sur une analyse de la
+   situation constamment mise Ã  jour, des modÃ©lisations prospectives et
+   les retours d'expÃ©rience. Si la maladie est nouvelle, il s'agira de
+   ralentir l'Ã©pidÃ©mie, pour laisser le temps de comprendre le pathogÃ¨ne
+   et ses modes de propagation, de prÃ©parer un Ã©ventuel vaccin, des
+   mÃ©dicaments et des stratÃ©gies adaptÃ©es.
 
-   La plupart des maladies pandémiques sont zoonotiques impliquant de
-   prendre en compte leur aspect « animal » ; Par exemple, pour le risque
-   de pandémie de grippe aviaire, l'OIE et la FAO ont réuni un réseau
+   La plupart des maladies pandÃ©miques sont zoonotiques impliquant de
+   prendre en compte leur aspect Â« animal Â» ; Par exemple, pour le risque
+   de pandÃ©mie de grippe aviaire, l'OIE et la FAO ont rÃ©uni un rÃ©seau
    international et pluridisciplinaire d'experts : l'OFFLU (en) dans le
-   cadre de l'approche « Une seule santé » promue par l'ONU^[1].
+   cadre de l'approche Â« Une seule santÃ© Â» promue par l'ONU^[1].
 
-   En 2020, des villes, des régions et des pays (Chine, Italie, France,
+   En 2020, des villes, des rÃ©gions et des pays (Chine, Italie, France,
    Espagne...) ont mis en place des mesures de quarantaine et de
-   confinement pour freiner le développement de la pandémie de maladie à
-   coronavirus de 2019-2020. Des plans de crise en cas d'épidémie mis en
-   place par des pays servent de base à la gestion des foyers de Covid-19,
+   confinement pour freiner le dÃ©veloppement de la pandÃ©mie de maladie Ã 
+   coronavirus de 2019-2020. Des plans de crise en cas d'Ã©pidÃ©mie mis en
+   place par des pays servent de base Ã  la gestion des foyers de Covid-19,
    la maladie induite par le coronavirus SARS-CoV-2. Tirant le bilan de
-   ces mesures, l'OMS prépare un traité mondial et contraignant sur la
-   coordination internationale en matière de santé publique, pour mieux
-   préparer la réponse du monde, et sa résilience face aux prochaines
-   pandémies.
+   ces mesures, l'OMS prÃ©pare un traitÃ© mondial et contraignant sur la
+   coordination internationale en matiÃ¨re de santÃ© publique, pour mieux
+   prÃ©parer la rÃ©ponse du monde, et sa rÃ©silience face aux prochaines
+   pandÃ©mies.
 
 Analyse des risques
 
    [modifier | modifier le code]
 
    L'analyse des risques doit alimenter et valider, chemin faisant, la
-   construction de scénarios de crise évolutifs ; elle passe donc par une
+   construction de scÃ©narios de crise Ã©volutifs ; elle passe donc par une
    analyse dynamique de la situation, incluant l'identification des
    dangers (qui sont les porteurs et vecteurs de virus, animaux et/ou
    humains ? quels sont les facteurs de risques de transmission virale ?).
-   Par exemple la pandémie de COVID-19 a émergé en Chine juste avant les
-   vacances du Nouvel An lunaire, qui sont en Chine l'évènement familial
-   le plus important, avec de grandes fêtes et plusieurs milliards de
-   voyages individuels (résidents et visiteurs) essentiellement en avion,
-   trains et bus (alors bondés), une situation très propice à une flambée
-   épidémique. La Chine a réagi en interdisant ces fêtes et la plupart des
-   déplacements.
+   Par exemple la pandÃ©mie de COVID-19 a Ã©mergÃ© en Chine juste avant les
+   vacances du Nouvel An lunaire, qui sont en Chine l'Ã©vÃ¨nement familial
+   le plus important, avec de grandes fÃªtes et plusieurs milliards de
+   voyages individuels (rÃ©sidents et visiteurs) essentiellement en avion,
+   trains et bus (alors bondÃ©s), une situation trÃ¨s propice Ã  une flambÃ©e
+   Ã©pidÃ©mique. La Chine a rÃ©agi en interdisant ces fÃªtes et la plupart des
+   dÃ©placements.
 
-   La rapidité de réaction implique une rapidité de détection des cas
+   La rapiditÃ© de rÃ©action implique une rapiditÃ© de dÃ©tection des cas
    (porteurs sains et asymptomatiques y compris, tant que possible). On
-   cherche donc à produire des tests rapides, nombreux et peu coûteux.
-   Pour la grippe, en novembre 2006 une MChip ou « puce génétique »
+   cherche donc Ã  produire des tests rapides, nombreux et peu coÃ»teux.
+   Pour la grippe, en novembre 2006 une MChip ou Â« puce gÃ©nÃ©tique Â»
    (micro-array ou laboratoire sur puce ou Chip on chip) de la taille d'un
-   ongle détectant un segment de gène subissant peu de mutations a été
-   annoncé^[2]. S'il était rapidement disponible, il révolutionnerait la
-   lutte contre la grippe, mais sa fabrication industrielle est à
-   maîtriser (finalement indisponible durant la crise).
+   ongle dÃ©tectant un segment de gÃ¨ne subissant peu de mutations a Ã©tÃ©
+   annoncÃ©^[2]. S'il Ã©tait rapidement disponible, il rÃ©volutionnerait la
+   lutte contre la grippe, mais sa fabrication industrielle est Ã 
+   maÃ®triser (finalement indisponible durant la crise).
 
    STMicroelectronics (groupe franco-italien) et le laboratoire Veredus
-   (Singapour) avait annoncé le 19 février 2006 et confirmé, en mars 2008,
-   une micropuce détectant rapidement des principaux types de grippes (A
-   et B, et H5N1) disponible en trois à cinq ans.
+   (Singapour) avait annoncÃ© le 19 fÃ©vrier 2006 et confirmÃ©, en mars 2008,
+   une micropuce dÃ©tectant rapidement des principaux types de grippes (A
+   et B, et H5N1) disponible en trois Ã  cinq ans.
 
-Scénarios de crise
+ScÃ©narios de crise
 
    [modifier | modifier le code]
-   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
+   Cette section est vide, insuffisamment dÃ©taillÃ©e ou incomplÃ¨te. Votre
    aide est la bienvenue ! Comment faire ?
 
-   Ils permettent de préparer et tester les moyens humains, matériels,
-   financiers de riposte, de fonctionnement en mode dégradé, et de
-   résilience, selon différentes cas de figure.
+   Ils permettent de prÃ©parer et tester les moyens humains, matÃ©riels,
+   financiers de riposte, de fonctionnement en mode dÃ©gradÃ©, et de
+   rÃ©silience, selon diffÃ©rentes cas de figure.
 
-Préparation des plans et moyens de secours
+PrÃ©paration des plans et moyens de secours
 
    [modifier | modifier le code]
 
@@ -241,302 +243,302 @@ Plan OMS d'alerte
 
    [modifier | modifier le code]
 
-   L'OMS, conformément au règlement sanitaire international, organise la
+   L'OMS, conformÃ©ment au rÃ¨glement sanitaire international, organise la
    coordination transnationale, dont en diffusant aux organismes nationaux
-   de santé des alertes correspondant à des phases de gravité ; six phases
-   dont la définition a été révisée en 2009 pour faciliter l'intégration
-   de nouvelles recommandations et stratégies dans les plans nationaux de
-   préparation et d'action ; et pour qu'elles soient plus faciles à
-   comprendre, plus précises et basées sur des phénomènes observables.
+   de santÃ© des alertes correspondant Ã  des phases de gravitÃ© ; six phases
+   dont la dÃ©finition a Ã©tÃ© rÃ©visÃ©e en 2009 pour faciliter l'intÃ©gration
+   de nouvelles recommandations et stratÃ©gies dans les plans nationaux de
+   prÃ©paration et dâaction ; et pour quâelles soient plus faciles Ã 
+   comprendre, plus prÃ©cises et basÃ©es sur des phÃ©nomÃ¨nes observables.
 
-   Ces 6 phases sont présentées ci dessous (avec l'exemple de la pandémie
+   Ces 6 phases sont prÃ©sentÃ©es ci dessous (avec l'exemple de la pandÃ©mie
    grippale de 2009).
-     * Les phases 1 à 3 visent la préparation et le développement des
-       moyens d'action et de planification des interventions, en fonction
-       des données récoltées sur le terrain par les acteurs de santé.
-     * Les phases 4 à 6 indiquent la nécessité d'engager des efforts de
-       riposte contre la pandémie et d'atténuation de ses effets. Les
-       périodes qui suivent la première vague pandémique sont explicitées
-       pour faciliter les activités de remise en état, après la première
+     * Les phases 1 Ã  3 visent la prÃ©paration et le dÃ©veloppement des
+       moyens dâaction et de planification des interventions, en fonction
+       des donnÃ©es rÃ©coltÃ©es sur le terrain par les acteurs de santÃ©.
+     * Les phases 4 Ã  6 indiquent la nÃ©cessitÃ© dâengager des efforts de
+       riposte contre la pandÃ©mie et dâattÃ©nuation de ses effets. Les
+       pÃ©riodes qui suivent la premiÃ¨re vague pandÃ©mique sont explicitÃ©es
+       pour faciliter les activitÃ©s de remise en Ã©tat, aprÃ¨s la premiÃ¨re
        vague. Cela passe par une large information au public par les
-       médias et les autorités.
+       mÃ©dias et les autoritÃ©s.
 
    Chaque pays adapte le niveau d'alerte en fonction de sa situation
-   sanitaire, et comme précisé par l'article 43 du règlement sanitaire
-   international (RSI), chaque État peut aller au-delà des recommandations
-   de l'OMS en exerçant sa souveraineté via des mesures sanitaires
-   supplémentaires, si ces mesures sont conformes à cet article 43 qui a
-   fait l'objet de plusieurs conférences de consensus pour préciser le
-   type de mesure autorisées^[3].
+   sanitaire, et comme prÃ©cisÃ© par l'article 43 du rÃ¨glement sanitaire
+   international (RSI), chaque Ãtat peut aller au-delÃ  des recommandations
+   de lâOMS en exerÃ§ant sa souverainetÃ© via des mesures sanitaires
+   supplÃ©mentaires, si ces mesures sont conformes Ã  cet article 43 qui a
+   fait l'objet de plusieurs confÃ©rences de consensus pour prÃ©ciser le
+   type de mesure autorisÃ©es^[3].
      * Phase 1 : Les virus circulent continuellement chez les animaux, en
        particulier chez les oiseaux. Bien que ces virus puissent
-       théoriquement évoluer en des virus à caractère pandémique, dans
-       cette phase, aucun cas d'infection chez l'homme due à un virus
-       circulant chez les animaux n'a été signalé. (Courant avril 2009, le
-       virus grippal A H1N1 a été transmis d'un oiseau à un porc).
+       thÃ©oriquement Ã©voluer en des virus Ã  caractÃ¨re pandÃ©mique, dans
+       cette phase, aucun cas d'infection chez l'homme due Ã  un virus
+       circulant chez les animaux nâa Ã©tÃ© signalÃ©. (Courant avril 2009, le
+       virus grippal A H1N1 a Ã©tÃ© transmis d'un oiseau Ã  un porc).
      * Phase 2 : Un virus grippal animal circulant chez des animaux
-       domestiques ou sauvages a provoqué des infections chez l'homme et
-       est de ce fait considéré comme constituant une menace potentielle
-       de pandémie. (Ce premier cas est extrêmement difficile à retrouver
-       et peut très facilement passer pour un virus grippal normal.)
-     * Phase 3 : Un virus grippal réassorti animal ou humain animal a été
-       à l'origine de cas sporadiques ou de petits groupes de cas de
-       maladie dans la population, mais n'a pas entraîné de transmission
-       interhumaine suffisamment efficace pour maintenir les flambées à
-       l'échelon communautaire. Une transmission interhumaine limitée peut
-       se produire dans certaines circonstances, par exemple lorsqu'il y a
-       un contact étroit entre une personne infectée et un dispensateur de
-       soins non protégé. Toutefois, une transmission limitée dans ces
-       conditions très précises n'indique pas que le virus est parvenu au
-       degré de transmissibilité nécessaire pour provoquer une pandémie
+       domestiques ou sauvages a provoquÃ© des infections chez l'homme et
+       est de ce fait considÃ©rÃ© comme constituant une menace potentielle
+       de pandÃ©mie. (Ce premier cas est extrÃªmement difficile Ã  retrouver
+       et peut trÃ¨s facilement passer pour un virus grippal normal.)
+     * Phase 3 : Un virus grippal rÃ©assorti animal ou humain animal a Ã©tÃ©
+       Ã  l'origine de cas sporadiques ou de petits groupes de cas de
+       maladie dans la population, mais nâa pas entraÃ®nÃ© de transmission
+       interhumaine suffisamment efficace pour maintenir les flambÃ©es Ã 
+       lâÃ©chelon communautaire. Une transmission interhumaine limitÃ©e peut
+       se produire dans certaines circonstances, par exemple lorsquâil y a
+       un contact Ã©troit entre une personne infectÃ©e et un dispensateur de
+       soins non protÃ©gÃ©. Toutefois, une transmission limitÃ©e dans ces
+       conditions trÃ¨s prÃ©cises nâindique pas que le virus est parvenu au
+       degrÃ© de transmissibilitÃ© nÃ©cessaire pour provoquer une pandÃ©mie
        chez l'homme.
-     * Phase 4 : Elle se caractérise par la transmission interhumaine
-       vérifiée d'un virus (ici, grippal) réassorti animal ou
-       animal-humain capable de provoquer des « flambées à l'échelon
-       communautaire ». L'aptitude du virus à provoquer des flambées
-       durables de la maladie dans une communauté est le signe d'une
-       majoration importante du risque de pandémie. Tout pays qui
-       soupçonne un tel évènement ou qui l'a vérifié, doit de toute
-       urgence consulter l'OMS afin que la situation puisse être évaluée
-       conjointement et que ce pays puisse prendre une décision si la mise
-       en oeuvre d'une opération rapide d'endiguement de la pandémie se
+     * Phase 4 : Elle se caractÃ©rise par la transmission interhumaine
+       vÃ©rifiÃ©e dâun virus (ici, grippal) rÃ©assorti animal ou
+       animal-humain capable de provoquer des Â« flambÃ©es Ã  l'Ã©chelon
+       communautaire Â». L'aptitude du virus Ã  provoquer des flambÃ©es
+       durables de la maladie dans une communautÃ© est le signe dâune
+       majoration importante du risque de pandÃ©mie. Tout pays qui
+       soupÃ§onne un tel Ã©vÃ¨nement ou qui l'a vÃ©rifiÃ©, doit de toute
+       urgence consulter l'OMS afin que la situation puisse Ãªtre Ã©valuÃ©e
+       conjointement et que ce pays puisse prendre une dÃ©cision si la mise
+       en Åuvre d'une opÃ©ration rapide d'endiguement de la pandÃ©mie se
        justifie. La phase 4 indique une majoration importante du risque de
-       pandémie mais ne signifie pas nécessairement qu'une pandémie est
-       inéluctable. (En 2009, ces 3 phases ont été activées en succession
-       extrêmement rapide par l'OMS. En l'espace de quelques semaines, ce
-       changement de phase d'alerte a attiré l'attention des médias
-       internationaux sur le Mexique, berceau de l'épidémie).
-     * Phase 5 : Elle se caractérise par une propagation inter-humaine du
-       virus dans au moins deux pays d'une Région de l'OMS. Si la plupart
-       des pays ne sont pas touchés à ce stade, la déclaration de la phase
-       5 est un signal fort indiquant qu'une pandémie est imminente et
-       qu'il reste peu de temps pour finaliser l'organisation, la
-       diffusion et la mise en oeuvre des mesures d'atténuation prévues.
-     * Phase 6 : Dite aussi phase de pandémie, elle se caractérise par des
-       flambées à l'échelon communautaire dans au moins un pays d'une
-       autre Région de l'OMS en plus des critères définis à la phase 5. La
-       déclaration de cette phase indiquera qu'une pandémie mondiale est
+       pandÃ©mie mais ne signifie pas nÃ©cessairement qu'une pandÃ©mie est
+       inÃ©luctable. (En 2009, ces 3 phases ont Ã©tÃ© activÃ©es en succession
+       extrÃªmement rapide par l'OMS. En l'espace de quelques semaines, ce
+       changement de phase d'alerte a attirÃ© l'attention des mÃ©dias
+       internationaux sur le Mexique, berceau de l'Ã©pidÃ©mie).
+     * Phase 5 : Elle se caractÃ©rise par une propagation inter-humaine du
+       virus dans au moins deux pays dâune RÃ©gion de l'OMS. Si la plupart
+       des pays ne sont pas touchÃ©s Ã  ce stade, la dÃ©claration de la phase
+       5 est un signal fort indiquant qu'une pandÃ©mie est imminente et
+       quâil reste peu de temps pour finaliser l'organisation, la
+       diffusion et la mise en Åuvre des mesures dâattÃ©nuation prÃ©vues.
+     * Phase 6 : Dite aussi phase de pandÃ©mie, elle se caractÃ©rise par des
+       flambÃ©es Ã  l'Ã©chelon communautaire dans au moins un pays dâune
+       autre RÃ©gion de l'OMS en plus des critÃ¨res dÃ©finis Ã  la phase 5. La
+       dÃ©claration de cette phase indiquera qu'une pandÃ©mie mondiale est
        en cours.
-     * Phase 7 : Fin de pandémie avec diminution des cas, mais reprise
+     * Phase 7 : Fin de pandÃ©mie avec diminution des cas, mais reprise
        possible par vagues.
 
-   Après le pic pandémique, dans la plupart des pays disposant d'une
-   surveillance adéquate, le nombre de cas de la maladie aura chuté
-   au-dessous de celui observé lors du pic. Cette période de décrue
-   d'activité pandémique ne garantie pas l'absence d'autres vagues (les
-   pays doivent se préparer à d'éventuelles autres vagues). Les pandémies
-   ont généralement des vagues d'activité s'étalant sur des mois, et
-   séparées d'intervalles se mesurant en mois ou années. A ce moment, une
-   tâche de communication essentielle consiste à tempérer cette annonce,
-   au profit d'une vigilance conservée ; un signal immédiat de
-   «relâchement» serait prématuré.
+   AprÃ¨s le pic pandÃ©mique, dans la plupart des pays disposant d'une
+   surveillance adÃ©quate, le nombre de cas de la maladie aura chutÃ©
+   au-dessous de celui observÃ© lors du pic. Cette pÃ©riode de dÃ©crue
+   d'activitÃ© pandÃ©mique ne garantie pas l'absence d'autres vagues (les
+   pays doivent se prÃ©parer Ã  d'Ã©ventuelles autres vagues). Les pandÃ©mies
+   ont gÃ©nÃ©ralement des vagues d'activitÃ© s'Ã©talant sur des mois, et
+   sÃ©parÃ©es d'intervalles se mesurant en mois ou annÃ©es. A ce moment, une
+   tÃ¢che de communication essentielle consiste Ã  tempÃ©rer cette annonce,
+   au profit d'une vigilance conservÃ©e ; un signal immÃ©diat de
+   Â«relÃ¢chementÂ» serait prÃ©maturÃ©.
 
 Moyens organisationnels
 
    [modifier | modifier le code]
 
-   Des moyens techniques et financiers, du personnel formé sont
-   nécessaires. La gestion s'appuie généralement sur des réseaux de
+   Des moyens techniques et financiers, du personnel formÃ© sont
+   nÃ©cessaires. La gestion s'appuie gÃ©nÃ©ralement sur des rÃ©seaux de
    cellules de crise.
 
-   Des procédures dérogatoires exceptionnelles sont prévues par les plans
+   Des procÃ©dures dÃ©rogatoires exceptionnelles sont prÃ©vues par les plans
    de crise (ils ont par exemple en Chine en 2020, permis de construire
-   deux hôpitaux, dont l'un en quelques jours, pour contrecarrer les
-   flambées épidémiques de Wuhan et Hubei).
+   deux hÃ´pitaux, dont l'un en quelques jours, pour contrecarrer les
+   flambÃ©es Ã©pidÃ©miques de Wuhan et Hubei).
 
-   Les moyens de gestion internationale et transfrontalière posent encore
+   Les moyens de gestion internationale et transfrontaliÃ¨re posent encore
    question : Qui doit fournir les vaccins, antiviraux et soins aux
-   malades d'un pays riverain tombé malade hors de son territoire, ou
-   longuement bloqué par une quarantaine en cas de pandémie ? En juin
-   2006, la question n'était résolue pour aucun pays. La France a annoncé
-   étudier ces cas avec ses voisins. Il y aura « des échanges entre
-   responsables hospitaliers » de France, Belgique, Allemagne et du
-   Luxembourg dès juillet 2006 a annoncé le ministre de la santé. À Paris,
-   le 15 juin 2006, on a appris que la proposition est étendue à l'Italie,
-   la Suisse, l'Espagne qui pourront envoyer des observateurs aux
-   exercices français programmés. Au même moment en Afrique et en Asie les
-   pays commencent aussi, sur les conseils de l'ONU à s'organiser en
-   vastes zones géographiques.
+   malades dâun pays riverain tombÃ© malade hors de son territoire, ou
+   longuement bloquÃ© par une quarantaine en cas de pandÃ©mie ? En juin
+   2006, la question n'Ã©tait rÃ©solue pour aucun pays. La France a annoncÃ©
+   Ã©tudier ces cas avec ses voisins. Il y aura Â« des Ã©changes entre
+   responsables hospitaliers Â» de France, Belgique, Allemagne et du
+   Luxembourg dÃ¨s juillet 2006 a annoncÃ© le ministre de la santÃ©. Ã Paris,
+   le 15 juin 2006, on a appris que la proposition est Ã©tendue Ã  lâItalie,
+   la Suisse, lâEspagne qui pourront envoyer des observateurs aux
+   exercices franÃ§ais programmÃ©s. Au mÃªme moment en Afrique et en Asie les
+   pays commencent aussi, sur les conseils de l'ONU Ã  s'organiser en
+   vastes zones gÃ©ographiques.
 
-   Un cas particulier récemment mis en lumière est celui des grands
-   navires de croisière (qui peuvent embarquer jusqu'à plus de
-   6 000 personnes). Ainsi le Diamond Princess a été début 2020 le second
-   plus grand foyer mondial de la Pandémie de maladie à coronavirus de
-   2019-2020 : des centaines de passagers de diverses nationalités y ont
-   été infectés par le coronavirus SARS-CoV-2, certains ayant été placé en
-   quarantaine et pour soins à bord du navire, au Japon^[4], car faute
-   d'un nombre suffisant de lits d'isolement à terre, les malades peu
-   symptomatiques ont du être soignés à bord.
+   Un cas particulier rÃ©cemment mis en lumiÃ¨re est celui des grands
+   navires de croisiÃ¨re (qui peuvent embarquer jusqu'Ã  plus de
+   6 000 personnes). Ainsi le Diamond Princess a Ã©tÃ© dÃ©but 2020 le second
+   plus grand foyer mondial de la PandÃ©mie de maladie Ã  coronavirus de
+   2019-2020 : des centaines de passagers de diverses nationalitÃ©s y ont
+   Ã©tÃ© infectÃ©s par le coronavirus SARS-CoV-2, certains ayant Ã©tÃ© placÃ© en
+   quarantaine et pour soins Ã  bord du navire, au Japon^[4], car faute
+   d'un nombre suffisant de lits dâisolement Ã  terre, les malades peu
+   symptomatiques ont du Ãªtre soignÃ©s Ã  bord.
 
    Selon Bwire & Paulo (2020), faute de plans de gestion transnationaux
-   clairs pour le « traitement, l'isolement, la quarantaine et
-   l'évacuation » des passagers de grands navires de croisière, ces
-   derniers « peuvent être le maillon faible » de la lutte contre une
-   pandémie de ce type.
+   clairs pour le Â« traitement, l'isolement, la quarantaine et
+   l'Ã©vacuation Â» des passagers de grands navires de croisiÃ¨re, ces
+   derniers Â« peuvent Ãªtre le maillon faible Â» de la lutte contre une
+   pandÃ©mie de ce type.
 
 Moyens pharmaceutiques
 
    [modifier | modifier le code]
 
-   Un plan de crise s'appuie sur la définition préalable d'une politique
-   adaptée pour fournir les médicaments et matériels pharmaceutiques pour
-   lesquels une forte augmentation de la demande est attendue. Après
-   identification des produits concernés et des filières
-   d'approvisionnement possibles, des modalités et délais de fabrication
-   et des besoins anticipés pour une période définie par le plan, cette
-   politique peut s'appuyer sur l'existence de stocks stratégiques et
-   tactiques, sur le recours éventuel à des approvisionnements nationaux
-   ou étrangers, et sur les possibilités de réorientation industrielles en
+   Un plan de crise s'appuie sur la dÃ©finition prÃ©alable d'une politique
+   adaptÃ©e pour fournir les mÃ©dicaments et matÃ©riels pharmaceutiques pour
+   lesquels une forte augmentation de la demande est attendue. AprÃ¨s
+   identification des produits concernÃ©s et des filiÃ¨res
+   d'approvisionnement possibles, des modalitÃ©s et dÃ©lais de fabrication
+   et des besoins anticipÃ©s pour une pÃ©riode dÃ©finie par le plan, cette
+   politique peut s'appuyer sur l'existence de stocks stratÃ©giques et
+   tactiques, sur le recours Ã©ventuel Ã  des approvisionnements nationaux
+   ou Ã©trangers, et sur les possibilitÃ©s de rÃ©orientation industrielles en
    vue de pourvoir aux besoins.
 
    La constitution de ces stocks et les conditions de leur renouvellement
-   doivent avoir été prévus, suivis et éventuellement révisés entre deux
-   pandémies consécutives.
+   doivent avoir Ã©tÃ© prÃ©vus, suivis et Ã©ventuellement rÃ©visÃ©s entre deux
+   pandÃ©mies consÃ©cutives.
 
-   Les stocks stratégiques, généralement nationaux, peuvent éventuellement
-   être envisagés à des niveaux supra-nationaux.
+   Les stocks stratÃ©giques, gÃ©nÃ©ralement nationaux, peuvent Ã©ventuellement
+   Ãªtre envisagÃ©s Ã  des niveaux supra-nationaux.
 
-   En juin 2006 l'UE ne disposait toujours pas de stock stratégique
-   européen d'antiviraux et à Luxembourg, les ministres de la Santé des 25
-   n'ont pas su s'entendre pour créer et cogérer un stock partagé
-   d'antiviraux, déplorait le commissaire européen (Márkos Kyprianoú). 5
-   pays (Allemagne, Suède, Pays-Bas, Portugal, Slovaquie) s'étaient
-   opposés à ce projet, par principe ou par refus de financer ce fonds,
-   réclamant un financement communautaire (non prévu). Ce stock ne devait
+   En juin 2006 l'UE ne disposait toujours pas de stock stratÃ©gique
+   europÃ©en dâantiviraux et Ã  Luxembourg, les ministres de la SantÃ© des 25
+   nâont pas su s'entendre pour crÃ©er et cogÃ©rer un stock partagÃ©
+   d'antiviraux, dÃ©plorait le commissaire europÃ©en (MÃ¡rkos KyprianoÃº). 5
+   pays (Allemagne, SuÃ¨de, Pays-Bas, Portugal, Slovaquie) s'Ã©taient
+   opposÃ©s Ã  ce projet, par principe ou par refus de financer ce fonds,
+   rÃ©clamant un financement communautaire (non prÃ©vu). Ce stock ne devait
    pourtant pas remplacer les stocks nationaux mais s'y ajouter pour aider
-   rapidement un pays où l'épidémie débuterait (aucun pays n'a assez
-   d'antiviraux pour traiter toute sa population).
+   rapidement un pays oÃ¹ l'Ã©pidÃ©mie dÃ©buterait (aucun pays nâa assez
+   dâantiviraux pour traiter toute sa population).
 
-   En cas de pandémie il faudra rapidement produire, diffuser et utiliser
-   une grande quantité de tests et de vaccins. L'immunothérapie passive
+   En cas de pandÃ©mie il faudra rapidement produire, diffuser et utiliser
+   une grande quantitÃ© de tests et de vaccins. L'immunothÃ©rapie passive
    des malades, par des anticorps monoclonaux est une des solutions
-   envisagées par les chercheurs qui en 2007 testaient déjà son efficacité
-   sur l'animal^[5], avec des résultats laissant penser que des anticorps
-   monoclonaux d'origine humaine pourraient être produits à partir du sang
-   de patients ayant guéri d'une grippe à H5N1 (ou de convalescents le cas
-   échéants) et contribuer à enrayer une épidémie et à limiter le nombre
-   de morts (en prophylaxie unique, ou comme traitement complémentaire).
+   envisagÃ©es par les chercheurs qui en 2007 testaient dÃ©jÃ  son efficacitÃ©
+   sur l'animal^[5], avec des rÃ©sultats laissant penser que des anticorps
+   monoclonaux d'origine humaine pourraient Ãªtre produits Ã  partir du sang
+   de patients ayant guÃ©ri d'une grippe Ã  H5N1 (ou de convalescents le cas
+   Ã©chÃ©ants) et contribuer Ã  enrayer une Ã©pidÃ©mie et Ã  limiter le nombre
+   de morts (en prophylaxie unique, ou comme traitement complÃ©mentaire).
 
-   Sanofi s'est engagé mi-juin 2008 à offrir (sur 3 ans) 60 millions de
-   vaccins anti-grippe aviaire à l'OMS pour constituer un stock
-   international destiné à aider les pays où apparaîtrait éventuellement
-   une épidémie impliquant ce virus^[6].
+   Sanofi s'est engagÃ© mi-juin 2008 Ã  offrir (sur 3 ans) 60 millions de
+   vaccins anti-grippe aviaire Ã  l'OMS pour constituer un stock
+   international destinÃ© Ã  aider les pays oÃ¹ apparaÃ®trait Ã©ventuellement
+   une Ã©pidÃ©mie impliquant ce virus^[6].
 
 Moyens non pharmaceutiques
 
    [modifier | modifier le code]
 
-   Outre les mesures-barrières individuelles classiques, des mesures
-   spécifiques à la gestion des excréta (urine, excréments, vomi...), et
-   des obligations mise en bière sans délai (éventuellement sans
+   Outre les mesures-barriÃ¨res individuelles classiques, des mesures
+   spÃ©cifiques Ã  la gestion des excrÃ©ta (urine, excrÃ©ments, vomi...), et
+   des obligations mise en biÃ¨re sans dÃ©lai (Ã©ventuellement sans
    rapatriements de cadavres) et sans soins de conservation
-   (thanatopraxie) peuvent être momentanément imposées.
+   (thanatopraxie) peuvent Ãªtre momentanÃ©ment imposÃ©es.
 
 Veille sanitaire
 
    [modifier | modifier le code]
-   Article détaillé : veille sanitaire.
+   Article dÃ©taillÃ© : veille sanitaire.
 
-   Une veille pluridisciplinaire, proactive et partagée est un facteur
-   stratégique et crucial contre une pandémie, notamment car certains
-   viroses (grippe par exemple) sons contagieuses 1 à plusieurs jours
-   avant les premiers symptômes ou chez des sujets asymptomatiques ou
-   porteurs sains. Tout foyer de virus hautement pathogène et/ou très
-   contagieux doit être détecté précocement, et faire l'objet de mesures
-   immédiates (quarantaine, traçage des cas, soins...). Les autorités et
-   habitants des zones périphériques doivent être prévenus. Les
-   caractéristiques génomiques du virus sont diffusées dès que possible
-   pour mieux le suivre et préparer un éventuel vaccin.
+   Une veille pluridisciplinaire, proactive et partagÃ©e est un facteur
+   stratÃ©gique et crucial contre une pandÃ©mie, notamment car certains
+   viroses (grippe par exemple) sons contagieuses 1 Ã  plusieurs jours
+   avant les premiers symptÃ´mes ou chez des sujets asymptomatiques ou
+   porteurs sains. Tout foyer de virus hautement pathogÃ¨ne et/ou trÃ¨s
+   contagieux doit Ãªtre dÃ©tectÃ© prÃ©cocement, et faire l'objet de mesures
+   immÃ©diates (quarantaine, traÃ§age des cas, soinsâ¦). Les autoritÃ©s et
+   habitants des zones pÃ©riphÃ©riques doivent Ãªtre prÃ©venus. Les
+   caractÃ©ristiques gÃ©nomiques du virus sont diffusÃ©es dÃ¨s que possible
+   pour mieux le suivre et prÃ©parer un Ã©ventuel vaccin.
 
-   Cette veille concerne d'abord l'éco-épidémiologie et l'épidémiologie et
-   la virologie, avec des aspects historiques rétrospectifs (ex : pour
-   tirer les leçons de la grippe espagnole), ou prospectifs (pour
+   Cette veille concerne d'abord l'Ã©co-Ã©pidÃ©miologie et l'Ã©pidÃ©miologie et
+   la virologie, avec des aspects historiques rÃ©trospectifs (ex : pour
+   tirer les leÃ§ons de la grippe espagnole), ou prospectifs (pour
    anticiper sur les besoins de planifications). Elle porte aussi sur
-   l'état et les moyens de préparation, sur le suivi des facteurs de
+   l'Ã©tat et les moyens de prÃ©paration, sur le suivi des facteurs de
    risque ou les aspects sociopsychologiques de la situation.
 
-   L'OMS dispose à Genève (Suisse) d'une cellule permanente de veille
-   dotée, traquant les informations, via la presse mondiale souvent plus
-   rapidement réactive que les gouvernements ou autorités locales. Lors du
-   SRAS (2003) et lors des cas de charbon (2001, États-Unis), La presse et
-   la TV ont révélé le problème avant les autorités.
+   L'OMS dispose Ã  GenÃ¨ve (Suisse) d'une cellule permanente de veille
+   dotÃ©e, traquant les informations, via la presse mondiale souvent plus
+   rapidement rÃ©active que les gouvernements ou autoritÃ©s locales. Lors du
+   SRAS (2003) et lors des cas de charbon (2001, Ãtats-Unis), La presse et
+   la TV ont rÃ©vÃ©lÃ© le problÃ¨me avant les autoritÃ©s.
 
-   Mi-2006, après 3 ans de négociation, la plupart des États ont décidé de
-   partager leurs informations sur le génome des virus en cause,
-   permettant un meilleur suivi écoépidémiologique et accélérant le
-   développement de vaccins.
+   Mi-2006, aprÃ¨s 3 ans de nÃ©gociation, la plupart des Ãtats ont dÃ©cidÃ© de
+   partager leurs informations sur le gÃ©nome des virus en cause,
+   permettant un meilleur suivi Ã©coÃ©pidÃ©miologique et accÃ©lÃ©rant le
+   dÃ©veloppement de vaccins.
 
-   La veille peut aussi être citoyenne ; ainsi lors des flambées de grippe
-   aviaire, le grand public (éleveurs, naturalistes et chasseurs
-   notamment) sont invités à prévenir les autorités en cas d'observations
-   de mortalité anormales d'oiseaux.
+   La veille peut aussi Ãªtre citoyenne ; ainsi lors des flambÃ©es de grippe
+   aviaire, le grand public (Ã©leveurs, naturalistes et chasseurs
+   notamment) sont invitÃ©s Ã  prÃ©venir les autoritÃ©s en cas d'observations
+   de mortalitÃ© anormales d'oiseaux.
 
 Suivi des oiseaux
 
    [modifier | modifier le code]
 
-   Pour les grippes aviaires, le commerce des volailles s'est montré être
-   la première source de risque, avant les oiseaux sauvages, mais les
-   oiseaux migrateurs qu'elles peuvent contaminer doivent aussi être
-   surveillés pour prévenir l'apparition de nouveaux foyers. Des aides
-   financières et vétérinaires ont été prévues pour les pays émergents
-   (dont pour former les autorités sanitaires), peu à peu opérationnels.
-   Un suivi satellitaire en temps réel des mouvements migratoires a été
-   proposé par la FAO le 1^er juin 2006, mais l'Agence ne disposait pas
-   des 6,8 millions de nécessaires. Le 19 juin 2006, le CIRAD estimait que
-   l'élevage a une responsabilité importante, mais que le rôle des oiseaux
-   sauvages varie selon les contextes et qu'il doit être précisé. Il a
-   donc lancé en septembre 2006 une campagne de prélèvements en Afrique où
-   une dizaine de laboratoires pouvant diagnostiquer le H5N1 devaient être
-   installés contre un seul fin 2005. Le Cirad-Montpellier a évolué pour
-   traiter 400 échantillons/jour ; et il s'intéressera aussi aux
+   Pour les grippes aviaires, le commerce des volailles sâest montrÃ© Ãªtre
+   la premiÃ¨re source de risque, avant les oiseaux sauvages, mais les
+   oiseaux migrateurs qu'elles peuvent contaminer doivent aussi Ãªtre
+   surveillÃ©s pour prÃ©venir l'apparition de nouveaux foyers. Des aides
+   financiÃ¨res et vÃ©tÃ©rinaires ont Ã©tÃ© prÃ©vues pour les pays Ã©mergents
+   (dont pour former les autoritÃ©s sanitaires), peu Ã  peu opÃ©rationnels.
+   Un suivi satellitaire en temps rÃ©el des mouvements migratoires a Ã©tÃ©
+   proposÃ© par la FAO le 1^er juin 2006, mais lâAgence ne disposait pas
+   des 6,8 millions de nÃ©cessaires. Le 19 juin 2006, le CIRAD estimait que
+   lâÃ©levage a une responsabilitÃ© importante, mais que le rÃ´le des oiseaux
+   sauvages varie selon les contextes et quâil doit Ãªtre prÃ©cisÃ©. Il a
+   donc lancÃ© en septembre 2006 une campagne de prÃ©lÃ¨vements en Afrique oÃ¹
+   une dizaine de laboratoires pouvant diagnostiquer le H5N1 devaient Ãªtre
+   installÃ©s contre un seul fin 2005. Le Cirad-Montpellier a Ã©voluÃ© pour
+   traiter 400 Ã©chantillons/jour ; et il s'intÃ©ressera aussi aux
    mouvements migratoires Est-ouest mal connus, avec Wetlands
-   International et Wildlife Conservation Society, via des oiseaux équipés
-   de balises. En juin 2006, le Canada a annoncé qu'il suivra aussi
-   l'évolution du virus via les variations de ventes de médicaments dans
-   5 000 pharmacies du pays pour déceler les premiers indices d'une
-   pandémie (c'est une détection trop tardive pour bloquer un pathogène
-   très contagieux, mais c'est une sécurité supplémentaire). En août 2006,
-   les États-Unis ont renforcé leur veille sur les oiseaux migrateurs,
-   dont en Alaska. Outre la volaille, le bétail et quelques animaux
-   sauvages font aussi l'objet de suivis dans certains pays.
+   International et Wildlife Conservation Society, via des oiseaux Ã©quipÃ©s
+   de balises. En juin 2006, le Canada a annoncÃ© qu'il suivra aussi
+   l'Ã©volution du virus via les variations de ventes de mÃ©dicaments dans
+   5 000 pharmacies du pays pour dÃ©celer les premiers indices d'une
+   pandÃ©mie (c'est une dÃ©tection trop tardive pour bloquer un pathogÃ¨ne
+   trÃ¨s contagieux, mais c'est une sÃ©curitÃ© supplÃ©mentaire). En aoÃ»t 2006,
+   les Ãtats-Unis ont renforcÃ© leur veille sur les oiseaux migrateurs,
+   dont en Alaska. Outre la volaille, le bÃ©tail et quelques animaux
+   sauvages font aussi lâobjet de suivis dans certains pays.
 
-Adapter les méthodes de test au suivi épidémiologique humain
+Adapter les mÃ©thodes de test au suivi Ã©pidÃ©miologique humain
 
    [modifier | modifier le code]
 
-   Le 23 août 2006, le CDC américain a mis à jour ses recommandations sur
-   les tests à pratiquer pour le diagnostic d'une personne suspectées de
-   grippe aviaire. Il recommande d'analyser le liquide récupéré par Lavage
-   bronchoalvéolaire (ou LBA) plutôt que l'écouvillonnage nasal ou de la
-   gorge, car contrairement aux virus de la grippe saisonnière, les
-   variants du virus H5N1 HP se développent dans la partie profonde des
-   poumons et semblent n'être que peu présent dans la partie supérieure
-   des poumons, dans la bouche ou le nez. Cela permet aussi de détecter
-   d'éventuels microbes facteurs de surinfections (éventuellement à risque
+   Le 23 aoÃ»t 2006, le CDC amÃ©ricain a mis Ã  jour ses recommandations sur
+   les tests Ã  pratiquer pour le diagnostic d'une personne suspectÃ©es de
+   grippe aviaire. Il recommande d'analyser le liquide rÃ©cupÃ©rÃ© par Lavage
+   bronchoalvÃ©olaire (ou LBA) plutÃ´t que l'Ã©couvillonnage nasal ou de la
+   gorge, car contrairement aux virus de la grippe saisonniÃ¨re, les
+   variants du virus H5N1 HP se dÃ©veloppent dans la partie profonde des
+   poumons et semblent n'Ãªtre que peu prÃ©sent dans la partie supÃ©rieure
+   des poumons, dans la bouche ou le nez. Cela permet aussi de dÃ©tecter
+   dâÃ©ventuels microbes facteurs de surinfections (Ã©ventuellement Ã  risque
    nosocomial)^[7].
 
-   L'épisode turc et certains cas indonésiens ont montré que des
-   laboratoires inexpérimentés pouvaient ne pas détecter tous les cas
-   humains ou animaux de H5N1. Il est donc recommandé dans les zones
-   nouvellement infectées de vérifier les cas douteux de tests négatifs
-   par de nouveaux tests. En Indonésie, 3 malades sur 8 porteurs du H5N1
-   n'ont développé que des signes bénins. Ils n'ont été détectés que quand
-   les chercheurs ont fait des analyses systématiques autour des patients
-   gravement malades. Un partage précoce des données sur les symptômes et
-   sur l'évolution de la maladie permet de mieux détecter les mutations du
-   virus, ou des résistances ou vulnérabilités naturelles de la
-   population. Fukuda de l'OMS plaide même pour un questionnaire
-   uniformisé (novembre 2006).
+   L'Ã©pisode turc et certains cas indonÃ©siens ont montrÃ© que des
+   laboratoires inexpÃ©rimentÃ©s pouvaient ne pas dÃ©tecter tous les cas
+   humains ou animaux de H5N1. Il est donc recommandÃ© dans les zones
+   nouvellement infectÃ©es de vÃ©rifier les cas douteux de tests nÃ©gatifs
+   par de nouveaux tests. En IndonÃ©sie, 3 malades sur 8 porteurs du H5N1
+   n'ont dÃ©veloppÃ© que des signes bÃ©nins. Ils n'ont Ã©tÃ© dÃ©tectÃ©s que quand
+   les chercheurs ont fait des analyses systÃ©matiques autour des patients
+   gravement malades. Un partage prÃ©coce des donnÃ©es sur les symptÃ´mes et
+   sur l'Ã©volution de la maladie permet de mieux dÃ©tecter les mutations du
+   virus, ou des rÃ©sistances ou vulnÃ©rabilitÃ©s naturelles de la
+   population. Fukuda de l'OMS plaide mÃªme pour un questionnaire
+   uniformisÃ© (novembre 2006).
 
 Recommandations de l'ONU
 
    [modifier | modifier le code]
 
-   Elles proviennent de l'OMS concernant la santé humaine et de la FAO et
-   l'OIE concernant les aspects vétérinaires. La spécificité des épidémies
+   Elles proviennent de l'OMS concernant la santÃ© humaine et de la FAO et
+   l'OIE concernant les aspects vÃ©tÃ©rinaires. La spÃ©cificitÃ© des Ã©pidÃ©mies
    zoologiques (ex : grippe aviaire, SRAS, MERS, SARS-CoV-2) fait que ces
-   2 aspects doivent être traités de manière coordonnée dans une approche
+   2 aspects doivent Ãªtre traitÃ©s de maniÃ¨re coordonnÃ©e dans une approche
    One Health, l'animal pouvant contaminer l'homme et inversement.
 
 Recommandations OMS
@@ -545,643 +547,643 @@ Recommandations OMS
 
    L'OMS offre sur site internet de nombreuses ressources pour comprendre
    la grippe aviaire et ses enjeux sanitaires. Elle recommande aux pays de
-   faire un plan de préparation à une éventuelle pandémie, incluant des
-   mesures barrières contre le virus et une stratégie vaccinale et
-   médicamenteuse. Il est recommandé de faire des exercices pour préparer
+   faire un plan de prÃ©paration Ã  une Ã©ventuelle pandÃ©mie, incluant des
+   mesures barriÃ¨res contre le virus et une stratÃ©gie vaccinale et
+   mÃ©dicamenteuse. Il est recommandÃ© de faire des exercices pour prÃ©parer
    le travail des cellules de crise^[8]^,^[9], valider ces plans
-   nationaux, les coordonner avec les pays voisins y compris aux échelles
+   nationaux, les coordonner avec les pays voisins y compris aux Ã©chelles
    supra-nationales. Les entreprises et les individus devraient aussi se
-   préparer.
+   prÃ©parer.
 
 Recommandations FAO et OIE
 
    [modifier | modifier le code]
 
-   Ces recommandations FAO^[10] et OIE^[11], sont rédigées à Rome le 5
-   juillet 2006, à la suite de la rencontre scientifique internationale
+   Ces recommandations FAO^[10] et OIE^[11], sont rÃ©digÃ©es Ã  Rome le 5
+   juillet 2006, Ã  la suite de la rencontre scientifique internationale
    sur la grippe aviaire chez les oiseaux sauvages de Rome les 30 et 31
-   mai 2006. Elles visent à :
+   mai 2006. Elles visent Ã  :
      * surveiller les oiseaux apparent sains autour de foyers de H5N1 afin
-       de vérifier s'ils sont capables de résister au virus (porteurs
-       asymptomatiques) ou s'ils peuvent migrer en étant malade et
-       transporter le virus, sur de petites distances, ou d'oiseau en
-       oiseau au fur et à mesure de la migration. Il se pourrait que des
-       oiseaux soient contaminants avant de développer une immunité ;
-     * tenter de détecter d'éventuelles espèces-relais susceptibles de
-       faire « un pont de contagion » entre oiseaux domestiques et
+       de vÃ©rifier sâils sont capables de rÃ©sister au virus (porteurs
+       asymptomatiques) ou s'ils peuvent migrer en Ã©tant malade et
+       transporter le virus, sur de petites distances, ou dâoiseau en
+       oiseau au fur et Ã  mesure de la migration. Il se pourrait que des
+       oiseaux soient contaminants avant de dÃ©velopper une immunitÃ© ;
+     * tenter de dÃ©tecter dâÃ©ventuelles espÃ¨ces-relais susceptibles de
+       faire Â« un pont de contagion Â» entre oiseaux domestiques et
        migrateurs sauvages ;
-     * vérifier que certaines espèces sauvages non migratrices telles que
+     * vÃ©rifier que certaines espÃ¨ces sauvages non migratrices telles que
        pies, corbeaux, corneilles, ou encore moineau friquet (Passer
-       montanus) qui fréquentent éventuellement les poulaillers ne soient
-       pas des réservoirs permettant au virus de passer l'hiver dans les
+       montanus) qui frÃ©quentent Ã©ventuellement les poulaillers ne soient
+       pas des rÃ©servoirs permettant au virus de passer lâhiver dans les
        zones froides.
 
-   Si de telles espèces-relais porteuses asymptomatiques existaient, la
-   mort massive d'oiseaux migrateurs aurait été mal interprétée. Elle ne
+   Si de telles espÃ¨ces-relais porteuses asymptomatiques existaient, la
+   mort massive d'oiseaux migrateurs aurait Ã©tÃ© mal interprÃ©tÃ©e. Elle ne
    signifierait pas que ces oiseaux soient porteurs de la zoonose, mais
-   qu'ils en sont de simples victimes.
+   quâils en sont de simples victimes.
 
-   Là où il y a déjà eu un foyer, le virus pourrait aussi passer l'hiver
-   chez des volailles (immunisées ? vaccinées ?) ou dans le sol ou l'eau
-   froide (ou chez d'autres espèces aquatiques - escargots par exemple -
+   LÃ  oÃ¹ il y a dÃ©jÃ  eu un foyer, le virus pourrait aussi passer l'hiver
+   chez des volailles (immunisÃ©es ? vaccinÃ©es ?) ou dans le sol ou lâeau
+   froide (ou chez dâautres espÃ¨ces aquatiques â escargots par exemple -
    car leur mucus est riche en acide sialique, la cible du virus).
 
 Mise en place de l'organisation de crise
 
    [modifier | modifier le code]
 
-   Tirant parti des retours d'expérience de nombreux pays, dont la Chine
-   (zone à haut risque d'émergence de pandémies) a depuis 2003 fortement
-   amélioré sa préparation, le dépistage de la maladie et le nombre de
-   lit, mais aucun pays ne peut s'estimer pleinement prêt.
+   Tirant parti des retours d'expÃ©rience de nombreux pays, dont la Chine
+   (zone Ã  haut risque d'Ã©mergence de pandÃ©mies) a depuis 2003 fortement
+   amÃ©liorÃ© sa prÃ©paration, le dÃ©pistage de la maladie et le nombre de
+   lit, mais aucun pays ne peut s'estimer pleinement prÃªt.
 
-   La Thaïlande, la Chine, et le Viêt Nam en étaient à renforcer leurs
-   futures capacités à planifier leur préparation. Le Cambodge et le Laos
-   étaient assez démunis. Pourtant les pays « pauvres en ressources » ont
-   une expérience réelle, et certains prennent en compte certaines
-   questions en grande partie négligées par la plupart des plans
-   européens. La Thaïlande a par exemple organisé (août... ?) la
+   La ThaÃ¯lande, la Chine, et le ViÃªt Nam en Ã©taient Ã  renforcer leurs
+   futures capacitÃ©s Ã  planifier leur prÃ©paration. Le Cambodge et le Laos
+   Ã©taient assez dÃ©munis. Pourtant les pays Â« pauvres en ressources Â» ont
+   une expÃ©rience rÃ©elle, et certains prennent en compte certaines
+   questions en grande partie nÃ©gligÃ©es par la plupart des plans
+   europÃ©ens. La ThaÃ¯lande a par exemple organisÃ© (aoÃ»tâ¦ ?) la
    mobilisation de 800 000 personnes pour faire de la sensibilisation en
-   porte-à-porte. Saurait-on faire de même dans les pays riches ?
+   porte-Ã -porte. Saurait-on faire de mÃªme dans les pays riches ?
 
-   D'autres pays (dont ceux n'ayant pas de plans) pourraient tirer
-   bénéfice de l'analyse forces- faiblesses des plans élaborés en Asie et
+   D'autres pays (dont ceux nâayant pas de plans) pourraient tirer
+   bÃ©nÃ©fice de l'analyse forces- faiblesses des plans Ã©laborÃ©s en Asie et
    en Europe.
 
-   Les agences de l'ONU (OMS, FAO, OIE) encouragent la coopération.
+   Les agences de l'ONU (OMS, FAO, OIE) encouragent la coopÃ©ration.
 
-   Ainsi, en 2006, les deux principales bases de données mondiales
-   collectant les séquençages des virus grippaux ont été ouvertes à tous
-   les chercheurs pour une grande partie de leurs données sur la grippe,
-   et à titre d'exemple, mardi 22 août 2006 : Japon et Chine, dont les
-   relations diplomatiques étaient tendues vont mettre en commun des
-   informations et des scientifiques pour mieux se préparer, via un accord
+   Ainsi, en 2006, les deux principales bases de donnÃ©es mondiales
+   collectant les sÃ©quenÃ§ages des virus grippaux ont Ã©tÃ© ouvertes Ã  tous
+   les chercheurs pour une grande partie de leurs donnÃ©es sur la grippe,
+   et Ã  titre d'exemple, mardi 22 aoÃ»t 2006 : Japon et Chine, dont les
+   relations diplomatiques Ã©taient tendues vont mettre en commun des
+   informations et des scientifiques pour mieux se prÃ©parer, via un accord
    entre l'Institut national japonais des maladies infectieuses, et le
-   Centre chinois de prévention et de contrôle des maladies.
+   Centre chinois de prÃ©vention et de contrÃ´le des maladies.
 
 Besoins et ressources
 
    [modifier | modifier le code]
-   Cette section ne cite pas suffisamment ses sources (décembre 2025).
-   Pour l'améliorer, ajoutez des références de qualité et vérifiables
-   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
-   passages nécessitant une source.
-     * Besoins humains et financiers : Des progrès ont été faits, mais 1,3
+   Cette section ne cite pas suffisamment ses sources (dÃ©cembre 2025).
+   Pour l'amÃ©liorer, ajoutez des rÃ©fÃ©rences de qualitÃ© et vÃ©rifiables
+   (comment faire ?) ou le modÃ¨le {{RÃ©fÃ©rence nÃ©cessaire}} sur les
+   passages nÃ©cessitant une source.
+     * Besoins humains et financiers : Des progrÃ¨s ont Ã©tÃ© faits, mais 1,3
        milliard de dollars (990 millions d'euros), sont encore au minimum
-       nécessaire pour 2007-2010 selon le coordinateur de l'ONU mercredi
+       nÃ©cessaire pour 2007-2010 selon le coordinateur de l'ONU mercredi
        29 novembre 2006.
      * Cartographie du risque : Plusieurs articles signalent que Google
-       Earth est utilisé aux États-Unis par les scientifiques pour suivre
-       l'évolution de la grippe avec des SIG (Système d'information
-       géographique) utiles pour créer par ex des zones tampons ou mesurer
-       le risque lié à la proximité d'élevages industriels, de zones
-       d'épandage, d'abattoirs, d'oiseaux migrateurs réputés sensibles, ou
-       encore pour repérer les églises, écoles, lieux de rassemblements ou
+       Earth est utilisÃ© aux Ãtats-Unis par les scientifiques pour suivre
+       lâÃ©volution de la grippe avec des SIG (SystÃ¨me d'information
+       gÃ©ographique) utiles pour crÃ©er par ex des zones tampons ou mesurer
+       le risque liÃ© Ã  la proximitÃ© dâÃ©levages industriels, de zones
+       d'Ã©pandage, d'abattoirs, d'oiseaux migrateurs rÃ©putÃ©s sensibles, ou
+       encore pour repÃ©rer les Ã©glises, Ã©coles, lieux de rassemblements ou
        axes de communications proches.
 
-   Les images les plus précises sont pour la plupart sur les pays riches,
-   les zones tropicales étant mal couvertes, avec des photos plus souvent
+   Les images les plus prÃ©cises sont pour la plupart sur les pays riches,
+   les zones tropicales Ã©tant mal couvertes, avec des photos plus souvent
    couvertes par des nuages.
 
-   Plusieurs experts ont suggéré une coopération des SIG, mais leurs
-   données étant souvent pour partie juridiquement protégées, les
-   coopérations semblent difficiles, alors que Google earth est au moins
-   accessible à tout le monde.
+   Plusieurs experts ont suggÃ©rÃ© une coopÃ©ration des SIG, mais leurs
+   donnÃ©es Ã©tant souvent pour partie juridiquement protÃ©gÃ©es, les
+   coopÃ©rations semblent difficiles, alors que Google earth est au moins
+   accessible Ã  tout le monde.
 
    Dans ce cadre, la cartographie des corridors biologiques qui inclut la
-   cartographie des corridors de migration aviaire, pourrait aider à
+   cartographie des corridors de migration aviaire, pourrait aider Ã 
    cibler et prioriser les actions concernant les oiseaux sauvages et le
-   risque qu'ils soient infectés par des élevages, par l'Homme, ou
-   inversement. Un réseau de chercheurs prépare un suivi par satellite des
+   risque qu'ils soient infectÃ©s par des Ã©levages, par l'Homme, ou
+   inversement. Un rÃ©seau de chercheurs prÃ©pare un suivi par satellite des
    migrations pour 2007.
-     * Des laboratoires P3 mobiles : « Si nous voulons être capables de
-       réagir de façon encore plus efficace, il faut pouvoir déplacer un
-       certain nombre de laboratoires ». Xavier Bertrand va demander aux
-       spécialistes français quel en serait le coût pour envisager les
-       conditions d'une mutualisation européenne. Si nous développons les
-       capacités de recherche, nous ferons gagner un temps précieux à
-       l'industrie qui produira le vaccin pandémique » (X. Bertrand,
-       Assemblée nationale, 29 novembre 2005, qui précisait qu'au moment
-       où il parlait il y avait 74 foyers épizootiques reconnus dans neuf
+     * Des laboratoires P3 mobiles : Â« Si nous voulons Ãªtre capables de
+       rÃ©agir de faÃ§on encore plus efficace, il faut pouvoir dÃ©placer un
+       certain nombre de laboratoires Â». Xavier Bertrand va demander aux
+       spÃ©cialistes franÃ§ais quel en serait le coÃ»t pour envisager les
+       conditions d'une mutualisation europÃ©enne. Si nous dÃ©veloppons les
+       capacitÃ©s de recherche, nous ferons gagner un temps prÃ©cieux Ã 
+       l'industrie qui produira le vaccin pandÃ©mique Â» (X. Bertrand,
+       AssemblÃ©e nationale, 29 novembre 2005, qui prÃ©cisait quâau moment
+       oÃ¹ il parlait il y avait 74 foyers Ã©pizootiques reconnus dans neuf
        provinces chinoises dans un pays ne disposant pas de laboratoire
        P4, ni de laboratoire P3 dans les provinces rurales.).
 
-   En 2006, l'Europe commence à se doter d'un CDC (Center for Disease
-   Control and Prevention) inspiré de ceux qui existent aux États-Unis, et
+   En 2006, l'Europe commence Ã  se doter d'un CDC (Center for Disease
+   Control and Prevention) inspirÃ© de ceux qui existent aux Ãtats-Unis, et
    qui veut pouvoir disposer de moyens de suivi
-   satellitaire/cartographique de l'épidémie.
-     * Gestion des déchets : les épidémies et pandémies sont sources d'une
-       augmentation brutale et parfois diffuse des quantités de déchet
-       médicaux, hospitaliers, de laboratoires et à risque sanitaire (y
-       compris dans les déchets ménagers) ; Ils exigent une gestion
-       spécifique. En France, les régions doivent maintenant (2019-2010)
-       intégrer un volet « déchets de situation exceptionnelle » dans
-       leurs plans de gestion et de prévention des déchets dits PRPGD).
+   satellitaire/cartographique de l'Ã©pidÃ©mie.
+     * Gestion des dÃ©chets : les Ã©pidÃ©mies et pandÃ©mies sont sources d'une
+       augmentation brutale et parfois diffuse des quantitÃ©s de dÃ©chet
+       mÃ©dicaux, hospitaliers, de laboratoires et Ã  risque sanitaire (y
+       compris dans les dÃ©chets mÃ©nagers) ; Ils exigent une gestion
+       spÃ©cifique. En France, les rÃ©gions doivent maintenant (2019-2010)
+       intÃ©grer un volet Â« dÃ©chets de situation exceptionnelle Â» dans
+       leurs plans de gestion et de prÃ©vention des dÃ©chets dits PRPGD).
 
-Coopération internationale
+CoopÃ©ration internationale
 
    [modifier | modifier le code]
 
-   Elle est indispensable, tant pour les aspects vétérinaire qu'humain,
-   car en situation de crise épidémique, un seul pays peut devenir maillon
-   faible à l'origine d'une pandémie. La préparation et la riposte à une
-   pandémie reposent sur une chaine d'acteurs dont tous les maillons
-   doivent être solides. La coopération est donc l'intérêt bien compris de
+   Elle est indispensable, tant pour les aspects vÃ©tÃ©rinaire qu'humain,
+   car en situation de crise Ã©pidÃ©mique, un seul pays peut devenir maillon
+   faible Ã  l'origine d'une pandÃ©mie. La prÃ©paration et la riposte Ã  une
+   pandÃ©mie reposent sur une chaine d'acteurs dont tous les maillons
+   doivent Ãªtre solides. La coopÃ©ration est donc l'intÃ©rÃªt bien compris de
    tous soulignait Emanuel Hirsch en 2009^[12] note qu'il n'existe pas
    dans le cas de la grippe de mouvements de malades et que la population
-   elle-même n'a généralement pas été directement sollicitée pour préparer
-   des réponses au risque pandémique.
+   elle-mÃªme n'a gÃ©nÃ©ralement pas Ã©tÃ© directement sollicitÃ©e pour prÃ©parer
+   des rÃ©ponses au risque pandÃ©mique.
 
-   Bloquer le virus à sa source serait l'action la plus efficace, ce qui
+   Bloquer le virus Ã  sa source serait l'action la plus efficace, ce qui
    implique une coordination rapide et des moyens (tests, vaccins et
-   médicaments partagés). En 2005 l'OMS, de l'OIE et de la FAO ont dans
-   cet esprit préparé la conférence de pékin (janvier 2006) où les
+   mÃ©dicaments partagÃ©s). En 2005 l'OMS, de l'OIE et de la FAO ont dans
+   cet esprit prÃ©parÃ© la confÃ©rence de pÃ©kin (janvier 2006) oÃ¹ les
    bailleurs internationaux ont promis 1,9 milliard de dollars, mais
-   mi-août 2006, la FAO n'avait reçu que 67,6 millions de dollars et était
-   en attente de plus de 50 autres millions promis. Elle en avait déboursé
+   mi-aoÃ»t 2006, la FAO nâavait reÃ§u que 67,6 millions de dollars et Ã©tait
+   en attente de plus de 50 autres millions promis. Elle en avait dÃ©boursÃ©
    32,5 millions.
 
-   Cette même année, Richard Coker et Sandra Mounier-Jack estimaient que
-   les pays d'Asie ou d'Afrique ne pourraient pas combattre seuls un début
-   de pandémie. Ils soulignent la disproportion entre les moyens et
-   niveaux de préparation des pays riches par rapport aux pays
-   pauvres^[13]. Les riches ont de puissant moyens vétérinaires et
-   sanitaires (à ne pas surestimer toutefois). Ils ont l'essentiel des
-   stocks de Tamiflu, qui pourrait d'abord être nécessaire aux pays
-   pauvres. Selon eux, en août 2006, si l'Europe disposait de plans
-   homogènes, les pays asiatiques avaient des niveaux très inégaux de
-   préparation à une pandémie, Hong Kong, l'Australie et la
-   Nouvelle-Zélande étant les mieux préparés, avec des plans rivalisant
-   avec les meilleurs plans occidentaux, dont européens. Les petits pays
-   et principautés doivent aussi se préparer, et ne pas uniquement compter
-   sur leurs voisins. Simulations et « crash tests » sanitaires sont un
-   des moyens de se préparer.
+   Cette mÃªme annÃ©e, Richard Coker et Sandra Mounier-Jack estimaient que
+   les pays d'Asie ou dâAfrique ne pourraient pas combattre seuls un dÃ©but
+   de pandÃ©mie. Ils soulignent la disproportion entre les moyens et
+   niveaux de prÃ©paration des pays riches par rapport aux pays
+   pauvres^[13]. Les riches ont de puissant moyens vÃ©tÃ©rinaires et
+   sanitaires (Ã  ne pas surestimer toutefois). Ils ont l'essentiel des
+   stocks de Tamiflu, qui pourrait dâabord Ãªtre nÃ©cessaire aux pays
+   pauvres. Selon eux, en aoÃ»t 2006, si lâEurope disposait de plans
+   homogÃ¨nes, les pays asiatiques avaient des niveaux trÃ¨s inÃ©gaux de
+   prÃ©paration Ã  une pandÃ©mie, Hong Kong, l'Australie et la
+   Nouvelle-ZÃ©lande Ã©tant les mieux prÃ©parÃ©s, avec des plans rivalisant
+   avec les meilleurs plans occidentaux, dont europÃ©ens. Les petits pays
+   et principautÃ©s doivent aussi se prÃ©parer, et ne pas uniquement compter
+   sur leurs voisins. Simulations et Â« crash tests Â» sanitaires sont un
+   des moyens de se prÃ©parer.
 
 Asie
 
    [modifier | modifier le code]
-     * APEC (Forum de coopération économique d'Asie-Pacifique) : Les 21
-       membres de l'APEC testent leur système de communication d'urgence.
-     * Mercredi 7 juin 2006  : une simulation de pandémie grippale réuni
-       Viêt Nam, Chili, Indonésie, Japon, République de
-       Corée^[Laquelle ?], Malaisie, Chine et Taïwan pour un exercice
+     * APEC (Forum de coopÃ©ration Ã©conomique d'Asie-Pacifique) : Les 21
+       membres de l'APEC testent leur systÃ¨me de communication d'urgence.
+     * Mercredi 7 juin 2006  : une simulation de pandÃ©mie grippale rÃ©uni
+       ViÃªt Nam, Chili, IndonÃ©sie, Japon, RÃ©publique de
+       CorÃ©e^[Laquelle ?], Malaisie, Chine et TaÃ¯wan pour un exercice
        collective de partage de leurs informations notamment via des
-       téléphones rouges reliés à un Centre de coordination (basé à
-       Singapour). L'OMS a simulé une phase de transmission interhumaine à
-       cette occasion pour aider ces pays à apprendre à adapter leurs
-       réactions à l'évolution d'une épidémie sur place et dans les pays
-       voisins, et à informer en retour ces pays de leurs actions. Selon
+       tÃ©lÃ©phones rouges reliÃ©s Ã  un Centre de coordination (basÃ© Ã 
+       Singapour). L'OMS a simulÃ© une phase de transmission interhumaine Ã 
+       cette occasion pour aider ces pays Ã  apprendre Ã  adapter leurs
+       rÃ©actions Ã  lâÃ©volution dâune Ã©pidÃ©mie sur place et dans les pays
+       voisins, et Ã  informer en retour ces pays de leurs actions. Selon
        l'agence vietnamienne AVI et Neil Head (directeur de ce projet),
-       ces 26 heures d'exercice de simulation de gestion d'urgence ont été
-       un succès.
-     * Les 21 membres du Forum de l'APEC se verront à Singapour en août
+       ces 26 heures d'exercice de simulation de gestion d'urgence ont Ã©tÃ©
+       un succÃ¨s.
+     * Les 21 membres du Forum de l'APEC se verront Ã  Singapour en aoÃ»t
        2006 pour discuter d'un plan d'urgence, sur la base des conclusions
-       de l'exercice, avant un rapport examiné par la réunion
-       ministérielle de novembre 2006. Les états non membres de l'APEC en
-       Asie et Pacifique pourront aussi profiter des résultats de
-       l'exercice.
-     * Mercredi 21 juin 2006 : 1^re réunion des ministres de la Santé de
+       de l'exercice, avant un rapport examinÃ© par la rÃ©union
+       ministÃ©rielle de novembre 2006. Les Ã©tats non membres de l'APEC en
+       Asie et Pacifique pourront aussi profiter des rÃ©sultats de
+       lâexercice.
+     * Mercredi 21 juin 2006 : 1^re rÃ©union des ministres de la SantÃ© de
        la Chine et de l'Association des nations de l'Asie du Sud-Est
-       (ASEAN) à Rangoon : promouvoir la coopération Chine - ASEAN en
-       matière sanitaire (VIH/SIDA, grippe aviaire et autres maladies
-       infectieuses émergentes (EID), en matière de médecine
-       traditionnelle et pour rendre opérationnel un Fonds de santé
-       publique ASEAN-Chine. Cette réunion fait suite à la huitième
-       rencontre des ministres de la Santé de l'ASEAN et à la seconde
-       réunion des ministres de la Santé ASEAN+3 (la Chine, le Japon, la
-       Corée du Sud) respectivement mercredi 20 juin 2006 et jeudi 21 juin
+       (ASEAN) Ã  Rangoon : promouvoir la coopÃ©ration Chine â ASEAN en
+       matiÃ¨re sanitaire (VIH/SIDA, grippe aviaire et autres maladies
+       infectieuses Ã©mergentes (EID), en matiÃ¨re de mÃ©decine
+       traditionnelle et pour rendre opÃ©rationnel un Fonds de santÃ©
+       publique ASEAN-Chine. Cette rÃ©union fait suite Ã  la huitiÃ¨me
+       rencontre des ministres de la SantÃ© de l'ASEAN et Ã  la seconde
+       rÃ©union des ministres de la SantÃ© ASEAN+3 (la Chine, le Japon, la
+       CorÃ©e du Sud) respectivement mercredi 20 juin 2006 et jeudi 21 juin
        2006 matin.
-     * Début novembre 2008, trois grands pays asiatiques (Chine, Japon et
-       République de Corée) ont coadopté à Beijing un plan d'action commun
-       contre une éventuelle pandémie grippale. Ces 3 pays doivent
-       notamment chacun créer une agence de liaison permanente avec les
-       autres pays en cas d'éruption de grippe ou de grippe aviaire.
+     * DÃ©but novembre 2008, trois grands pays asiatiques (Chine, Japon et
+       RÃ©publique de CorÃ©e) ont coadoptÃ© Ã  Beijing un plan d'action commun
+       contre une Ã©ventuelle pandÃ©mie grippale. Ces 3 pays doivent
+       notamment chacun crÃ©er une agence de liaison permanente avec les
+       autres pays en cas d'Ã©ruption de grippe ou de grippe aviaire.
 
 Plans de crise par pays
 
    [modifier | modifier le code]
 
-Pandémie à virus H5N1
+PandÃ©mie Ã  virus H5N1
 
    [modifier | modifier le code]
 
-États-Unis
+Ãtats-Unis
 
    [modifier | modifier le code]
 
-   Aux États-Unis, le CIDRAP a listé les liens pointant vers les
-   ressources nationales mises en lignes par 193 pays (au 21 août 2006)
-   pour la préparation à une pandémie grippale^[14]
+   Aux Ãtats-Unis, le CIDRAP a listÃ© les liens pointant vers les
+   ressources nationales mises en lignes par 193 pays (au 21 aoÃ»t 2006)
+   pour la prÃ©paration Ã  une pandÃ©mie grippale^[14]
 
    De ces documents ou de leurs versions provisoires, il ressort que de
    nombreux sites Internet et plans nationaux sont riches en informations
-   générales, mais assez pauvres en informations précises utiles à la
-   préparation individuelle. Ils sont souvent redondants entre eux pour
-   certains aspects (présentation de la maladie, et du risque) et très
-   différents pour d'autres (types d'acteurs responsables ou associés et
-   moyens ou calendriers de mise en place). De réels efforts de pédagogie
-   et de clarté y sont notables, mais les scénarios qui justifient ces
-   plans, leurs étapes ou leurs variantes ne sont pas toujours clairs ni
-   présentés.
+   gÃ©nÃ©rales, mais assez pauvres en informations prÃ©cises utiles Ã  la
+   prÃ©paration individuelle. Ils sont souvent redondants entre eux pour
+   certains aspects (prÃ©sentation de la maladie, et du risque) et trÃ¨s
+   diffÃ©rents pour d'autres (types d'acteurs responsables ou associÃ©s et
+   moyens ou calendriers de mise en place). De rÃ©els efforts de pÃ©dagogie
+   et de clartÃ© y sont notables, mais les scÃ©narios qui justifient ces
+   plans, leurs Ã©tapes ou leurs variantes ne sont pas toujours clairs ni
+   prÃ©sentÃ©s.
 
-   Rares sont ceux qui ont été étayés par des exercices et tests en
+   Rares sont ceux qui ont Ã©tÃ© Ã©tayÃ©s par des exercices et tests en
    grandeur nature. Et quand il y a eu des exercices, les comptes rendus
-   précis sont rarement accessibles.
+   prÃ©cis sont rarement accessibles.
 
-   Les plans fournissent généralement une explication claire des
-   stratégies nationales et de certains protocoles (dont médicaux),
-   quelques conseils très généraux concernant la volaille, l'hygiène, les
-   précautions à prendre pour les voyageurs, mais peu de conseils concrets
-   sur la préparation individuelle ou la préparation des entreprises, des
-   écoles, des administrations ou de communautés, d'institution
-   religieuses et d'associations ; seuls les États-Unis ont depuis 2005
-   diffusé une large palette de tels documents (dont sous forme de
-   check-list), pratiques mais qui restent assez généraux ; par exemple il
-   est conseillé de faire des provisions, de prévoir des désinfectants,
-   des produits de premiers secours, mais on ne précise pas lesquels ni en
-   quelle quantité et comment se prémunir d'éventuelles ruptures de
-   fourniture d'énergie, cas qu'évoquent tous les scénarios). De même
-   demande-t-on aux entreprises de préparer des plans de continuité ou de
-   fonctionnement en mode dégradé. Depuis 2005/2009 en leur fournissant
-   des conseils de plus en plus précis.
+   Les plans fournissent gÃ©nÃ©ralement une explication claire des
+   stratÃ©gies nationales et de certains protocoles (dont mÃ©dicaux),
+   quelques conseils trÃ¨s gÃ©nÃ©raux concernant la volaille, l'hygiÃ¨ne, les
+   prÃ©cautions Ã  prendre pour les voyageurs, mais peu de conseils concrets
+   sur la prÃ©paration individuelle ou la prÃ©paration des entreprises, des
+   Ã©coles, des administrations ou de communautÃ©s, d'institution
+   religieuses et d'associations ; seuls les Ãtats-Unis ont depuis 2005
+   diffusÃ© une large palette de tels documents (dont sous forme de
+   check-list), pratiques mais qui restent assez gÃ©nÃ©raux ; par exemple il
+   est conseillÃ© de faire des provisions, de prÃ©voir des dÃ©sinfectants,
+   des produits de premiers secours, mais on ne prÃ©cise pas lesquels ni en
+   quelle quantitÃ© et comment se prÃ©munir d'Ã©ventuelles ruptures de
+   fourniture d'Ã©nergie, cas qu'Ã©voquent tous les scÃ©narios). De mÃªme
+   demande-t-on aux entreprises de prÃ©parer des plans de continuitÃ© ou de
+   fonctionnement en mode dÃ©gradÃ©. Depuis 2005/2009 en leur fournissant
+   des conseils de plus en plus prÃ©cis.
 
    Les aspects psychosociaux et ce qu'on pourrait appeler la gestion de la
-   mort n'y sont pas toujours explicitement abordés, ou le sont
-   pudiquement, bien que l'histoire des pandémies ait montré qu'il s'agit
+   mort n'y sont pas toujours explicitement abordÃ©s, ou le sont
+   pudiquement, bien que l'histoire des pandÃ©mies ait montrÃ© qu'il s'agit
    d'un aspect important de la bonne gestion ce type de gestion de crise.
 
    Curieusement en 2006 (hormis dans une certaine mesure pour la Formation
-   médicale continue en temps de risque avéré de crise pandémique
-   imminente), les formations médicales et vétérinaires, pas plus que les
-   écoles d'agriculture ou les formations d'écologues n'avaient
-   généralement pas encore été chargées de développer la formation sur le
-   thème de la grippe aviaire, bien que les plans prévoient souvent
-   d'appeler en renfort les étudiants du secteur médical et des soins, et
+   mÃ©dicale continue en temps de risque avÃ©rÃ© de crise pandÃ©mique
+   imminente), les formations mÃ©dicales et vÃ©tÃ©rinaires, pas plus que les
+   Ã©coles d'agriculture ou les formations d'Ã©cologues n'avaient
+   gÃ©nÃ©ralement pas encore Ã©tÃ© chargÃ©es de dÃ©velopper la formation sur le
+   thÃ¨me de la grippe aviaire, bien que les plans prÃ©voient souvent
+   d'appeler en renfort les Ã©tudiants du secteur mÃ©dical et des soins, et
    bien que les experts estimaient que le besoin de formation (ex en
-   pneumologie et réanimation, mais aussi en diagnostic et soins
-   vétérinaire) était énorme, et qu'il tait vital d'y répondre vite.
+   pneumologie et rÃ©animation, mais aussi en diagnostic et soins
+   vÃ©tÃ©rinaire) Ã©tait Ã©norme, et qu'il tait vital d'y rÃ©pondre vite.
 
-   Les plans ne donnent que peu d'informations précises ou de conseils,
-   par exemple pour la préparation individuelle, celle des entreprises ou
-   sur la manière de soigner un malade touché par un virus hautement
-   pathogène à la maison, alors que presque tous ces plans visent à ne pas
-   engorger les systèmes de soins en encourageant le soin à domicile pour
+   Les plans ne donnent que peu dâinformations prÃ©cises ou de conseils,
+   par exemple pour la prÃ©paration individuelle, celle des entreprises ou
+   sur la maniÃ¨re de soigner un malade touchÃ© par un virus hautement
+   pathogÃ¨ne Ã  la maison, alors que presque tous ces plans visent Ã  ne pas
+   engorger les systÃ¨mes de soins en encourageant le soin Ã  domicile pour
    les cas les moins graves.
 
-   De nombreux pays proposent (en 2006 : en téléchargement, ou sur demande
-   avec frais de port parfois, ou par téléphone (n° payant) des affiches,
-   des informations, des guides et dépliants (souvent en format PDF et
-   parfois en plusieurs langues), voire des films ou des séquences audio
-   (très simples, du type des messages diffusés par les radios ou
-   télévisions à la demande des états). Beaucoup de pays asiatiques
+   De nombreux pays proposent (en 2006 : en tÃ©lÃ©chargement, ou sur demande
+   avec frais de port parfois, ou par tÃ©lÃ©phone (nÂ° payant) des affiches,
+   des informations, des guides et dÃ©pliants (souvent en format PDF et
+   parfois en plusieurs langues), voire des films ou des sÃ©quences audio
+   (trÃ¨s simples, du type des messages diffusÃ©s par les radios ou
+   tÃ©lÃ©visions Ã  la demande des Ã©tats). Beaucoup de pays asiatiques
    donnent aussi de l'information en anglais. Quelques pays ont des
-   documents plus poussés destinés aux soignants ou personnes en contact
-   avec les oiseaux ou volailles. De rares pays ont un système de veille
-   qui associe fortement la population ou de nombreux acteurs chargés
-   d'avertir les autorités en cas de suspicion d'oiseaux malades ou de cas
-   humains. Souvent ce sont des médecins, des praticiens hospitaliers et
-   parfois des pharmaciens, spécialement formés qui jouent le rôle de
+   documents plus poussÃ©s destinÃ©s aux soignants ou personnes en contact
+   avec les oiseaux ou volailles. De rares pays ont un systÃ¨me de veille
+   qui associe fortement la population ou de nombreux acteurs chargÃ©s
+   d'avertir les autoritÃ©s en cas de suspicion d'oiseaux malades ou de cas
+   humains. Souvent ce sont des mÃ©decins, des praticiens hospitaliers et
+   parfois des pharmaciens, spÃ©cialement formÃ©s qui jouent le rÃ´le de
    sentinelles.
-     * Les plans vétérinaires : En 2005-2011, parfois très élaborés, ils
-       sont souvent plus discrets (non mis en ligne) et généralement
+     * Les plans vÃ©tÃ©rinaires : En 2005-2011, parfois trÃ¨s Ã©laborÃ©s, ils
+       sont souvent plus discrets (non mis en ligne) et gÃ©nÃ©ralement
        totalement distincts des plans d'action et de veille sanitaire
        humaine. Ils ciblent surtout la volaille et parfois les porcs voire
        les chats et chiens et bien entendu les oiseaux migrateurs. Rares
-       sont les pays qui ont planifié des actions sur d'autres mammifères
-       que l'homme et le porc. La transversalité entre les ministères
-       compétents pour les questions de santé, d'environnement et
-       d'agriculture n'est pas toujours explicitement définie ou
-       améliorée, malgré les recommandations de l'ONU et de nombreux
+       sont les pays qui ont planifiÃ© des actions sur d'autres mammifÃ¨res
+       que l'homme et le porc. La transversalitÃ© entre les ministÃ¨res
+       compÃ©tents pour les questions de santÃ©, d'environnement et
+       d'agriculture n'est pas toujours explicitement dÃ©finie ou
+       amÃ©liorÃ©e, malgrÃ© les recommandations de l'ONU et de nombreux
        experts.
 
-   Dans certains pays le plan national n'est pas entièrement public
-   (aspects classés confidentiel-défense, par exemple) ou - bien que très
-   informatif - il est très peu connu du public et des responsables.
-     * Aspects éthiques : Un certain nombre d'états dont le Canada (déjà
-       confronté au problème du SRAS) et la France (pressée par le CNRS
-       qui a pris l'initiative d'une plate-forme de réflexion), envisagent
-       un travail approfondi sur certains aspects éthiques du risque
-       pandémique et de la préparation individuelle et collective à une
-       éventuelle pandémie grippale (de type grippe aviaire ou H1N1^[15]
+   Dans certains pays le plan national n'est pas entiÃ¨rement public
+   (aspects classÃ©s confidentiel-dÃ©fense, par exemple) ou - bien que trÃ¨s
+   informatif - il est trÃ¨s peu connu du public et des responsables.
+     * Aspects Ã©thiques : Un certain nombre d'Ã©tats dont le Canada (dÃ©jÃ 
+       confrontÃ© au problÃ¨me du SRAS) et la France (pressÃ©e par le CNRS
+       qui a pris l'initiative d'une plate-forme de rÃ©flexion), envisagent
+       un travail approfondi sur certains aspects Ã©thiques du risque
+       pandÃ©mique et de la prÃ©paration individuelle et collective Ã  une
+       Ã©ventuelle pandÃ©mie grippale (de type grippe aviaire ou H1N1^[15]
 
-   À un niveau supranational, l'Europe et l'APEC suscitent et fédèrent des
-   exercices et incitent à plus de coordination. Beaucoup d'États ont pris
-   des initiatives de collaboration multinationales, généralement avec
+   Ã un niveau supranational, l'Europe et l'APEC suscitent et fÃ©dÃ¨rent des
+   exercices et incitent Ã  plus de coordination. Beaucoup d'Ãtats ont pris
+   des initiatives de collaboration multinationales, gÃ©nÃ©ralement avec
    leurs voisins ou des pays dont ils partagent la langue ou la culture.
 
-   Les problèmes de budget sont rarement évoqués par les plans nationaux.
+   Les problÃ¨mes de budget sont rarement Ã©voquÃ©s par les plans nationaux.
 
-   En 2006, quelques publications scientifiques ont publié de premiers
-   travaux d'évaluations à l'échelle de régions ou d'études comparées de
+   En 2006, quelques publications scientifiques ont publiÃ© de premiers
+   travaux d'Ã©valuations Ã  l'Ã©chelle de rÃ©gions ou d'Ã©tudes comparÃ©es de
    plans nationaux. Comme Richard Coker et Sandra Mounier-Jack (London
    School of Hygiene & Tropical Medicine LSHTM) dans leur article du 22
-   août 2006 publié par le journal The Lancet, ils estiment généralement
-   que ces plans doivent être testés par des exercices impliquant
-   réellement les acteurs, et que le défi de la coopération et de la
-   solidarité internationale est à relever. On a beaucoup avancé depuis 3
-   ans, mais le virus gagne encore du terrain, et la préparation doit
-   encore être très améliorée et partagée par tous les maillons de la
-   chaine possible de contamination, c'est-à-dire par tous,
+   aoÃ»t 2006 publiÃ© par le journal The Lancet, ils estiment gÃ©nÃ©ralement
+   que ces plans doivent Ãªtre testÃ©s par des exercices impliquant
+   rÃ©ellement les acteurs, et que le dÃ©fi de la coopÃ©ration et de la
+   solidaritÃ© internationale est Ã  relever. On a beaucoup avancÃ© depuis 3
+   ans, mais le virus gagne encore du terrain, et la prÃ©paration doit
+   encore Ãªtre trÃ¨s amÃ©liorÃ©e et partagÃ©e par tous les maillons de la
+   chaine possible de contamination, câest-Ã -dire par tous,
    individuellement et collectivement.
-     * Double difficulté : Ceux qui préparent ces plans doivent planifier
-       des solutions fiables et assez concrètes pour être très rapidement
+     * Double difficultÃ© : Ceux qui prÃ©parent ces plans doivent planifier
+       des solutions fiables et assez concrÃ¨tes pour Ãªtre trÃ¨s rapidement
        mises en place, mais assez souples pour couvrir le champ des
-       incertitudes ; En effet, la date et le lieu d'émergence du virus
-       pandémique sont inconnues et imprévisibles, de même que ses
-       caractéristiques de virulence, ainsi que le nombre de vagues et
-       leurs durées ou la possibilité d'apparition de résistances aux
+       incertitudes ; En effet, la date et le lieu d'Ã©mergence du virus
+       pandÃ©mique sont inconnues et imprÃ©visibles, de mÃªme que ses
+       caractÃ©ristiques de virulence, ainsi que le nombre de vagues et
+       leurs durÃ©es ou la possibilitÃ© d'apparition de rÃ©sistances aux
        antiviraux ou de nouvelle mutation, etc.
 
 Europe
 
    [modifier | modifier le code]
 
-Union européenne
+Union europÃ©enne
 
    [modifier | modifier le code]
-     * Responsabilité partagée entre l'homme et l'oiseau pour le transport
-       du virus : Le 1^er juin 2006, La Commission européenne et l'OMS
+     * ResponsabilitÃ© partagÃ©e entre l'homme et l'oiseau pour le transport
+       du virus : Le 1^er juin 2006, La Commission europÃ©enne et lâOMS
        commentent le suivi la grippe aviaire chez les oiseaux sauvages
-       dans l'UE depuis 10 mois : ces données ont été présentées à la
-       conférence scientifique internationale sur l'influenza aviaire et
-       les oiseaux sauvages organisée par la FAO et l'OIE à Rome (mais
-       pour février-mai 2006, le dépouillement n'est pas terminé).
+       dans l'UE depuis 10 mois : ces donnÃ©es ont Ã©tÃ© prÃ©sentÃ©es Ã  la
+       confÃ©rence scientifique internationale sur l'influenza aviaire et
+       les oiseaux sauvages organisÃ©e par la FAO et l'OIE Ã  Rome (mais
+       pour fÃ©vrier-mai 2006, le dÃ©pouillement nâest pas terminÃ©).
 
-   Près de 60 000 oiseaux sauvages ont été testés dans l'UE (contre 39 000
-   en juillet 2005-janvier 2006) ; soit +/- 100 000 tests de dépistage du
+   PrÃ¨s de 60 000 oiseaux sauvages ont Ã©tÃ© testÃ©s dans lâUE (contre 39 000
+   en juillet 2005-janvier 2006) ; soit +/- 100 000 tests de dÃ©pistage du
    H5N1 en 10 mois.
 
-   En 4 mois à partir de février 2006, plus de 741 oiseaux sauvages
-   infectés par la «souche asiatique» du H5N1 ont été confirmés dans 13
-   des 25 États membres (Grèce, l'Italie, la Slovénie, la Hongrie,
-   l'Autriche, l'Allemagne, la France, la Slovaquie, la Suède, la Pologne,
-   le Danemark, la République tchèque et le Royaume-Uni), avec un net
-   recul ensuite dans la faune sauvage en dépit de l'épizootie chez les
-   volailles en Roumanie. M. Markos Kyprianou (Commission chargée de la
-   santé et de la protection des consommateurs) estime alors qu'il ne
-   néanmoins faut pas baisser la garde pour de longs mois encore.
+   En 4 mois Ã  partir de fÃ©vrier 2006, plus de 741 oiseaux sauvages
+   infectÃ©s par la Â«souche asiatiqueÂ» du H5N1 ont Ã©tÃ© confirmÃ©s dans 13
+   des 25 Ãtats membres (GrÃ¨ce, l'Italie, la SlovÃ©nie, la Hongrie,
+   l'Autriche, l'Allemagne, la France, la Slovaquie, la SuÃ¨de, la Pologne,
+   le Danemark, la RÃ©publique tchÃ¨que et le Royaume-Uni), avec un net
+   recul ensuite dans la faune sauvage en dÃ©pit de lâÃ©pizootie chez les
+   volailles en Roumanie. M. Markos Kyprianou (Commission chargÃ©e de la
+   santÃ© et de la protection des consommateurs) estime alors quâil ne
+   nÃ©anmoins faut pas baisser la garde pour de longs mois encore.
 
-   Quatre élevages ont été touchés dans l'UE, où le virus a été rapidement
-   éradiqués. Le fait que la Roumanie et la Turquie aient été bien plus
-   touchées semble indiquer que les bonnes pratiques de l'industrie et les
-   pratiques sanitaires y soient moins respectées.
+   Quatre Ã©levages ont Ã©tÃ© touchÃ©s dans lâUE, oÃ¹ le virus a Ã©tÃ© rapidement
+   Ã©radiquÃ©s. Le fait que la Roumanie et la Turquie aient Ã©tÃ© bien plus
+   touchÃ©es semble indiquer que les bonnes pratiques de lâindustrie et les
+   pratiques sanitaires y soient moins respectÃ©es.
 
-   On^[Qui ?] explique mal l'énorme différence du nombre de cas chez les
-   oiseaux sauvages selon la géographie (326 cas pour la seule Allemagne,
+   On^[Qui ?] explique mal lâÃ©norme diffÃ©rence du nombre de cas chez les
+   oiseaux sauvages selon la gÃ©ographie (326 cas pour la seule Allemagne,
    contre un seul cas au Royaume-Uni, un des pays les plus riches en
    oiseaux sauvages).
 
-   Le pic en nombre de cas détectés par mois a été atteint en mars avec
-   362 cas (contre 200 cas en février), une chute étant observée en avril
-   (162 cas) et en mai (17 cas à la date du 21 mai - voir graphique
-   n^o 2). Les oiseaux sauvages les plus fréquemment touchés sont les
-   cygnes (voir graphique n^o 3), qui représentent 62,8 % du total, suivis
+   Le pic en nombre de cas dÃ©tectÃ©s par mois a Ã©tÃ© atteint en mars avec
+   362 cas (contre 200 cas en fÃ©vrier), une chute Ã©tant observÃ©e en avril
+   (162 cas) et en mai (17 cas Ã  la date du 21 mai - voir graphique
+   n^o 2). Les oiseaux sauvages les plus frÃ©quemment touchÃ©s sont les
+   cygnes (voir graphique n^o 3), qui reprÃ©sentent 62,8 % du total, suivis
    par les canards (16,3 %), les oies (4,5 %), les rapaces (3,9 % ) et les
-   autres espèces (13 %).
-     * Coût : 2,9 millions d'euros de cofinancement aux états-membres pour
-       juillet 2005-décembre 2006.
-     * Le Comité permanent de la chaîne alimentaire et de la santé animale
-       a aussi publié des lignes directrices sur le renforcement de la
+   autres espÃ¨ces (13 %).
+     * CoÃ»t : 2,9 millions d'euros de cofinancement aux Ã©tats-membres pour
+       juillet 2005-dÃ©cembre 2006.
+     * Le ComitÃ© permanent de la chaÃ®ne alimentaire et de la santÃ© animale
+       a aussi publiÃ© des lignes directrices sur le renforcement de la
        surveillance de la grippe aviaire chez les oiseaux sauvages.
 
-   Le débat sur la vaccination se poursuit.
+   Le dÃ©bat sur la vaccination se poursuit.
 
-   L''UE soutiendra finalement le commerce de la volaille.
-     * 21 juin 2006 : à la suite d'une demande de 14 États (République
-       tchèque, Allemagne, Grèce, Espagne, France, Irlande, Italie,
+   L'âUE soutiendra finalement le commerce de la volaille.
+     * 21 juin 2006 : Ã  la suite d'une demande de 14 Ãtats (RÃ©publique
+       tchÃ¨que, Allemagne, GrÃ¨ce, Espagne, France, Irlande, Italie,
        Chypre, Hongrie, Pays-Bas, Autriche, Pologne, Portugal, Slovaquie),
-       le comité de gestion des oeufs et de la viande de volaille approuve
+       le comitÃ© de gestion des Åufs et de la viande de volaille approuve
        une proposition de la Commission de cofinancement par le budget de
-       l'UE ; à hauteur de 50 %, essentiellement pour des mesures « en
-       amont » visant à réduire temporairement la production et avec un
-       plafond par unité détruite et un nombre maximal d'unités par État
-       membre, pour une période max pour chaque mesure.
+       l'UE ; Ã  hauteur de 50 %, essentiellement pour des mesures Â« en
+       amont Â» visant Ã  rÃ©duire temporairement la production et avec un
+       plafond par unitÃ© dÃ©truite et un nombre maximal d'unitÃ©s par Ãtat
+       membre, pour une pÃ©riode max pour chaque mesure.
 
-   Il n'y aura pas de mesures « en aval » (de type aide au stockage privé
+   Il n'y aura pas de mesures Â« en aval Â» (de type aide au stockage privÃ©
    ou destruction de stocks de viande).
 
-   Coût : 50 et 65 millions EUR pour l'UE.
+   CoÃ»t : 50 et 65 millions â¬ pour lâUE.
 
-   Mesures éligibles
+   Mesures Ã©ligibles
 
-     * destruction ou transformation des oeufs à couver ;
+     * destruction ou transformation des Åufs Ã  couver ;
      * euthanasie des poussins (de poule, pintade, cane, dinde et oie) ;
-     * abattage précoce de certains troupeaux de reproduction ;
-     * extension des périodes de non-production temporaire au-delà de 3
+     * abattage prÃ©coce de certains troupeaux de reproduction ;
+     * extension des pÃ©riodes de non-production temporaire au-delÃ  de 3
        semaines ;
-     * réduction volontaire de la production par la réduction de la mise
+     * rÃ©duction volontaire de la production par la rÃ©duction de la mise
        en place des poussins ;
-     * L'abattage précoce de poules pondeuses.
-     * Le plan britannique de prévention d'une pandémie de grippe^[16]
+     * L'abattage prÃ©coce de poules pondeuses.
+     * Le plan britannique de prÃ©vention d'une pandÃ©mie de grippe^[16]
      * Les mesures du gouvernement suisse^[17]
-     * Le plan français^[18]
+     * Le plan franÃ§ais^[18]
 
-   Coopération transfrontalière autour de la France
+   CoopÃ©ration transfrontaliÃ¨re autour de la France
 
-   Le gouvernement le 9 juin 2006 décide, sur initiative du Luxembourg
-   avec les gouvernements français, belge, allemand de mettre en place un
-   groupe de travail chargé d'analyser les aspects transfrontaliers d'une
-   éventuelle pandémie de grippe aviaire, pour améliorer la coopération
-   (circulation des personnes, accès aux soins et aux médicaments,
+   Le gouvernement le 9 juin 2006 dÃ©cide, sur initiative du Luxembourg
+   avec les gouvernements franÃ§ais, belge, allemand de mettre en place un
+   groupe de travail chargÃ© dâanalyser les aspects transfrontaliers dâune
+   Ã©ventuelle pandÃ©mie de grippe aviaire, pour amÃ©liorer la coopÃ©ration
+   (circulation des personnes, accÃ¨s aux soins et aux mÃ©dicaments,
    communication entre les cellules gouvernementales avec le public).
 
 France
 
    [modifier | modifier le code]
 
-   La crise H5-N1 de 2005/2009 a poussé la France à produire un plan
-   national de prévention et de lutte « Pandémie grippale », mis à jour en
+   La crise H5-N1 de 2005/2009 a poussÃ© la France Ã  produire un plan
+   national de prÃ©vention et de lutte Â« PandÃ©mie grippale Â», mis Ã  jour en
    2009 puis en 2011^[19].
 
-   En août 2006, l'INRS (Institut national de recherche et de sécurité)
+   En aoÃ»t 2006, lâINRS (Institut national de recherche et de sÃ©curitÃ©)
    publie un dossier : Influenza aviaire, grippe aviaire et menace de
-   pandémie : un nouvel enjeu en santé au travail (référence INRS : TC
-   107), n^o 106 de la revue Documents pour le médecin du travail juin
+   pandÃ©mie : un nouvel enjeu en santÃ© au travail (rÃ©fÃ©rence INRS : TC
+   107), n^o 106 de la revue Documents pour le mÃ©decin du travail juin
    2006.
 
-   L'INRS y aborde l'exposition professionnelle à la grippe aviaire (pour
+   L'INRS y aborde lâexposition professionnelle Ã  la grippe aviaire (pour
    les travailleurs au contact des oiseaux, des volailles ou pour les
-   personnels de laboratoire) et les mesures de prévention à envisager
-   pour chaque situation particulière. Il y dresse aussi les grandes
-   lignes d'une gestion de crise, en entreprise, en cas de pandémie et
-   résume les recommandations à destination des établissements de santé.
+   personnels de laboratoire) et les mesures de prÃ©vention Ã  envisager
+   pour chaque situation particuliÃ¨re. Il y dresse aussi les grandes
+   lignes dâune gestion de crise, en entreprise, en cas de pandÃ©mie et
+   rÃ©sume les recommandations Ã  destination des Ã©tablissements de santÃ©.
 
-   Le document recommande pour le volet santé au travail :
-     * identification des postes et activités à risque,
-     * évaluation des besoins en matériels de protection et modalités de
+   Le document recommande pour le volet santÃ© au travail :
+     * identification des postes et activitÃ©s Ã  risque,
+     * Ã©valuation des besoins en matÃ©riels de protection et modalitÃ©s de
        stockage,
      * dispositions et consignes face aux risques de propagation de la
-       maladie à l'intérieur de l'entreprise,
-     * organisation de la prise en charge des éventuels malades,
-     * organisation des déplacements obligés en dehors de l'entreprise et
-       mise en place d'une formation spécifique si nécessaire, en
+       maladie Ã  l'intÃ©rieur de l'entreprise,
+     * organisation de la prise en charge des Ã©ventuels malades,
+     * organisation des dÃ©placements obligÃ©s en dehors de l'entreprise et
+       mise en place d'une formation spÃ©cifique si nÃ©cessaire, en
        particulier pour le port d'appareils de protection respiratoire.
 
-   Selon la taille de l'entreprise, le CHSCT, le CE (comité d'entreprise)
-   ou les délégués du personnel sont associés à la préparation des actions
-   à mettre en place en situation de pandémie (...). Les médecins du
-   travail ont un rôle à jouer tant vis-à-vis du risque de grippe aviaire
-   en milieu professionnel que dans la préparation d'un plan de
-   fonctionnement en mode dégradé pour chacune des entreprises dont ils
-   ont la charge en cas de pandémie^[20].
+   Selon la taille de l'entreprise, le CHSCT, le CE (comitÃ© d'entreprise)
+   ou les dÃ©lÃ©guÃ©s du personnel sont associÃ©s Ã  la prÃ©paration des actions
+   Ã  mettre en place en situation de pandÃ©mie (â¦). Les mÃ©decins du travail
+   ont un rÃ´le Ã  jouer tant vis-Ã -vis du risque de grippe aviaire en
+   milieu professionnel que dans la prÃ©paration d'un plan de
+   fonctionnement en mode dÃ©gradÃ© pour chacune des entreprises dont ils
+   ont la charge en cas de pandÃ©mie^[20].
 
-   Jean-Philippe Derenne insiste à nouveau sur la sensibilisation, citant
-   l'exemple de l'Égypte ; le H5N1 y a touché 17 gouvernorats sur 26, avec
-   14 cas humains dont six décès, mais le gouvernement a pris la situation
-   au sérieux. On a ainsi montré comme un exemple dans tous les médias
-   cette femme qui, voyant que son enfant présentait les mêmes symptômes
-   que les volailles malades, s'est démenée pour le faire hospitaliser dix
-   heures plus tard à l'hôpital du Caire. On a pu sauver l'enfant avec un
-   antiviral, le Tamiflu, qui doit être administré dans les 48 h suivant
-   l'infection. Elle avait compris qu'il fallait agir vite. Tous les
-   malades turcs et égyptiens qui ont reçu du Tamiflu précocement ont été
-   sauvés (les autres sont morts, dont 4 enfants début janvier en Turquie,
-   dont 3 d'une même fratrie). (dans une interview au journal Jeune
-   Afrique, le 13 août 2006).
+   Jean-Philippe Derenne insiste Ã  nouveau sur la sensibilisation, citant
+   lâexemple de lâÃgypte ; le H5N1 y a touchÃ© 17 gouvernorats sur 26, avec
+   14 cas humains dont six dÃ©cÃ¨s, mais le gouvernement a pris la situation
+   au sÃ©rieux. On a ainsi montrÃ© comme un exemple dans tous les mÃ©dias
+   cette femme qui, voyant que son enfant prÃ©sentait les mÃªmes symptÃ´mes
+   que les volailles malades, sâest dÃ©menÃ©e pour le faire hospitaliser dix
+   heures plus tard Ã  lâhÃ´pital du Caire. On a pu sauver lâenfant avec un
+   antiviral, le Tamiflu, qui doit Ãªtre administrÃ© dans les 48 h suivant
+   lâinfection. Elle avait compris quâil fallait agir vite. Tous les
+   malades turcs et Ã©gyptiens qui ont reÃ§u du Tamiflu prÃ©cocement ont Ã©tÃ©
+   sauvÃ©s (les autres sont morts, dont 4 enfants dÃ©but janvier en Turquie,
+   dont 3 d'une mÃªme fratrie). (dans une interview au journal Jeune
+   Afrique, le 13 aoÃ»t 2006).
 
-   Des mesures administratives (arrêtés, circulaires) sont prises pour
-   gérer les questions de grippe aviaire et chasse.
-     * 20 septembre 2006 : Le gouvernement français a mis à jour son site
-       internet sur la préparation des entreprises privées et publiques et
-       des collectivités (écoles...) à une pandémie avec 5 pages
-       synthétiques introduisant les fiches récemment éditées. Les
-       scénarios de mortalité restent les mêmes, mais des précisions sont
-       données sur les scénarios d'absentéisme à prévoir.
-     * Mercredi 24 janvier 2007 : Une proposition de loi a été présentée
-       mardi 23 janvier 2006 au Sénat pour créer un corps de réserve de
-       10 000 membres, dont professionnels de la santé en formation,
-       actifs ou retraités en France. Ceci fait suite aux conclusions
-       tirées des préparations à une grippe pandémique, de la canicule de
-       2003 et de l'épidémie de chikungunya. Géré par un établissement
-       public, il sera ouvert à d'autres personnes, hors du champ
-       sanitaire. Ses membres pourraient être appelés jusqu'à 45 jours par
-       an, leur salaire normal étant maintenu durant ce temps et pour le
-       temps de formation nécessaire à leur travail. Ni licenciement, ni
-       sanction ne pourront être prononcés à leur encontre.
+   Des mesures administratives (arrÃªtÃ©s, circulaires) sont prises pour
+   gÃ©rer les questions de grippe aviaire et chasse.
+     * 20 septembre 2006 : Le gouvernement franÃ§ais a mis Ã  jour son site
+       internet sur la prÃ©paration des entreprises privÃ©es et publiques et
+       des collectivitÃ©s (Ã©colesâ¦) Ã  une pandÃ©mie avec 5 pages
+       synthÃ©tiques introduisant les fiches rÃ©cemment Ã©ditÃ©es. Les
+       scÃ©narios de mortalitÃ© restent les mÃªmes, mais des prÃ©cisions sont
+       donnÃ©es sur les scÃ©narios d'absentÃ©isme Ã  prÃ©voir.
+     * Mercredi 24 janvier 2007 : Une proposition de loi a Ã©tÃ© prÃ©sentÃ©e
+       mardi 23 janvier 2006 au SÃ©nat pour crÃ©er un corps de rÃ©serve de
+       10 000 membres, dont professionnels de la santÃ© en formation,
+       actifs ou retraitÃ©s en France. Ceci fait suite aux conclusions
+       tirÃ©es des prÃ©parations Ã  une grippe pandÃ©mique, de la canicule de
+       2003 et de lâÃ©pidÃ©mie de chikungunya. GÃ©rÃ© par un Ã©tablissement
+       public, il sera ouvert Ã  dâautres personnes, hors du champ
+       sanitaire. Ses membres pourraient Ãªtre appelÃ©s jusquâÃ  45 jours par
+       an, leur salaire normal Ã©tant maintenu durant ce temps et pour le
+       temps de formation nÃ©cessaire Ã  leur travail. Ni licenciement, ni
+       sanction ne pourront Ãªtre prononcÃ©s Ã  leur encontre.
 
-   L'employeur sera remboursé des rémunérations et cotisations sociales
-   correspondant aux périodes de réserves, mais il ne pourra s'opposer à
-   l'absence du réserviste, sauf en cas de nécessité inhérente à la
-   poursuite de la production de biens et de services ou à la continuité
-   du service public. Les retraités, sans emplois ou professions libérales
-   et étudiants appelés pour ce service seront également rémunérés (« ou
-   indemnisés ») pour leur temps de service.
+   L'employeur sera remboursÃ© des rÃ©munÃ©rations et cotisations sociales
+   correspondant aux pÃ©riodes de rÃ©serves, mais il ne pourra s'opposer Ã 
+   l'absence du rÃ©serviste, sauf en cas de nÃ©cessitÃ© inhÃ©rente Ã  la
+   poursuite de la production de biens et de services ou Ã  la continuitÃ©
+   du service public. Les retraitÃ©s, sans emplois ou professions libÃ©rales
+   et Ã©tudiants appelÃ©s pour ce service seront Ã©galement rÃ©munÃ©rÃ©s (Â« ou
+   indemnisÃ©s Â») pour leur temps de service.
 
 Suisse
 
    [modifier | modifier le code]
 
-   En Suisse, l'Office fédéral de la santé publique a préparé un « Plan
-   suisse de pandémie Influenza » avec la stratégies et les mesures pour
-   la préparation à une pandémie de grippe (la cinquième édition est
-   publiée en 2018)^[21]. Ce plan de crise et la loi sur les épidémies
-   préfigurent l'action du gouvernement face à la pandémie de coronavirus
+   En Suisse, l'Office fÃ©dÃ©ral de la santÃ© publique a prÃ©parÃ© un Â« Plan
+   suisse de pandÃ©mie Influenza Â» avec la stratÃ©gies et les mesures pour
+   la prÃ©paration Ã  une pandÃ©mie de grippe (la cinquiÃ¨me Ã©dition est
+   publiÃ©e en 2018)^[21]. Ce plan de crise et la loi sur les Ã©pidÃ©mies
+   prÃ©figurent l'action du gouvernement face Ã  la pandÃ©mie de coronavirus
    de 2020^[22].
 
-Amériques
+AmÃ©riques
 
    [modifier | modifier le code]
 
-États-Unis
+Ãtats-Unis
 
    [modifier | modifier le code]
 
-   Les CDC (Centers for Disease Control and Prevention, ou « centres de
-   contrôle et de prévention des maladies ») ont publié dès 2005 une liste
-   de check-list pour aider les familles, les collectivités, les états,
-   les structures religieuses et les associations, les écoles, etc. à se
-   préparer. C'est le seul pays à avoir publié si tôt de telles listes de
+   Les CDC (Centers for Disease Control and Prevention, ou Â« centres de
+   contrÃ´le et de prÃ©vention des maladies Â») ont publiÃ© dÃ¨s 2005 une liste
+   de check-list pour aider les familles, les collectivitÃ©s, les Ã©tats,
+   les structures religieuses et les associations, les Ã©coles, etc. Ã  se
+   prÃ©parer. C'est le seul pays Ã  avoir publiÃ© si tÃ´t de telles listes de
    conseils. Ailleurs par crainte d'affoler la population, ce type de
-   démarche semble avoir été freinées ou réduites.
+   dÃ©marche semble avoir Ã©tÃ© freinÃ©es ou rÃ©duites.
 
-   Des réunions ont été organisées dans chaque état, notamment pour tenir
-   compte des leçons du désastre induit par le cyclone Katrina à la
-   Nouvelle Orléans. Des budgets et des experts sont consacrés à l'aide
+   Des rÃ©unions ont Ã©tÃ© organisÃ©es dans chaque Ã©tat, notamment pour tenir
+   compte des leÃ§ons du dÃ©sastre induit par le cyclone Katrina Ã  la
+   Nouvelle OrlÃ©ans. Des budgets et des experts sont consacrÃ©s Ã  l'aide
    internationale.
 
-   La grippe canine, maladie émergente aux États-Unis préoccupe certains
+   La grippe canine, maladie Ã©mergente aux Ãtats-Unis prÃ©occupe certains
    experts.
-     * 6 et 7 juin 2006 : le ministère autrichien des affaires étrangères
-       a accueilli à Vienne (Autriche) au nom de l'Europe une Conférence
-       de plusieurs hauts responsables de pays adhérant au Partenariat
-       international contre la grippe aviaire et la grippe pandémique,
-       lancé par le président Bush en septembre 2005.
+     * 6 et 7 juin 2006 : le ministÃ¨re autrichien des affaires Ã©trangÃ¨res
+       a accueilli Ã  Vienne (Autriche) au nom de l'Europe une ConfÃ©rence
+       de plusieurs hauts responsables de pays adhÃ©rant au Partenariat
+       international contre la grippe aviaire et la grippe pandÃ©mique,
+       lancÃ© par le prÃ©sident Bush en septembre 2005.
 
-   Les États-Unis, représentés par Paula Dobriansky, sous-secrétaire
-   d'État à la démocratie et aux affaires internationales y ont annoncé 28
-   millions de dollars supplémentaires pour cette initiative d'aide aux
-   pays pauvres touchés par le H5N1. Le total est donc porté à 360
+   Les Ãtats-Unis, reprÃ©sentÃ©s par Paula Dobriansky, sous-secrÃ©taire
+   d'Ãtat Ã  la dÃ©mocratie et aux affaires internationales y ont annoncÃ© 28
+   millions de dollars supplÃ©mentaires pour cette initiative dâaide aux
+   pays pauvres touchÃ©s par le H5N1. Le total est donc portÃ© Ã  360
    millions de dollars.
 
-   Les États-Unis disent avoir aussi aidé la communication sur le virus
-   dans 46 pays, l'aide au diagnostic et au suivi dans 25 pays,
-   l'acquisition de matériel dans 34 pays. Des antiviraux ont été envoyés
-   en Asie, et plus de 60 millions de dollars auraient été consacrés à en
-   accroître les stocks. 36 millions de dollars ont été fournis à des
-   organismes internationaux (OMS, FAO...) et 41 millions de dollars pour
-   la recherche selon M^me Dobriansky qui se félicite des progrès faits au
-   Viêt Nam et en Turquie... mais elle appelle les chefs de file à
-   « encourager leurs homologues, tant dans leur pays qu'à l'étranger, à
+   Les Ãtats-Unis disent avoir aussi aidÃ© la communication sur le virus
+   dans 46 pays, lâaide au diagnostic et au suivi dans 25 pays,
+   lâacquisition de matÃ©riel dans 34 pays. Des antiviraux ont Ã©tÃ© envoyÃ©s
+   en Asie, et plus de 60 millions de dollars auraient Ã©tÃ© consacrÃ©s Ã  en
+   accroÃ®tre les stocks. 36 millions de dollars ont Ã©tÃ© fournis Ã  des
+   organismes internationaux (OMS, FAOâ¦) et 41 millions de dollars pour la
+   recherche selon M^me Dobriansky qui se fÃ©licite des progrÃ¨s faits au
+   ViÃªt Nam et en Turquieâ¦ mais elle appelle les chefs de file Ã 
+   Â« encourager leurs homologues, tant dans leur pays qu'Ã  l'Ã©tranger, Ã 
    faire preuve de franchise lorsqu'il s'agit de divulguer des
-   informations indispensables pour la mise en oeuvre d'une riposte à
-   l'échelle mondiale ».
-     * 21 août 2006 : La FAO a signé un accord de coopération avec le
-       MERCOSUR pour la lutte contre la grippe aviaire. Les systèmes de
-       surveillance sont renforcés au Nord.
+   informations indispensables pour la mise en Åuvre d'une riposte Ã 
+   l'Ã©chelle mondiale Â».
+     * 21 aoÃ»t 2006 : La FAO a signÃ© un accord de coopÃ©ration avec le
+       MERCOSUR pour la lutte contre la grippe aviaire. Les systÃ¨mes de
+       surveillance sont renforcÃ©s au Nord.
 
-   Aux États-Unis, en 2006, de nombreux états et certaines grandes villes
-   ont créé ou amélioré leurs plans contre une pandémie en suivant les
-   conseils des CDC et avec des subventions fédérales.
+   Aux Ãtats-Unis, en 2006, de nombreux Ã©tats et certaines grandes villes
+   ont crÃ©Ã© ou amÃ©liorÃ© leurs plans contre une pandÃ©mie en suivant les
+   conseils des CDC et avec des subventions fÃ©dÃ©rales.
 
-   Le 24 août 2006 (CIDRAP), les États-Unis sont le premier pays à rendre
-   public leur outil de dépistage précoce et monitoring du H5N1 chez les
-   oiseaux sauvages comprenant une base de données et une application
-   Internet (intitulée HEDD), hébergé par l'USGS à Madison, Wisconsin.
-   C'est un outil scientifique de partage d'information sur des lieux
-   échantillonnés, les espèces étudiées et les résultats des tests, aux
-   échelles des États et nationale.
+   Le 24 aoÃ»t 2006 (CIDRAP), les Ãtats-Unis sont le premier pays Ã  rendre
+   public leur outil de dÃ©pistage prÃ©coce et monitoring du H5N1 chez les
+   oiseaux sauvages comprenant une base de donnÃ©es et une application
+   Internet (intitulÃ©e HEDD), hÃ©bergÃ© par l'USGS Ã  Madison, Wisconsin.
+   C'est un outil scientifique de partage dâinformation sur des lieux
+   Ã©chantillonnÃ©s, les espÃ¨ces Ã©tudiÃ©es et les rÃ©sultats des tests, aux
+   Ã©chelles des Ãtats et nationale.
 
-   C'est une réponse aux recommandations de l'ONU et aux attentes des
-   scientifiques et du public. Les agences, organismes, et décisionnaires
-   concernés ont accès à toute la base de données. Les scientifiques
-   peuvent l'alimenter.
+   C'est une rÃ©ponse aux recommandations de lâONU et aux attentes des
+   scientifiques et du public. Les agences, organismes, et dÃ©cisionnaires
+   concernÃ©s ont accÃ¨s Ã  toute la base de donnÃ©es. Les scientifiques
+   peuvent lâalimenter.
 
-   Le public a pour le moment accès à une carte de synthèse (nombre
-   d'échantillons dans chaque état).
-   L'élément fédérateur du plan national de surveillance des oiseaux
-   sauvages (de mars 2006) et un des éléments de la préparation des
-   États-Unis à une pandémie grippale.
+   Le public a pour le moment accÃ¨s Ã  une carte de synthÃ¨se (nombre
+   d'Ã©chantillons dans chaque Ã©tat).
+   LâÃ©lÃ©ment fÃ©dÃ©rateur du plan national de surveillance des oiseaux
+   sauvages (de mars 2006) et un des Ã©lÃ©ments de la prÃ©paration des
+   Ãtats-Unis Ã  une pandÃ©mie grippale.
 
-   Cinq stratégies sont appliquées au dépistage précoce :
-    1. étude/tests sur oiseaux sauvages,
-    2. étude/tests sur oiseaux tués par les chasseurs
-    3. investigations sur les oiseaux sauvages trouvés malades ou morts.
+   Cinq stratÃ©gies sont appliquÃ©es au dÃ©pistage prÃ©coce :
+    1. Ã©tude/tests sur oiseaux sauvages,
+    2. Ã©tude/tests sur oiseaux tuÃ©s par les chasseurs
+    3. investigations sur les oiseaux sauvages trouvÃ©s malades ou morts.
     4. Tests sur la volaille et les oiseaux domestiques
-    5. Analyses de fientes prélevées dans la nature.
+    5. Analyses de fientes prÃ©levÃ©es dans la nature.
 
    Contenu :
-     * 9 590 échantillons d'oiseaux sauvages ont été entrés dans l'HEDDS.
-       Aucun cas de H5N1 n'a été détecté ;
-     * Mi-août 2006, l'Alaska est super-prioritaire (9 327 oiseaux y ont
-       été examinés en quelques mois, (contre 721 pour tout 2005), car
-       c'est là qu'on attend les oiseaux venant d'Asie ou d'autres régions
-       (ex URSS) ou le virus est présent ou suspecté. Le 9 août, l'effort
-       de surveillance a été amplifié dans 48 autres états, à Hawaï, et
-       dans plusieurs îles du Pacifique ;
-     * 75 000 à 100 000 échantillons son prévus en 2006 pour les oiseaux
-       sauvages et 50 000 échantillons dans l'environnement (fientes) ;
-     * Rem : les périodes de surveillances sont classées par années à
+     * 9 590 Ã©chantillons d'oiseaux sauvages ont Ã©tÃ© entrÃ©s dans lâHEDDS.
+       Aucun cas de H5N1 n'a Ã©tÃ© dÃ©tectÃ© ;
+     * Mi-aoÃ»t 2006, l'Alaska est super-prioritaire (9 327 oiseaux y ont
+       Ã©tÃ© examinÃ©s en quelques mois, (contre 721 pour tout 2005), car
+       câest lÃ  quâon attend les oiseaux venant dâAsie ou dâautres rÃ©gions
+       (ex URSS) ou le virus est prÃ©sent ou suspectÃ©. Le 9 aoÃ»t, lâeffort
+       de surveillance a Ã©tÃ© amplifiÃ© dans 48 autres Ã©tats, Ã  HawaÃ¯, et
+       dans plusieurs Ã®les du Pacifique ;
+     * 75 000 Ã  100 000 Ã©chantillons son prÃ©vus en 2006 pour les oiseaux
+       sauvages et 50 000 Ã©chantillons dans l'environnement (fientes) ;
+     * Rem : les pÃ©riodes de surveillances sont classÃ©es par annÃ©es Ã 
        partir du 1^er avril (ex. : du 1^er avril 2006 au 31 mars 2007 pour
-       l'année de surveillance 2006).
+       l'annÃ©e de surveillance 2006).
 
-     * Mardi 15 août 2006, le secrétaire US à la santé Michael Leavitt (du
-       HHS, équivalent d'un ministère de la santé)) et le Gouverneur de
-       l'État de New York, George E. Pataki signent une résolution de
-       planification de la pandémie stipulant le détail des responsabilisé
-       de l'État et du gouvernement (HHS). Pour cette 1^re phase, l'État
-       de New York a reçu $3 205 759 d'aide pour se préparer à une
-       pandémie et la ville de New York a reçu 2 466 271 $ du HHS pour
-       employer pour des activités de planification de pandémie. L'État de
+     * Mardi 15 aoÃ»t 2006, le secrÃ©taire US Ã  la santÃ© Michael Leavitt (du
+       HHS, Ã©quivalent d'un ministÃ¨re de la santÃ©)) et le Gouverneur de
+       lâÃtat de New York, George E. Pataki signent une rÃ©solution de
+       planification de la pandÃ©mie stipulant le dÃ©tail des responsabilisÃ©
+       de lâÃtat et du gouvernement (HHS). Pour cette 1^re phase, l'Ãtat
+       de New York a reÃ§u $3 205 759 dâaide pour se prÃ©parer Ã  une
+       pandÃ©mie et la ville de New York a reÃ§u 2 466 271 $ du HHS pour
+       employer pour des activitÃ©s de planification de pandÃ©mie. LâÃtat de
        New York recevra encore $7 792 266 et la ville New York $5 799 926
        Ces sommes sont fonction de la population^[23].
 
@@ -1189,174 +1191,173 @@ Canada
 
    [modifier | modifier le code]
 
-   Préparation des banques et du monde de la finance
+   PrÃ©paration des banques et du monde de la finance
 
-   En 2006, l'Autorité des marchés financiers (AMF) - organisme de
-   réglementation et d'encadrement du secteur financier du Québec - a
-   publié un guide^[24] concernant la préparation des acteurs du monde de
-   la Finance à une pandémie grippale. Il semble inspiré des guides
-   publiés en 2005 par les CDC américain, mais affiné et adapté au secteur
+   En 2006, l'AutoritÃ© des marchÃ©s financiers (AMF) - organisme de
+   rÃ©glementation et d'encadrement du secteur financier du QuÃ©bec - a
+   publiÃ© un guide^[24] concernant la prÃ©paration des acteurs du monde de
+   la Finance Ã  une pandÃ©mie grippale. Il semble inspirÃ© des guides
+   publiÃ©s en 2005 par les CDC amÃ©ricain, mais affinÃ© et adaptÃ© au secteur
    financier (banques, assureurs). Il produit des orientations et des
-   scénarios, mais laisse à chaque institution financière une large marge
-   de liberté pour les adapter et adapter ses réponses aux spécificités de
+   scÃ©narios, mais laisse Ã  chaque institution financiÃ¨re une large marge
+   de libertÃ© pour les adapter et adapter ses rÃ©ponses aux spÃ©cificitÃ©s de
    l'entreprise.
 
-   L'autorité y postule qu'une pandémie aurait potentiellement un impact
-   économique majeur, suivi d'un recouvrement rapide, avec une baisse de
-   la demande due à un changement des modes de consommation et une plus
+   L'autoritÃ© y postule qu'une pandÃ©mie aurait potentiellement un impact
+   Ã©conomique majeur, suivi d'un recouvrement rapide, avec une baisse de
+   la demande due Ã  un changement des modes de consommation et une plus
    grande aversion au risque de la part des investisseurs, avec moins de
-   productivité...
+   productivitÃ©â¦
 
    Les effets varieraient selon les secteurs financiers : L'assurance de
-   personnes et la réassurance d'assurance de personnes seraient les plus
-   touchées, alors que l'industrie de l'assurance de dommages devrait
-   l'être moins.
+   personnes et la rÃ©assurance dâassurance de personnes seraient les plus
+   touchÃ©es, alors que l'industrie de l'assurance de dommages devrait
+   l'Ãªtre moins.
 
-   Il faut intégrer^[style à revoir] les dispositifs contraignants (ex :
-   réduction des déplacements et des voyages) aux plans de continuité
-   « qui doivent être adaptés aux particularités multiples de ce risque »
-   (ex. : il faut maintenir des opérations critiques durant une période
+   Il faut intÃ©grer^[style Ã  revoir] les dispositifs contraignants (ex :
+   rÃ©duction des dÃ©placements et des voyages) aux plans de continuitÃ©
+   Â« qui doivent Ãªtre adaptÃ©s aux particularitÃ©s multiples de ce risque Â»
+   (ex. : il faut maintenir des opÃ©rations critiques durant une pÃ©riode
    inconnue potentiellement longue, avec plusieurs vagues d'ampleur
-   différente possibles. « Plusieurs vagues d'intensité variable, d'une
-   durée approximative de six semaines. La durée globale de la pandémie
-   pourrait être de 12 à 36 mois ». Le guide cite le ministère québécois
-   de la santé qui retient une 1^re vague probablement observée dans les 3
-   mois suivant l'émergence d'une nouvelle souche pandémique, possiblement
-   suivie d'une seconde vaque (3 à 9 mois après). D'autres vagues
-   pourraient suivre (d'une durée de quelques semaines à quelques mois).
-   Ce plan se base sur 15 à 35 % de malades lors de la première vague.
+   diffÃ©rente possibles. Â« Plusieurs vagues dâintensitÃ© variable, dâune
+   durÃ©e approximative de six semaines. La durÃ©e globale de la pandÃ©mie
+   pourrait Ãªtre de 12 Ã  36 mois Â». Le guide cite le ministÃ¨re quÃ©bÃ©cois
+   de la santÃ© qui retient une 1^re vague probablement observÃ©e dans les 3
+   mois suivant lâÃ©mergence dâune nouvelle souche pandÃ©mique, possiblement
+   suivie dâune seconde vaque (3 Ã  9 mois aprÃ¨s). Dâautres vagues
+   pourraient suivre (d'une durÃ©e de quelques semaines Ã  quelques mois).
+   Ce plan se base sur 15 Ã  35 % de malades lors de la premiÃ¨re vague.
 
-   L'Autorité financière demande aux entreprises financières :
-     * de faire des analyses de risque selon différents scénarios,
+   L'AutoritÃ© financiÃ¨re demande aux entreprises financiÃ¨res :
+     * de faire des analyses de risque selon diffÃ©rents scÃ©narios,
      * de partager leur savoir et savoir-faire sur les meilleurs pratiques
-       face à ce type de risque,
-     * de lui envoyer leurs commentaires sur l'impact d'une éventuelle
-       pandémie,
-     * de lui envoyer les coordonnées des personnes-ressources
-       responsables de la préparation et de l'intervention en cas de
-       pandémie.
+       face Ã  ce type de risque,
+     * de lui envoyer leurs commentaires sur l'impact d'une Ã©ventuelle
+       pandÃ©mie,
+     * de lui envoyer les coordonnÃ©es des personnes-ressources
+       responsables de la prÃ©paration et de l'intervention en cas de
+       pandÃ©mie.
 
-   La pandémie est un « global risk», complexe, avec des incertitudes
-   nombreuses. L'Autorité invite donc à des analyses de scénarios. Elle
-   propose de retenir la formulation d'hypothèses du Forum économique
+   La pandÃ©mie est un Â« global riskÂ», complexe, avec des incertitudes
+   nombreuses. L'AutoritÃ© invite donc Ã  des analyses de scÃ©narios. Elle
+   propose de retenir la formulation dâhypothÃ¨ses du Forum Ã©conomique
    mondial (rapport Global Risks 2006), avec :
-    1. un scénario de base qui décrit l'évolution du risque par projection
+    1. un scÃ©nario de base qui dÃ©crit l'Ã©volution du risque par projection
        des tendances actuelles ;
-    2. un scénario pessimiste qui représente la pire des évolutions
+    2. un scÃ©nario pessimiste qui reprÃ©sente la pire des Ã©volutions
        plausibles (ex virus type 1918).
 
-   Chaque scénario est à étudier pour 2 horizons différents :
-     * Horizon à court terme sur un an (l'année 2006) ;
-     * Horizon à long terme sur 10 ans (d'ici la fin de l'année 2015).
+   Chaque scÃ©nario est Ã  Ã©tudier pour 2 horizons diffÃ©rents :
+     * Horizon Ã  court terme sur un an (l'annÃ©e 2006) ;
+     * Horizon Ã  long terme sur 10 ans (d'ici la fin de l'annÃ©e 2015).
 
-   L'autorité demande d'envisager une pandémie touchant au moins 3 régions
-   sur au moins 2 continents, et de considérer que les impacts
-   socio-économiques seront de « grande ampleur géographique », et
-   « favorisés par un niveau d'interconnexion élevé des marchés financiers
-   et une interdépendance des systèmes économiques », ce qui est source de
-   « risque systémique » pour les institutions financières. (ici défini
-   comme « Réaction en chaîne ou l'effet d'entraînement induit par
-   l'incapacité d'une institution financière à honorer ses obligations de
-   paiement en empêchant d'autres d'acquitter leurs propres obligations ou
-   causant la défaillance de la chambre de compensation d'un système »).
+   L'autoritÃ© demande dâenvisager une pandÃ©mie touchant au moins 3 rÃ©gions
+   sur au moins 2 continents, et de considÃ©rer que les impacts
+   socio-Ã©conomiques seront de Â« grande ampleur gÃ©ographique Â», et
+   Â« favorisÃ©s par un niveau dâinterconnexion Ã©levÃ© des marchÃ©s financiers
+   et une interdÃ©pendance des systÃ¨mes Ã©conomiques Â», ce qui est source de
+   Â« risque systÃ©mique Â» pour les institutions financiÃ¨res. (ici dÃ©fini
+   comme Â« RÃ©action en chaÃ®ne ou lâeffet dâentraÃ®nement induit par
+   lâincapacitÃ© dâune institution financiÃ¨re Ã  honorer ses obligations de
+   paiement en empÃªchant dâautres dâacquitter leurs propres obligations ou
+   causant la dÃ©faillance de la chambre de compensation d'un systÃ¨me Â»).
 
-   Le risque est à estimer doublement :
-     * en termes de probabilité (pourcentage de la manifestation d'une
-       pandémie) ;
-     * en termes de sévérité (appréciation des impacts de la pandémie).
+   Le risque est Ã  estimer doublement :
+     * en termes de probabilitÃ© (pourcentage de la manifestation d'une
+       pandÃ©mie) ;
+     * en termes de sÃ©vÃ©ritÃ© (apprÃ©ciation des impacts de la pandÃ©mie).
 
-   Une analyse reposant sur 3 paramètres :
+   Une analyse reposant sur 3 paramÃ¨tres :
     1. pertes en vies humaines,
-    2. impact économique,
+    2. impact Ã©conomique,
     3. impact sur le taux de croissance du PIB global, doit permettre
-       d'associer un score à chaque niveau de sévérité
+       dâassocier un score Ã  chaque niveau de sÃ©vÃ©ritÃ©
 
-   L'analyse rétrospective devrait idéalement précéder l'évaluation du
-   risque opérationnel pour les institutions financières, mais on^[Qui ?]
-   manque de données historiques chiffrées validées pouvant aider à la
-   réflexion et à la modélisation.
+   L'analyse rÃ©trospective devrait idÃ©alement prÃ©cÃ©der lâÃ©valuation du
+   risque opÃ©rationnel pour les institutions financiÃ¨res, mais on^[Qui ?]
+   manque de donnÃ©es historiques chiffrÃ©es validÃ©es pouvant aider Ã  la
+   rÃ©flexion et Ã  la modÃ©lisation.
 
-   L'autorité financière estime que les données disponibles sur la
-   pandémie de 1918 (grippe espagnole) qui a tué 50 à 100 millions de
-   terriens pour une population estimée à 1,75 milliard de personnes à
-   l'époque (soit un taux de mortalité de 2,9 à 5,7 %) ne « sont pas d'une
-   grande utilité, ne permettant pas des projections fiables (...) en
-   raison d'un « changement contextuel considérable entre 1918 et nos
-   jours ». (C'est une affirmation qui pourrait être
-   discutée^[pourquoi ?]).
+   L'autoritÃ© financiÃ¨re estime que les donnÃ©es disponibles sur la
+   pandÃ©mie de 1918 (grippe espagnole) qui a tuÃ© 50 Ã  100 millions de
+   terriens pour une population estimÃ©e Ã  1,75 milliard de personnes Ã 
+   l'Ã©poque (soit un taux de mortalitÃ© de 2,9 Ã  5,7 %) ne Â« sont pas dâune
+   grande utilitÃ©, ne permettant pas des projections fiables (â¦) en raison
+   dâun Â« changement contextuel considÃ©rable entre 1918 et nos jours Â».
+   (C'est une affirmation qui pourrait Ãªtre discutÃ©e^[pourquoi ?]).
 
-   Le guide évoque à ce propos les progrès en matière de vaccins et les
-   évolutions des marchés et systèmes économiques de plus en plus
-   interdépendants depuis 1918-19.
+   Le guide Ã©voque Ã  ce propos les progrÃ¨s en matiÃ¨re de vaccins et les
+   Ã©volutions des marchÃ©s et systÃ¨mes Ã©conomiques de plus en plus
+   interdÃ©pendants depuis 1918-19.
 
-   Les pandémies de 1957 et de 1968 ont eu une faible ampleur et
-   représentent un moindre niveau de risque que celui que pourrait avoir
-   une prochaine pandémie.
+   Les pandÃ©mies de 1957 et de 1968 ont eu une faible ampleur et
+   reprÃ©sentent un moindre niveau de risque que celui que pourrait avoir
+   une prochaine pandÃ©mie.
 
-   Le SRAS a été modérément contagieux, mais « donne une certaine idée de
-   l'impact économique et financier que pourrait avoir une pandémie sur
-   nos systèmes modernes » (le Canada est un des pays les + touchés par le
-   SRAS qui a été confiné dans la région de Toronto, mais « le système
-   financier canadien n'a pas enregistré de pertes majeures à la suite de
-   cette épidémie ».
+   Le SRAS a Ã©tÃ© modÃ©rÃ©ment contagieux, mais Â« donne une certaine idÃ©e de
+   lâimpact Ã©conomique et financier que pourrait avoir une pandÃ©mie sur
+   nos systÃ¨mes modernes Â» (le Canada est un des pays les + touchÃ©s par le
+   SRAS qui a Ã©tÃ© confinÃ© dans la rÃ©gion de Toronto, mais Â« le systÃ¨me
+   financier canadien nâa pas enregistrÃ© de pertes majeures Ã  la suite de
+   cette Ã©pidÃ©mie Â».
 
-   Effets indirects à intégrer dans la planification
+   Effets indirects Ã  intÃ©grer dans la planification
 
-     * Les services essentiels (transport, télécommunications, énergie...)
-       pourraient être interrompus ;
+     * Les services essentiels (transport, tÃ©lÃ©communications, Ã©nergieâ¦)
+       pourraient Ãªtre interrompus ;
      * Les sous-traitants ou fournisseurs de services pourraient ne pas
-       remplir leurs engagements en cas de pandémie (=> attention aux
-       plans de continuité de ceux qui recourent à l'impartition) ;
-     * Les lieux de grande concentration humaine, dont écoles, crèches...
-       pourraient être fermés ;
-     * Le réseau Internet pourrait être saturé (car privilégié pour
-       réduire le contact entre personnes) ;
-     * Les déplacements pourraient être limités.
+       remplir leurs engagements en cas de pandÃ©mie (â attention aux plans
+       de continuitÃ© de ceux qui recourent Ã  l'impartition) ;
+     * Les lieux de grande concentration humaine, dont Ã©coles, crÃ¨chesâ¦
+       pourraient Ãªtre fermÃ©s ;
+     * Le rÃ©seau Internet pourrait Ãªtre saturÃ© (car privilÃ©giÃ© pour
+       rÃ©duire le contact entre personnes) ;
+     * Les dÃ©placements pourraient Ãªtre limitÃ©s.
 
-   Les PCA prévus pour continuer l'activité en la déplaçant pourraient
-   être inefficaces. Une pandémie affectera surtout les ressources
+   Les PCA prÃ©vus pour continuer lâactivitÃ© en la dÃ©plaÃ§ant pourraient
+   Ãªtre inefficaces. Une pandÃ©mie affectera surtout les ressources
    humaines, et sans doute sur plusieurs continents. La propagation du
-   virus pourrait être localement rapide, mais plus lente dans un pays ou
-   dans le monde (3 à 4 mois par vague, pour une durée totale de 12 à 36
+   virus pourrait Ãªtre localement rapide, mais plus lente dans un pays ou
+   dans le monde (3 Ã  4 mois par vague, pour une durÃ©e totale de 12 Ã  36
    mois).
 
-   Les PCA doivent suivre les niveaux de propagation de la pandémie
-   proposé par l'OMS. Divers scénarios d'ampleur, de durée et d'apparition
-   et de fin de la pandémie doivent être étudiés. Les PCA devraient
-   accorder une importance aux plans de relève pour la prise de décision.
-   Les PCA devraient assurer un maintien des opérations critiques sur de
-   longues périodes (la durée de la pandémie + la reprise), en retenant
-   qu'il y aurait plusieurs vagues d'ampleur différente.
+   Les PCA doivent suivre les niveaux de propagation de la pandÃ©mie
+   proposÃ© par lâOMS. Divers scÃ©narios dâampleur, de durÃ©e et dâapparition
+   et de fin de la pandÃ©mie doivent Ãªtre Ã©tudiÃ©s. Les PCA devraient
+   accorder une importance aux plans de relÃ¨ve pour la prise de dÃ©cision.
+   Les PCA devraient assurer un maintien des opÃ©rations critiques sur de
+   longues pÃ©riodes (la durÃ©e de la pandÃ©mie + la reprise), en retenant
+   quâil y aurait plusieurs vagues d'ampleur diffÃ©rente.
 
-   La sévérité des impacts financiers d'une pandémie dépendra du virus,
+   La sÃ©vÃ©ritÃ© des impacts financiers dâune pandÃ©mie dÃ©pendra du virus,
    mais aussi :
-     * des mesures de prévention mises en place par les gouvernements
-     * du niveau de préparation des compagnies.
-     * des progrès scientifiques (médicaments, vaccins).
-     * de l'impact psychologique que la pandémie et des réactions de la
-       population et des employés, qui influeront sur le taux
-       d'absentéisme.
+     * des mesures de prÃ©vention mises en place par les gouvernements
+     * du niveau de prÃ©paration des compagnies.
+     * des progrÃ¨s scientifiques (mÃ©dicaments, vaccins).
+     * de lâimpact psychologique que la pandÃ©mie et des rÃ©actions de la
+       population et des employÃ©s, qui influeront sur le taux
+       d'absentÃ©isme.
 
-   Le secteur financier soit se préparer, avec un plan de continuité
-   fiable et adapté, estimant les impacts de ce risque sur l'institution.
-   L'Autorité demande aux institutions financières sous sa supervision, de
-   s'inspirer des éléments de ce document pour développer leurs propres
-   approches. L'objectif principal est de se préparer efficacement à
-   toutes les éventualités, peu importe le degré de sévérité de la
-   pandémie de grippe, conclut le Guide.
-     * Vendredi 11 août 2006 - Les ministères de l'Agriculture (MAPAQ),
-       avec ses partenaires, dont le ministère des Ressources naturelles
-       et de la Faune (MRNF) et Services Québec met en service un central
-       téléphonique de signalement pour recevoir tout renseignements de la
-       part de citoyens sur des mortalités anormales d'oiseaux sauvages ou
-       domestiques trouvés morts. Le service (1 800 363-1363) répondra
-       aussi aux questions du public (ouvert de 8 h 30 à 16 h 30).
-     * Printemps 2007 : une troisième enquête annuelle sur l'influenza
-       aviaire des oiseaux sauvages est prévue pour l'été et l'automne
-       2007, avec échantillonnage prévu de 16 000 oiseaux vivants au
-       printemps, ainsi que d'oiseaux morts toute l'année^[25].
+   Le secteur financier soit se prÃ©parer, avec un plan de continuitÃ©
+   fiable et adaptÃ©, estimant les impacts de ce risque sur lâinstitution.
+   L'AutoritÃ© demande aux institutions financiÃ¨res sous sa supervision, de
+   sâinspirer des Ã©lÃ©ments de ce document pour dÃ©velopper leurs propres
+   approches. L'objectif principal est de se prÃ©parer efficacement Ã 
+   toutes les Ã©ventualitÃ©s, peu importe le degrÃ© de sÃ©vÃ©ritÃ© de la
+   pandÃ©mie de grippe, conclut le Guide.
+     * Vendredi 11 aoÃ»t 2006 - Les ministÃ¨res de l'Agriculture (MAPAQ),
+       avec ses partenaires, dont le ministÃ¨re des Ressources naturelles
+       et de la Faune (MRNF) et Services QuÃ©bec met en service un central
+       tÃ©lÃ©phonique de signalement pour recevoir tout renseignements de la
+       part de citoyens sur des mortalitÃ©s anormales dâoiseaux sauvages ou
+       domestiques trouvÃ©s morts. Le service (1 800 363-1363) rÃ©pondra
+       aussi aux questions du public (ouvert de 8 h 30 Ã  16 h 30).
+     * Printemps 2007 : une troisiÃ¨me enquÃªte annuelle sur l'influenza
+       aviaire des oiseaux sauvages est prÃ©vue pour l'Ã©tÃ© et lâautomne
+       2007, avec Ã©chantillonnage prÃ©vu de 16 000 oiseaux vivants au
+       printemps, ainsi que dâoiseaux morts toute lâannÃ©e^[25].
 
-Pandémie à virus A(H1N1)
+PandÃ©mie Ã  virus A(H1N1)
 
    [modifier | modifier le code]
 
@@ -1364,202 +1365,203 @@ Plan de vaccination de l'automne 2009 en France
 
    [modifier | modifier le code]
 
-   Dans une circulaire du 21 août destinée aux préfets, les ministres de
-   l'intérieur et de la santé ont précisé le plan de vaccination débutant
-   le 28 septembre qu'ils qualifient de « réponse sanitaire évolutive
-   exceptionnelle ». Il y est indiqué que le gouvernement a « commandé des
-   doses de vaccins, afin d'être en mesure de proposer, si cela s'avérait
-   nécessaire, à l'ensemble de la population une couverture vaccinale
-   contre le nouveau virus ».
+   Dans une circulaire du 21 aoÃ»t destinÃ©e aux prÃ©fets, les ministres de
+   lâintÃ©rieur et de la santÃ© ont prÃ©cisÃ© le plan de vaccination dÃ©butant
+   le 28 septembre quâils qualifient de Â« rÃ©ponse sanitaire Ã©volutive
+   exceptionnelle Â». Il y est indiquÃ© que le gouvernement a Â« commandÃ© des
+   doses de vaccins, afin d'Ãªtre en mesure de proposer, si cela s'avÃ©rait
+   nÃ©cessaire, Ã  l'ensemble de la population une couverture vaccinale
+   contre le nouveau virus Â».
 
-   Le vaccin a initialement été prévu pour être administré en deux doses
-   (du même laboratoire), espacées au minimum de 21 jours. Sur les
-   recommandations de l'Agence européenne du médicament, la ministre de la
-   Santé Roselyne Bachelot a, dans un premier temps, adopté ce protocole
+   Le vaccin a initialement Ã©tÃ© prÃ©vu pour Ãªtre administrÃ© en deux doses
+   (du mÃªme laboratoire), espacÃ©es au minimum de 21 jours. Sur les
+   recommandations de l'Agence europÃ©enne du mÃ©dicament, la ministre de la
+   SantÃ© Roselyne Bachelot a, dans un premier temps, adoptÃ© ce protocole
    de vaccination. Depuis le 26 novembre, une seule injection est
-   désormais effectuée, sauf pour les enfants de moins de 9 ans pour
-   lesquels 2 injections sont toujours recommandées. 1 080 centres sont
-   prévus en France^[réf. nécessaire].
+   dÃ©sormais effectuÃ©e, sauf pour les enfants de moins de 9 ans pour
+   lesquels 2 injections sont toujours recommandÃ©es. 1 080 centres sont
+   prÃ©vus en France^[rÃ©f. nÃ©cessaire].
 
    Le syndicat des infirmiers SNPI CFE-CGC estime qu'une vaccination
-   massive contre un virus grippal relativement bénin, présente des
-   risques, du fait d'un vaccin développé trop rapidement, et d'un
-   adjuvant susceptible de déclencher des maladies auto-immunes^[26].
+   massive contre un virus grippal relativement bÃ©nin, prÃ©sente des
+   risques, du fait d'un vaccin dÃ©veloppÃ© trop rapidement, et d'un
+   adjuvant susceptible de dÃ©clencher des maladies auto-immunes^[26].
 
-   Selon le communiqué du syndicat, le vaccin H1N1 contient 10 fois moins
-   d'antigène afin d'en accélérer la production grâce à la présence de
-   l'adjuvant AS03 (amplificateur d'effet composé de squalène et de
-   polysorbate). Cet adjuvant n'ayant jamais été utilisé auparavant dans
-   un vaccin pourrait déclencher des réactions immunitaires et en
+   Selon le communiquÃ© du syndicat, le vaccin H1N1 contient 10 fois moins
+   d'antigÃ¨ne afin d'en accÃ©lÃ©rer la production grÃ¢ce Ã  la prÃ©sence de
+   l'adjuvant AS03 (amplificateur dâeffet composÃ© de squalÃ¨ne et de
+   polysorbate). Cet adjuvant nâayant jamais Ã©tÃ© utilisÃ© auparavant dans
+   un vaccin pourrait dÃ©clencher des rÃ©actions immunitaires et en
    particulier augmenter le risque d'effets secondaires graves, comme le
-   syndrome de Guillain-Barré^[27].
+   syndrome de Guillain-BarrÃ©^[27].
 
-Projet de traité mondial
+Projet de traitÃ© mondial
 
    [modifier | modifier le code]
 
-   Il existe un Règlement sanitaire international, juridiquement
-   contraignant en matière de prévention, de préparation et de réponse aux
-   pandémies, mais de nombreux pays, pour diverses raisons ne s'y
+   Il existe un RÃ¨glement sanitaire international, juridiquement
+   contraignant en matiÃ¨re de prÃ©vention, de prÃ©paration et de rÃ©ponse aux
+   pandÃ©mies, mais de nombreux pays, pour diverses raisons ne s'y
    conforment pas^[28].
 
-   Le 31 mai 2021, lors de l'Assemblée mondiale de la santé, les 194
-   membres de l'OMS ont adopté la décision d'examiner un nouveau traité
-   international sur les pandémies lors d'une session extraordinaire qui
-   débutera le 29 novembre 2021^[29], et le 1er décembre 2021, les 194
-   membres de l'Organisation mondiale de la santé (OMS) se sont mis
-   d'accord pour lancer l'élaboration et la négociation d'une convention,
+   Le 31 mai 2021, lors de l'AssemblÃ©e mondiale de la santÃ©, les 194
+   membres de l'OMS ont adoptÃ© la dÃ©cision d'examiner un nouveau traitÃ©
+   international sur les pandÃ©mies lors d'une session extraordinaire qui
+   dÃ©butera le 29 novembre 2021^[29], et le 1er dÃ©cembre 2021, les 194
+   membres de l'Organisation mondiale de la santÃ© (OMS) se sont mis
+   d'accord pour lancer l'Ã©laboration et la nÃ©gociation d'une convention,
    d'un accord ou d'un autre instrument international, en vertu de la
-   constitution de l'OMS, afin de renforcer la prévention des pandémies et
-   la préparation et la réaction à celles-ci.
+   constitution de l'OMS, afin de renforcer la prÃ©vention des pandÃ©mies et
+   la prÃ©paration et la rÃ©action Ã  cellesâci.
 
-   Un organe intergouvernemental de négociation a été constitué pour
-   travailler sur les négociations, avec le projet de finaliser un traité
-   en 2025. Parallèlement, les gouvernements travailent à des projets
-   d'amendements du règlement sanitaire international.
+   Un organe intergouvernemental de nÃ©gociation a Ã©tÃ© constituÃ© pour
+   travailler sur les nÃ©gociations, avec le projet de finaliser un traitÃ©
+   en 2025. ParallÃ¨lement, les gouvernements travailent Ã  des projets
+   d'amendements du rÃ¨glement sanitaire international.
 
-   L'OMS, depuis 2021, avec ses partenaires, prépare un accord
-   international sur la prévention des pandémies et la préparation à
-   celles-ci (depuis 2021). Il doit notamment améliorer la coordination
-   internationale en santé publique, afin de mieux préparer le monde aux
-   prochaines pandémies^[30]. Les négociations en cours doivent finaliser
-   un texte visant à :
-    1. améliorer la surveillance et l'alerte précoce des épidémies ;
-    2. renforcer la collaboration internationale en matière de recherche
-       et développement de vaccins et de traitements ;
-    3. accroître l'équité dans l'accès aux outils de santé publique ;
-    4. soutenir les systèmes de santé nationaux et la gouvernance
+   L'OMS, depuis 2021, avec ses partenaires, prÃ©pare un accord
+   international sur la prÃ©vention des pandÃ©mies et la prÃ©paration Ã 
+   cellesâci (depuis 2021). Il doit notamment amÃ©liorer la coordination
+   internationale en santÃ© publique, afin de mieux prÃ©parer le monde aux
+   prochaines pandÃ©mies^[30]. Les nÃ©gociations en cours doivent finaliser
+   un texte visant Ã  :
+    1. amÃ©liorer la surveillance et l'alerte prÃ©coce des Ã©pidÃ©mies ;
+    2. renforcer la collaboration internationale en matiÃ¨re de recherche
+       et dÃ©veloppement de vaccins et de traitements ;
+    3. accroÃ®tre l'Ã©quitÃ© dans l'accÃ¨s aux outils de santÃ© publique ;
+    4. soutenir les systÃ¨mes de santÃ© nationaux et la gouvernance
        sanitaire mondiale.
 
-   Ce traité est âprement discuté^[31]^,^[32]^,^[33] ; les débats entre
-   négociateurs des Etats-membres portent notamment sur le partage des
-   données (données de santé et séquences d'organismes pathogènes
-   notamment) ; sur le financement de la préparation aux pandémies et sa
-   répartition, sur les aspects éthiques du traité^[34], ou encore sur le
-   rôle de l'OMS dans la coordination de la réponse aux pandémies.
+   Ce traitÃ© est Ã¢prement discutÃ©^[31]^,^[32]^,^[33] ; les dÃ©bats entre
+   nÃ©gociateurs des Etats-membres portent notamment sur le partage des
+   donnÃ©es (donnÃ©es de santÃ© et sÃ©quences d'organismes pathogÃ¨nes
+   notamment) ; sur le financement de la prÃ©paration aux pandÃ©mies et sa
+   rÃ©partition, sur les aspects Ã©thiques du traitÃ©^[34], ou encore sur le
+   rÃ´le de l'OMS dans la coordination de la rÃ©ponse aux pandÃ©mies.
 
-   Le Conseil de l'Europe a adopté^[35] (20 mai 2021) une décision
-   soutenant l'ouverture de négociations pour un accord international sur
-   la lutte contre les pandémies dans le cadre de l'OMS. Il devra
-   notamment améliorer « la détection précoce et la prévention des
-   pandémies ; la résilience face à de futures pandémies ; la réaction à
-   d'éventuelles futures pandémies, notamment en assurant un accès
-   universel et équitable à des solutions médicales, telles que les
-   vaccins, les médicaments et les diagnostics ; le renforcement du cadre
-   international en matière de santé, l'OMS jouant le rôle d'autorité de
-   coordination en ce qui concerne les questions sanitaires mondiales »,
-   en s'appuyant sur le concept Une seule santé. En mars 2022, le Conseil
-   a donné son feu vert à l'ouverture de négociations pour un traité
-   international sur les pandémies ^[36]
+   Le Conseil de l'Europe a adoptÃ©^[35] (20 mai 2021) une dÃ©cision
+   soutenant l'ouverture de nÃ©gociations pour un accord international sur
+   la lutte contre les pandÃ©mies dans le cadre de l'OMS. Il devra
+   notamment amÃ©liorer Â« la dÃ©tection prÃ©coce et la prÃ©vention des
+   pandÃ©mies ; la rÃ©silience face Ã  de futures pandÃ©mies ; la rÃ©action Ã 
+   d'Ã©ventuelles futures pandÃ©mies, notamment en assurant un accÃ¨s
+   universel et Ã©quitable Ã  des solutions mÃ©dicales, telles que les
+   vaccins, les mÃ©dicaments et les diagnostics ; le renforcement du cadre
+   international en matiÃ¨re de santÃ©, l'OMS jouant le rÃ´le d'autoritÃ© de
+   coordination en ce qui concerne les questions sanitaires mondiales Â»,
+   en s'appuyant sur le concept Une seule santÃ©. En mars 2022, le Conseil
+   a donnÃ© son feu vert Ã  l'ouverture de nÃ©gociations pour un traitÃ©
+   international sur les pandÃ©mies ^[36]
 
-   Le G7 a également soutenu cette proposition, dans une déclaration du 19
-   février 2021^[37].
+   Le G7 a Ã©galement soutenu cette proposition, dans une dÃ©claration du 19
+   fÃ©vrier 2021^[37].
 
 Contention du H7N9
 
    [modifier | modifier le code]
-   Article détaillé : Virus de la grippe A
-   (H7N9)#Prise_en_charge_par_les_autorités.
+   Article dÃ©taillÃ© : Virus de la grippe A
+   (H7N9)#Prise_en_charge_par_les_autoritÃ©s.
 
-Notes et références
+Notes et rÃ©fÃ©rences
 
    [modifier | modifier le code]
-    1. ^| U. Laaser, G. Lueddeke, J. Nurse (2016) The One Health Global
-       Think Tank for Sustainable Health & Well-Being - 2030 (GHW-2030
+    1. â U. Laaser, G. Lueddeke, J. Nurse (2016) The One Health Global
+       Think Tank for Sustainable Health & Well-Being â 2030 (GHW-2030
        (Short Report). SEEJPH. DOI 10.4119/UNIBI/SEEJPH-2016- 114 1
-    2. ^| Test rapide créé par l'université de Colorado-Boulder et le
-       Centre d'épidémiologie des États-Unis (CDC), financé par l'Institut
+    2. â Test rapide crÃ©Ã© par l'universitÃ© de Colorado-Boulder et le
+       Centre d'Ã©pidÃ©miologie des Ãtats-Unis (CDC), financÃ© par l'Institut
        national des maladies allergiques et infectieuses (NIAID) ; Il
-       s'est montré capable de détecter les types et sous-type de virus
-       dans 21 cas sur 24 échantillons du virus, sans faux positif
-    3. ^| (en) Roojin Habibi, Steven J. Hoffman, Gian Luca Burci et Thana
-       Cristina de Campos, « The Stellenbosch Consensus on Legal National
+       s'est montrÃ© capable de dÃ©tecter les types et sous-type de virus
+       dans 21 cas sur 24 Ã©chantillons du virus, sans faux positif
+    3. â (en) Roojin Habibi, Steven J. Hoffman, Gian Luca Burci et Thana
+       Cristina de Campos, Â« The Stellenbosch Consensus on Legal National
        Responses to Public Health Risks: Clarifying Article 43 of the
-       International Health Regulations », International Organizations Law
-       Review, 2 décembre 2020, p. 1-68 (ISSN 1572-3739 et 1572-3747,
-       DOI 10.1163/15723747-2020023, lire en ligne, consulté le 24
-       décembre 2020)
-    4. ^| AFP (2010), Straits Times, 11 février 2020.
-    5. ^| « étude »^(Archive.org o Wikiwix o Archive.is o Google o Que
-       faire ?) de Cameron P. Simmons et al. publiée en mai 2007, Revue
-       PLoSMedicine, évaluant la protection conférée par des anticorps
-       monoclonaux humains anti-H5N1 à des souris infectées par le H5N1 HP
-    6. ^| Communiqué Sanofi-Pasteur, repris par AFP du 16 juin 2008.
-    7. ^| CDC 23/08/06 CDC Health Update: Lab Testing of Persons with
+       International Health Regulations Â», International Organizations Law
+       Review,â 2 dÃ©cembre 2020, p. 1â68 (ISSN 1572-3739 et 1572-3747,
+       DOI 10.1163/15723747-2020023, lire en ligne, consultÃ© le 24
+       dÃ©cembre 2020)
+    4. â AFP (2010), Straits Times, 11 fÃ©vrier 2020.
+    5. â Â« Ã©tude Â»^(Archive.org â¢ Wikiwix â¢ Archive.is â¢ Google â¢ Que
+       faire ?) de Cameron P. Simmons et al. publiÃ©e en mai 2007, Revue
+       PLoSMedicine, Ã©valuant la protection confÃ©rÃ©e par des anticorps
+       monoclonaux humains anti-H5N1 Ã  des souris infectÃ©es par le H5N1 HP
+    6. â CommuniquÃ© Sanofi-Pasteur, repris par AFP du 16 juin 2008.
+    7. â CDC 23/08/06 CDC Health Update: Lab Testing of Persons with
        Suspected Avian Flu in U.S.
-    8. ^| Y.F. Chen, E. Borodzicz, Can training exercises facilitate the
+    8. â Y.F. Chen, E. Borodzicz, Can training exercises facilitate the
        capability to respond to disasters, Engineering Geology for
-       Tomorrow's Cities, Geological Society, Londres: Engineering Geology
-       Special Publications, 22, 2009 (résumé).
-    9. ^| B.S. Tint, V. McWaters, R. van Driel, Applied improvisation
+       Tomorrowâs Cities, Geological Society, Londres: Engineering Geology
+       Special Publications, 22, 2009 (rÃ©sumÃ©).
+    9. â B.S. Tint, V. McWaters, R. van Driel, Applied improvisation
        training for disaster readiness and response in Journal of
        Humanitarian Logistics and Supply Chain Management, 2015.
-   10. ^| Recommandations de la FAO
-   11. ^| Recommandations de l'OIE
-   12. ^| Émission Les matins de France Culture, le 2 septembre 2009 ;
-       Voir aussi bibliographie (« Pandémie grippale : l'ordre de
-       mobilisation »)
-   13. ^| Article du 22 août 2006 du journal The Lancet.
-   14. ^| Ressources nationales listées par le CIDRAP
-   15. ^| The 2009 Influenza A(H1N1) Outbreak: Selected Legal Issues,
+   10. â Recommandations de la FAO
+   11. â Recommandations de l'OIE
+   12. â Ãmission Les matins de France Culture, le 2 septembre 2009 ; Voir
+       aussi bibliographie (Â« PandÃ©mie grippale : l'ordre de
+       mobilisation Â»)
+   13. â Article du 22 aoÃ»t 2006 du journal The Lancet.
+   14. â Ressources nationales listÃ©es par le CIDRAP
+   15. â The 2009 Influenza A(H1N1) Outbreak: Selected Legal Issues,
        Congressional Research Service, PDF, 34 pages (en)
-   16. ^| Descriptif du plan britannique
-   17. ^| Descriptif du plan suisse
-   18. ^| Descriptif du plan français
-   19. ^| Document d'aide à la préparation et à la décision / plan
-       national de prévention et de lutte « Pandémie grippale » ; ref
-       doc : n^o 850/SGDSN/PSE/PSN Octobre 2011 ; Ce plan abroge et
-       remplace le plan national n^o 150/SGDN/PSE/PPS du 20 février 2009
-   20. ^| Grippe aviaire : enjeu en santé au travail (INRS)
-   21. ^| « Plan suisse de pandémie Influenza », Office fédéral de la
-       santé publique, 2018 (page consultée le 24 mars 2020).
-   22. ^| François Nordmann, « Peut-on déjà penser le monde de demain ? »,
-       Le temps, 24 mars 2020 (lire en ligne, consulté le 24 mars 2020).
-   23. ^| (en) Pandemic Influenza State and Local Funding.
-   24. ^| Guide.
-   25. ^| article la voie agricole 13 juin 2007
-   26. ^|
+   16. â Descriptif du plan britannique
+   17. â Descriptif du plan suisse
+   18. â Descriptif du plan franÃ§ais
+   19. â Document dâaide Ã  la prÃ©paration et Ã  la dÃ©cision / plan national
+       de prÃ©vention et de lutte Â« PandÃ©mie grippale Â» ; ref doc :
+       n^o 850/SGDSN/PSE/PSN Octobre 2011 ; Ce plan abroge et remplace le
+       plan national n^o 150/SGDN/PSE/PPS du 20 fÃ©vrier 2009
+   20. â Grippe aviaire : enjeu en santÃ© au travail (INRS)
+   21. â Â« Plan suisse de pandÃ©mie Influenza Â», Office fÃ©dÃ©ral de la santÃ©
+       publique, 2018 (page consultÃ©e le 24 mars 2020).
+   22. â FranÃ§ois Nordmann, Â« Peut-on dÃ©jÃ  penser le monde de demain ? Â»,
+       Le temps,â 24 mars 2020 (lire en ligne, consultÃ© le 24 mars 2020).
+   23. â (en) Pandemic Influenza State and Local Funding.
+   24. â Guide.
+   25. â article la voie agricole 13 juin 2007
+   26. â
        http://www.lematin.ch/flash-info/grippe-h1n1-infirmieres-mefient-ri
        sques-vaccination-massive
-   27. ^|
+   27. â
        http://www.syndicat-infirmier.com/Vaccination-H1N1-mefiance-des.htm
        l
-   28. ^| (en) Johnathan H Duff, Anicca Liu, Jorge Saavedra et Jacob N
-       Batycki, « A global public health convention for the 21st
-       century », The Lancet Public Health, vol. 6, n^o 6, juin 2021,
-       e428-e433 (PMID 33964227, PMCID PMC8099565,
-       DOI 10.1016/S2468-2667(21)00070-0, lire en ligne, consulté le 16
+   28. â (en) Johnathan H Duff, Anicca Liu, Jorge Saavedra et Jacob N
+       Batycki, Â« A global public health convention for the 21st
+       century Â», The Lancet Public Health, vol. 6, n^o 6,â juin 2021,
+       e428âe433 (PMID 33964227, PMCID PMC8099565,
+       DOI 10.1016/S2468-2667(21)00070-0, lire en ligne, consultÃ© le 16
        mars 2024)
-   29. ^| Rapport du groupe de travail de l'OMS, session extraordinaire de
-       l'Assemblée mondiale de la Santé (OMS).
-   30. ^| « Santé. L'OMS élabore un nouveau traité pour prévenir les
-       prochaines pandémies », 7 février 2023 (consulté le 16 mars 2024)
-   31. ^| Taruna Juneja Gandhi, Neha Dumka et Atul Kotwal, « Is the
-       proposed global treaty an answer for public health emergencies? »,
-       BMJ Global Health, vol. 8, n^o 9, septembre 2023, e012759
+   29. â Rapport du groupe de travail de l'OMS, session extraordinaire de
+       l'AssemblÃ©e mondiale de la SantÃ© (OMS).
+   30. â Â« SantÃ©. LâOMS Ã©labore un nouveau traitÃ© pour prÃ©venir les
+       prochaines pandÃ©mies Â», 7 fÃ©vrier 2023 (consultÃ© le 16 mars 2024)
+   31. â Taruna Juneja Gandhi, Neha Dumka et Atul Kotwal, Â« Is the
+       proposed global treaty an answer for public health emergencies? Â»,
+       BMJ Global Health, vol. 8, n^o 9,â septembre 2023, e012759
        (ISSN 2059-7908, DOI 10.1136/bmjgh-2023-012759, lire en ligne,
-       consulté le 16 mars 2024)
-   32. ^| Clare Wenham, Mark Eccleston-Turner et Maike Voss, « The
-       futility of the pandemic treaty: caught between globalism and
-       statism », International Affairs, vol. 98, n^o 3, mai 2022,
-       p. 837-852 (ISSN 0020-5850 et 1468-2346, DOI 10.1093/ia/iiac023,
-       lire en ligne, consulté le 16 mars 2024)
-   33. ^| (en) Nelson Aghogho Evaborhene, Jessica Oreoluwa Oga, Onyeka
-       Vivian Nneli et Sheila Mburu, « The WHO pandemic treaty: where are
-       we on our scepticism? », BMJ Global Health, vol. 8, n^o 6, 1^er
+       consultÃ© le 16 mars 2024)
+   32. â Clare Wenham, Mark Eccleston-Turner et Maike Voss, Â« The futility
+       of the pandemic treaty: caught between globalism and statism Â»,
+       International Affairs, vol. 98, n^o 3,â mai 2022, p. 837â852
+       (ISSN 0020-5850 et 1468-2346, DOI 10.1093/ia/iiac023, lire en
+       ligne, consultÃ© le 16 mars 2024)
+   33. â (en) Nelson Aghogho Evaborhene, Jessica Oreoluwa Oga, Onyeka
+       Vivian Nneli et Sheila Mburu, Â« The WHO pandemic treaty: where are
+       we on our scepticism? Â», BMJ Global Health, vol. 8, n^o 6,â 1^er
        juin 2023, e012636 (ISSN 2059-7908, PMID 37316254,
-       DOI 10.1136/bmjgh-2023-012636, lire en ligne, consulté le 16 mars
+       DOI 10.1136/bmjgh-2023-012636, lire en ligne, consultÃ© le 16 mars
        2024)
-   34. ^| G Owen Schaefer, Caesar A Atuire, Sharon Kaur et Michael Parker,
-       « The importance of getting the ethics right in a pandemic
-       treaty », The Lancet Infectious Diseases, vol. 23, n^o 11, novembre
-       2023, e489-e496 (ISSN 1473-3099, DOI 10.1016/s1473-3099(23)00364-x,
-       lire en ligne, consulté le 16 mars 2024)
-   35. ^| Conseil de l'Europe (2021) UE soutient le lancement du processus
-       de l'OMS en vue de la mise en place d'un traité sur les pandémies :
-       décision du Conseil, communiqué de presse
-   36. ^| Conseil de l'Europe,communiqué de presse, 3 mars 2022.
-   37. ^| Déclaration des dirigeants du G7, 19 février 2021.
+   34. â G Owen Schaefer, Caesar A Atuire, Sharon Kaur et Michael Parker,
+       Â« The importance of getting the ethics right in a pandemic
+       treaty Â», The Lancet Infectious Diseases, vol. 23, n^o 11,â
+       novembre 2023, e489âe496 (ISSN 1473-3099,
+       DOI 10.1016/s1473-3099(23)00364-x, lire en ligne, consultÃ© le 16
+       mars 2024)
+   35. â Conseil de l'Europe (2021) UE soutient le lancement du processus
+       de l'OMS en vue de la mise en place d'un traitÃ© sur les pandÃ©mies :
+       dÃ©cision du Conseil, communiquÃ© de presse
+   36. â Conseil de l'Europe,communiquÃ© de presse, 3 mars 2022.
+   37. â DÃ©claration des dirigeants du G7, 19 fÃ©vrier 2021.
 
 Annexes
 
@@ -1568,51 +1570,51 @@ Annexes
 Bibliographie
 
    [modifier | modifier le code]
-     * Pandémie grippale : l'ordre de mobilisation ; Tous solidaires,
-       Édition du cerf, 2009 (Ouvrage collectif dirigé par Emmanuel Hirsch
-       et préfacé par Alain Cordier), (ISBN 978-2-204-09124-4).
+     * PandÃ©mie grippale : l'ordre de mobilisation ; Tous solidaires,
+       Ãdition du cerf, 2009 (Ouvrage collectif dirigÃ© par Emmanuel Hirsch
+       et prÃ©facÃ© par Alain Cordier), (ISBN 978-2-204-09124-4).
      * Jean-Philippe Derenne, Bruno Housset, Grippe A (H1N1) : tout
-       savoir, comment s'en prémunir ?, Fayard , 2009.
-     * Jean-Philippe Derenne et François Bricaire, Pandémie, la grande
+       savoir, comment s'en prÃ©munir ?, Fayard , 2009.
+     * Jean-Philippe Derenne et FranÃ§ois Bricaire, PandÃ©mie, la grande
        menace, Fayard, 2005, (ISBN 2-213-62692-8).
-     * François Moutou et Pascal Orabi, Grippe aviaire : Ce qu'il faut
-       savoir, Delachaux et Niestlé, 2006, (ISBN 2603014641).
+     * FranÃ§ois Moutou et Pascal Orabi, Grippe aviaire : Ce qu'il faut
+       savoir, Delachaux et NiestlÃ©, 2006, (ISBN 2603014641).
      * Grippe aviaire : les vrais responsables, association Grain,
-       L'Écologiste, n^o 18, mars-avril-mai 2006.
-     * Livret-vade-mecum sur le H5N1, par le CIRAD, 60 pages, écrit par
-       une vingtaine d'épidémiologistes, virologistes et ornithologues du
-       département d'élevage et de médecine vétérinaire du CIRAD
-       (EMVT)^[réf. incomplète]
-     * Pandémie grippale : un risque certain, à terme incertain (1^re
-       partie : anticiper le risque), Éric Pouliquen (Willway & associés),
+       L'Ãcologiste, n^o 18, mars-avril-mai 2006.
+     * Livret-vade-mecum sur le H5N1, par le CIRAD, 60 pages, Ã©crit par
+       une vingtaine dâÃ©pidÃ©miologistes, virologistes et ornithologues du
+       dÃ©partement dâÃ©levage et de mÃ©decine vÃ©tÃ©rinaire du CIRAD
+       (EMVT)^[rÃ©f. incomplÃ¨te]
+     * PandÃ©mie grippale : un risque certain, Ã  terme incertain (1^re
+       partie : anticiper le risque), Ãric Pouliquen (Willway & associÃ©s),
        Les Cahiers du DRH, n^o 144, juin 2008.
 
 Articles connexes
 
    [modifier | modifier le code]
 
-   Généralités :
-     * Comportements-barrière
-     * Règlement sanitaire international (ONU/OMS)
-     * Plan de continuité
+   GÃ©nÃ©ralitÃ©s :
+     * Comportements-barriÃ¨re
+     * RÃ¨glement sanitaire international (ONU/OMS)
+     * Plan de continuitÃ©
      * Plan blanc
-     * Mode dégradé
+     * Mode dÃ©gradÃ©
      * Communication de crise
 
    Grippe :
      *
           + Grippe aviaire
-               o Histoire des épizooties de grippe aviaire
-               o Risque pandémique lié à la grippe aviaire
+               o Histoire des Ã©pizooties de grippe aviaire
+               o Risque pandÃ©mique liÃ© Ã  la grippe aviaire
                o Grippe de 1918
                o Grippe A (H1N1) de 2009
                o H5N1
                o H7N9
-          + Grippe féline
+          + Grippe fÃ©line
           + Grippe canine
-          + Grippe équine
-     * Hygiène des mains
-     * Éternuement
+          + Grippe Ã©quine
+     * HygiÃ¨ne des mains
+     * Ãternuement
 
 Liens externes
 
@@ -1623,16 +1625,16 @@ Liens externes
      *
      *
      * Institut national de veille sanitaire (InVS, France)
-     * [PDF] Ministère de la Santé du Québec, Plan québécois de lutte à
-       une pandémie d'influenza, mars 2006
-     * (en) Liens et ressources sur le site de la Bibliothèque du Congrès
-     * (fr + en + es) Organisation Mondiale de la Santé, Plan d'alerte
-       Pandémie grippale 2009
-     * [PDF] (en) Fonds monétaire international, The Global Economic and
+     * [PDF] MinistÃ¨re de la SantÃ© du QuÃ©bec, Plan quÃ©bÃ©cois de lutte Ã 
+       une pandÃ©mie dâinfluenza, mars 2006
+     * (en) Liens et ressources sur le site de la BibliothÃ¨que du CongrÃ¨s
+     * (fr + en + es) Organisation Mondiale de la SantÃ©, Plan d'alerte
+       PandÃ©mie grippale 2009
+     * [PDF] (en) Fonds monÃ©taire international, The Global Economic and
        Financial Impact of an Avian Flu Pandemic and The Role of The IMF,
-       28 février 2006
-     * (en) Organisation mondiale de la santé, Plan mondial de préparation
-       à une pandémie de grippe, 2005
+       28 fÃ©vrier 2006
+     * (en) Organisation mondiale de la santÃ©, Plan mondial de prÃ©paration
+       Ã  une pandÃ©mie de grippe, 2005
      * [PDF] (en) Financial Stability Forum. Macroeconomic and Financial
        Stability Issues Raised by a Global Influenza Pandemic, 25 avril
        2006
@@ -1640,7 +1642,7 @@ Liens externes
        Development Potential of Surging Capital Flows-Review, Analysis,
        and Outlook, pages 36-39.
 
-   v · m
+   v Â· m
    Grippe
    Virus
      * Orthomyxoviridae
@@ -1652,8 +1654,8 @@ Liens externes
           + virus de la grippe C
      * Deltainfluenzavirus
           + virus de la grippe D
-     * Génome
-     * Hémagglutinine
+     * GÃ©nome
+     * HÃ©magglutinine
      * Neuraminidase
 
    Sous-types du virus de la grippe A
@@ -1683,17 +1685,17 @@ Liens externes
    Grippes
    Grippe aviaire
      * Diagnostics et prophylaxie
-     * Épidémiologie
+     * ÃpidÃ©miologie
      * Global Initiative on Sharing Avian Influenza Data
-     * En Indonésie
-     * Facteurs d'émergence
+     * En IndonÃ©sie
+     * Facteurs d'Ã©mergence
      * Grippe aviaire chez l'animal
-     * Risque pandémique
+     * Risque pandÃ©mique
 
    Autres
      * Grippe canine
-     * Grippe équine
-     * Grippe féline
+     * Grippe Ã©quine
+     * Grippe fÃ©line
      * Grippe humaine
      * Grippe porcine
 
@@ -1706,11 +1708,11 @@ Liens externes
           + peramivir
           + zanamivir
 
-   Pandémies
+   PandÃ©mies
    Grippe A (H1N1) de 2009
      * Chronologie par pays
           + Canada
-          + États-Unis
+          + Ãtats-Unis
           + France
           + Maroc
           + Mexique
@@ -1725,66 +1727,66 @@ Liens externes
      * Plan de crise
 
    Voir aussi
-     * Groupe régional d'observation de la grippe
+     * Groupe rÃ©gional d'observation de la grippe
      * Transmission
           + entre animaux
      * Syndrome grippal
-     * Synthèse totale de l'oseltamivir
-     * Vaccin contre la grippe saisonnière
+     * SynthÃ¨se totale de l'oseltamivir
+     * Vaccin contre la grippe saisonniÃ¨re
 
-     * icône décorative Portail de la médecine
-     * icône décorative Portail de la virologie
-     * icône décorative Portail de la médecine vétérinaire
+     * icÃ´ne dÃ©corative Portail de la mÃ©decine
+     * icÃ´ne dÃ©corative Portail de la virologie
+     * icÃ´ne dÃ©corative Portail de la mÃ©decine vÃ©tÃ©rinaire
 
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Plan_de_crise_en_cas_de_pa
-   ndémie&oldid=231854920 ».
-   Catégories:
-     * Épidémiologie
+   Â« https://fr.wikipedia.org/w/index.php?title=Plan_de_crise_en_cas_de_pa
+   ndÃ©mie&oldid=231854920 Â».
+   CatÃ©goriesâ¯:
+     * ÃpidÃ©miologie
      * Grippe
-     * Législation vétérinaire
+     * LÃ©gislation vÃ©tÃ©rinaire
      * Plan (politique)
      * Plan d'urgence
 
-   Catégories cachées:
+   CatÃ©gories cachÃ©esâ¯:
      * Article contenant un lien mort
-     * Article manquant de références depuis décembre 2025
-     * Article manquant de références/Liste complète
-     * Article contenant un appel à traduction en anglais
-     * Article avec une section vide ou incomplète
-     * Article à référence nécessaire
-     * Page utilisant un modèle Bases inactif
-     * Article utilisant le modèle Dictionnaires inactif
-     * Page utilisant le modèle Autorité inactif
-     * Portail:Médecine/Articles liés
-     * Portail:Biologie/Articles liés
-     * Portail:Sciences/Articles liés
-     * Portail:Virologie/Articles liés
-     * Projet:Biologie/Pages liées
-     * Portail:Médecine vétérinaire/Articles liés
-     * Portail:Zoologie/Articles liés
+     * Article manquant de rÃ©fÃ©rences depuis dÃ©cembre 2025
+     * Article manquant de rÃ©fÃ©rences/Liste complÃ¨te
+     * Article contenant un appel Ã  traduction en anglais
+     * Article avec une section vide ou incomplÃ¨te
+     * Article Ã  rÃ©fÃ©rence nÃ©cessaire
+     * Page utilisant un modÃ¨le Bases inactif
+     * Article utilisant le modÃ¨le Dictionnaires inactif
+     * Page utilisant le modÃ¨le AutoritÃ© inactif
+     * Portail:MÃ©decine/Articles liÃ©s
+     * Portail:Biologie/Articles liÃ©s
+     * Portail:Sciences/Articles liÃ©s
+     * Portail:Virologie/Articles liÃ©s
+     * Projet:Biologie/Pages liÃ©es
+     * Portail:MÃ©decine vÃ©tÃ©rinaire/Articles liÃ©s
+     * Portail:Zoologie/Articles liÃ©s
 
-     * La dernière modification de cette page a été faite le 27 décembre
-       2025 à 20:27.
+     * La derniÃ¨re modification de cette page a Ã©tÃ© faite le 27 dÃ©cembre
+       2025 Ã  20:27.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mêmes conditions ; d'autres
-       conditions peuvent s'appliquer. Voyez les conditions d'utilisation
-       pour plus de détails, ainsi que les crédits graphiques. En cas de
-       réutilisation des textes de cette page, voyez comment citer les
+       Commons attribution, partage dans les mÃªmes conditions ; dâautres
+       conditions peuvent sâappliquer. Voyez les conditions dâutilisation
+       pour plus de dÃ©tails, ainsi que les crÃ©dits graphiques. En cas de
+       rÃ©utilisation des textes de cette page, voyez comment citer les
        auteurs et mentionner la licence.
-       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
+       WikipediaÂ® est une marque dÃ©posÃ©e de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance rÃ©gie par le paragraphe 501(c)(3) du
+       code fiscal des Ãtats-Unis.
 
-     * Politique de confidentialité
-     * À propos de Wikipédia
+     * Politique de confidentialitÃ©
+     * Ã propos de WikipÃ©dia
      * Avertissements
      * Contact
-     * Contacts juridiques & sécurité
+     * Contacts juridiques & sÃ©curitÃ©
      * Code de conduite
-     * Développeurs
+     * DÃ©veloppeurs
      * Statistiques
-     * Déclaration sur les témoins (cookies)
+     * DÃ©claration sur les tÃ©moins (cookies)
      * Version mobile
 
      * Wikimedia Foundation
@@ -1794,6 +1796,6 @@ Liens externes
    ____________________
    (BUTTON) Rechercher
 
-   [ ] Basculer la table des matières
-   Plan de crise en cas de pandémie
+   [ ] Basculer la table des matiÃ¨res
+   Plan de crise en cas de pandÃ©mie
    (BUTTON) Ajouter des langues Ajouter un sujet

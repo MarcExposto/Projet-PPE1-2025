@@ -12,7 +12,7 @@ function cell(tag, s) {
 
 BEGIN {
   printf "%*s", indentation, ""
-	printf "<table class='table is-bordered is-striped is-centered'>\n"
+	printf "<table class='table is-bordered is-striped is-centered is-narrow''>\n"
   printf "%*s", (indentation + 2), ""
   printf "<tbody>\n"
   }

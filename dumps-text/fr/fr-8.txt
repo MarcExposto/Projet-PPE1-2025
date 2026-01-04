@@ -1,60 +1,60 @@
      * Actu
      * Sports
      * Auto
-     * Météo
-     * Vidéos
+     * MÃ©tÃ©o
+     * VidÃ©os
 
      * Telethon
 
      * France
      * Monde
      * Politique
-     * Économie
-     * Société
+     * Ãconomie
+     * SociÃ©tÃ©
 
    (BUTTON) France
-   France Monde Politique Économie Société
+   France Monde Politique Ãconomie SociÃ©tÃ©
 
-   Crans-Montana : au moins huit Français décédés, selon un nouveau bilan
+   Crans-Montana : au moins huit FranÃ§ais dÃ©cÃ©dÃ©s, selon un nouveau bilan
      * Article
-       Incendie à Crans-Montana : le bilan s'alourdit à huit
-       ressortissants français morts et un porté disparu
+       Incendie Ã  Crans-Montana : le bilan s'alourdit Ã  huit
+       ressortissants franÃ§ais morts et un portÃ© disparu
      * Article
-       Incendie mortel à Crans-Montana : le syndicat des établissements de
-       nuit français alerte sur les dérives illégales
+       Incendie mortel Ã  Crans-Montana : le syndicat des Ã©tablissements de
+       nuit franÃ§ais alerte sur les dÃ©rives illÃ©gales
      * Article
-       Vigilance neige-verglas : 7 départements placés en alerte orange
-       par Météo France
+       Vigilance neige-verglas : 7 dÃ©partements placÃ©s en alerte orange
+       par MÃ©tÃ©o France
      * Article
-       Qui est Cilia Flores, figure centrale du chavisme et épouse de
-       Nicolás Maduro, arrêtée avec le président vénézuélien ?
+       Qui est Cilia Flores, figure centrale du chavisme et Ã©pouse de
+       NicolÃ¡s Maduro, arrÃªtÃ©e avec le prÃ©sident vÃ©nÃ©zuÃ©lien ?
      * Article
-       Service militaire volontaire : Catherine Vautrin détaille les
-       modalités du dispositif
+       Service militaire volontaire : Catherine Vautrin dÃ©taille les
+       modalitÃ©s du dispositif
      * Article
-       Jura : des températures extrêmes avec des minimales proches de -35
-       °C
+       Jura : des tempÃ©ratures extrÃªmes avec des minimales proches de -35
+       Â°C
      * Article
-       La candidate LFI à la mairie de Paris Sophia Chikirou jugée en mai
+       La candidate LFI Ã  la mairie de Paris Sophia Chikirou jugÃ©e en mai
        pour escroquerie
      * Article
-       Candidate LFI à la mairie de Paris, Sophia Chikirou sera jugée pour
+       Candidate LFI Ã  la mairie de Paris, Sophia Chikirou sera jugÃ©e pour
        escroquerie
      * Article
-       Sophia Chikirou, candidate LFI à la mairie de Paris, sera jugée en
+       Sophia Chikirou, candidate LFI Ã  la mairie de Paris, sera jugÃ©e en
        mai pour escroquerie
      * Article
-       Incendie en Suisse: un couple de gérants français au coeur du drame
+       Incendie en Suisse: un couple de gÃ©rants franÃ§ais au coeur du drame
      * Article
-       Service national: la campagne de recrutement lancée le 12 janvier
+       Service national: la campagne de recrutement lancÃ©e le 12 janvier
      * Article
-       Pas d'intervention sans rasage : depuis le 1er janvier, les
+       Pas dâintervention sans rasage : depuis le 1er janvier, les
        pompiers du Nord ne peuvent plus porter la barbe
 
-   (BUTTON) Précédent (BUTTON) Suivant
+   (BUTTON) PrÃ©cÃ©dent (BUTTON) Suivant
    France
 
-Covid-19 : les habitudes du confinement qui ont marqué notre quotidien il y a
+Covid-19 : les habitudes du confinement qui ont marquÃ© notre quotidien il y a
 cinq ans
 
    (BUTTON) Partager
@@ -74,102 +74,103 @@ Partager
    #URL
    (BUTTON) Copier
 
-   © Pixabay
+   Â© Pixabay
 
-À lire aussi :
+Ã lire aussi :
 
      *
 
-Origine du Covid-19 : la Maison Blanche défend la thèse d'une fuite d'un
+Origine du Covid-19 : la Maison Blanche dÃ©fend la thÃ¨se d'une fuite d'un
 laboratoire chinois
      *
 
 Elle refuse que son employeur vienne chez elle, il lui interdit le
-télétravail : la Cour de cassation a tranché
+tÃ©lÃ©travail : la Cour de cassation a tranchÃ©
      *
 
-Pouvoir d'achat : le taux d'épargne des Français atteint des niveaux records
+Pouvoir d'achat : le taux d'Ã©pargne des FranÃ§ais atteint des niveaux records
 
-   Pendant le confinement lié au Covid-19, qui démarrait le 17 mars 2020,
-   de nouvelles habitudes de vie quotidienne ont émergé. Si certaines ont
-   rapidement disparu, d'autres ont perduré et sont devenues des pratiques
-   courantes dans la vie des Français.
+   Pendant le confinement liÃ© au Covid-19, qui dÃ©marrait le 17 mars 2020,
+   de nouvelles habitudes de vie quotidienne ont Ã©mergÃ©. Si certaines ont
+   rapidement disparu, d'autres ont perdurÃ© et sont devenues des pratiques
+   courantes dans la vie des FranÃ§ais.
 
-   Désinfecter les aliments après les courses, ne plus faire la bise,
-   pratiquer du sport en intérieur, applaudir les soignants, ou encore
-   porter le masque en extérieur... Le 17 mars 2020, la France entrait
-   dans un confinement strict face à la pandémie du Covid-19. Pendant près
-   de deux mois, les Français ont modifié leurs comportements, suivant les
-   recommandations du gouvernement pour éviter de contracter et de
-   transmettre le virus. Si ces habitudes sont, pour la plupart, désormais
-   oubliées, certaines persistent encore dans notre quotidien.
+   DÃ©sinfecter les aliments aprÃ¨s les courses, ne plus faire la bise,
+   pratiquer du sport en intÃ©rieur, applaudir les soignants, ou encore
+   porter le masque en extÃ©rieurâ¦ Le 17 mars 2020, la France entrait dans
+   un confinement strict face Ã  la pandÃ©mie du Covid-19. Pendant prÃ¨s de
+   deux mois, les FranÃ§ais ont modifiÃ© leurs comportements, suivant les
+   recommandations du gouvernement pour Ã©viter de contracter et de
+   transmettre le virus. Si ces habitudes sont, pour la plupart, dÃ©sormais
+   oubliÃ©es, certaines persistent encore dans notre quotidien.
 
-   Comme à chaque crise, l'humain s'adapte. La crise du Covid-19 n'a pas
-   fait exception. BFMTV a répertorié les habitudes prises durant le
+   Comme Ã  chaque crise, l'humain s'adapte. La crise du Covid-19 n'a pas
+   fait exception. BFMTV a rÃ©pertoriÃ© les habitudes prises durant le
    confinement qui, aujourd'hui, semblent presque comiques. Par exemple,
-   la désinfection des courses. Les autorités sanitaires avaient dû
-   rappeler qu'il ne fallait pas laver fruits et légumes à la javel ou au
-   détergent, comme l'a rappelé la chaîne d'info en continu. On se
-   souvient également des visites de musées virtuelles. Selon le ministère
-   de la Culture, le Louvre avait attiré entre le 12 mars et le 21 avril
+   la dÃ©sinfection des courses. Les autoritÃ©s sanitaires avaient dÃ»
+   rappeler qu'il ne fallait pas laver fruits et lÃ©gumes Ã  la javel ou au
+   dÃ©tergent, comme lâa rappelÃ© la chaÃ®ne d'info en continu. On se
+   souvient Ã©galement des visites de musÃ©es virtuelles. Selon le ministÃ¨re
+   de la Culture, le Louvre avait attirÃ© entre le 12 mars et le 21 avril
    pas moins de 8,4 millions de visiteurs en ligne.
 
-Des habitudes encore ancrées dans notre quotidien ?
+Des habitudes encore ancrÃ©es dans notre quotidien ?
 
-   Avec l'interdiction des rassemblements et des déplacements, les
-   Français ont adapté leurs loisirs. Les "apéros virtuels" ont été lancés
-   pour garder le contact, permettant à beaucoup de lutter contre
-   l'isolement. Pour les plus sportifs, les activités en plein air ont été
-   transformées en séances d'intérieur. D'autres ont profité de l'occasion
-   pour se lancer dans la course à pied et le fitness.
+   Avec l'interdiction des rassemblements et des dÃ©placements, les
+   FranÃ§ais ont adaptÃ© leurs loisirs. Les "apÃ©ros virtuels" ont Ã©tÃ© lancÃ©s
+   pour garder le contact, permettant Ã  beaucoup de lutter contre
+   l'isolement. Pour les plus sportifs, les activitÃ©s en plein air ont Ã©tÃ©
+   transformÃ©es en sÃ©ances d'intÃ©rieur. D'autres ont profitÃ© de l'occasion
+   pour se lancer dans la course Ã  pied et le fitness.
 
-   La majorité de ces habitudes a disparu, mais certaines sont désormais
-   profondément ancrées. Le télétravail, par exemple, est devenu courant.
-   Avant 2020, il était encore peu répandu, mais aujourd'hui, il s'est
-   largement implanté dans de nombreuses entreprises. Selon la Dares (la
-   Direction de l'animation de la recherche, des études et des
-   statistiques), la part des salariés pratiquant le télétravail au moins
-   occasionnellement est passée de 9 % à 26 % entre 2019 et 2023.
+   La majoritÃ© de ces habitudes a disparu, mais certaines sont dÃ©sormais
+   profondÃ©ment ancrÃ©es. Le tÃ©lÃ©travail, par exemple, est devenu courant.
+   Avant 2020, il Ã©tait encore peu rÃ©pandu, mais aujourd'hui, il s'est
+   largement implantÃ© dans de nombreuses entreprises. Selon la Dares (la
+   Direction de l'animation de la recherche, des Ã©tudes et des
+   statistiques), la part des salariÃ©s pratiquant le tÃ©lÃ©travail au moins
+   occasionnellement est passÃ©e de 9 % Ã  26 % entre 2019 et 2023.
 
-   En matière de santé, il n'est plus rare de voir des gens porter des
-   masques dans les transports ou au bureau. La bise, si chère aux
-   Français, est devenue moins systématique. "Avant le Covid, elle était
-   tellement ancrée culturellement que refuser de s'y plier pouvait être
-   perçu comme un manque de politesse, voire un rejet. Aujourd'hui, c'est
-   mieux accepté socialement. Il n'est plus nécessaire de justifier son
+   En matiÃ¨re de santÃ©, il nâest plus rare de voir des gens porter des
+   masques dans les transports ou au bureau. La bise, si chÃ¨re aux
+   FranÃ§ais, est devenue moins systÃ©matique. "Avant le Covid, elle Ã©tait
+   tellement ancrÃ©e culturellement que refuser de sây plier pouvait Ãªtre
+   perÃ§u comme un manque de politesse, voire un rejet. Aujourdâhui, câest
+   mieux acceptÃ© socialement. Il nâest plus nÃ©cessaire de justifier son
    choix", explique Dominique Picard, psychosociologue, dans le Nouvel
    Obs. Heureusement, l'habitude de se couper les cheveux en famille, qui
-   avait pris de l'ampleur pendant le confinement, n'a, elle, pas perduré
+   avait pris de lâampleur pendant le confinement, nâa, elle, pas perdurÃ©
    !
 
-   publié le 17 mars à 18h56, Justin Schroeder, 6Medias
+   publiÃ© le 17 mars Ã  18h56, Justin Schroeder, 6Medias
    (BUTTON) Partager
 
-   Vos réactions doivent respecter nos CGU.
-     * 19:34
-       Sports - Ligue 1 (J17) : Le Havre prend le meilleur sur Angers
-     * 19:00
-       France - Incendie à Crans-Montana : le bilan s'alourdit à huit
-       ressortissants français morts et un porté disparu
-     * 18:39
-       Société - Le rappeur Calbo, du groupe Ärsenik, est décédé
-     * 18:07
-       Économie - Washington prêt à travailler avec les dirigeants
-       vénézuéliens après avoir emprisonné Maduro
+   Vos rÃ©actions doivent respecter nos CGU.
+     * 20:35
+       Sports - EF Education-EasyPost : Healy salue la lutte antidopage
+       mais doute de sa pleine efficacitÃ©
+     * 20:02
+       SociÃ©tÃ© - Le rappeur Calbo, du groupe Ãrsenik, est dÃ©cÃ©dÃ©
+     * 20:02
+       Ãconomie - AprÃ¨s la capture de Maduro, Trump menace la nouvelle
+       dirigeante vÃ©nÃ©zuÃ©lienne d'un sort similaire
+     * 20:00
+       Monde - Groenland : le Danemark exige le ârespect totalâ de son
+       intÃ©gritÃ© aprÃ¨s un message polÃ©mique liÃ© Ã  lâentourage de Trump
      * 09:20
-       Auto - Vélo électrique : une autonomie fragile en hiver
+       Auto - VÃ©lo Ã©lectrique : une autonomie fragile en hiver
 
-   Météo nationale
+   MÃ©tÃ©o nationale
 
-Vidéos
+VidÃ©os
 
    Tous publics
 
-Incendie à Crans-Montana: 8 Français sont morts et une personne est portée
-disparue indique le porte-parole du ministère de l'Europe sur BFMTV
+Incendie Ã  Crans-Montana: la messe en hommage aux victimes Ã  Versailles dans
+les Yvelines a dÃ©butÃ©
 
    4 janvier 2026 - BFMTV
-   Toute l'actu en vidéos
+   Toute l'actu en vidÃ©os
 
 Liens commerciaux
 
@@ -179,12 +180,12 @@ On en parle ...
 
      *
 
-Pleine lune : la super lune du 3 janvier réserve une très belle surprise aux
+Pleine lune : la super lune du 3 janvier rÃ©serve une trÃ¨s belle surprise aux
 amateurs d'astronomie
      *
 
-"Un changement de vie" : cet ancien ministre en plein désarroi avec la fin
-des privilèges décidée par Sébastien Lecornu
+âUn changement de vieâ : cet ancien ministre en plein dÃ©sarroi avec la fin
+des privilÃ¨ges dÃ©cidÃ©e par SÃ©bastien Lecornu
      *
 
 Brigitte Bardot (1934-2025), une vie en images

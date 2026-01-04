@@ -143,171 +143,171 @@ COVID-19 pandemic
    [ ] 168 languages
      * Afrikaans
      * Alemannisch
-     * emarNa
-     * Ænglisc
-     * a+l+e+r+b+y+tm
-     * Aragonés
+     * á áá­á
+     * Ãnglisc
+     * Ø§ÙØ¹Ø±Ø¨ÙØ©
+     * AragonÃ©s
      * Arpetan
-     * ¸®¯¼¾
+     * à¦à¦¸à¦®à§à¦¯à¦¼à¦¾
      * Asturianu
-     * µ§
-     * Avañe'e?
-     * Az@rbaycanca
-     * t+r+©g+h+
+     * à¤à¤µà¤§à¥
+     * AvaÃ±e'áº½
+     * AzÉrbaycanca
+     * ØªÛØ±Ú©Ø¬Ù
      * Basa Bali
-     * ¬¾²¾
+     * à¦¬à¦¾à¦à¦²à¦¾
      * Banjar
-     * © / Bân-lâm-gí
-     * Belaruskaya
-     * Belaruskaya (tarashkeviica)
-     * ­ª°
+     * é©åèª / BÃ¢n-lÃ¢m-gÃ­
+     * ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ
+     * ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ (ÑÐ°ÑÐ°ÑÐºÐµÐ²ÑÑÐ°)
+     * à¤­à¥à¤à¤ªà¥à¤°à¥
      * Bikol Central
-     * B"lgarski
-     * ¼¡²
+     * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+     * à½à½¼à½à¼à½¡à½²à½
      * Bosanski
      * Brezhoneg
-     * Buryaad
-     * Català
-     * CHvashla
+     * ÐÑÑÑÐ°Ð´
+     * CatalÃ 
+     * Ð§ÓÐ²Ð°ÑÐ»Ð°
      * Cebuano
-     * Cestina
+     * ÄeÅ¡tina
      * Chi-Chewa
      * Cymraeg
      * Dagbanli
      * Dansk
      * Deutsch
      * Dolnoserbski
-     * ¡²
+     * à¤¡à¥à¤à¥à¤²à¥
      * Eesti
-     * Ellynika'
-     * Español
+     * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+     * EspaÃ±ol
      * Esperanto
      * Euskara
-     * f+a+r+s+
+     * ÙØ§Ø±Ø³Û
      * Fiji Hindi
-     * Français
+     * FranÃ§ais
      * Frysk
      * Gaeilge
      * Gaelg
      * Galego
-     *
-     * ¢¶ / Hak-kâ-ngî
-     * ­´
+     * è´èª
+     * å®¢å®¶èª / Hak-kÃ¢-ngÃ®
+     * íêµ­ì´
      * Hausa
-     * Hawai;Si
-     * ¡µ¥¥¶
-     * ¹¿¨¦
+     * HawaiÊ»i
+     * ÕÕ¡ÕµÕ¥ÖÕ¥Õ¶
+     * à¤¹à¤¿à¤¨à¥à¤¦à¥
      * Hornjoserbsce
      * Hrvatski
      * Bahasa Indonesia
      * Interlingua
-     * ¦ / inuktitut
+     * áááááá¦ / inuktitut
      * IsiXhosa
      * IsiZulu
-     * Íslenska
+     * Ãslenska
      * Italiano
-     * E+B+R+J+T+
+     * ×¢××¨××ª
      * Jawa
-     * ¥ £
-     * azasha
+     * á¥áá áá£áá
+     * ÒÐ°Ð·Ð°ÒÑÐ°
      * Kiswahili
-     * Kreyòl ayisyen
-     * Kurdî
-     * Kyrgyzcha
-     * ¥²§
+     * KreyÃ²l ayisyen
+     * KurdÃ®
+     * ÐÑÑÐ³ÑÐ·ÑÐ°
+     * àº¥àº²àº§
      * Latina
-     * Latviesu
-     * Lëtzebuergesch
-     * Lietuviu
+     * LatvieÅ¡u
+     * LÃ«tzebuergesch
+     * LietuviÅ³
      * Ligure
      * Lingua Franca Nova
      * La .lojban.
      * Lombard
      * Magyar
-     * Makedonski
-     * ®²¯¾³
+     * ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸
+     * à´®à´²à´¯à´¾à´³à´
      * Malti
-     * ®°¾
-     * m+c+r+j+
+     * à¤®à¤°à¤¾à¤ à¥
+     * ÙØµØ±Ù
      * Bahasa Melayu
-     * ¤© £
+     * ê¯ê¯¤ê¯ê¯© ê¯ê¯£ê¯
      * Minangkabau
-     * ©± / Mìng-de<?>ng-ngu--:¯
-     * Mirandés
-     * ¼º¬¬¬
-     * Naijá
+     * é©æ±èª / MÃ¬ng-dÄÌ¤ng-ngá¹³Ì
+     * MirandÃ©s
+     * áá¼ááºáá¬áá¬áá¬
+     * NaijÃ¡
      * Nederlands
-     * ¨ª¾²
-     * ¥¬
-     * Nohchijn
-     * Norsk bokmål
+     * à¤¨à¥à¤ªà¤¾à¤²à¥
+     * æ¥æ¬èª
+     * ÐÐ¾ÑÑÐ¸Ð¹Ð½
+     * Norsk bokmÃ¥l
      * Norsk nynorsk
      * Occitan
-     * O;Szbekcha / v%zbekcha
-     * ª°¾¬
+     * OÊ»zbekcha / ÑÐ·Ð±ÐµÐºÑÐ°
+     * à¨ªà©°à¨à¨¾à¨¬à©
      * Pangcah
-     * p+n+g+a+b+
+     * Ù¾ÙØ¬Ø§Ø¨Û
      * Papiamentu
-     * p+t+w+
-     * ¶¶
+     * Ù¾ÚØªÙ
+     * áá¶áá¶ááááá
      * Tok Pisin
      * Polski
-     * Português
+     * PortuguÃªs
      * Qaraqalpaqsha
-     * Româna
+     * RomÃ¢nÄ
      * Runa Simi
-     * Rusin'skyj
-     * Russkij
-     * Saha tyla
-     * ¥±²¤
+     * Ð ÑÑÐ¸Ð½ÑÑÐºÑÐ¹
+     * Ð ÑÑÑÐºÐ¸Ð¹
+     * Ð¡Ð°ÑÐ° ÑÑÐ»Ð°
+     * á±¥á±á±±á±á±á±²á±¤
      * Sardu
      * Scots
      * Sesotho
      * Setswana
      * Shqip
-     * ½
+     * à·à·à¶à·à¶½
      * Simple English
-     * s+n+y+
-     * Slovencina
-     * Slovenscina
-     * Slunski
+     * Ø³ÙÚÙ
+     * SlovenÄina
+     * SlovenÅ¡Äina
+     * ÅlÅ¯nski
      * Soomaaliga
-     * ©w+r+d+
-     * Srpski / srpski
-     * Srpskohrvatski / srpskohrvatski
+     * Ú©ÙØ±Ø¯Û
+     * Ð¡ÑÐ¿ÑÐºÐ¸ / srpski
+     * Srpskohrvatski / ÑÑÐ¿ÑÐºÐ¾ÑÑÐ²Ð°ÑÑÐºÐ¸
      * Suomi
      * Svenska
      * Tagalog
-     * ¤®¿´
-     * Taclh-.it
+     * à®¤à®®à®¿à®´à¯
+     * Taclá¸¥it
      * Taqbaylit
-     * ¸
-     * ¤²
-     * ¢
-     * tgrNa
-     * To·ik£
+     * ááá¸
+     * à°¤à±à°²à±à°à±
+     * à¹à¸à¸¢
+     * áµáá­á
+     * Ð¢Ð¾Ò·Ð¸ÐºÓ£
      * Tshivenda
-     * Türkçe
-     * Türkmençe
+     * TÃ¼rkÃ§e
+     * TÃ¼rkmenÃ§e
      * Twi
      * Basa Ugi
-     * Ukrayins'ka
-     * a+r+d+w+
-     * yHy+i+r+tc / Uyghurche
-     * Vèneto
-     * Tie>'ng Vie>-.t
-     *
+     * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+     * Ø§Ø±Ø¯Ù
+     * Ø¦ÛÙØºÛØ±ÚÛ / Uyghurche
+     * VÃ¨neto
+     * Tiáº¿ng Viá»t
+     * æè¨
      * Winaray
      * Wolof
-     * ´­
+     * å´è¯­
      * Xitsonga
-     * J+J+iD+J+Sh
-     * Yorùbá
-     * µ
+     * ××Ö´×××©
+     * YorÃ¹bÃ¡
+     * ç²µèª
      * Zazaki
-     * Zemaiteska
-     * ­
-     * Kr<lbd>saal
+     * Å½emaitÄÅ¡ka
+     * ä¸­æ
+     * KÊsaal
      * Toki pona
 
    Edit links
@@ -355,12 +355,12 @@ COVID-19 pandemic
    This is a good article. Click here for more information.
    Extended-protected article
    From Wikipedia, the free encyclopedia
-   Pandemic caused by SARS-CoV-2 (2019-2023)
+   Pandemic caused by SARS-CoV-2 (2019â2023)
 
    COVID-19 pandemic
    [500px-Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg]
    Medical professionals treating a COVID-19 patient in critical condition
-   in an intensive care unit in São Paulo in May 2020
+   in an intensive care unit in SÃ£o Paulo in May 2020
    [500px-COVID-19_Outbreak_World_Map_Total_Deaths_per_Capita.svg.png]
    Confirmed deaths per 100,000 population
    as of 20 December 2023
@@ -371,46 +371,46 @@ COVID-19 pandemic
      *   >10%
      *
 
-     3-10%
+     3â10%
 
-       1-3%
+       1â3%
 
-       0.3-1%
+       0.3â1%
 
-       0.1-0.3%
+       0.1â0.3%
 
-       0.03-0.1%
+       0.03â0.1%
 
-       0-0.03%
+       0â0.03%
 
        None or no data
 
    Disease Coronavirus disease 2019 (COVID-19)
    Virus strain Severe acute respiratory syndrome
-   coronavirus 2 (SARS-CoV-2)
+   coronavirus 2 (SARSâCoVâ2)
    Source Bats^[1] (indirectly)^[2]
    Location Worldwide
    Index case Wuhan, China
-   30°37'11''N 114°15'28''E&#xfeff; / &#xfeff;30.61972°N
-   114.25778°E&#xfeff; / 30.61972; 114.25778
+   30Â°37â²11â³N 114Â°15â²28â³Eï»¿ / ï»¿30.61972Â°N 114.25778Â°Eï»¿ / 30.61972;
+   114.25778
    1 December 2019
    (6 years, 1 month and 2 days ago)
    Dates Described as a pandemic by the WHO: 11 March 2020 (5 years and
    9 months ago)^[3]
      __________________________________________________________________
 
-   Public health emergency of international concern: 30 January 2020 - 5
+   Public health emergency of international concern: 30 January 2020 â 5
    May 2023 (3 years, 3 months and 5 days)^[4]
    Confirmed cases 778,867,537^[5]^[6]
-   Suspected cases^/= Far higher (>70% of the world population, by the end
+   Suspected cases^â¡ Far higher (>70% of the world population, by the end
    of 2022)^[7]^[8]
 
    Deaths
 
    7,102,614^[5] (reported)
-   18.2-33.5 million^[9] (estimated)
+   18.2â33.5 million^[9] (estimated)
    Fatality rate As of 10 March 2023: 1.02%^[10]
-   ^/=Suspected cases have not been confirmed by laboratory tests as being
+   ^â¡Suspected cases have not been confirmed by laboratory tests as being
    due to this strain, although some other strains may have been ruled
    out.
 
@@ -599,8 +599,8 @@ COVID-19 pandemic
      * Medigen
      * Moderna
      * Novavax
-     * Oxford-AstraZeneca
-     * Pfizer-BioNTech
+     * OxfordâAstraZeneca
+     * PfizerâBioNTech
      * Sinopharm BIBP
      * Sputnik V
 
@@ -861,7 +861,7 @@ Background
 
    SARS-CoV-2 is a virus closely related to bat coronaviruses,^[30]
    pangolin coronaviruses,^[31]^[32] and SARS-CoV.^[33] The first known
-   outbreak (the 2019-2020 COVID-19 outbreak in mainland China) started in
+   outbreak (the 2019â2020 COVID-19 outbreak in mainland China) started in
    Wuhan, Hubei, China, in December 2019.^[34] Many early cases were
    linked to people who had visited the Huanan Seafood Wholesale Market
    there,^[35]^[36]^[37] but it is possible that human-to-human
@@ -940,7 +940,7 @@ Deaths
 
    [250px-Covid-19_S%C3%A3o_Paulo_-_Cemiterios.jpg] Gravediggers bury the
    body of a man suspected of having died of COVID-19 in the cemetery of
-   Vila Alpina in eastern São Paulo, 3 April
+   Vila Alpina in eastern SÃ£o Paulo, 3 April
    2020.[250px-COVID19_deceased_in_Hackensack_NJ_April_27.jpg] The
    deceased in a refrigerated "mobile morgue" outside a hospital in
    Hackensack, New Jersey, US, in April
@@ -967,10 +967,10 @@ Deaths
    compared to a long-term average) data show an increase in deaths that
    is not explained by COVID-19 deaths alone.^[75] Using such data,
    estimates of the true number of deaths from COVID-19 worldwide have
-   included a range from 18.2 to 33.5 million (~=27.4 million) by 18
+   included a range from 18.2 to 33.5 million (â27.4 million) by 18
    November 2023 by The Economist,^[9]^[75] as well as over 18.5 million
    by 1 April 2023 by the Institute for Health Metrics and Evaluation^[76]
-   and ~=18.2 million (earlier) deaths between 1 January 2020, and 31
+   and â18.2 million (earlier) deaths between 1 January 2020, and 31
    December 2021, by a comprehensive international study.^[77] Such deaths
    include deaths due to healthcare capacity constraints and priorities,
    as well as reluctance to seek care (to avoid possible infection).^[78]
@@ -986,7 +986,7 @@ Deaths
    medical services.^[79]^[80]
 
    A December 2022 WHO study estimated excess deaths from the pandemic
-   during 2020 and 2021, again concluding ~=14.8 million excess early
+   during 2020 and 2021, again concluding â14.8 million excess early
    deaths occurred, reaffirming and detailing their prior calculations
    from May as well as updating them, addressing criticisms. These numbers
    do not include measures like years of potential life lost and may make
@@ -1027,13 +1027,13 @@ Infection fatality ratio (IFR)
    age group^[86]
 
    Age group  IFR
-   0-34      0.004%
-   35-44     0.068%
-   45-54     0.23%
-   55-64     0.75%
-   65-74     2.5%
-   75-84     8.5%
-   85 +      28.3%
+   0â34      0.004%
+   35â44     0.068%
+   45â54     0.23%
+   55â64     0.75%
+   65â74     2.5%
+   75â84     8.5%
+   85â+      28.3%
 
    The infection fatality ratio (IFR) is the cumulative number of deaths
    attributed to the disease divided by the cumulative number of infected
@@ -1047,7 +1047,7 @@ Infection fatality ratio (IFR)
    elderly care facilities, and found a median range of 0.24% to
    1.49%.^[93] IFRs rise as a function of age (from 0.002% at age 10 and
    0.01% at age 25, to 0.4% at age 55, 1.4% at age 65, 4.6% at age 75, and
-   15% at age 85). These rates vary by a factor of ~=10,000 across the age
+   15% at age 85). These rates vary by a factor of â10,000 across the age
    groups.^[86] For comparison, the IFR for middle-aged adults is two
    orders of magnitude higher than the annualised risk of a fatal
    automobile accident and much higher than the risk of dying from
@@ -1091,7 +1091,7 @@ Variants
    have shared the more infectious D614G. As of May 2023, the WHO had
    downgraded all variants of concern to previously circulating as these
    were no longer detected in new infections.^[98]^[99] Sub-lineages of
-   the Omicron variant (BA.1 - BA.5) were considered separate VoCs by the
+   the Omicron variant (BA.1 â BA.5) were considered separate VoCs by the
    WHO until they were downgraded in March 2023 as no longer widely
    circulating.^[99] As of 24 September 2024^[update], the variants of
    interest as specified by the WHO are BA.2.86 and JN.1, and the variants
@@ -1149,7 +1149,7 @@ Cause
    [250px-Coronavirus_virion_structure.svg.png] Illustration of SARS-CoV-2
    virion
 
-   SARS-CoV-2 belongs to the broad family of viruses known as
+   SARSâCoVâ2 belongs to the broad family of viruses known as
    coronaviruses.^[114] It is a positive-sense single-stranded RNA
    (+ssRNA) virus, with a single linear RNA segment. Coronaviruses infect
    humans, other mammals, including livestock and companion animals, and
@@ -1157,13 +1157,13 @@ Cause
 
    Human coronaviruses are capable of causing illnesses ranging from the
    common cold to more severe diseases such as Middle East respiratory
-   syndrome (MERS, fatality rate ~=34%). SARS-CoV-2 is the seventh known
+   syndrome (MERS, fatality rate â34%). SARS-CoV-2 is the seventh known
    coronavirus to infect people, after 229E, NL63, OC43, HKU1, MERS-CoV,
    and the original SARS-CoV.^[116]
 
 Diagnosis
 
-   Main article: COVID-19 § Diagnosis
+   Main article: COVID-19 Â§ Diagnosis
 
    [250px-2020Sept26-BioFire-Waldron-HR.jpg] A nurse at McMurdo Station
    sets up polymerase chain reaction (PCR) testing equipment in September
@@ -1180,7 +1180,7 @@ Diagnosis
 
 Prevention
 
-   Further information: COVID-19 § Prevention, Face masks during the
+   Further information: COVID-19 Â§ Prevention, Face masks during the
    COVID-19 pandemic, and Social distancing measures related to the
    COVID-19 pandemic
 
@@ -1214,7 +1214,7 @@ Vaccines
    ] An elderly woman receiving a COVID-19 vaccination in Slovakia
 
    A COVID-19 vaccine is intended to provide acquired immunity against
-   severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus
+   severe acute respiratory syndrome coronavirus 2 (SARSâCoVâ2), the virus
    that causes coronavirus disease 2019 (COVID-19). Prior to the COVID-19
    pandemic, an established body of knowledge existed about the structure
    and function of coronaviruses causing diseases like severe acute
@@ -1253,7 +1253,7 @@ Treatment
 
    [250px-Respiradores_da_USP_utilizados_do_Incor_%2850119127303%29.jpg] A
    critically ill patient receiving invasive ventilation in the intensive
-   care unit of the Heart Institute, University of São Paulo in July 2020.
+   care unit of the Heart Institute, University of SÃ£o Paulo in July 2020.
    Due to a shortage of mechanical ventilators, a bridge ventilator is
    being used to automatically actuate a bag valve mask.
 
@@ -1291,11 +1291,11 @@ Treatment
 
 Prognosis
 
-   Further information: COVID-19 § Prognosis, and Long COVID
+   Further information: COVID-19 Â§ Prognosis, and Long COVID
 
    The severity of COVID-19 varies. It may take a mild course with few or
    no symptoms, resembling other common upper respiratory diseases such as
-   the common cold. In 3-4% of cases (7.4% for those over age 65) symptoms
+   the common cold. In 3â4% of cases (7.4% for those over age 65) symptoms
    are severe enough to cause hospitalisation.^[155] Mild cases typically
    recover within two weeks, while those with severe or critical diseases
    may take three to six weeks to recover. Among those who have died, the
@@ -1406,7 +1406,7 @@ Other measures
 Contact tracing
 
    See also: Use and development of software for COVID-19 pandemic
-   mitigation and Public health mitigation of COVID-19 § Information
+   mitigation and Public health mitigation of COVID-19 Â§ Information
    technology
 
    Contact tracing attempts to identify recent contacts of newly infected
@@ -1492,11 +1492,11 @@ History
    Two days later, a test report from CapitalBio Medlab addressed to the
    Wuhan Central Hospital reported an erroneous positive result for SARS,
    causing doctors there to alert authorities. Eight of those doctors,
-   including ophthalmologist Li Wenliang (1985-2020), were detained by
+   including ophthalmologist Li Wenliang (1985â2020), were detained by
    police on 3 January for "spreading false rumours".^[198] That evening,
    Wuhan Municipal Health Commission (WMHC) issued a notice about "the
    treatment of pneumonia of unknown cause".^[199] The next day, WMHC made
-   the announcement public, confirming 27 cases^[200]^[201]--enough to
+   the announcement public, confirming 27 cases^[200]^[201]âenough to
    trigger an investigation.^[202] On 31 December, the WHO office in China
    was notified about the cluster of unknown pneumonia cases^[21]^[200]
    and immediately launched an investigation.^[202]
@@ -1584,10 +1584,10 @@ History
    Africa.^[231]^[232] The CoronaVac vaccine was reported to be 50.4 per
    cent effective in a Brazil clinical trial.^[233]
    [250px-Covid-19_SP_-_Santo_Andre%27s_hospital_at_peak_of_pandemic.jpg]
-   A temporary hospital for COVID-19 patients in Santo André, Brazil, in
+   A temporary hospital for COVID-19 patients in Santo AndrÃ©, Brazil, in
    March 2021
 
-   On 12 March, several countries stopped using the Oxford-AstraZeneca
+   On 12 March, several countries stopped using the OxfordâAstraZeneca
    COVID-19 vaccine due to blood clotting problems, specifically cerebral
    venous sinus thrombosis (CVST).^[234] On 20 March, the WHO and European
    Medicines Agency found no link to thrombosis, leading several countries
@@ -1629,7 +1629,7 @@ History
    Director-General Tedros Ghebreyesus stated on 14 September 2022, that
    "[The world has] never been in a better position to end the pandemic",
    citing the lowest number of weekly reported deaths since March 2020. He
-   continued, "We are not there yet. But the end is in sight--we can see
+   continued, "We are not there yet. But the end is in sightâwe can see
    the finish line".^[244]^[245]^[246]^[247]
 
    On 21 October, the United States surpassed 99 million cases of
@@ -1705,7 +1705,7 @@ Responses
    short-term measures to reorganise, regroup, rebalance resources, and
    protect the health care system.^[268] As of 26 March 2020, 1.7 billion
    people worldwide were under some form of lockdown.^[269] This increased
-   to 3.9 billion people by the first week of April--more than half the
+   to 3.9 billion people by the first week of Aprilâmore than half the
    world's population.^[270]^[271]
 
    In several countries, protests rose against restrictions such as
@@ -1748,7 +1748,7 @@ Asia
    The first case in India was reported on 30 January 2020. India ordered
    a nationwide lockdown starting 24 March 2020,^[290] with a phased
    unlock beginning 1 June 2020. Six cities accounted for around half of
-   reported cases--Mumbai, Delhi, Ahmedabad, Chennai, Pune and
+   reported casesâMumbai, Delhi, Ahmedabad, Chennai, Pune and
    Kolkata.^[291] Post-lockdown, the Government of India introduced a
    contact tracking app called Aarogya Setu to help authorities manage
    contact tracing and vaccine distribution.^[292] India's vaccination
@@ -1826,7 +1826,7 @@ Europe
    that the second wave of the virus had led some hospitals to stop
    accepting patients.^[333]
    Elderly woman rolls up sleeve as two nurses administer a vaccine.
-   Vaccinations at a retirement home in Gijón, Spain on 12 December 2020
+   Vaccinations at a retirement home in GijÃ³n, Spain on 12 December 2020
 
    The virus was first confirmed to have spread to Spain on 31 January
    2020, when a German tourist tested positive for SARS-CoV-2 on La Gomera
@@ -1864,7 +1864,7 @@ Europe
    through fines and dispersal of gatherings. Most non-essential
    businesses were ordered to close.^[353] On 24 April 2020, it was
    reported that a promising vaccine trial had begun in England; the
-   government pledged more than £50 million towards research.^[354] On 16
+   government pledged more than Â£50 million towards research.^[354] On 16
    April 2020, it was reported that the UK would have first access to the
    Oxford vaccine, due to a prior contract; should the trial be
    successful, some 30 million doses would be available.^[355] On 2
@@ -1923,7 +1923,7 @@ South America
    COVID-19 victims in Cochabamba, Bolivia
 
    The COVID-19 pandemic was confirmed to have reached South America on 26
-   February 2020, when Brazil confirmed a case in São Paulo.^[373] By 3
+   February 2020, when Brazil confirmed a case in SÃ£o Paulo.^[373] By 3
    April, all countries and territories in South America had recorded at
    least one case.^[374] On 13 May 2020, it was reported that Latin
    America and the Caribbean had reported over 400,000 cases of COVID-19
@@ -1935,7 +1935,7 @@ South America
    that the outbreak is far larger than the official numbers show.^[377]
 
    The virus was confirmed to have spread to Brazil on 25 February
-   2020,^[378] when a man from São Paulo who had travelled to Italy tested
+   2020,^[378] when a man from SÃ£o Paulo who had travelled to Italy tested
    positive for the virus.^[379] The disease had spread to every
    federative unit of Brazil by 21 March. On 19 June 2020, the country
    reported its one millionth case and nearly 49,000 reported
@@ -2046,7 +2046,7 @@ United Nations
    pandemic, namely the poor ability to create international collaboration
    during this crisis.^[426]^[427]
 
-   On 23 March 2020, United Nations Secretary-General António Manuel de
+   On 23 March 2020, United Nations Secretary-General AntÃ³nio Manuel de
    Oliveira Guterres appealed for a global ceasefire;^[428]^[429] 172 UN
    member states and observers signed a non-binding supporting statement
    in June,^[430] and the UN Security Council passed a resolution
@@ -2164,8 +2164,8 @@ Economics
 
    The retail sector faced reductions in store hours or closures.^[463]
    Retailers in Europe and Latin America faced traffic declines of 40 per
-   cent. North America and Middle East retailers saw a 50-60 per cent
-   drop.^[464] Shopping centres faced a 33-43 per cent drop in foot
+   cent. North America and Middle East retailers saw a 50â60 per cent
+   drop.^[464] Shopping centres faced a 33â43 per cent drop in foot
    traffic in March compared to February. Mall operators around the world
    coped by increasing sanitation, installing thermal scanners to check
    the temperature of shoppers, and cancelling events.^[465]
@@ -2277,7 +2277,7 @@ Brazil
 
 China
 
-   Further information: China-United States relations § COVID-19
+   Further information: ChinaâUnited States relations Â§ COVID-19
 
    Multiple provincial-level administrators of the Chinese Communist Party
    (CCP) were dismissed over their handling of quarantine measures. Some
@@ -2358,7 +2358,7 @@ Other countries
    Some countries passed emergency legislation. Some commentators
    expressed concern that it could allow governments to strengthen their
    grip on power.^[545]^[546] In Hungary, the parliament voted to allow
-   Prime Minister Viktor Orbán to rule by decree indefinitely, suspend
+   Prime Minister Viktor OrbÃ¡n to rule by decree indefinitely, suspend
    parliament and elections, and punish those deemed to have spread false
    information.^[547] In countries such as Egypt,^[548] Turkey,^[549] and
    Thailand,^[550] opposition activists and government critics were
@@ -2373,7 +2373,7 @@ Food systems
    The pandemic disrupted food systems worldwide,^[553]^[554] hitting at a
    time when hunger and undernourishment were rising- an estimated
    690 million people lacked food security in 2019.^[555] Food access fell
-   - driven by falling incomes, lost remittances, and disruptions to food
+   â driven by falling incomes, lost remittances, and disruptions to food
    production.^[556] In some cases, food prices rose.^[553]^[555] The
    pandemic and its accompanying lockdowns and travel restrictions slowed
    movement of food aid. According to the WHO, 811 million people were
@@ -2425,7 +2425,7 @@ Health
    seasons following the widespread relaxation of global public health
    measures, North America and Europe experienced a surge in respiratory
    viruses and coinfections in both adults and children.^[572] This formed
-   the beginning of the 2022-2023 paediatric care crisis and what some
+   the beginning of the 2022â2023 paediatric care crisis and what some
    experts termed a "tripledemic" of seasonal influenza, respiratory
    syncytial virus (RSV), and SARS-CoV-2 throughout North
    America.^[573]^[574] In the United Kingdom, paediatric infections also
@@ -2474,7 +2474,7 @@ Environment
    have been shown to be susceptible to SARS-CoV-2, with some encountering
    a particularly high degree of fatal outcomes.^[588] In particular, both
    farmed and wild mink have developed highly symptomatic and severe
-   COVID-19 infections, with a mortality rate as high as 35-55% according
+   COVID-19 infections, with a mortality rate as high as 35â55% according
    to one study.^[589]^[590] White-tailed deer, on the other hand, have
    largely avoided severe outcomes but have effectively become natural
    reservoirs of the virus, with large numbers of free-ranging deer
@@ -2512,7 +2512,7 @@ Discrimination and prejudice
    isolation, depression, and loneliness.^[606]
 
    In a correspondence published in The Lancet in 2021, German
-   epidemiologist Günter Kampf described the harmful effects of
+   epidemiologist GÃ¼nter Kampf described the harmful effects of
    "inappropriate stigmatisation of unvaccinated people, who include our
    patients, colleagues, and other fellow citizens", noting the evidence
    that vaccinated individuals play a large role in transmission.^[607]
@@ -2769,8 +2769,8 @@ See also
      * icon Medicine portal
      * icon 2020s portal
 
-     * Coronavirus diseases - Diseases caused by coronavirus infections
-     * Emerging infectious disease - New or rapidly increasing disease
+     * Coronavirus diseases â Diseases caused by coronavirus infections
+     * Emerging infectious disease â New or rapidly increasing disease
      * Globalisation and disease
      * List of epidemics and pandemics
      * Memorials for the COVID-19 pandemic
@@ -2783,23 +2783,23 @@ Notes
 References
 
     1. ^ Zoumpourlis V, Goulielmaki M, Rizos E, Baliou S, Spandidos DA
-       (October 2020). "[Comment] The COVID-19 pandemic as a scientific
+       (October 2020). "[Comment] The COVIDâ19 pandemic as a scientific
        and social challenge in the 21st century". Molecular Medicine
-       Reports. 22 (4): 3035-3048. doi:10.3892/mmr.2020.11393.
+       Reports. 22 (4): 3035â3048. doi:10.3892/mmr.2020.11393.
        PMC 7453598. PMID 32945405.
     2. ^ ^a ^b "WHO-convened global study of origins of SARS-CoV-2: China
        Part". World Health Organization. 30 March 2021. Retrieved 31 March
        2021.
-    3. ^ ^a ^b ^c ^d "Archived: WHO Timeline - COVID-19". World Health
+    3. ^ ^a ^b ^c ^d "Archived: WHO Timeline â COVID-19". World Health
        Organization. 27 April 2020. Archived from the original on 29 April
        2020. Retrieved 7 March 2024.
     4. ^ ^a ^b ^c ^d Rigby J, Satija B (8 May 2023). "WHO declares end to
        COVID global health emergency". Reuters. Retrieved 9 May 2023.
-    5. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i Mathieu E, Ritchie H, Rodés-Guirao L,
-       Appel C, Giattino C, Hasell J, et al. (2020-2024). "Coronavirus
+    5. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i Mathieu E, Ritchie H, RodÃ©s-Guirao L,
+       Appel C, Giattino C, Hasell J, et al. (2020â2024). "Coronavirus
        Pandemic (COVID-19)". Our World in Data. Retrieved 12 December
        2025.
-    6. ^ Mathieu E, Ritchie H, Rodés-Guirao L, Appel C, Giattino C, Hasell
+    6. ^ Mathieu E, Ritchie H, RodÃ©s-Guirao L, Appel C, Giattino C, Hasell
        J, et al. (5 March 2020). "Coronavirus Pandemic (COVID-19)". Our
        World in Data. Archived from the original on 24 February 2024.
        Retrieved 24 February 2024.
@@ -2828,11 +2828,11 @@ References
        2024. Retrieved 9 June 2024.
    15. ^ ^a ^b ^c Charters E, Heitman K (2021). "How epidemics end".
        Centaurus; International Magazine of the History of Science and
-       Medicine. 63 (1): 210-224. doi:10.1111/1600-0498.12370.
+       Medicine. 63 (1): 210â224. doi:10.1111/1600-0498.12370.
        PMC 8014506. PMID 33821019.
    16. ^ Doraiswamy S, Mamtani R, Cheema S (August 2022). "An in-depth
        analysis of 10 epidemiological terminologies used in the context of
-       COVID-19". Scand J Public Health. 50 (6): 819-826.
+       COVID-19". Scand J Public Health. 50 (6): 819â826.
        doi:10.1177/14034948211057736. PMC 9361413. PMID 34903120.
    17. ^ Multiple sources:
           +
@@ -2859,14 +2859,14 @@ References
      ^ Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, et al. (February
    2020). "A familial cluster of pneumonia associated with the 2019 novel
    coronavirus indicating person-to-person transmission: a study of a
-   family cluster". Lancet. 395 (10223): 514-523.
+   family cluster". Lancet. 395 (10223): 514â523.
    doi:10.1016/S0140-6736(20)30154-9. PMC 7159286. PMID 31986261.
 
-     ^ ^a ^b ^c "Novel Coronavirus (2019-nCoV) SITUATION REPORT - 1"
+     ^ ^a ^b ^c "Novel Coronavirus (2019-nCoV) SITUATION REPORT â 1"
    (PDF). World Health Organization. 20 January 2020. Retrieved 7 June
    2021.
 
-     ^ "Novel Coronavirus(2019-nCoV) Situation Report - 10" (PDF). World
+     ^ "Novel Coronavirus(2019-nCoV) Situation Report â 10" (PDF). World
    Health Organization (WHO). 30 January 2020.
 
      ^ Multiple sources:
@@ -2875,7 +2875,7 @@ References
    "Novel coronavirus named 'Covid-19': WHO". Today. Singapore. Archived
    from the original on 21 March 2020. Retrieved 11 February 2020.
 
-     "The coronavirus spreads racism against - and among - ethnic
+     "The coronavirus spreads racism against â and among â ethnic
    Chinese". The Economist. 17 February 2020. Archived from the original
    on 17 February 2020. Retrieved 17 February 2020.
 
@@ -2887,7 +2887,7 @@ References
    causes it". World Health Organization (WHO). Archived from the original
    on 28 February 2020. Retrieved 13 March 2020.
 
-     ^ Coronavirus disease 2019 (COVID-19) in the EU/EEA and the UK -
+     ^ Coronavirus disease 2019 (COVID-19) in the EU/EEA and the UK â
    eighth update (PDF) (Report). ecdc. Archived (PDF) from the original on
    14 March 2020. Retrieved 19 April 2020.
 
@@ -2906,20 +2906,20 @@ References
    2021. Retrieved 27 November 2021.
 
      ^ Perlman S (February 2020). "Another Decade, Another Coronavirus".
-   The New England Journal of Medicine. 382 (8): 760-762.
+   The New England Journal of Medicine. 382 (8): 760â762.
    doi:10.1056/NEJMe2001126. PMC 7121143. PMID 31978944.
 
      ^ Cyranoski D (March 2020). "Mystery deepens over animal source of
-   coronavirus". Nature. 579 (7797): 18-19. Bibcode:2020Natur.579...18C.
+   coronavirus". Nature. 579 (7797): 18â19. Bibcode:2020Natur.579...18C.
    doi:10.1038/d41586-020-00548-w. PMID 32127703. S2CID 211836524.
 
      ^ Zhang T, Wu Q, Zhang Z (April 2020). "Probable Pangolin Origin of
    SARS-CoV-2 Associated with the COVID-19 Outbreak". Current Biology. 30
-   (7): 1346-1351.e2. Bibcode:2020CBio...30E1346Z.
+   (7): 1346â1351.e2. Bibcode:2020CBio...30E1346Z.
    doi:10.1016/j.cub.2020.03.022. PMC 7156161. PMID 32197085.
 
      ^ "Outbreak of severe acute respiratory syndrome coronavirus 2
-   (SARS-CoV-2): increased transmission beyond China - fourth update"
+   (SARSâCoVâ2): increased transmission beyond China â fourth update"
    (PDF). European Centre for Disease Prevention and Control. 14 February
    2020. Retrieved 8 March 2020.
 
@@ -2930,7 +2930,7 @@ References
 
      ^ Sun J, He WT, Wang L, Lai A, Ji X, Zhai X, et al. (May 2020).
    "COVID-19: Epidemiology, Evolution, and Cross-Disciplinary
-   Perspectives". Trends in Molecular Medicine. 26 (5): 483-495.
+   Perspectives". Trends in Molecular Medicine. 26 (5): 483â495.
    doi:10.1016/j.molmed.2020.02.008. PMC 7118693. PMID 32359479.
 
      ^ "WHO Points To Wildlife Farms In Southern China As Likely Source Of
@@ -2938,45 +2938,45 @@ References
 
      ^ ^a ^b Maxmen A (April 2021). "WHO report into COVID pandemic
    origins zeroes in on animal markets, not labs". Nature. 592 (7853):
-   173-174. Bibcode:2021Natur.592..173M. doi:10.1038/d41586-021-00865-8.
+   173â174. Bibcode:2021Natur.592..173M. doi:10.1038/d41586-021-00865-8.
    PMID 33785930. S2CID 232429241.
 
      ^ ^a ^b ^c Hu B, Guo H, Zhou P, Shi ZL (March 2021). "Characteristics
    of SARS-CoV-2 and COVID-19". Nature Reviews. Microbiology. 19 (3):
-   141-154. doi:10.1038/s41579-020-00459-7. PMC 7537588. PMID 33024307.
+   141â154. doi:10.1038/s41579-020-00459-7. PMC 7537588. PMID 33024307.
 
      ^ ^a ^b Graham RL, Baric RS (May 2020). "SARS-CoV-2: Combating
-   Coronavirus Emergence". Immunity. 52 (5): 734-736.
+   Coronavirus Emergence". Immunity. 52 (5): 734â736.
    doi:10.1016/j.immuni.2020.04.016. PMC 7207110. PMID 32392464.
 
      ^ To KK, Sridhar S, Chiu KH, Hung DL, Li X, Hung IF, et al. (December
    2021). "Lessons learned 1 year after SARS-CoV-2 emergence leading to
-   COVID-19 pandemic". Emerging Microbes & Infections. 10 (1): 507-535.
+   COVID-19 pandemic". Emerging Microbes & Infections. 10 (1): 507â535.
    doi:10.1080/22221751.2021.1898291. PMC 8006950. PMID 33666147.
 
      ^ Multiple sources:
      *
 
    "The COVID-19 coronavirus epidemic has a natural origin, scientists say
-   - Scripps Research's analysis of public genome sequence data from
-   SARS-CoV-2 and related viruses found no evidence that the virus was
+   â Scripps Research's analysis of public genome sequence data from
+   SARSâCoVâ2 and related viruses found no evidence that the virus was
    made in a laboratory or otherwise engineered". EurekAlert!. Scripps
    Research Institute. 17 March 2020. Retrieved 15 April 2020.
 
      Andersen KG, Rambaut A, Lipkin WI, Holmes EC, Garry RF (April 2020).
-   "The proximal origin of SARS-CoV-2". Nature Medicine. 26 (4): 450-452.
+   "The proximal origin of SARS-CoV-2". Nature Medicine. 26 (4): 450â452.
    doi:10.1038/s41591-020-0820-9. PMC 7095063. PMID 32284615.
 
      Fox M (7 July 2021). "Coronavirus almost certainly came from an
    animal, not a lab leak, top scientists argue". CNN. Retrieved 9 July
    2021.
 
-     "Market in China's Wuhan likely origin of COVID-19 outbreak - study".
+     "Market in China's Wuhan likely origin of COVID-19 outbreak â study".
    Reuters. 19 November 2021. Retrieved 19 November 2021.
 
      ^ To KK, Sridhar S, Chiu KH, Hung DL, Li X, Hung IF, et al. (March
    2021). "Lessons learned 1 year after SARS-CoV-2 emergence leading to
-   COVID-19 pandemic". Emerging Microbes & Infections. 10 (1): 507-535.
+   COVID-19 pandemic". Emerging Microbes & Infections. 10 (1): 507â535.
    doi:10.1080/22221751.2021.1898291. PMC 8006950. PMID 33666147.
 
      ^ Horowitz J, Stanway D (9 February 2021). "COVID may have taken
@@ -2994,7 +2994,7 @@ References
 
      ^ Holmes EC, Goldstein SA, Rasmussen AL, Robertson DL,
    Crits-Christoph A, Wertheim JO, et al. (August 2021). "The Origins of
-   SARS-CoV-2: A Critical Review". Cell. 184 (19): 4848-4856.
+   SARS-CoV-2: A Critical Review". Cell. 184 (19): 4848â4856.
    doi:10.1016/j.cell.2021.08.017. PMC 8373617. PMID 34480864.
 
      ^ "Laboratory testing for 2019 novel coronavirus (2019-nCoV) in
@@ -3004,18 +3004,18 @@ References
      ^ "Total tests for COVID-19 per 1,000 people". Our World in Data.
    Retrieved 16 April 2020.
 
-     ^ "Report 13 - Estimating the number of infections and the impact of
+     ^ "Report 13 â Estimating the number of infections and the impact of
    non-pharmaceutical interventions on COVID-19 in 11 European countries".
    Imperial College London. Retrieved 7 April 2020.
 
      ^ Lau H, Khosrawipour V, Kocbach P, Mikolajczyk A, Ichii H, Schubert
    J, et al. (June 2020). "Internationally lost COVID-19 cases". Journal
    of Microbiology, Immunology, and Infection = Wei Mian Yu Gan Ran Za
-   Zhi. 53 (3): 454-458. doi:10.1016/j.jmii.2020.03.013. PMC 7102572.
+   Zhi. 53 (3): 454â458. doi:10.1016/j.jmii.2020.03.013. PMC 7102572.
    PMID 32205091.
 
      ^ Sevillano EG, Linde P, Vizoso S (23 March 2020). "640,000 rapid
-   coronavirus tests arrive in Spain". El País English Edition. Retrieved
+   coronavirus tests arrive in Spain". El PaÃ­s English Edition. Retrieved
    2 April 2020.
 
      ^ Parodi E, Jewkes S, Cha S, Park JM (12 March 2020). "Special
@@ -3025,7 +3025,7 @@ References
 
      ^ Kompaniyets L, Pennington AF, Goodman AB, Rosenblum HG, Belay B, Ko
    JY, et al. (July 2021). "Underlying Medical Conditions and Severe
-   Illness Among 540,667 Adults Hospitalized With COVID-19, March 2020 -
+   Illness Among 540,667 Adults Hospitalized With COVID-19, March 2020 â
    March 2021". Preventing Chronic Disease. 18 210123. Centers for Disease
    Control and Prevention: E66. doi:10.5888/pcd18.210123. PMC 8269743.
    PMID 34197283.
@@ -3036,17 +3036,17 @@ References
      ^ Bi Q, Wu Y, Mei S, Ye C, Zou X, Zhang Z, et al. (August 2020).
    "Epidemiology and transmission of COVID-19 in 391 cases and 1286 of
    their close contacts in Shenzhen, China: a retrospective cohort study".
-   The Lancet. Infectious Diseases. 20 (8): 911-919.
+   The Lancet. Infectious Diseases. 20 (8): 911â919.
    doi:10.1016/S1473-3099(20)30287-5. PMC 7185944. PMID 32353347.
 
-     ^ Streeck H (9 April 2020). "Vorläufiges Ergebnis und
+     ^ Streeck H (9 April 2020). "VorlÃ¤ufiges Ergebnis und
    Schlussfolgerungen der COVID-19 Case-Cluster-Study (Gemeinde Gangelt)"
-   (PDF). Land NRW - State of North Rhine-Westphalia. Retrieved 13 April
+   (PDF). Land NRW â State of North Rhine-Westphalia. Retrieved 13 April
    2020.
 
      ^ Sutton D, Fuchs K, D'Alton M, Goffman D (May 2020). "Universal
    Screening for SARS-CoV-2 in Women Admitted for Delivery". The New
-   England Journal of Medicine. 382 (22): 2163-2164.
+   England Journal of Medicine. 382 (22): 2163â2164.
    doi:10.1056/NEJMc2009316. PMC 7175422. PMID 32283004.
 
      ^ "Dutch study suggests 3% of population may have coronavirus
@@ -3064,7 +3064,7 @@ References
      ^ Sanche S, Lin YT, Xu C, Romero-Severson E, Hengartner N, Ke R (July
    2020). "High Contagiousness and Rapid Spread of Severe Acute
    Respiratory Syndrome Coronavirus 2". Emerging Infectious Diseases. 26
-   (7): 1470-1477. doi:10.3201/eid2607.200282. PMC 7323562. PMID 32255761.
+   (7): 1470â1477. doi:10.3201/eid2607.200282. PMC 7323562. PMID 32255761.
    S2CID 215410037.
 
      ^ "ArcGIS Dashboards". gisanddata.maps.arcgis.com. Retrieved 22
@@ -3087,7 +3087,7 @@ References
      ^ ^a ^b ^c ^d ^e ^f Msemburi W, Karlinsky A, Knutson V,
    Aleshin-Guendel S, Chatterji S, Wakefield J (January 2023). "The WHO
    estimates of excess mortality associated with the COVID-19 pandemic".
-   Nature. 613 (7942): 130-137. Bibcode:2023Natur.613..130M.
+   Nature. 613 (7942): 130â137. Bibcode:2023Natur.613..130M.
    doi:10.1038/s41586-022-05522-2. PMC 9812776. PMID 36517599.
 
      ^ "Coronavirus Death Toll Climbs in China, and a Lockdown Widens".
@@ -3101,7 +3101,7 @@ References
    2020. Retrieved 18 August 2020.
 
      Barrio PL, del Javier M (11 May 2020). "Portugal and Spain: same
-   peninsula, very different coronavirus impact". El País. Retrieved 25
+   peninsula, very different coronavirus impact". El PaÃ­s. Retrieved 25
    May 2020.
 
      Johnson M (5 April 2020). "Fewer deaths in Veneto offer clues for
@@ -3111,7 +3111,7 @@ References
    know about the risk of dying from COVID-19?". Our World in Data.
    Retrieved 28 March 2020.
 
-     ^ "Principles of Epidemiology | Lesson 3 - Section 3". US Centers for
+     ^ "Principles of Epidemiology | Lesson 3 â Section 3". US Centers for
    Disease Control and Prevention (CDC). 18 February 2019. Retrieved 28
    March 2020.
 
@@ -3133,7 +3133,7 @@ References
      ^ ^a ^b Wang H, Paulson KR, Pease SA, Watson S, Comfort H, Zheng P,
    et al. (April 2022). "Estimating excess mortality due to the COVID-19
    pandemic: a systematic analysis of COVID-19-related mortality,
-   2020-21". Lancet. 399 (10334): 1513-1536.
+   2020â21". Lancet. 399 (10334): 1513â1536.
    doi:10.1016/S0140-6736(21)02796-3. PMC 8912932. PMID 35279232.
    News article about the study: Adam D (March 2022). "COVID's true death
    toll: much higher than official records". Nature. 603 (7902): 562.
@@ -3152,7 +3152,7 @@ References
      ^ "Nearly 15 million excess deaths occurred globally in 2020 and
    2021". New Scientist. Retrieved 17 January 2023.
 
-     ^ "Globale Übersterblichkeit durch COVID-19". sciencemediacenter.de.
+     ^ "Globale Ãbersterblichkeit durch COVID-19". sciencemediacenter.de.
    Retrieved 17 January 2023.
 
      ^ Rothan HA, Byrareddy SN (May 2020). "The epidemiology and
@@ -3172,7 +3172,7 @@ References
    SP, Meyerowitz-Katz G (December 2020). "Assessing the age specificity
    of infection fatality rates for COVID-19: systematic review,
    meta-analysis, and public policy implications". European Journal of
-   Epidemiology. 35 (12): 1123-1138. doi:10.1007/s10654-020-00698-1.
+   Epidemiology. 35 (12): 1123â1138. doi:10.1007/s10654-020-00698-1.
    PMC 7721859. PMID 33289900.
 
      ^ Tate N. "What Changing Death Rates Tell Us About COVID-19". WebMD.
@@ -3188,27 +3188,27 @@ References
      *
 
    Mallapaty S (June 2020). "How deadly is the coronavirus? Scientists are
-   close to an answer". Nature. 582 (7813): 467-468.
+   close to an answer". Nature. 582 (7813): 467â468.
    Bibcode:2020Natur.582..467M. doi:10.1038/d41586-020-01738-2.
    PMID 32546810. S2CID 219726496.
 
      Alwan NA, Burgess RA, Ashworth S, Beale R, Bhadelia N, Bogaert D,
    et al. (October 2020). "Scientific consensus on the COVID-19 pandemic:
-   we need to act now". Lancet. 396 (10260): e71 - e72.
+   we need to act now". Lancet. 396 (10260): e71 â e72.
    doi:10.1016/S0140-6736(20)32153-X. PMC 7557300. PMID 33069277.
 
      Meyerowitz-Katz G, Merone L (December 2020). "A systematic review and
    meta-analysis of published research data on COVID-19 infection fatality
-   rates". International Journal of Infectious Diseases. 101: 138-148.
+   rates". International Journal of Infectious Diseases. 101: 138â148.
    doi:10.1016/j.ijid.2020.09.1464. PMC 7524446. PMID 33007452.
 
      ^ Yang W, Kandula S, Huynh M, Greene SK, Van Wye G, Li W, et al.
    (February 2021). "Estimating the infection-fatality risk of SARS-CoV-2
    in New York City during the spring 2020 pandemic wave: a model-based
-   analysis". The Lancet. Infectious Diseases. 21 (2): 203-212.
+   analysis". The Lancet. Infectious Diseases. 21 (2): 203â212.
    doi:10.1016/S1473-3099(20)30769-6. PMC 7572090. PMID 33091374.
 
-     ^ Pastor-Barriuso R, Pérez-Gómez B, Hernán MA, Pérez-Olmeda M, Yotti
+     ^ Pastor-Barriuso R, PÃ©rez-GÃ³mez B, HernÃ¡n MA, PÃ©rez-Olmeda M, Yotti
    R, Oteo-Iglesias J, et al. (November 2020). "Infection fatality risk
    for SARS-CoV-2 in community dwelling population of Spain: nationwide
    seroepidemiological study". BMJ. 371 m4509. doi:10.1136/bmj.m4509.
@@ -3216,7 +3216,7 @@ References
 
      ^ O'Driscoll M, Ribeiro Dos Santos G, Wang L, Cummings DA, Azman AS,
    Paireau J, et al. (February 2021). "Age-specific mortality and immunity
-   patterns of SARS-CoV-2". Nature. 590 (7844): 140-145.
+   patterns of SARS-CoV-2". Nature. 590 (7844): 140â145.
    Bibcode:2021Natur.590..140O. doi:10.1038/s41586-020-2918-0.
    PMID 33137809. S2CID 226244375.
 
@@ -3236,10 +3236,10 @@ References
 
      ^ Lazzerini M, Putoto G (May 2020). "COVID-19 in Italy: momentous
    decisions and many uncertainties". The Lancet. Global Health. 8 (5):
-   e641 - e642. doi:10.1016/S2214-109X(20)30110-8. PMC 7104294.
+   e641 â e642. doi:10.1016/S2214-109X(20)30110-8. PMC 7104294.
    PMID 32199072.
 
-     ^ "Weekly epidemiological update on COVID-19 - 25 May 2023". who.int.
+     ^ "Weekly epidemiological update on COVID-19 â 25 May 2023". who.int.
    Retrieved 26 May 2023.
 
      ^ ^a ^b "Statement on the update of WHO's working definitions and
@@ -3265,12 +3265,12 @@ References
    doi:10.1371/journal.pone.0234765. PMC 7310678. PMID 32574165.
    S2CID 220046286.
 
-     ^ "COVID-19/csse_covid_19_data/csse_covid_19_time_series at master ·
+     ^ "COVID-19/csse_covid_19_data/csse_covid_19_time_series at master Â·
    CSSEGISandData/COVID-19". GitHub. Retrieved 18 January 2022.
 
      ^ Krishnan A, Hamilton JP, Alqahtani SA, Woreta TA (January 2021).
    "COVID-19: An overview and a clinical update". World Journal of
-   Clinical Cases. 9 (1): 8-23. doi:10.12998/wjcc.v9.i1.8. PMC 7809683.
+   Clinical Cases. 9 (1): 8â23. doi:10.12998/wjcc.v9.i1.8. PMC 7809683.
    PMID 33511168.
 
      ^ Docherty AB, Harrison EM, Green CA, Hardwick HE, Pius R, Norman L,
@@ -3281,7 +3281,7 @@ References
 
      ^ Niazkar HR, Zibaee B, Nasimi A, Bahri N (July 2020). "The
    neurological manifestations of COVID-19: a review article".
-   Neurological Sciences. 41 (7): 1667-1671.
+   Neurological Sciences. 41 (7): 1667â1671.
    doi:10.1007/s10072-020-04486-3. PMC 7262683. PMID 32483687.
 
      ^ ^a ^b Wang CC, Prather KA, Sznitman J, Jimenez JL, Lakdawala SS,
@@ -3291,25 +3291,25 @@ References
 
      ^ Greenhalgh T, Jimenez JL, Prather KA, Tufekci Z, Fisman D, Schooley
    R (May 2021). "Ten scientific reasons in support of airborne
-   transmission of SARS-CoV-2". Lancet. 397 (10285): 1603-1605.
+   transmission of SARS-CoV-2". Lancet. 397 (10285): 1603â1605.
    doi:10.1016/s0140-6736(21)00869-2. PMC 8049599. PMID 33865497.
 
      ^ Bourouiba L (July 2021). "Fluid Dynamics of Respiratory Infectious
-   Diseases". Annual Review of Biomedical Engineering. 23 (1): 547-577.
+   Diseases". Annual Review of Biomedical Engineering. 23 (1): 547â577.
    doi:10.1146/annurev-bioeng-111820-025044. hdl:1721.1/131115.
    PMID 34255991. S2CID 235823756.
 
      ^ Stadnytskyi V, Bax CE, Bax A, Anfinrud P (June 2020). "The airborne
    lifetime of small speech droplets and their potential importance in
    SARS-CoV-2 transmission". Proceedings of the National Academy of
-   Sciences of the United States of America. 117 (22): 11875-11877.
+   Sciences of the United States of America. 117 (22): 11875â11877.
    Bibcode:2020PNAS..11711875S. doi:10.1073/pnas.2006874117. PMC 7275719.
    PMID 32404416.
 
      ^ Miller SL, Nazaroff WW, Jimenez JL, Boerstra A, Buonanno G, Dancer
    SJ, et al. (March 2021). "Transmission of SARS-CoV-2 by inhalation of
    respiratory aerosol in the Skagit Valley Chorale superspreading event".
-   Indoor Air. 31 (2): 314-323. Bibcode:2021InAir..31..314M.
+   Indoor Air. 31 (2): 314â323. Bibcode:2021InAir..31..314M.
    doi:10.1111/ina.12751. PMC 7537089. PMID 32979298.
 
      ^ Fox D (January 2020). "What you need to know about the novel
@@ -3318,12 +3318,12 @@ References
 
      ^ V'kovski P, Kratzel A, Steiner S, Stalder H, Thiel V (March 2021).
    "Coronavirus biology and replication: implications for SARS-CoV-2".
-   Nature Reviews. Microbiology. 19 (3): 155-170.
+   Nature Reviews. Microbiology. 19 (3): 155â170.
    doi:10.1038/s41579-020-00468-6. PMC 7592455. PMID 33116300.
 
      ^ Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. (February
    2020). "A Novel Coronavirus from Patients with Pneumonia in China,
-   2019". The New England Journal of Medicine. 382 (8): 727-733.
+   2019". The New England Journal of Medicine. 382 (8): 727â733.
    doi:10.1056/NEJMoa2001017. PMC 7092803. PMID 31978945.
 
      ^ "2019 Novel Coronavirus (2019-nCoV) Situation Summary". U.S.
@@ -3338,7 +3338,7 @@ References
      ^ Bullard J, Dust K, Funk D, Strong JE, Alexander D, Garnett L,
    et al. (December 2020). "Predicting Infectious Severe Acute Respiratory
    Syndrome Coronavirus 2 From Diagnostic Samples". Clinical Infectious
-   Diseases. 71 (10): 2663-2666. doi:10.1093/cid/ciaa638. PMC 7314198.
+   Diseases. 71 (10): 2663â2666. doi:10.1093/cid/ciaa638. PMC 7314198.
    PMID 32442256.
 
      ^ "Interim Guidelines for Collecting, Handling, and Testing Clinical
@@ -3365,7 +3365,7 @@ References
    2023. Retrieved 27 May 2023.
 
      ^ "Infection prevention and control and preparedness for COVID-19 in
-   healthcare settings - sixth update". ecdc.europa.eu. 9 February 2021.
+   healthcare settings â sixth update". ecdc.europa.eu. 9 February 2021.
    Retrieved 27 May 2023.
 
      ^ "People with symptoms of a respiratory infection including
@@ -3377,7 +3377,7 @@ References
    doi:10.1186/s12929-020-00695-2. PMC 7749790. PMID 33341119.
 
      ^ Subbarao K (July 2021). "The success of SARS-CoV-2 vaccines and
-   challenges ahead". Cell Host & Microbe. 29 (7): 1111-1123.
+   challenges ahead". Cell Host & Microbe. 29 (7): 1111â1123.
    doi:10.1016/j.chom.2021.06.016. PMC 8279572. PMID 34265245.
 
      ^ Vergano D (5 June 2021). "COVID-19 Vaccines Work Way Better Than We
@@ -3386,7 +3386,7 @@ References
 
      ^ Mallapaty S, Callaway E, Kozlov M, Ledford H, Pickrell J, Van
    Noorden R (December 2021). "How COVID vaccines shaped 2021 in eight
-   powerful charts". Nature. 600 (7890): 580-583.
+   powerful charts". Nature. 600 (7890): 580â583.
    Bibcode:2021Natur.600..580M. doi:10.1038/d41586-021-03686-x.
    PMID 34916666. S2CID 245262732.
 
@@ -3401,7 +3401,7 @@ References
      ^ Watson OJ, Barnsley G, Toor J, Hogan AB, Winskill P, Ghani AC (June
    2022). "Global impact of the first year of COVID-19 vaccination: a
    mathematical modelling study". The Lancet Infectious Diseases. 22 (9):
-   1293-1302. doi:10.1016/s1473-3099(22)00320-6. PMC 9225255.
+   1293â1302. doi:10.1016/s1473-3099(22)00320-6. PMC 9225255.
    PMID 35753318.
 
      ^ "COVID-19 vaccines saved nearly 20 million lives in a year, study
@@ -3410,7 +3410,7 @@ References
 
      ^ Hammershaimb EA, Tapia MD (31 December 2023). "Can protein vaccines
    for COVID-19 win over the vaccine-hesitant?". Expert Review of
-   Vaccines. 22 (1): 210-212. doi:10.1080/14760584.2023.2182293.
+   Vaccines. 22 (1): 210â212. doi:10.1080/14760584.2023.2182293.
    ISSN 1476-0584. PMID 36803364. S2CID 257069394. Retrieved 27 May 2023.
 
      ^ Parums DV (1 March 2022). "Editorial: First Approval of the
@@ -3453,12 +3453,12 @@ References
    Wang Y, Wang Y, Chen Y, Qin Q (June 2020). "Unique epidemiological and
    clinical features of the emerging 2019 novel coronavirus pneumonia
    (COVID-19) implicate special control measures". Journal of Medical
-   Virology. 92 (6): 568-576. doi:10.1002/jmv.25748. PMC 7228347.
+   Virology. 92 (6): 568â576. doi:10.1002/jmv.25748. PMC 7228347.
    PMID 32134116.
 
      Martel J, Ko YF, Young JD, Ojcius DM (May 2020). "Could nasal nitric
    oxide help to mitigate the severity of COVID-19?". Microbes and
-   Infection. 22 (4-5): 168-171. doi:10.1016/j.micinf.2020.05.002.
+   Infection. 22 (4â5): 168â171. doi:10.1016/j.micinf.2020.05.002.
    PMC 7200356. PMID 32387333.
 
      "Coronavirus recovery: breathing exercises". hopkinsmedicine.org.
@@ -3479,7 +3479,7 @@ References
      Liu K, Fang YY, Deng Y, Liu W, Wang MF, Ma JP, et al. (May 2020).
    "Clinical characteristics of novel coronavirus cases in tertiary
    hospitals in Hubei Province". Chinese Medical Journal. 133 (9):
-   1025-1031. doi:10.1097/CM9.0000000000000744. PMC 7147277.
+   1025â1031. doi:10.1097/CM9.0000000000000744. PMC 7147277.
    PMID 32044814.
 
      Wang T, Du Z, Zhu F, Cao Z, An Y, Gao Y, et al. (March 2020).
@@ -3505,7 +3505,7 @@ References
      ^ Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, et al. (April 2020).
    "Clinical Characteristics of Coronavirus Disease 2019 in China". The
    New England Journal of Medicine. 382 (18). Massachusetts Medical
-   Society: 1708-1720. doi:10.1056/nejmoa2002032. PMC 7092819.
+   Society: 1708â1720. doi:10.1056/nejmoa2002032. PMC 7092819.
    PMID 32109013.
 
      ^ Henry BM (April 2020). "COVID-19, ECMO, and lymphopenia: a word of
@@ -3514,7 +3514,7 @@ References
 
      ^ Kim PS, Read SW, Fauci AS (December 2020). "Therapy for Early
    COVID-19: A Critical Need". JAMA. 324 (21). American Medical
-   Association (AMA): 2149-2150. doi:10.1001/jama.2020.22813.
+   Association (AMA): 2149â2150. doi:10.1001/jama.2020.22813.
    PMID 33175121. S2CID 226301949.
 
      ^ "COVID-19 Treatment Guidelines". nih.gov. National Institutes of
@@ -3531,16 +3531,16 @@ References
    Polekhina NV, Baranovskaia DR, et al. (January 2021). "Prolonged
    prothrombin time as an early prognostic indicator of severe acute
    respiratory distress syndrome in patients with COVID-19 related
-   pneumonia". Current Medical Research and Opinion. 37 (1): 21-25.
+   pneumonia". Current Medical Research and Opinion. 37 (1): 21â25.
    doi:10.1080/03007995.2020.1853510. PMC 7738209. PMID 33210948.
 
      ^ Christensen B, Favaloro EJ, Lippi G, Van Cott EM (October 2020).
    "Hematology Laboratory Abnormalities in Patients with Coronavirus
    Disease 2019 (COVID-19)". Seminars in Thrombosis and Hemostasis. 46
-   (7): 845-849. doi:10.1055/s-0040-1715458. PMC 7645834. PMID 32877961.
+   (7): 845â849. doi:10.1055/s-0040-1715458. PMC 7645834. PMID 32877961.
 
      ^ Ledford H (June 2022). "How common is long COVID? Why studies give
-   different answers". Nature. 606 (7916): 852-853.
+   different answers". Nature. 606 (7916): 852â853.
    Bibcode:2022Natur.606..852L. doi:10.1038/d41586-022-01702-2.
    PMID 35725828. S2CID 249887289. Archived from the original on 8 October
    2022. Retrieved 13 August 2022.
@@ -3558,7 +3558,7 @@ References
 
      ^ Leviner S (7 May 2021). "Recognizing the Clinical Sequelae of
    COVID-19 in Adults: COVID-19 Long-Haulers". The Journal for Nurse
-   Practitioners. 17 (8): 946-949. doi:10.1016/j.nurpra.2021.05.003.
+   Practitioners. 17 (8): 946â949. doi:10.1016/j.nurpra.2021.05.003.
    ISSN 1555-4155. PMC 8103144. PMID 33976591.
 
      ^ "Nearly half of people infected with COVID-19 experienced some
@@ -3568,15 +3568,15 @@ References
      ^ Chen C, Haupert SR, Zimmermann L, Shi X, Fritsche LG, Mukherjee B
    (16 April 2022). "Global Prevalence of Post COVID-19 Condition or Long
    COVID: A Meta-Analysis and Systematic Review". The Journal of
-   Infectious Diseases. 226 (9): 1593-1607. doi:10.1093/infdis/jiac136.
+   Infectious Diseases. 226 (9): 1593â1607. doi:10.1093/infdis/jiac136.
    PMC 9047189. PMID 35429399.
 
      ^ ^a ^b ^c Anderson RM, Heesterbeek H, Klinkenberg D, Hollingsworth
    TD (March 2020). "How will country-based mitigation measures influence
-   the course of the COVID-19 epidemic?". Lancet. 395 (10228): 931-934.
+   the course of the COVID-19 epidemic?". Lancet. 395 (10228): 931â934.
    doi:10.1016/S0140-6736(20)30567-5. PMC 7158572. PMID 32164834. "A key
    issue for epidemiologists is helping policy makers decide the main
-   objectives of mitigation--e.g. minimising morbidity and associated
+   objectives of mitigationâe.g. minimising morbidity and associated
    mortality, avoiding an epidemic peak that overwhelms health-care
    services, keeping the effects on the economy within manageable levels,
    and flattening the epidemic curve to wait for vaccine development and
@@ -3584,18 +3584,18 @@ References
 
      ^ Qualls N, Levitt A, Kanade N, Wright-Jegede N, Dopson S,
    Biggerstaff M, et al. (April 2017). "Community Mitigation Guidelines to
-   Prevent Pandemic Influenza - United States, 2017". MMWR.
-   Recommendations and Reports. 66 (1): 1-34. doi:10.15585/mmwr.rr6601a1.
+   Prevent Pandemic Influenza â United States, 2017". MMWR.
+   Recommendations and Reports. 66 (1): 1â34. doi:10.15585/mmwr.rr6601a1.
    PMC 5837128. PMID 28426646.
 
      ^ Barclay E, Scott D, Animashaun A (7 April 2020). "The US doesn't
    just need to flatten the curve. It needs to "raise the line."". Vox.
    Archived from the original on 7 April 2020.
 
-     ^ ^a ^b Anna Llupià, Rodríguez-Giralt, Anna Fité, Lola Álamo, Laura
+     ^ ^a ^b Anna LlupiÃ , RodrÃ­guez-Giralt, Anna FitÃ©, Lola Ãlamo, Laura
    de la Torre, Ana Redondo, Mar Callau and Caterina Guinovart (2020) What
    Is a Zero-COVID Strategy, Archived 3 January 2022 at the Wayback
-   Machine, Barcelona Institute for Global Health - COVID-19 & response
+   Machine, Barcelona Institute for Global Health â COVID-19 & response
    strategy. "The strategy of control and maximum suppression (zero-COVID)
    has been implemented successfully in a number of countries. The
    objective of this strategy is to keep transmission of the virus as
@@ -3607,8 +3607,8 @@ References
    contacts. This approach is also known as "Find, Test, Trace, Isolate
    and Support" (FTTIS)"
 
-     ^ Livermore D (28 March 2021). "'Zero Covid' - an impossible dream".
-   HART - Health Advisory & Recovery Team. Archived from the original on 2
+     ^ Livermore D (28 March 2021). "'Zero Covid' â an impossible dream".
+   HART â Health Advisory & Recovery Team. Archived from the original on 2
    January 2022. Retrieved 2 January 2022.
 
      ^ Bhopal RS (September 2020). "To achieve "zero covid" we need to
@@ -3616,8 +3616,8 @@ References
    immunity" (PDF). BMJ. 370 m3487. doi:10.1136/bmj.m3487.
    eISSN 1756-1833. PMID 32907816. S2CID 221538577.
 
-     ^ Phillips N (February 2021). "The coronavirus is here to stay -
-   here's what that means". Nature. 590 (7846): 382-384.
+     ^ Phillips N (February 2021). "The coronavirus is here to stay â
+   here's what that means". Nature. 590 (7846): 382â384.
    Bibcode:2021Natur.590..382P. doi:10.1038/d41586-021-00396-2.
    PMID 33594289. S2CID 231945680.
 
@@ -3625,7 +3625,7 @@ References
 
      ^ Li Z, Chen Q, Feng L, Rodewald L, Xia Y, Yu H, et al. (July 2020).
    "Active case finding with case management: the key to tackling the
-   COVID-19 pandemic". Lancet. 396 (10243): 63-70.
+   COVID-19 pandemic". Lancet. 396 (10243): 63â70.
    doi:10.1016/S0140-6736(20)31278-2. PMC 7272157. PMID 32505220.
 
      ^ "Impact of non-pharmaceutical interventions (NPIs) to reduce
@@ -3636,7 +3636,7 @@ References
    Income, Education and Better Health". Census.gov. Retrieved 25 December
    2021.
 
-     ^ "Community Mitigation Guidelines to Prevent Pandemic Influenza -
+     ^ "Community Mitigation Guidelines to Prevent Pandemic Influenza â
    United States, 2017". Recommendations and Reports. 66 (1). 12 April
    2017.
 
@@ -3688,7 +3688,7 @@ References
    Smith AC, Thomas E, Snoswell CL, Haydon H, Mehrotra A, Clemensen J,
    et al. (June 2020). "Telehealth for global emergencies: Implications
    for coronavirus disease 2019 (COVID-19)". Journal of Telemedicine and
-   Telecare. 26 (5): 309-313. doi:10.1177/1357633x20916567. PMC 7140977.
+   Telecare. 26 (5): 309â313. doi:10.1177/1357633x20916567. PMC 7140977.
    PMID 32196391.
 
      Ohannessian R, Duong TA, Odone A (April 2020). "Global Telemedicine
@@ -3700,7 +3700,7 @@ References
      Keshvardoost S, Bahaadinbeigy K, Fatehi F (July 2020). "Role of
    Telehealth in the Management of COVID-19: Lessons Learned from Previous
    SARS, MERS, and Ebola Outbreaks". Telemedicine Journal and e-Health. 26
-   (7): 850-852. doi:10.1089/tmj.2020.0105. PMID 32329659.
+   (7): 850â852. doi:10.1089/tmj.2020.0105. PMID 32329659.
    S2CID 216111135.
 
      ^ Temple J. "How 3D printing could save lives in the coronavirus
@@ -3726,7 +3726,7 @@ References
      ^ Cavalcanti G, Cocciole C, Cole C, Forgues A, Jaqua V, Jones-Davis
    D, et al. (2021). Design, Make, Protect: A report on the Open Source
    Maker and Manufacturer Response to the COVID-19 PPE Crisis (PDF). Open
-   Source Medical Supplies & Nation of Makers. pp. 18-22. Retrieved 17
+   Source Medical Supplies & Nation of Makers. pp. 18â22. Retrieved 17
    June 2021.
 
      ^ Dyer O (August 2021). "Covid-19: Delta infections threaten herd
@@ -3740,22 +3740,22 @@ References
    back to November 17". South China Morning Post. Archived from the
    original on 13 March 2020.
 
-     ^ Lu Z(. ©¥«¹,·°·º. ­½°» (in Chinese (China)). Beijing. Archived from
-   the original on 2 March 2020. Retrieved 11 February 2020.
+     ^ Lu Z(. ææ©ä¸æ¥ç«æçå¥¹ï¼ææ ·åç°è¿ç§ä¸ä¸æ ·çèºç. ä¸­å½ç½æ°é» (in Chinese (China)). Beijing.
+   Archived from the original on 2 March 2020. Retrieved 11 February 2020.
 
      ^ "China delayed releasing coronavirus info, frustrating WHO".
    Associated Press. 2 June 2020. Archived from the original on 25 October
    2021. Retrieved 26 October 2021.
 
-     ^ Gao Y( (26 February 2020). ¬¶ | ° º ¯:¦¥¯¶ [Exclusive | Tracing the
-   New Coronavirus gene sequencing: when did the alarm sound]. Caixin (in
-   Chinese). Archived from the original on 27 February 2020. Retrieved 1
-   March 2020.
+     ^ Gao Y( (26 February 2020). ç¬å®¶ | æ°å çæ¯åºå æµåºæº¯æºï¼è­¦æ¥æ¯ä½æ¶æåç [Exclusive |
+   Tracing the New Coronavirus gene sequencing: when did the alarm sound].
+   Caixin (in Chinese). Archived from the original on 27 February 2020.
+   Retrieved 1 March 2020.
 
      ^ "'Hero who told the truth': Chinese rage over coronavirus death of
    whistleblower doctor". The Guardian. 7 February 2020.
 
-     ^ "Undiagnosed pneumonia - China (HU): RFI". Promed-Mail. ProMED. 30
+     ^ "Undiagnosed pneumonia â China (HU): RFI". Promed-Mail. ProMED. 30
    December 2019. Retrieved 7 May 2020.
 
      ^ ^a ^b "Novel Coronavirus". World Health Organization (WHO).
@@ -3765,9 +3765,9 @@ References
    (WHO). 18 May 2020. Archived from the original on 23 May 2020.
    Retrieved 6 July 2020.
 
-     ^ ¦«¥³º«µ¥. WJW.Wuhan.gov.cn (in Chinese). Wuhan Municipal Health
-   Commission. 31 December 2019. Archived from the original on 9 January
-   2020. Retrieved 8 February 2020.
+     ^ æ­¦æ±å¸å«å¥å§å³äºå½åæå¸èºçç«æçæåµéæ¥. WJW.Wuhan.gov.cn (in Chinese). Wuhan
+   Municipal Health Commission. 31 December 2019. Archived from the
+   original on 9 January 2020. Retrieved 8 February 2020.
 
      ^ ^a ^b "Mystery pneumonia virus probed in China". BBC News. 3
    January 2020. Archived from the original on 5 January 2020. Retrieved
@@ -3775,7 +3775,7 @@ References
 
      ^ "[The epidemiological characteristics of an outbreak of 2019 novel
    coronavirus diseases (COVID-19) in China]". Zhonghua Liu Xing Bing Xue
-   Za Zhi = Zhonghua Liuxingbingxue Zazhi (in Chinese). 41 (2): 145-151.
+   Za Zhi = Zhonghua Liuxingbingxue Zazhi (in Chinese). 41 (2): 145â151.
    February 2020. doi:10.3760/cma.j.issn.0254-6450.2020.02.003.
    PMID 32064853. S2CID 211133882.
 
@@ -3785,35 +3785,35 @@ References
      ^ Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et al. (March 2020).
    "Early Transmission Dynamics in Wuhan, China, of Novel
    Coronavirus-Infected Pneumonia". The New England Journal of Medicine.
-   382 (13): 1199-1207. doi:10.1056/NEJMoa2001316. PMC 7121484.
+   382 (13): 1199â1207. doi:10.1056/NEJMoa2001316. PMC 7121484.
    PMID 31995857.
 
-     ^ WHO-China Joint Mission (24 February 2020). "Report of the
+     ^ WHOâChina Joint Mission (24 February 2020). "Report of the
    WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)" (PDF).
    World Health Organization (WHO). Retrieved 8 March 2020.
 
      ^ Enserink M (29 March 2023). "Dispute simmers over who first shared
-   SARS-CoV-2's genome". Science. Vol. 380, no. 6640. pp. 16-17.
+   SARS-CoV-2's genome". Science. Vol. 380, no. 6640. pp. 16â17.
    Bibcode:2023Sci...380...16E. doi:10.1126/science.adi1218.
    PMID 37023187. Archived from the original on 30 March 2023. Retrieved
    20 May 2023.
 
      ^ The Novel Coronavirus Pneumonia Emergency Response Epidemiology
    Team (17 February 2020). "The Epidemiological Characteristics of an
-   Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) - China, 2020".
-   China CDC Weekly. 2 (8): 113-122. doi:10.46234/ccdcw2020.032.
+   Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) â China, 2020".
+   China CDC Weekly. 2 (8): 113â122. doi:10.46234/ccdcw2020.032.
    PMC 8392929. PMID 34594836. Retrieved 18 March 2020.
 
      ^ Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. (February 2020).
    "Clinical features of patients infected with 2019 novel coronavirus in
-   Wuhan, China". Lancet. 395 (10223): 497-506.
+   Wuhan, China". Lancet. 395 (10223): 497â506.
    doi:10.1016/S0140-6736(20)30183-5. PMC 7159299. PMID 31986264.
 
      ^ Horton R (18 March 2020). "Scientists have been sounding the alarm
    on coronavirus for months. Why did Britain fail to act?". The Guardian.
    Retrieved 23 April 2020.
 
-     ^ "Novel Coronavirus(2019-nCoV): Situation Report - 10" (PDF). World
+     ^ "Novel Coronavirus(2019-nCoV): Situation Report â 10" (PDF). World
    Health Organization (WHO). 30 January 2020. Retrieved 14 October 2020.
 
      ^ "Statement on the second meeting of the International Health
@@ -3824,13 +3824,13 @@ References
 
      ^ Durrheim DN, Gostin LO, Moodley K (August 2020). "When does a major
    outbreak become a Public Health Emergency of International Concern?".
-   The Lancet Infectious Diseases. 20 (8): 887-889.
+   The Lancet Infectious Diseases. 20 (8): 887â889.
    doi:10.1016/S1473-3099(20)30401-1. PMC 7237181. PMID 32442526.
 
      ^ Wu JT, Leung K, Leung GM (February 2020). "Nowcasting and
    forecasting the potential domestic and international spread of the
    2019-nCoV outbreak originating in Wuhan, China: a modelling study".
-   Lancet. 395 (10225): 689-697. doi:10.1016/S0140-6736(20)30260-9.
+   Lancet. 395 (10225): 689â697. doi:10.1016/S0140-6736(20)30260-9.
    PMC 7159271. PMID 32014114.
 
      ^ ^a ^b Severgnini C (30 January 2020). "Coronavirus, primi due casi
@@ -3860,7 +3860,7 @@ References
      ^ Bean A (22 April 2020). "2 died with coronavirus weeks before 1st
    U.S. virus death". PBS NewsHour. Retrieved 29 May 2023.
 
-     ^ "One in 10 worldwide may have had Covid - WHO". BBC. 5 October
+     ^ "One in 10 worldwide may have had Covid â WHO". BBC. 5 October
    2020. Retrieved 14 October 2020.
 
      ^ Boseley S, Olterman P (9 November 2020). "Covid-19 vaccine
@@ -3914,7 +3914,7 @@ References
    March 2021.
 
      ^ Callaway E (July 2021). "Delta coronavirus variant: scientists
-   brace for impact". Nature. 595 (7865): 17-18.
+   brace for impact". Nature. 595 (7865): 17â18.
    Bibcode:2021Natur.595...17C. doi:10.1038/d41586-021-01696-3.
    PMID 34158664. S2CID 235609029.
 
@@ -3926,7 +3926,7 @@ References
    2021.
 
      ^ Karim SS, Karim QA (December 2021). "Omicron SARS-CoV-2 variant: a
-   new chapter in the COVID-19 pandemic". Lancet. 398 (10317): 2126-2128.
+   new chapter in the COVID-19 pandemic". Lancet. 398 (10317): 2126â2128.
    doi:10.1016/S0140-6736(21)02758-6. PMC 8640673. PMID 34871545.
 
      ^ "Europe Tops 100 Million Coronavirus Cases in Pandemic". VOA.
@@ -3948,7 +3948,7 @@ References
    2022.
 
      ^ Mishra M (14 September 2022). "End of COVID pandemic is 'in sight'
-   - WHO chief". Reuters.
+   â WHO chief". Reuters.
 
      ^ "WHO says 'end is in sight' for the Covid pandemic as global deaths
    hit lowest since March 2020". NBC News. 14 September 2022.
@@ -3956,7 +3956,7 @@ References
      ^ "The end of the pandemic is in sight, WHO director-general says,
    'so let's seize this opportunity'". CNN. 14 September 2022.
 
-     ^ "Coronavirus Morning News Brief - Oct. 21: More Americans Are
+     ^ "Coronavirus Morning News Brief â Oct. 21: More Americans Are
    Getting the Updated Vaccine, BA.5 Continues Dominance in U.S." Frequent
    Business Traveller. Retrieved 21 October 2022.
 
@@ -3988,7 +3988,7 @@ References
      ^ "WHO Europe: no immediate COVID-19 threat from China". AP NEWS. 10
    January 2023. Retrieved 31 May 2023.
 
-     ^ Tétrault-Farber G, Rigby J, Farge E (16 January 2023). "WHO
+     ^ TÃ©trault-Farber G, Rigby J, Farge E (16 January 2023). "WHO
    recommends that China monitor excess COVID-19 mortality". Reuters.
    Retrieved 31 May 2023.
 
@@ -4034,7 +4034,7 @@ References
      ^ "Coronavirus: Half of humanity now on lockdown as 90 countries call
    for confinement". Euronews. 3 April 2020.
 
-     ^ "A third of the global population is on coronavirus lockdown -
+     ^ "A third of the global population is on coronavirus lockdown â
    here's our constantly updated list of countries and restrictions".
    Business Insider. 28 March 2020.
 
@@ -4049,7 +4049,7 @@ References
    original on 9 December 2021. Retrieved 9 December 2021.
 
      ^ ^a ^b Burki T (November 2020). "China's successful control of
-   COVID-19". The Lancet. Infectious Diseases. 20 (11): 1240-1241.
+   COVID-19". The Lancet. Infectious Diseases. 20 (11): 1240â1241.
    doi:10.1016/S1473-3099(20)30800-8. PMC 7544475. PMID 33038941.
 
      ^ Multiple sources:
@@ -4136,7 +4136,7 @@ References
      ^ "India Has Hit The 100-crore Vaccination Mark". Moneycontrol. 21
    October 2021. Retrieved 28 December 2021.
 
-     ^ "Realizan jornada de limpieza en vagones del Metro de Panamá" (in
+     ^ "Realizan jornada de limpieza en vagones del Metro de PanamÃ¡" (in
    Spanish). Tvn-2.com. 12 March 2020. Retrieved 23 April 2020.
 
      ^ "Coronavirus Arrives in Iran: Two People Test Positive in Qom".
@@ -4190,7 +4190,7 @@ References
    coronavirus curve". NBC News. Retrieved 31 March 2020.
 
      ^ Kuhn A (13 March 2020). "South Korea's Drive-Through Testing For
-   Coronavirus Is Fast - And Free". NPR. Retrieved 16 March 2020.
+   Coronavirus Is Fast â And Free". NPR. Retrieved 16 March 2020.
 
      ^ "South Korea reports lowest number of new cases". BBC News Online.
    23 March 2020. Retrieved 23 March 2020.
@@ -4201,17 +4201,17 @@ References
      ^ Kasulis K (19 March 2020). "South Korea's coronavirus lessons:
    Quick, easy tests; monitoring". Al Jazeera.
 
-     ^ 'K©­ ¹¬' ´ , KT ¡  2 °¬ 60µ ¬. ¼´ (in Korean). 17 May 2020.
-   Retrieved 17 May 2020.
+     ^ 'Kë°©ì­ ê·¹ì°¬' ë¹ ê²ì´ì¸ , KT ìì¡ê³  ì 2 ì½ë¡ë ë§ì ì°êµ¬ì 60ìµ í¬ì. ì¤ìì¼ë³´ (in Korean). 17
+   May 2020. Retrieved 17 May 2020.
 
      ^ Government of Montenegro [@MeGovernment] (17 March 2020). "PM
    @DuskoMarkovicCG: #Montenegro confirmes first two #COVID19 cases
    #CoronaInfoCG https://t.co/Jxkrm4AMwK" (Tweet). Archived from the
-   original on 12 May 2022. Retrieved 8 December 2022 - via Twitter.
+   original on 12 May 2022. Retrieved 8 December 2022 â via Twitter.
 
      ^ Saglietto A, D'Ascenzo F, Zoccai GB, De Ferrari GM (April 2020).
    "COVID-19 in Europe: the Italian lesson". Lancet. 395 (10230):
-   1110-1111. doi:10.1016/S0140-6736(20)30690-5. PMC 7118630.
+   1110â1111. doi:10.1016/S0140-6736(20)30690-5. PMC 7118630.
    PMID 32220279.
 
      ^ Nebehay S (13 March 2020). "Europe is epicenter of coronavirus
@@ -4246,7 +4246,7 @@ References
      ^ "Italy coronavirus death toll overtakes China". The Independent. 19
    March 2020.
 
-     ^ "Coronavirus: sono 33.190 i positivi - Comunicato Stampa".
+     ^ "Coronavirus: sono 33.190 i positivi â Comunicato Stampa".
    Dipartimento della Protezione Civile. Archived from the original on 27
    May 2021. Retrieved 7 April 2023.
 
@@ -4263,11 +4263,11 @@ References
    Deutsche Welle. 23 November 2020. Retrieved 25 November 2020.
 
      ^ Linde P (31 January 2020). "Sanidad confirma en La Gomera el primer
-   caso de coronavirus en España". El País (in Spanish). Archived from the
+   caso de coronavirus en EspaÃ±a". El PaÃ­s (in Spanish). Archived from the
    original on 31 January 2020. Retrieved 31 January 2020.
 
-     ^ Ansede M (22 April 2020). "El análisis genético sugiere que el
-   coronavirus ya circulaba por España a mediados de febrero". El País (in
+     ^ Ansede M (22 April 2020). "El anÃ¡lisis genÃ©tico sugiere que el
+   coronavirus ya circulaba por EspaÃ±a a mediados de febrero". El PaÃ­s (in
    Spanish). Retrieved 23 April 2020.
 
      ^ "Spain poised to tighten coronavirus lockdown after record daily
@@ -4276,7 +4276,7 @@ References
      ^ "Coronavirus: Spain drives fears of European 'second wave'". BBC.
    25 July 2020.
 
-     ^ "Spain's Basque region admits to second wave of Covid-19". El País.
+     ^ "Spain's Basque region admits to second wave of Covid-19". El PaÃ­s.
    6 August 2020.
 
      ^ Badcock J (14 August 2020). "Spain shuts down nightlife amid fears
@@ -4286,7 +4286,7 @@ References
      ^ "Spain won't declare another national state of alarm, allows
    regions to lockdown if necessary". Euroactiv. 26 August 2020.
 
-     ^ ^a ^b Ritchie H, Mathieu E, Rodés-Guirao L, Appel C, Giattino C,
+     ^ ^a ^b Ritchie H, Mathieu E, RodÃ©s-Guirao L, Appel C, Giattino C,
    Ortiz-Ospina E, et al. (5 March 2020). "Coronavirus Pandemic
    (COVID-19)". Our World in Data.
 
@@ -4296,11 +4296,11 @@ References
      ^ Milne R (8 May 2020). "Architect of Sweden's no-lockdown strategy
    insists it will pay off". Financial Times. Retrieved 16 August 2020.
 
-     ^ "Sverige diskuterar inte exitstrategier: "Vår strategi är hållbar,
-   vi kan ligga kvar med den en väldigt lång tid"". svenska.yle.fi (in
+     ^ "Sverige diskuterar inte exitstrategier: "VÃ¥r strategi Ã¤r hÃ¥llbar,
+   vi kan ligga kvar med den en vÃ¤ldigt lÃ¥ng tid"". svenska.yle.fi (in
    Swedish). 22 April 2020. Retrieved 16 August 2020.
 
-     ^ "Inte längre någon överdödlighet i Sverige". Dagens Medicin (in
+     ^ "Inte lÃ¤ngre nÃ¥gon Ã¶verdÃ¶dlighet i Sverige". Dagens Medicin (in
    Swedish). Retrieved 16 August 2020.
 
      ^ "Ignore the squabbling Devolution has become less dysfunctional
@@ -4374,7 +4374,7 @@ References
    Administration (FDA) (Press release). 23 August 2021. Retrieved 16
    October 2021.
 
-     ^ "COVID variants BQ.1/BQ.1.1 make up nearly half of U.S. cases -
+     ^ "COVID variants BQ.1/BQ.1.1 make up nearly half of U.S. cases â
    CDC". Reuters. 18 November 2022. Retrieved 19 November 2022.
 
      ^ Schnirring L (14 October 2022). "US COVID levels decline as new
@@ -4415,33 +4415,33 @@ References
    Photos show what it's like in the world's latest coronavirus hotspot".
    Business Insider. Retrieved 31 May 2023.
 
-     ^ "Brasil confirma primeiro caso da doença". Ministry of Health
+     ^ "Brasil confirma primeiro caso da doenÃ§a". Ministry of Health
    (Brazil). 26 February 2020. Archived from the original on 6 March 2020.
    Retrieved 4 March 2020.
 
-     ^ Oliveira E, Ortiz B (26 February 2020). "Ministério da Saúde
-   confirma primeiro caso de coronavírus no Brasil". G1 (in Brazilian
+     ^ Oliveira E, Ortiz B (26 February 2020). "MinistÃ©rio da SaÃºde
+   confirma primeiro caso de coronavÃ­rus no Brasil". G1 (in Brazilian
    Portuguese). Retrieved 31 May 2023.
 
      ^ Charner F (19 June 2020). "Brazil tops 1 million Covid-19 cases. It
    may pass the US next, becoming the worst-hit country on the planet".
    CNN. Retrieved 19 June 2020.
 
-     ^ "Painel Coronavírus". Retrieved 12 June 2020.
+     ^ "Painel CoronavÃ­rus". Retrieved 12 June 2020.
 
      ^ Kupek E (September 2021). "How many more? Under-reporting of the
    COVID-19 deaths in Brazil in 2020". Tropical Medicine & International
-   Health. 26 (9): 1019-1028. doi:10.1111/tmi.13628. PMC 8242696.
+   Health. 26 (9): 1019â1028. doi:10.1111/tmi.13628. PMC 8242696.
    PMID 34008266.
 
      ^ Ibrahim NK (November 2020). "Epidemiologic surveillance for
    controlling Covid-19 pandemic: types, challenges and implications".
-   Journal of Infection and Public Health. 13 (11): 1630-1638.
+   Journal of Infection and Public Health. 13 (11): 1630â1638.
    doi:10.1016/j.jiph.2020.07.019. PMC 7441991. PMID 32855090.
 
      ^ Santos AM, Souza BF, Carvalho CA, Campos MA, Oliveira BL, Diniz EM,
    et al. (2021). "Excess deaths from all causes and by COVID-19 in Brazil
-   in 2020". Revista de Saúde Pública. 55: 71.
+   in 2020". Revista de SaÃºde PÃºblica. 55: 71.
    doi:10.11606/s1518-8787.2021055004137. PMC 8522736. PMID 34730751.
 
      ^ "Brazil "falls" to third place among covid-19 affected countries
@@ -4592,7 +4592,7 @@ References
 
      ^ Charbonneau B (March 2021). "The COVID-19 test of the United
    Nations Security Council". International Journal: Canada's Journal of
-   Global Policy Analysis. 76 (1): 6-16. doi:10.1177/0020702020986897.
+   Global Policy Analysis. 76 (1): 6â16. doi:10.1177/0020702020986897.
    ISSN 0020-7020. S2CID 233202171. Retrieved 5 June 2023.
 
      ^ Gladstone R (2 April 2020). "U.N. Security Council 'Missing In
@@ -4610,7 +4610,7 @@ References
      ^ "170 signatories endorse UN ceasefire appeal during COVID crisis".
    UN News. 24 June 2020. Retrieved 1 August 2020.
 
-     ^ "S/RES/2532(2020) - E - S/RES/2532(2020)". undocs.org. Retrieved 1
+     ^ "S/RES/2532(2020) â E â S/RES/2532(2020)". undocs.org. Retrieved 1
    August 2020.
 
      ^ "Stalled Security Council resolution adopted, backing UN's global
@@ -4629,7 +4629,7 @@ References
 
      ^ ^a ^b Kakaei H, Nourmoradi H, Bakhtiyari S, Jalilian M, Mirzaei A
    (2022). "Effect of COVID-19 on food security, hunger, and food crisis".
-   COVID-19 and the Sustainable Development Goals. Elsevier. pp. 3-29.
+   COVID-19 and the Sustainable Development Goals. Elsevier. pp. 3â29.
    doi:10.1016/B978-0-323-91307-2.00005-5. ISBN 978-0-323-91307-2.
    PMC 9335023.
 
@@ -4653,12 +4653,12 @@ References
      ^ Chinazzi M, Davis JT, Ajelli M, Gioannini C, Litvinova M, Merler S,
    et al. (April 2020). "The effect of travel restrictions on the spread
    of the 2019 novel coronavirus (COVID-19) outbreak". Science. 368
-   (6489): 395-400. Bibcode:2020Sci...368..395C.
+   (6489): 395â400. Bibcode:2020Sci...368..395C.
    doi:10.1126/science.aba9757. PMC 7164386. PMID 32144116.
 
      ^ Kim KE (April 2023). "Ten Takeaways from the COVID-19 Pandemic for
    Transportation Planners". Transportation Research Record. 2677 (4):
-   517-530. doi:10.1177/03611981221090515. ISSN 0361-1981. PMC 10149348.
+   517â530. doi:10.1177/03611981221090515. ISSN 0361-1981. PMC 10149348.
    PMID 37153166.
 
      ^ "COVID-19: Study shows that travel restrictions are most useful in
@@ -4672,13 +4672,13 @@ References
    EURACTIV. 13 March 2020.
 
      ^ "Countries Evaluate Evacuation of Citizens Amid Wuhan Coronavirus
-   Panic". Associated Press. Retrieved 31 January 2020 - via The Diplomat.
+   Panic". Associated Press. Retrieved 31 January 2020 â via The Diplomat.
      *
 
    "Coronavirus: Second plane carrying 323 Indians from Wuhan to reach
    Delhi today". India Today. February 2020. Retrieved 2 February 2020.
 
-     "België haalt landgenoten terug uit Chinese provincie Hubei na
+     "BelgiÃ« haalt landgenoten terug uit Chinese provincie Hubei na
    uitbraak coronavirus". VRT Nws. Vlaamse Radio- en
    Televisieomroeporganisatie. 27 January 2020.
 
@@ -4698,8 +4698,8 @@ References
    China". Tempo: News in a Flash. Manila, Philippines. 29 January 2020.
    Retrieved 29 January 2020.
 
-     ^ "Aviões decolam de Wuhan, na China, com 40 passageiros repatriados
-   ao Brasil e à Polônia". G1 (in Portuguese). 7 February 2020. Retrieved
+     ^ "AviÃµes decolam de Wuhan, na China, com 40 passageiros repatriados
+   ao Brasil e Ã  PolÃ´nia". G1 (in Portuguese). 7 February 2020. Retrieved
    9 February 2020.
 
      ^ "Air New Zealand flight with kiwi evacuees departs Wuhan". Stuff
@@ -4787,8 +4787,8 @@ References
    Effects of Virus Ripple Through China". The Wall Street Journal.
    Retrieved 26 February 2020.
 
-     ^ Nebehay S (7 February 2020). "Procura por máscaras aumenta 100
-   vezes e prejudica luta contra o coronavírus" (in Brazilian Portuguese).
+     ^ Nebehay S (7 February 2020). "Procura por mÃ¡scaras aumenta 100
+   vezes e prejudica luta contra o coronavÃ­rus" (in Brazilian Portuguese).
    Reuters Brasil. Retrieved 20 May 2021.
 
      ^ Boseley S (7 February 2020). "WHO warns of global shortage of face
@@ -4802,17 +4802,17 @@ References
    pandemic supply chain nightmare". The Verge. Retrieved 5 June 2023.
 
      ^ Bauchner H, Fontanarosa PB, Livingston EH (19 May 2020).
-   "Conserving Supply of Personal Protective Equipment--A Call for Ideas".
+   "Conserving Supply of Personal Protective EquipmentâA Call for Ideas".
    JAMA. 323 (19): 1911. doi:10.1001/jama.2020.4770. PMID 32196543.
    S2CID 214600902. Retrieved 5 June 2023.
 
-     ^ Ventura L (2 May 2023). "Global Finance Magazine - Poorest
+     ^ Ventura L (2 May 2023). "Global Finance Magazine â Poorest
    Countries in the World 2023". Global Finance Magazine. Retrieved 5 June
    2023.
 
      ^ ^a ^b Anyanwu JC, Salami AO (April 2021). "The impact of COVID-19
    on African economies: An introduction". African Development Review. 33
-   (S1): S1 - S16. doi:10.1111/1467-8268.12531. PMC 8207010.
+   (S1): S1 â S16. doi:10.1111/1467-8268.12531. PMC 8207010.
    PMID 34149237.
 
      ^ "Food Security and COVID-19". World Bank. Retrieved 23 December
@@ -4833,7 +4833,7 @@ References
 
      ^ Ottone E (2021). "Foreword". UNESCO The Universal Declaration on
    Cultural Diversity: Marking the 20th Anniversary. London: Khalili
-   Foundation. pp. 13-15. ISBN 978-1-3999-1149-8.
+   Foundation. pp. 13â15. ISBN 978-1-3999-1149-8.
 
      ^ "UNESCO: 10 million creative jobs lost in Covid crisis". The Stage.
    Retrieved 5 June 2023.
@@ -4873,26 +4873,26 @@ References
      ^ ^a ^b ^c ^d Sott MK, Bender MS, da Silva Baum K (4 September 2022).
    "Covid-19 Outbreak in Brazil: Health, Social, Political, and Economic
    Implications". International Journal of Health Services. 52 (4). SAGE
-   Publications: 442-454. doi:10.1177/00207314221122658. ISSN 0020-7314.
+   Publications: 442â454. doi:10.1177/00207314221122658. ISSN 0020-7314.
    PMC 9445630. PMID 36062608.
 
      ^ Conde M (11 May 2020). "Brazil in the Time of Coronavirus".
-   Geopolítica(s). Revista de estudios sobre espacio y poder. 11
-   (Especial). Universidad Complutense de Madrid (UCM): 239-249.
+   GeopolÃ­tica(s). Revista de estudios sobre espacio y poder. 11
+   (Especial). Universidad Complutense de Madrid (UCM): 239â249.
    doi:10.5209/geop.69349. ISSN 2172-7155. S2CID 219439973.
 
-     ^ Londoño E (15 May 2020). "Another Health Minister in Brazil Exits
+     ^ LondoÃ±o E (15 May 2020). "Another Health Minister in Brazil Exits
    Amid Chaotic Coronavirus Response". The New York Times. Retrieved 14
    June 2023.
 
      ^ Dantas E (2020). "Brazilian report on the coronavirus crisis: A
-   clash of pandemics". Medicine and Law (in Portuguese): 153-160.
+   clash of pandemics". Medicine and Law (in Portuguese): 153â160.
    Retrieved 14 June 2023.
 
-     ^ Carnut L, Mendes Á, Guerra L (18 October 2020). "Coronavirus,
+     ^ Carnut L, Mendes Ã, Guerra L (18 October 2020). "Coronavirus,
    Capitalism in Crisis and the Perversity of Public Health in Bolsonaro's
    Brazil". International Journal of Health Services. 51 (1). SAGE
-   Publications: 18-30. doi:10.1177/0020731420965137. ISSN 0020-7314.
+   Publications: 18â30. doi:10.1177/0020731420965137. ISSN 0020-7314.
    PMID 33070682. S2CID 224782017.
 
      ^ "Brazil stocks post steepest fall since 1998, real hits historic
@@ -5012,7 +5012,7 @@ References
    Labor, Occupational Safety and Health Administration". SCOTUSblog.
    Retrieved 6 June 2023.
 
-     ^ "Record number of journalists imprisoned in 2020 - report".
+     ^ "Record number of journalists imprisoned in 2020 â report".
    Reuters. 15 December 2020. Retrieved 16 February 2021.
 
      ^ Berry A (14 December 2020). "Press freedom: Journalists end up in
@@ -5067,12 +5067,12 @@ References
    control the narrative by targeting journalists". Los Angeles Times.
    Retrieved 16 February 2021.
 
-     ^ ^a ^b "Q&A: COVID-19 pandemic - impact on food and agriculture".
+     ^ ^a ^b "Q&A: COVID-19 pandemic â impact on food and agriculture".
    Food and Agriculture Organization of the United Nations. Retrieved 16
    October 2020.
 
      ^ Pryor S, Dietz W (1 September 2022). "The COVID-19, Obesity, and
-   Food Insecurity Syndemic". Current Obesity Reports. 11 (3): 70-79.
+   Food Insecurity Syndemic". Current Obesity Reports. 11 (3): 70â79.
    doi:10.1007/s13679-021-00462-w. ISSN 2162-4968. PMC 9399358.
    PMID 35138590.
 
@@ -5082,7 +5082,7 @@ References
 
      ^ Swinnen J, Vos R (May 2021). "COVID-19 and impacts on global food
    systems and household welfare: Introduction to a special issue".
-   Agricultural Economics. 52 (3): 365-374. doi:10.1111/agec.12623.
+   Agricultural Economics. 52 (3): 365â374. doi:10.1111/agec.12623.
    ISSN 0169-5150. PMC 8206861. PMID 34149127.
 
      ^ "UN report: Pandemic year marked by spike in world hunger".
@@ -5090,11 +5090,11 @@ References
 
      ^ Hoffman JA, Miller EA (August 2020). "Addressing the Consequences
    of School Closure Due to COVID-19 on Children's Physical and Mental
-   Well-Being". World Medical & Health Policy. 12 (3): 300-310.
+   Well-Being". World Medical & Health Policy. 12 (3): 300â310.
    doi:10.1002/wmh3.365. PMC 7461306. PMID 32904951.
 
-     ^ "COVID afecta salud, educación y entorno familiar de niñas y niños,
-   señala estudio del IBD". Senado de la República (in Spanish). 1 May
+     ^ "COVID afecta salud, educaciÃ³n y entorno familiar de niÃ±as y niÃ±os,
+   seÃ±ala estudio del IBD". Senado de la RepÃºblica (in Spanish). 1 May
    2021. Archived from the original on 6 December 2021. Retrieved 25 July
    2021.
 
@@ -5115,7 +5115,7 @@ References
    FA, et al. (June 2020). "Reduction in ST-Segment Elevation Cardiac
    Catheterization Laboratory Activations in the United States During
    COVID-19 Pandemic". Journal of the American College of Cardiology. 75
-   (22): 2871-2872. doi:10.1016/j.jacc.2020.04.011. PMC 7151384.
+   (22): 2871â2872. doi:10.1016/j.jacc.2020.04.011. PMC 7151384.
    PMID 32283124.
 
      ^ ^a ^b McFarling UL (23 April 2020). "'Where are all our patients?':
@@ -5127,10 +5127,10 @@ References
    All Our Stroke Patients Go?". JMIR Aging. 3 (2) e21608.
    doi:10.2196/21608. PMC 7581311. PMID 33006936.
 
-     ^ Orthopoulos G, Santone E, Izzo F, Tirabassi M, Pérez-Caraballo AM,
+     ^ Orthopoulos G, Santone E, Izzo F, Tirabassi M, PÃ©rez-Caraballo AM,
    Corriveau N, et al. (1 May 2021). "Increasing incidence of complicated
    appendicitis during COVID-19 pandemic". The American Journal of
-   Surgery. 221 (5): 1056-1060. doi:10.1016/j.amjsurg.2020.09.026.
+   Surgery. 221 (5): 1056â1060. doi:10.1016/j.amjsurg.2020.09.026.
    ISSN 0002-9610. PMC 7521886. PMID 33012500.
 
      ^ Faust JS (28 April 2020). "Medication Shortages Are the Next
@@ -5151,7 +5151,7 @@ References
      ^ Santomauro DF, Herrera AM, Shadid J, Zheng P, Ashbaugh C, Pigott
    DM, et al. (8 October 2021). "Global prevalence and burden of
    depressive and anxiety disorders in 204 countries and territories in
-   2020 due to the COVID-19 pandemic". The Lancet. 398 (10312): 1700-1712.
+   2020 due to the COVID-19 pandemic". The Lancet. 398 (10312): 1700â1712.
    doi:10.1016/S0140-6736(21)02143-7. PMC 8500697. PMID 34634250.
    S2CID 238478261.
 
@@ -5171,7 +5171,7 @@ References
 
      ^ Turner CE (February 2023). "Can group A streptococcus infections be
    influenced by viruses in the respiratory tract?". The Lancet Infectious
-   Diseases. 23 (2): 142-144. doi:10.1016/S1473-3099(22)00865-9.
+   Diseases. 23 (2): 142â144. doi:10.1016/S1473-3099(22)00865-9.
    PMID 36566769. S2CID 255018859. Retrieved 9 June 2023.
 
      ^ Mackintosh T, Durbin A (3 December 2022). "Father of girl, 4,
@@ -5192,12 +5192,12 @@ References
      ^ Alhoufie ST, Alsharif NH, Alfarouk KO, Ibrahim NA, Kheyami AM,
    Aljifri AA (November 2021). "COVID-19 with underdiagnosed influenza B
    and parainfluenza-2 co-infections in Saudi Arabia: Two case reports".
-   Journal of Infection and Public Health. 14 (11): 1567-1570.
+   Journal of Infection and Public Health. 14 (11): 1567â1570.
    doi:10.1016/j.jiph.2021.09.005. PMC 8442300. PMID 34627054.
 
      ^ Koutsakos M, Wheatley AK, Laurie K, Kent SJ, Rockman S (December
    2021). "Influenza lineage extinction during the COVID-19 pandemic?".
-   Nature Reviews Microbiology. 19 (12): 741-742.
+   Nature Reviews Microbiology. 19 (12): 741â742.
    doi:10.1038/s41579-021-00642-4. PMC 8477979. PMID 34584246.
 
      ^ ^a ^b World Health Organization (29 September 2023). "Questions and
@@ -5254,7 +5254,7 @@ References
    original on 2 November 2021. Retrieved 5 November 2021.
 
      ^ Mallapaty S (26 April 2022). "COVID is spreading in deer. What does
-   that mean for the pandemic?". Nature. Vol. 604, no. 7907. pp. 612-615.
+   that mean for the pandemic?". Nature. Vol. 604, no. 7907. pp. 612â615.
    Bibcode:2022Natur.604..612M. doi:10.1038/d41586-022-01112-4.
    PMID 35474534. Archived from the original on 26 April 2022. Retrieved
    26 April 2022.
@@ -5311,9 +5311,9 @@ References
      ^ Lee BY. "Trump Once Again Calls Covid-19 Coronavirus The 'Kung
    Flu'". Forbes. Retrieved 9 July 2020.
 
-     ^ Silva MF, Silva DS, Bacurau AG, Francisco PM, Assumpção D, Neri AL,
+     ^ Silva MF, Silva DS, Bacurau AG, Francisco PM, AssumpÃ§Ã£o D, Neri AL,
    et al. (2021). "Ageism against older adults in the context of the
-   COVID-19 pandemic: an integrative review". Revista de Saúde Pública.
+   COVID-19 pandemic: an integrative review". Revista de SaÃºde PÃºblica.
    55: 4. doi:10.11606/s1518-8787.2021055003082. PMC 8023321.
    PMID 33886953.
 
@@ -5322,7 +5322,7 @@ References
    doi:10.1016/S0140-6736(21)02243-1. PMC 8601682. PMID 34801101.
 
      ^ Caplan AL (February 2022). "Stigma, vaccination, and moral
-   accountability". The Lancet. 399 (10325): 626-627.
+   accountability". The Lancet. 399 (10325): 626â627.
    doi:10.1016/S0140-6736(22)00189-1. PMC 8830899. PMID 35151392.
 
      ^ "Don't discriminate against the unvaccinated, Amnesty International
@@ -5367,7 +5367,7 @@ References
      ^ "As Covid fades away, what's the future of remote work in Europe?".
    ComputerWeekly.com. 14 March 2023. Retrieved 14 June 2023.
 
-     ^ ^a ^b Braesemann F, Stephany F, Teutloff O, Kässi O, Graham M,
+     ^ ^a ^b Braesemann F, Stephany F, Teutloff O, KÃ¤ssi O, Graham M,
    Lehdonvirta V (20 October 2022). "The global polarisation of remote
    work". PLOS ONE. 17 (10) e0274630. Public Library of Science (PLoS).
    arXiv:2108.13356. Bibcode:2022PLoSO..1774630B.
@@ -5384,29 +5384,29 @@ References
    return-to-office". Axios. Retrieved 13 June 2023.
 
      ^ Fonzo E (18 July 2021). "Historiography and Covid-19. Some
-   considerations". Journal of Mediterranean Knowledge. 6 (1): 129-158.
+   considerations". Journal of Mediterranean Knowledge. 6 (1): 129â158.
    ISSN 2499-930X.
 
      ^ Tambolkar S, Pustake M, Giri P, Tambolkar I (May 2022). "Comparison
    of public health measures taken during Spanish flu and COVID-19
    pandemics: A Narrative Review". Journal of Family Medicine and Primary
-   Care. 11 (5): 1642-1647. doi:10.4103/jfmpc.jfmpc_1612_21. PMC 9254789.
+   Care. 11 (5): 1642â1647. doi:10.4103/jfmpc.jfmpc_1612_21. PMC 9254789.
    PMID 35800503.
 
      ^ Beach B, Clay K, Saavedra M (March 2022). "The 1918 Influenza
    Pandemic and Its Lessons for COVID-19". Journal of Economic Literature.
-   60 (1): 41-84. doi:10.1257/jel.20201641. ISSN 0022-0515.
+   60 (1): 41â84. doi:10.1257/jel.20201641. ISSN 0022-0515.
 
      ^ Ewing T (12 May 2020). "Flu Masks Failed In 1918, But We Need Them
    Now". Health Affairs Forefront. doi:10.1377/forefront.20200508.769108.
    Retrieved 9 June 2023.
 
-     ^ "Mask Resistance During a Pandemic Isn't New - in 1918 Many
+     ^ "Mask Resistance During a Pandemic Isn't New â in 1918 Many
    Americans Were 'Slackers'". michiganmedicine.org. 29 October 2020.
    Retrieved 9 June 2023.
 
      ^ Devega C (8 May 2021). "Fake news, conspiracy theories and a deadly
-   global pandemic -- and that was in 1918". Salon. Retrieved 9 June 2023.
+   global pandemic â and that was in 1918". Salon. Retrieved 9 June 2023.
 
      ^ Cohut M (29 September 2020). "What the COVID-19 pandemic and the
    1918 flu pandemic have in common". medicalnewstoday.com. Retrieved 9
@@ -5415,18 +5415,18 @@ References
      ^ Krishnan L, Ogunwole SM, Cooper LA (15 September 2020). "Historical
    Insights on Coronavirus Disease 2019 (COVID-19), the 1918 Influenza
    Pandemic, and Racial Disparities: Illuminating a Path Forward". Annals
-   of Internal Medicine. 173 (6): 474-481. doi:10.7326/M20-2223.
+   of Internal Medicine. 173 (6): 474â481. doi:10.7326/M20-2223.
    ISSN 0003-4819. PMC 7298913. PMID 32501754.
 
      ^ Lee M, Lim H, Xavier MS, Lee EY (1 February 2022). ""A Divine
    Infection": A Systematic Review on the Roles of Religious Communities
    During the Early Stage of COVID-19". Journal of Religion and Health. 61
-   (1): 866-919. doi:10.1007/s10943-021-01364-w. ISSN 1573-6571.
+   (1): 866â919. doi:10.1007/s10943-021-01364-w. ISSN 1573-6571.
    PMC 8370454. PMID 34405313.
 
-     ^ Kalocsányiová E, Essex R, Fortune V (19 July 2022). "Inequalities
+     ^ KalocsÃ¡nyiovÃ¡ E, Essex R, Fortune V (19 July 2022). "Inequalities
    in Covid-19 Messaging: A Systematic Scoping Review". Health
-   Communication. 38 (12): 2549-2558. doi:10.1080/10410236.2022.2088022.
+   Communication. 38 (12): 2549â2558. doi:10.1080/10410236.2022.2088022.
    ISSN 1041-0236. PMID 35850593. S2CID 250642415. Retrieved 9 June 2023.
 
      ^ Lee Rogers R, Powe N (January 2022). "COVID-19 Information Sources
@@ -5442,10 +5442,10 @@ References
      ^ Li H, Cao Y (1 April 2022). "Rules We Live by: How Religious
    Beliefs Relate to Compliance with Precautionary Measures Against
    COVID-19 in Tibetan Buddhists". Journal of Religion and Health. 61 (2):
-   1671-1683. doi:10.1007/s10943-022-01512-w. ISSN 1573-6571. PMC 8817637.
+   1671â1683. doi:10.1007/s10943-022-01512-w. ISSN 1573-6571. PMC 8817637.
    PMID 35122555.
 
-     ^ Syed U, Kapera O, Chandrasekhar A, Baylor BT, Hassan A, Magalhães
+     ^ Syed U, Kapera O, Chandrasekhar A, Baylor BT, Hassan A, MagalhÃ£es
    M, et al. (February 2023). "The Role of Faith-Based Organizations in
    Improving Vaccination Confidence & Addressing Vaccination Disparities
    to Help Improve Vaccine Uptake: A Systematic Review". Vaccines. 11 (2):
@@ -5472,25 +5472,25 @@ References
    Information Research: An International Electronic Journal. 27 (2).
    doi:10.47989/irpaper929. S2CID 249615157. Retrieved 9 June 2023.
 
-     ^ Rogers A. "Coronavirus Research Is Moving at Top Speed--With a
+     ^ Rogers A. "Coronavirus Research Is Moving at Top SpeedâWith a
    Catch". Wired. Retrieved 9 June 2023.
 
-     ^ Juergens C (2020). "Trustworthy COVID-19 Mapping: Geo-spatial Data
+     ^ Juergens C (2020). "Trustworthy COVIDâ19 Mapping: Geoâspatial Data
    Literacy Aspects of Choropleth Maps". Journal of Cartography and
-   Geographic Information. 70 (4): 155-161.
+   Geographic Information. 70 (4): 155â161.
    doi:10.1007/s42489-020-00057-w. PMC 7583689. PMID 33134849.
 
      ^ ^a ^b Everts J (2020). "The dashboard pandemic". Dialogues in Human
-   Geography. 10 (2): 260-264. doi:10.1177/2043820620935355.
+   Geography. 10 (2): 260â264. doi:10.1177/2043820620935355.
 
      ^ Adams AM, Gallaher A, Benitez Ou A, Chen X, Li W, Zhang C, et al.
    (2025). "Mapping COVID-19: Applying Ethical Strategies in Web Mapping
-   Decisions". Cartographic Perspectives. 105: 67-75.
+   Decisions". Cartographic Perspectives. 105: 67â75.
    doi:10.14714/CP105.1971. Retrieved 12 April 2025.
 
      ^ Adams AM, Chen X, Li W, Zhang C (2023). "Normalizing the pandemic:
    exploring the cartographic issues in stategovernment COVID-19
-   dashboards". Journal of Maps. 19 (1): 1-9. Bibcode:2023JMaps..19Q...1A.
+   dashboards". Journal of Maps. 19 (1): 1â9. Bibcode:2023JMaps..19Q...1A.
    doi:10.1080/17445647.2023.2235385.
 
      ^ Murphy H, Di Stefano M, Manson K (20 March 2020). "Huge text
@@ -5502,14 +5502,14 @@ References
      ^ Kuhn SA, Lieb R, Freeman D, Andreou C, Zander-Schellenberg T (March
    2021). "Coronavirus conspiracy beliefs in the German-speaking general
    population: endorsement rates and links to reasoning biases and
-   paranoia". Psychological Medicine. 52 (16): 4162-4176.
+   paranoia". Psychological Medicine. 52 (16): 4162â4176.
    doi:10.1017/S0033291721001124. PMC 8027560. PMID 33722315.
 
      ^ "How The Covid-19 Pandemic Is Affecting Popular Culture".
    augustman.com. August Man. 24 November 2020. Retrieved 18 December
    2020. "In addition to existing shows, streaming platforms and cable
    channels have tried putting together new series centred on coronavirus,
-   like HBO's "Coastal Elites" or Netflix's "Social Distance" - but with
+   like HBO's "Coastal Elites" or Netflix's "Social Distance" â but with
    no real success."
 
      ^ Segal D (16 December 2020). "Are We Ready to Laugh About Covid-19?
@@ -5535,16 +5535,15 @@ References
      ^ Rogers K (2 April 2020). "'Contagion' vs. coronavirus: The film's
    connections to a real life pandemic". CNN. Retrieved 9 June 2023.
 
-     ^ Kritz F (16 February 2020). "Fact-Checking 'Contagion' -- In Wake
-   Of Coronavirus, The 2011 Movie Is Trending". NPR. Retrieved 9 June
-   2023.
+     ^ Kritz F (16 February 2020). "Fact-Checking 'Contagion' â In Wake Of
+   Coronavirus, The 2011 Movie Is Trending". NPR. Retrieved 9 June 2023.
 
      ^ "I've seen 'Contagion' four times. No, the coronavirus outbreak
    isn't the same". Los Angeles Times. 11 March 2020. Retrieved 9 June
    2023.
 
      ^ McGuire K (March 2021). "COVID-19, Contagion, and Vaccine
-   Optimism". Journal of Medical Humanities. 42 (1): 51-62.
+   Optimism". Journal of Medical Humanities. 42 (1): 51â62.
    doi:10.1007/s10912-021-09677-3. PMC 7882858. PMID 33587203.
 
      ^ Freyne P. "The things my movie Contagion got wrong: The slow
@@ -5556,7 +5555,7 @@ References
 
      ^ Koelle K, Martin MA, Antia R, Lopman B, Dean NE (11 March 2022).
    "The changing epidemiology of SARS-CoV-2". Science. 375 (6585):
-   1116-1121. Bibcode:2022Sci...375.1116K. doi:10.1126/science.abm4915.
+   1116â1121. Bibcode:2022Sci...375.1116K. doi:10.1126/science.abm4915.
    ISSN 1095-9203. PMC 9009722. PMID 35271324.
 
      ^ Biancolella M, Colona VL, Mehrian-Shai R, Watt JL, Luzzatto L,
@@ -5586,7 +5585,7 @@ References
 
      ^ Markov PV, Ghafari M, Beer M, Lythgoe K, Simmonds P, Stilianakis
    NI, et al. (June 2023). "The evolution of SARS-CoV-2". Nat Rev
-   Microbiol (Review). 21 (6): 361-379. doi:10.1038/s41579-023-00878-2.
+   Microbiol (Review). 21 (6): 361â379. doi:10.1038/s41579-023-00878-2.
    PMID 37020110. S2CID 257983412.
 
      ^ "WHO declares end to Covid global health emergency". NBC News. 5
@@ -5605,7 +5604,7 @@ References
    12 June 2023.
 
      ^ Ghebreyesus TA. "WHO Director-General's opening remarks at the
-   media briefing - 10 December 2024". World Health Organization.
+   media briefing â 10 December 2024". World Health Organization.
    Retrieved 29 December 2025.
 
      ^ "Post-pandemic world economy still feeling COVID-19's sting". UN
@@ -5618,7 +5617,7 @@ References
    resignation' didn't happen in Australia, but the 'great burnout' did".
    The Conversation. Retrieved 30 July 2023.
 
-     ^ Granja AD, Champagne E, Choinière O (27 April 2023). "Post-pandemic
+     ^ Granja AD, Champagne E, ChoiniÃ¨re O (27 April 2023). "Post-pandemic
    work in the public sector: A new way forward or a return to the past?".
    The Conversation. Retrieved 30 July 2023.
 
@@ -5655,9 +5654,9 @@ Further reading
    "Progress report on the coronavirus pandemic". Nature. 584 (7821): 325.
    August 2020. doi:10.1038/d41586-020-02414-1. PMID 32814893.
 
-     Tay MZ, Poh CM, Rénia L, MacAry PA, Ng LF (June 2020). "The trinity
+     Tay MZ, Poh CM, RÃ©nia L, MacAry PA, Ng LF (June 2020). "The trinity
    of COVID-19: immunity, inflammation and intervention". Nature Reviews.
-   Immunology. 20 (6): 363-374. doi:10.1038/s41577-020-0311-8.
+   Immunology. 20 (6): 363â374. doi:10.1038/s41577-020-0311-8.
    PMC 7187672. PMID 32346093.
 
      COVID-19 infection prevention and control measures for primary care,
@@ -5670,15 +5669,15 @@ Further reading
    Bibcode:2020arXiv200312886B. doi:10.7554/eLife.57309. PMC 7224694.
    PMID 32228860.
 
-     Brüssow H (May 2020). "The Novel Coronavirus - A Snapshot of Current
-   Knowledge". Microbial Biotechnology. 13 (3): 607-612.
+     BrÃ¼ssow H (May 2020). "The Novel Coronavirus â A Snapshot of Current
+   Knowledge". Microbial Biotechnology. 13 (3): 607â612.
    doi:10.1111/1751-7915.13557. PMC 7111068. PMID 32144890.
 
      Cascella M, Rajnik M, Aleem A, Dulebohn S, Di Napoli R (2020).
    "Features, Evaluation, and Treatment of Coronavirus". StatPearls.
    StatPearls Publishing. PMID 32150360.
 
-     Funk CD, Laferrière C, Ardakani A (2020). "A Snapshot of the Global
+     Funk CD, LaferriÃ¨re C, Ardakani A (2020). "A Snapshot of the Global
    Race for Vaccines Targeting SARS-CoV-2 and the COVID-19 Pandemic".
    Frontiers in Pharmacology. 11 937. doi:10.3389/fphar.2020.00937.
    PMC 7317023. PMID 32636754.
@@ -5687,9 +5686,9 @@ Further reading
    U.S. Food and Drug Administration (FDA). June 2020.
 
      Birhane M, Bressler S, Chang G, Clark T, Dorough L, Fischer M, et al.
-   (May 2021). "COVID-19 Vaccine Breakthrough Infections Reported to CDC -
-   United States, January 1 - April 30, 2021". MMWR. Morbidity and
-   Mortality Weekly Report. 70 (21): 792-793. doi:10.15585/mmwr.mm7021e3.
+   (May 2021). "COVID-19 Vaccine Breakthrough Infections Reported to CDC â
+   United States, January 1 â April 30, 2021". MMWR. Morbidity and
+   Mortality Weekly Report. 70 (21): 792â793. doi:10.15585/mmwr.mm7021e3.
    PMC 8158893. PMID 34043615.
 
      Bieksiene K, Zaveckiene J, Malakauskas K, Vaguliene N, Zemaitis M,
@@ -5698,12 +5697,12 @@ Further reading
    doi:10.3390/medicina57030283. PMC 8003092. PMID 33803690.
 
      Chen Q, Allot A, Lu Z (January 2021). "LitCovid: an open database of
-   COVID-19 literature". Nucleic Acids Research. 49 (D1): D1534 - D1540.
+   COVID-19 literature". Nucleic Acids Research. 49 (D1): D1534 â D1540.
    doi:10.1093/nar/gkaa952. PMC 7778958. PMID 33166392.
 
      Aghagoli G, Gallo Marin B, Katchur NJ, Chaves-Sell F, Asaad WF,
    Murphy SA (June 2021). "Neurological Involvement in COVID-19 and
-   Potential Mechanisms: A Review". Neurocritical Care. 34 (3): 1062-1071.
+   Potential Mechanisms: A Review". Neurocritical Care. 34 (3): 1062â1071.
    doi:10.1007/s12028-020-01049-4. PMC 7358290. PMID 32661794.
 
 External links
@@ -5747,7 +5746,7 @@ Medical journals
        American Medical Association
      * COVID-19: Novel Coronavirus Outbreak Archived 24 September 2020 at
        the Wayback Machine by Wiley Publishing
-     * COVID-19 pandemic (2019-20) Collection by Public Library of Science
+     * COVID-19 pandemic (2019â20) Collection by Public Library of Science
        (PLOS)
      * COVID-19 Portfolio Archived 11 August 2020 at the Wayback Machine,
        a curated collection of publications and preprints by National
@@ -5884,7 +5883,7 @@ Medical journals
      * Madagascar
      * Mauritius
      * Mayotte
-     * Réunion
+     * RÃ©union
      * Rwanda
      * Seychelles
      * Somalia
@@ -5914,7 +5913,7 @@ Medical journals
      * Democratic Republic of the Congo
      * Republic of the Congo
      * Gabon
-     * São Tomé and Príncipe
+     * SÃ£o TomÃ© and PrÃ­ncipe
 
    Western
      * Benin
@@ -5925,8 +5924,8 @@ Medical journals
      * Ghana
           + timeline
                o 2020
-                    # March-July
-                    # August-December
+                    # MarchâJuly
+                    # AugustâDecember
                o 2021
           + government response
           + impact
@@ -5950,8 +5949,8 @@ Medical journals
      * Kyrgyzstan
      * Russia
           + timeline
-               o January-June
-               o July-December
+               o JanuaryâJune
+               o JulyâDecember
           + impact
                o economic
                o social
@@ -6010,8 +6009,8 @@ Medical journals
      * statistics
      * timeline
           + 2020
-               o January-May
-               o June-December
+               o JanuaryâMay
+               o JuneâDecember
           + 2021
      * union government response
           + PM CARES Fund
@@ -6170,12 +6169,12 @@ Medical journals
    United Kingdom
      * history
      * timeline
-          + January-June 2020
-          + July-December 2020
-          + January-June 2021
-          + July-December 2021
-          + January-June 2022
-          + July-December 2022
+          + JanuaryâJune 2020
+          + JulyâDecember 2020
+          + JanuaryâJune 2021
+          + JulyâDecember 2021
+          + JanuaryâJune 2022
+          + JulyâDecember 2022
           + 2023
      * responses
           + government response
@@ -6191,8 +6190,8 @@ Medical journals
      * England
           + timeline
                o 2020
-                    # January-June
-                    # July-December
+                    # JanuaryâJune
+                    # JulyâDecember
                o 2021
                o 2022
           + London
@@ -6234,8 +6233,8 @@ Medical journals
           + Transnistria
      * Russia
           + timeline
-               o January-June 2020
-               o July-December 2020
+               o JanuaryâJune 2020
+               o JulyâDecember 2020
           + government responses
           + political impact
      * Turkey
@@ -6266,11 +6265,11 @@ Medical journals
           + Faroe Islands
      * Estonia
      * Finland
-          + Åland
+          + Ãland
      * France
           + Guadeloupe
           + French Guiana
-          + Réunion
+          + RÃ©union
           + Martinique
           + Mayotte
           + Normandy
@@ -6397,7 +6396,7 @@ Medical journals
      * response
 
      * Aruba
-     * Curaçao
+     * CuraÃ§ao
      * Sint Maarten
 
    Caribbean Netherlands
@@ -6408,7 +6407,7 @@ Medical journals
    French West Indies
      * Guadeloupe
      * Martinique
-     * Saint Barthélemy
+     * Saint BarthÃ©lemy
      * Saint Martin
 
    US insular areas
@@ -6551,8 +6550,8 @@ Medical journals
      * timeline
           + 2020
           + 2021
-               o January-June
-               o July-December
+               o JanuaryâJune
+               o JulyâDecember
           + 2022
      * Australian Capital Territory
      * Christmas Island
@@ -6587,7 +6586,7 @@ Medical journals
      * Bolivia
      * Brazil
           + timeline
-          + São Paulo
+          + SÃ£o Paulo
      * Chile
           + statistics
           + Easter Island
@@ -6827,8 +6826,8 @@ Medical journals
    International relations
      * Aid
      * Italy
-     * Moldovan-Romanian collaboration
-     * Nicaragua-Taiwan relations
+     * MoldovanâRomanian collaboration
+     * NicaraguaâTaiwan relations
      * Respirator diplomacy of Taiwan
      * Vaccine diplomacy
 
@@ -6865,7 +6864,7 @@ Medical journals
      * Mental health
           + neurological, psychological and other mental health outcomes
      * Pregnancy
-     * Non-COVID-19-related health issues
+     * Non-COVID-19ârelated health issues
      * Shortages
      * Raise the line
      * Rehabilitation
@@ -6926,7 +6925,7 @@ Medical journals
      * Zoe Health Study
 
    Prevention
-     * Air purifier (Corsi-Rosenthal Box)
+     * Air purifier (CorsiâRosenthal Box)
      * Chloroquine and hydroxychloroquine
      * COVID fatigue
      * Evacuations
@@ -6978,7 +6977,7 @@ Medical journals
 
            mRNA
      * Moderna
-     * Pfizer-BioNTech
+     * PfizerâBioNTech
 
    Subunit
      * Abdala
@@ -6998,7 +6997,7 @@ Medical journals
    Viral vector
      * Convidecia
      * Janssen
-     * Oxford-AstraZeneca
+     * OxfordâAstraZeneca
      * Sputnik V
      * Sputnik Light
 
@@ -7010,7 +7009,7 @@ Medical journals
      * COVI-VAC (United States)
 
    DNA
-     * AG0302-COVID-19
+     * AG0302-COVIDâ19
      * GX-19
      * Inovio
 
@@ -7026,7 +7025,7 @@ Medical journals
      * HGC019
      * mRNA-1283
      * PTX-COVID19-B
-     * Sanofi-Translate Bio (terminated)
+     * SanofiâTranslate Bio (terminated)
      * Stemirna COVID-19 vaccine
      * Walvax
 
@@ -7037,7 +7036,7 @@ Medical journals
      * IVX-411
      * Nanocovax
      * ReCOV
-     * Sanofi-GSK
+     * SanofiâGSK
      * S-268019
      * SCB-2019
      * SCTV01C
@@ -7047,7 +7046,7 @@ Medical journals
      * V451 (terminated)
      * Vabiotech
      * West China Hospital
-     * Zhongyianke Biotech-Liaoning Maokangyuan Biotech
+     * Zhongyianke BiotechâLiaoning Maokangyuan Biotech
 
    Viral vector
      * AdCLD-CoV19
@@ -7241,8 +7240,8 @@ Medical journals
      * Malaysia Agro Exposition Park Serdang (Malaysia)
      * Mega Ligtas COVID Centers (Philippines)
      * Kandakadu Treatment and Rehabilitation Centre (Sri Lanka)
-     * Sancaktepe Prof. Dr. Feriha Öz Emergency Hospital (Turkey)
-     * Yesilköy Prof. Dr. Murat Dilmener Emergency Hospital (Turkey)
+     * Sancaktepe Prof. Dr. Feriha Ãz Emergency Hospital (Turkey)
+     * YeÅilkÃ¶y Prof. Dr. Murat Dilmener Emergency Hospital (Turkey)
      * COVID-19 hospitals in the United Kingdom
           + NHS Nightingale Hospitals (England)
                o Birmingham
@@ -7325,7 +7324,7 @@ Medical journals
      * Sarah Gilbert
      * Guan Yi
      * Kentaro Iwata
-     * Katalin Karikó
+     * Katalin KarikÃ³
      * Matt Keeling
      * Trudie Lang
      * Li Lanjuan
@@ -7371,7 +7370,7 @@ Medical journals
      * Francisco Duque III (Philippines)
      * Anthony Fauci (United States)
      * Francesco Paolo Figliuolo (Italy)
-     * Graça Freitas (Portugal)
+     * GraÃ§a Freitas (Portugal)
      * Henrique Gouveia e Melo (Portugal)
      * Matt Hancock (United Kingdom)
      * Hamad Hasan (Lebanon)
@@ -7380,29 +7379,29 @@ Medical journals
      * Jeong Eun-kyeong (South Korea)
      * Fahrettin Koca (Turkey)
      * Li Keqiang (China)
-     * Hugo López-Gatell Ramírez (Mexico)
+     * Hugo LÃ³pez-Gatell RamÃ­rez (Mexico)
      * Michael McBride (Northern Ireland)
-     * Oriol Mitjà (Andorra)
+     * Oriol MitjÃ  (Andorra)
      * Zweli Mkhize (South Africa)
      * Doni Monardo (Indonesia)
-     * Alma Möller (Iceland)
+     * Alma MÃ¶ller (Iceland)
      * Saeed Namaki (Iran)
      * Ala Nemerenco (Moldova)
-     * Nguye>?n Thanh Long (Vietnam)
+     * Nguyá»n Thanh Long (Vietnam)
      * Noor Hisham Abdullah (Malaysia)
      * Ali Pilli (Northern Cyprus)
      * Daniel Salinas (Uruguay)
-     * Jérôme Salomon (France)
-     * Fernando Simón (Spain)
+     * JÃ©rÃ´me Salomon (France)
+     * Fernando SimÃ³n (Spain)
      * Gregor Smith (Scotland)
      * Su Ih-jen (Taiwan)
-     * L/ukasz Szumowski (Poland)
+     * Åukasz Szumowski (Poland)
      * Theresa Tam (Canada)
      * Anders Tegnell (Sweden)
-     * Þórólfur Guðnason (Iceland)
+     * ÃÃ³rÃ³lfur GuÃ°nason (Iceland)
      * Sotiris Tsiodras (Greece)
      * Harsh Vardhan (India)
-     * Víðir Reynisson (Iceland)
+     * VÃ­Ã°ir Reynisson (Iceland)
      * Carla Vizzotti (Argentina)
      * Vlad Voiculescu (Romania)
      * Chris Whitty (United Kingdom)
@@ -7461,7 +7460,7 @@ Medical journals
      * Mozambique
      * Nigera
           + cases chart
-     * São Tomé and Príncipe
+     * SÃ£o TomÃ© and PrÃ­ncipe
      * Senegal
      * Seychelles
      * Sierra Leone
@@ -7686,20 +7685,20 @@ Medical journals
 
    Ancient
      * Hittite plague (c. 1330 BC)
-     * Plague of Athens (429-426 BC)
-     * Antonine Plague (165-180 AD)
-     * Plague of Cyprian (250-266)
+     * Plague of Athens (429â426 BC)
+     * Antonine Plague (165â180 AD)
+     * Plague of Cyprian (250â266)
 
    Post-
    classical
-     * Plague of Justinian (541-542)
+     * Plague of Justinian (541â542)
      * Roman Plague (590)
-     * Plague of Sheroe (627-628)
-     * Plague of Amwas (638-639)
-     * Plague of 664 (664-689)
-     * Japanese smallpox (735-737)
-     * Black Death (1346-1353)
-     * Sweating sickness (1485-1551)
+     * Plague of Sheroe (627â628)
+     * Plague of Amwas (638â639)
+     * Plague of 664 (664â689)
+     * Japanese smallpox (735â737)
+     * Black Death (1346â1353)
+     * Sweating sickness (1485â1551)
 
    Early
    modern
@@ -7707,102 +7706,102 @@ Medical journals
      * Influenza pandemic (1510)
      * Mexican smallpox (1520)
      * "Cocoliztli" epidemics in colonial Mexico (1545, 1576)
-     * Influenza pandemic (1557-1559)
-     * London plague (1563-1564)
-     * Maltese plague (1592-1593)
-     * London plague (1592-1593)
+     * Influenza pandemic (1557â1559)
+     * London plague (1563â1564)
+     * Maltese plague (1592â1593)
+     * London plague (1592â1593)
      *
 
    17th century
      * London plague (1603)
      * Maltese plague (1623)
-     * Italian plague (1629-1631)
+     * Italian plague (1629â1631)
      * Massachusetts smallpox (1633)
-     * Great Plague in the late Ming dynasty (1633-1644)
-     * Great Plague of Seville (1647-1652)
+     * Great Plague in the late Ming dynasty (1633â1644)
+     * Great Plague of Seville (1647â1652)
      * Maltese plague (1655)
      * Naples Plague (1656)
-     * Great Plague of London (1665-1666)
-     * Maltese plague (1675-1676)
+     * Great Plague of London (1665â1666)
+     * Maltese plague (1675â1676)
      * Great Plague of Vienna (1679)
 
    18th century
-     * Iceland smallpox epidemic (1707-1708)
-     * Great Northern War plague (1710-1712)
-     * Great Plague of Marseille (1720-1722)
+     * Iceland smallpox epidemic (1707â1708)
+     * Great Northern War plague (1710â1712)
+     * Great Plague of Marseille (1720â1722)
      * Great Plague of 1738 (1738)
-     * Russian plague (1770-1772)
+     * Russian plague (1770â1772)
      * Persian Plague (1772)
-     * North American smallpox (1780-1782)
-     * Philadelphia yellow fever (1793-1798)
+     * North American smallpox (1780â1782)
+     * Philadelphia yellow fever (1793â1798)
 
    Modern
    19th century
-     * Ottoman plague (1812-1819)
-     * Maltese plague (1813-1814)
+     * Ottoman plague (1812â1819)
+     * Maltese plague (1813â1814)
      * Caragea's plague (1813)
      * Groningen epidemic (1829)
-     * Great Plains smallpox (1837-1838)
-     * Typhus (1847-1848)
+     * Great Plains smallpox (1837â1838)
+     * Typhus (1847â1848)
      * Copenhagen cholera (1853)
      * Stockholm cholera (1853)
      * Broad Street cholera (1854)
      * Guam smallpox (1856)
-     * Pacific Northwest smallpox (1862-1863)
+     * Pacific Northwest smallpox (1862â1863)
      * Barcelona yellow fever (1870)
      * Buenos Aires yellow fever (1871)
-     * Australia scarlet fever (1875-1876)
+     * Australia scarlet fever (1875â1876)
      * Hong Kong plague (1894)
 
    20th century
-     * San Francisco plague (1900-1904)
-     * Manchurian plague (1910-1911)
+     * San Francisco plague (1900â1904)
+     * Manchurian plague (1910â1911)
      * LA pneumonic plague (1924)
      * Croydon typhoid (1937)
      * NYC smallpox (1947)
-     * Wrocl/aw smallpox (1963)
+     * WrocÅaw smallpox (1963)
      * Yugoslav smallpox (1972)
-     * London flu (1972-1973)
+     * London flu (1972â1973)
      * Indian smallpox (1974)
      * Surat plague (1994)
-     * Malaysian Nipah virus (1998-1999)
+     * Malaysian Nipah virus (1998â1999)
 
    21st century
-     * SARS (2002-2004)
+     * SARS (2002â2004)
      * Midwest monkeypox (2003)
-     * Bird flu (2003-2005)
+     * Bird flu (2003â2005)
      * Singaporean dengue (2005)
      * Indian dengue (2006)
      * Chikungunya outbreaks (2006)
      * Pakistani dengue (2006)
      * Iraqi cholera (2007)
-     * Zimbabwean cholera (2008-2009)
-     * Madagascar plague (2008-2017)
+     * Zimbabwean cholera (2008â2009)
+     * Madagascar plague (2008â2017)
      * Bolivian dengue (2009)
      * Gujarat hepatitis (2009)
-     * Western African meningitis (2009-2010)
-     * Haiti cholera (2010-2019)
+     * Western African meningitis (2009â2010)
+     * Haiti cholera (2010â2019)
      * Pakistani dengue (2011)
      * Darfur yellow fever (2012)
      * MERS (2012)
      * Singaporean dengue (2013)
      * Swansea measles (2013)
-     * Chikungunya (2013-2014)
-     * Western African Ebola (2013-2016)
+     * Chikungunya (2013â2014)
+     * Western African Ebola (2013â2016)
      * DR Congo Ebola (2014)
      * Madagascar plague (2014)
      * Odisha hepatitis (2014)
      * Polio declaration (2014)
      * Indian swine flu (2015)
      * South Korean MERS (2015)
-     * Zika (2015-2016)
+     * Zika (2015â2016)
      * Angolan yellow fever (2016)
-     * Yemeni cholera (2016-2022)
+     * Yemeni cholera (2016â2022)
      * Gorakhpur Japanese encephalitis (2017)
      * Saudi Arabian MERS (2018)
      * Kerala Nipah virus (2018)
-     * Équateur province Ebola (2018)
-     * Kivu Ebola (2018-2020)
+     * Ãquateur province Ebola (2018)
+     * Kivu Ebola (2018â2020)
      * Madagascar measles (2018)
      * Samoa measles (2019)
      * Philippine measles (2019)
@@ -7810,43 +7809,43 @@ Medical journals
      * New York measles (2019)
      * Kuala Koh measles (2019)
      * Tonga measles (2019)
-     * DRC measles (2019-2020)
-     * New Zealand measles (2019-2020)
+     * DRC measles (2019â2020)
+     * New Zealand measles (2019â2020)
      * Singaporean dengue (2020)
-     * Uganda Ebola (2022-2023)
+     * Uganda Ebola (2022â2023)
      * Jamaica dengue (2023)
-     * Bangsamoro measles (2023-present)
+     * Bangsamoro measles (2023âpresent)
      * 2024 Latin American dengue
      * Argentina (2024)
-     * Sudanese cholera epidemic (2024-2025)
-     * Kasaï Province Ebola (2025-present)
+     * Sudanese cholera epidemic (2024â2025)
+     * KasaÃ¯ Province Ebola (2025âpresent)
      * New Zealand measles (2025)
 
    Global
 
-     * First plague pandemic (541-767)
-     * Second plague pandemic (1348-19th century)
+     * First plague pandemic (541â767)
+     * Second plague pandemic (1348â19th century)
      * Influenza pandemic (1510)
-     * Influenza pandemic (1557-1559)
-     * First cholera pandemic (1816-1826)
-     * Second cholera pandemic (1829-1851)
-     * Third cholera pandemic (1852-1860)
-     * Third plague pandemic (1855-1860)
-     * Fourth cholera pandemic (1863-1879)
-     * Fifth cholera pandemic (1881-1896)
-     * Russian flu (1889-1890)
-     * Sixth cholera pandemic (1899-1923)
-     * Spanish flu (1918-1920)
-     * encephalitis lethargica epidemic (1919-1930)
-     * Asian flu (1957-1958)
-     * Seventh cholera pandemic (1961-1975)
-     * Hong Kong flu (1968-1970)
-     * Russian flu pandemic (1977-1979)
-     * HIV/AIDS (1981-present)
-     * Swine flu (2009-2010)
-     * COVID-19 (2019-present)
-     * Mpox (clade II) outbreak (2022-2023)
-     * Mpox (clade Ib) epidemic (2023-2025)
+     * Influenza pandemic (1557â1559)
+     * First cholera pandemic (1816â1826)
+     * Second cholera pandemic (1829â1851)
+     * Third cholera pandemic (1852â1860)
+     * Third plague pandemic (1855â1860)
+     * Fourth cholera pandemic (1863â1879)
+     * Fifth cholera pandemic (1881â1896)
+     * Russian flu (1889â1890)
+     * Sixth cholera pandemic (1899â1923)
+     * Spanish flu (1918â1920)
+     * encephalitis lethargica epidemic (1919â1930)
+     * Asian flu (1957â1958)
+     * Seventh cholera pandemic (1961â1975)
+     * Hong Kong flu (1968â1970)
+     * Russian flu pandemic (1977â1979)
+     * HIV/AIDS (1981âpresent)
+     * Swine flu (2009â2010)
+     * COVID-19 (2019âpresent)
+     * Mpox (clade II) outbreak (2022â2023)
+     * Mpox (clade Ib) epidemic (2023â2025)
 
      * v
      * t
@@ -7881,10 +7880,10 @@ Medical journals
 
    Major epidemics
 
-     * Black Death (1346-1353)
-     * Spanish flu (1918-1920)
-     * HIV/AIDS pandemic (1981-present)
-     * COVID-19 pandemic (2019-present*)
+     * Black Death (1346â1353)
+     * Spanish flu (1918â1920)
+     * HIV/AIDS pandemic (1981âpresent)
+     * COVID-19 pandemic (2019âpresent*)
 
    Other
 
@@ -8149,7 +8148,7 @@ Medical journals
      * This page was last edited on 1 January 2026, at 20:21 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        4.0 License; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       agree to the Terms of Use and Privacy Policy. WikipediaÂ® is a
        registered trademark of the Wikimedia Foundation, Inc., a
        non-profit organization.
 

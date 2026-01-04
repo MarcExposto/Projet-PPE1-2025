@@ -1,45 +1,45 @@
 
    Sfen In English
 
-   RGN > Sciences et techniques > La durée de fonctionnement des enceintes
+   RGN > Sciences et techniques > La durÃ©e de fonctionnement des enceintes
    de confinement
 
-La durée de fonctionnement des enceintes de confinement
+La durÃ©e de fonctionnement des enceintes de confinement
 
-   Publié le 30 avril 2015 - Mis à jour le 28 septembre 2021
+   PubliÃ© le 30 avril 2015 - Mis Ã  jour le 28 septembre 2021
    ilotnucleaire
 
-Deux conceptions d'enceintes de confinement
+Deux conceptions dâenceintes de confinement
 
-   Comme son nom l'indique, l'enceinte doit confiner les produits
-   radioactifs présents dans l'atmosphère du bâtiment réacteur en
-   situation accidentelle, pour protéger l'homme et son environnement.
-   Pour cela, elle doit à la fois rester intègre alors que la pression
-   interne est amenée à augmenter du fait de la vaporisation plus ou moins
-   rapide du fluide primaire (fonction tenue mécanique), et ne pas laisser
-   les produits radioactifs s'échapper vers l'extérieur (fonction
-   confinement). L'étanchéité de l'enceinte repose aussi sur celle des
-   circuits qui la traversent et dont la problématique sera évoquée
-   brièvement, car ces organes d'isolement sont réparables et
-   remplaçables.
+   Comme son nom lâindique, lâenceinte doit confiner les produits
+   radioactifs prÃ©sents dans lâatmosphÃ¨re du bÃ¢timent rÃ©acteur en
+   situation accidentelle, pour protÃ©ger lâhomme et son environnement.
+   Pour cela, elle doit Ã  la fois rester intÃ¨gre alors que la pression
+   interne est amenÃ©e Ã  augmenter du fait de la vaporisation plus ou moins
+   rapide du fluide primaire (fonction tenue mÃ©canique), et ne pas laisser
+   les produits radioactifs sâÃ©chapper vers lâextÃ©rieur (fonction
+   confinement). LâÃ©tanchÃ©itÃ© de lâenceinte repose aussi sur celle des
+   circuits qui la traversent et dont la problÃ©matique sera Ã©voquÃ©e
+   briÃ¨vement, car ces organes dâisolement sont rÃ©parables et
+   remplaÃ§ables.
 
 --
-   d'une enceinte en béton armé précontraint qui assure la tenue
-   mécanique, à l'intérieur de laquelle un liner (peau) métallique est
-   ancré sur toute la surface, dôme et radier inclus. Le liner, utilisé
-   comme coffrage perdu lors du bétonnage, assure la fonction de
-   confinement. Le béton ne porte ainsi aucun requis d'étanchéité. La
-   précontrainte permet de créer dans la paroi de l'enceinte un état
-   mécanique de compression, cette compression s'opposant lors d'un
-   hypothétique accident aux tensions créées par la mise en pression de
-   l'enceinte. L'état de contrainte ainsi atteint permet alors de ne pas
+   dâune enceinte en bÃ©ton armÃ© prÃ©contraint qui assure la tenue
+   mÃ©canique, Ã  lâintÃ©rieur de laquelle un liner (peau) mÃ©tallique est
+   ancrÃ© sur toute la surface, dÃ´me et radier inclus. Le liner, utilisÃ©
+   comme coffrage perdu lors du bÃ©tonnage, assure la fonction de
+   confinement. Le bÃ©ton ne porte ainsi aucun requis dâÃ©tanchÃ©itÃ©. La
+   prÃ©contrainte permet de crÃ©er dans la paroi de lâenceinte un Ã©tat
+   mÃ©canique de compression, cette compression sâopposant lors dâun
+   hypothÃ©tique accident aux tensions crÃ©Ã©es par la mise en pression de
+   lâenceinte. LâÃ©tat de contrainte ainsi atteint permet alors de ne pas
 --
-   pouvant s'ouvrir lorsque la paroi est comprimée. L'enceinte interne est
-   protégée des agressions extérieures par une seconde enceinte, en béton
-   armé. L'espace créé entre les deux enceintes - l'Espace entre-enceintes
-   (EEE) - permet de collecter la fuite de l'enceinte interne (aspect
-   confinement) et sa filtration avant rejet par un système actif de
-   filtres et de ventilateurs d'extraction (aspect dynamique). Pour les
-   EDP, on parle donc d'un concept mixte d'étanchéité : statique pour la
-   paroi interne et dynamique pour l'espace entre-enceintes.
+   pouvant sâouvrir lorsque la paroi est comprimÃ©e. Lâenceinte interne est
+   protÃ©gÃ©e des agressions extÃ©rieures par une seconde enceinte, en bÃ©ton
+   armÃ©. Lâespace crÃ©Ã© entre les deux enceintes â lâEspace entreâenceintes
+   (EEE) â permet de collecter la fuite de lâenceinte interne (aspect
+   confinement) et sa filtration avant rejet par un systÃ¨me actif de
+   filtres et de ventilateurs dâextraction (aspect dynamique). Pour les
+   EDP, on parle donc dâun concept mixte dâÃ©tanchÃ©itÃ©â: statique pour la
+   paroi interne et dynamique pour lâespace entre-enceintes.
 

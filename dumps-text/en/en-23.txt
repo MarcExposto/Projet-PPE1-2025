@@ -10,18 +10,18 @@
      * Activities
      * Location and contact
 
-     * Español Contenido en español
-     * Català Contingut en català
+     * EspaÃ±ol Contenido en espaÃ±ol
+     * CatalÃ  Contingut en catalÃ 
      * English Current language Spanish
 
-   COLLABORATE El Meu Clínic .This link opens in a new tab.
-     * Español Contenido en español
-     * Català Contingut en català
+   COLLABORATE El Meu ClÃ­nic .This link opens in a new tab.
+     * EspaÃ±ol Contenido en espaÃ±ol
+     * CatalÃ  Contingut en catalÃ 
      * English Current language Spanish
 
    (BUTTON)
    (BUTTON) Search
-   COLLABORATE El Meu Clínic .This link opens in a new tab.
+   COLLABORATE El Meu ClÃ­nic .This link opens in a new tab.
 
      * Healthcare
           + Diseases, symptoms and health conditions
@@ -42,7 +42,7 @@
           + Teaching
           + Students
           + Residents
-          + SIMClínic
+          + SIMClÃ­nic
           + Training stays
           + Training for professionals
      * Patients and companions
@@ -53,13 +53,13 @@
      * Activities
      * Location and contact
 
-     * Español Contenido en español
-     * Català Contingut en català
+     * EspaÃ±ol Contenido en espaÃ±ol
+     * CatalÃ  Contingut en catalÃ 
      * English Current language Spanish
 
-   COLLABORATE El Meu Clínic .This link opens in a new tab.
-     * Español Contenido en español
-     * Català Contingut en català
+   COLLABORATE El Meu ClÃ­nic .This link opens in a new tab.
+     * EspaÃ±ol Contenido en espaÃ±ol
+     * CatalÃ  Contingut en catalÃ 
      * English Current language Spanish
 
    Search the whole web
@@ -184,7 +184,7 @@ Behavioural aspects
    Try to maintain the greatest number of basic routines.
    Person doing yoga
 
-   Do enjoyable and relaxing activities that don't require going anywhere.
+   Do enjoyable and relaxing activities that donât require going anywhere.
 
 Working remotely
 
@@ -233,7 +233,7 @@ Lockdown and childhood
    lockdown, you are advised to:
    Child asking questions to an adult
 
-   Be attentive, answer children's questions and keep them well-informed.
+   Be attentive, answer childrenâs questions and keep them well-informed.
    Adult who listens to and understands a child's concerns
 
    Listen to and validate their emotional experiences and their ways of
@@ -267,7 +267,7 @@ Lockdown and childhood
    Allow children to use electronic devices reasonably.
 
    Blog Suport a les Maternitats de la Unidad de Salud Mental Perinatal y
-   el Servicio de Psiquiatría y Psicología Infantil y Juvenil (cápsula
+   el Servicio de PsiquiatrÃ­a y PsicologÃ­a Infantil y Juvenil (cÃ¡psula
    Infancia y COVID-19)
    Read more Exercise before and after periods of isolation
    PortalClinic home
@@ -300,11 +300,11 @@ Substantiated information by:
        Service
        Eduard Vieta Pascual Psychiatrist Psychiatry and Psychology Head of
        Department
-       Gema Maria Lledó Ibáñez Médico internista Servicio de enfermedades
+       Gema Maria LledÃ³ IbÃ¡Ã±ez MÃ©dico internista Servicio de enfermedades
        autoinmunes
-       Jacobo Sellarés Torres Pneumologist Pneumology and Respiratory
+       Jacobo SellarÃ©s Torres Pneumologist Pneumology and Respiratory
        Allergy Service
-       Josep M. Miró Meda
+       Josep M. MirÃ³ Meda
        Josep Maria Peri Clinical psychologist
        Maica Rubinat Specialist in Sports Medicine General Secretary for
        Sport and Physical Activity of the Generalitat de Catalunya
@@ -313,9 +313,9 @@ Substantiated information by:
        Published: 12 March 2020
        Updated: 12 March 2020
        The donations that can be done through this webpage are exclusively
-       for the benefit of Hospital Clínic of Barcelona through Fundació
-       Clínic per a la Recerca Biomèdica and not for BBVA Foundation,
-       entity that collaborates with the project of PortalClínic.
+       for the benefit of Hospital ClÃ­nic of Barcelona through FundaciÃ³
+       ClÃ­nic per a la Recerca BiomÃ¨dica and not for BBVA Foundation,
+       entity that collaborates with the project of PortalClÃ­nic.
 
 Subscribe
        Receive the latest updates related to this content.
@@ -344,9 +344,9 @@ patients with Multiple Sclerosis
 6 myths about vaccines
        3 May 2023
 
-Clínic-IDIBAPS, a key role in developing the Hipra vaccine
+ClÃ­nic-IDIBAPS, a key role in developing the Hipra vaccine
 
-Subscribe to the Newsletter of Clínic
+Subscribe to the Newsletter of ClÃ­nic
        Receive the latest news from our institution directly to your
        email.
        (*) Mandatory fields
@@ -375,7 +375,7 @@ Thanks for your subscription!
           + Strategic Plan
           + Acreditaciones
        Join our job pool
-       Hospital Clínic de Barcelona looks for talented professionals to
+       Hospital ClÃ­nic de Barcelona looks for talented professionals to
        cover job openings on a regular basis.
        Sign up
        Follow us
@@ -393,7 +393,7 @@ Thanks for your subscription!
                o Be healthy
                o Urgencies
                o Patients and companions
-               o Work with Clínic
+               o Work with ClÃ­nic
           + (BUTTON) Research
          Research
                o Home
@@ -417,7 +417,7 @@ Thanks for your subscription!
           + Transparency portal
           + Privacy policy
           + Complaint channel
-          + Español Contenido en español
-          + Català Contingut en català
+          + EspaÃ±ol Contenido en espaÃ±ol
+          + CatalÃ  Contingut en catalÃ 
           + English Current language Spanish
-       © Clínic Barcelona 2026
+       Â© ClÃ­nic Barcelona 2026

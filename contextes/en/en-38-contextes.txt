@@ -75,7 +75,7 @@ Responses
    short-term measures to reorganise, regroup, rebalance resources, and
    protect the health care system.^[268] As of 26 March 2020, 1.7 billion
    people worldwide were under some form of lockdown.^[269] This increased
-   to 3.9 billion people by the first week of April--more than half the
+   to 3.9 billion people by the first week of Aprilâmore than half the
    world's population.^[270]^[271]
 
    In several countries, protests rose against restrictions such as
@@ -110,7 +110,7 @@ Asia
    The first case in India was reported on 30 January 2020. India ordered
    a nationwide lockdown starting 24 March 2020,^[290] with a phased
    unlock beginning 1 June 2020. Six cities accounted for around half of
-   reported cases--Mumbai, Delhi, Ahmedabad, Chennai, Pune and
+   reported casesâMumbai, Delhi, Ahmedabad, Chennai, Pune and
    Kolkata.^[291] Post-lockdown, the Government of India introduced a
    contact tracking app called Aarogya Setu to help authorities manage
    contact tracing and vaccine distribution.^[292] India's vaccination
@@ -162,7 +162,7 @@ United States
 --
    time when hunger and undernourishment were rising- an estimated
    690 million people lacked food security in 2019.^[555] Food access fell
-   - driven by falling incomes, lost remittances, and disruptions to food
+   â driven by falling incomes, lost remittances, and disruptions to food
    production.^[556] In some cases, food prices rose.^[553]^[555] The
    pandemic and its accompanying lockdowns and travel restrictions slowed
    movement of food aid. According to the WHO, 811 million people were
@@ -216,7 +216,7 @@ Economic
        If We're Still in a Pandemic". TIME. Retrieved 31 May 2024.
 --
    estimates of excess mortality associated with the COVID-19 pandemic".
-   Nature. 613 (7942): 130-137. Bibcode:2023Natur.613..130M.
+   Nature. 613 (7942): 130â137. Bibcode:2023Natur.613..130M.
    doi:10.1038/s41586-022-05522-2. PMC 9812776. PMID 36517599.
 
      ^ "Coronavirus Death Toll Climbs in China, and a Lockdown Widens".
@@ -239,7 +239,7 @@ Economic
      ^ "Coronavirus: Half of humanity now on lockdown as 90 countries call
    for confinement". Euronews. 3 April 2020.
 
-     ^ "A third of the global population is on coronavirus lockdown -
+     ^ "A third of the global population is on coronavirus lockdown â
    here's our constantly updated list of countries and restrictions".
    Business Insider. 28 March 2020.
 
@@ -279,8 +279,8 @@ Economic
 
      ^ "COVID-19's epicentre again: Europe faces fresh reckoning".
 --
-     ^ Ansede M (22 April 2020). "El análisis genético sugiere que el
-   coronavirus ya circulaba por España a mediados de febrero". El País (in
+     ^ Ansede M (22 April 2020). "El anÃ¡lisis genÃ©tico sugiere que el
+   coronavirus ya circulaba por EspaÃ±a a mediados de febrero". El PaÃ­s (in
    Spanish). Retrieved 23 April 2020.
 
      ^ "Spain poised to tighten coronavirus lockdown after record daily
@@ -295,7 +295,7 @@ Economic
      ^ "Spain won't declare another national state of alarm, allows
    regions to lockdown if necessary". Euroactiv. 26 August 2020.
 
-     ^ ^a ^b Ritchie H, Mathieu E, Rodés-Guirao L, Appel C, Giattino C,
+     ^ ^a ^b Ritchie H, Mathieu E, RodÃ©s-Guirao L, Appel C, Giattino C,
    Ortiz-Ospina E, et al. (5 March 2020). "Coronavirus Pandemic
    (COVID-19)". Our World in Data.
 
@@ -305,8 +305,8 @@ Economic
      ^ Milne R (8 May 2020). "Architect of Sweden's no-lockdown strategy
    insists it will pay off". Financial Times. Retrieved 16 August 2020.
 
-     ^ "Sverige diskuterar inte exitstrategier: "Vår strategi är hållbar,
-   vi kan ligga kvar med den en väldigt lång tid"". svenska.yle.fi (in
+     ^ "Sverige diskuterar inte exitstrategier: "VÃ¥r strategi Ã¤r hÃ¥llbar,
+   vi kan ligga kvar med den en vÃ¤ldigt lÃ¥ng tid"". svenska.yle.fi (in
 --
      ^ Boseley S (16 March 2020). "New data, new policy: why UK's
    coronavirus strategy changed". The Guardian. Retrieved 17 March 2020.
@@ -368,7 +368,7 @@ Economic
      * timeline
           + 2020
 --
-                    # July-December
+                    # JulyâDecember
                o 2021
                o 2022
           + London

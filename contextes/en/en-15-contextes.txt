@@ -14,7 +14,7 @@ Evacuation Procedures
 
 Lockdown Procedures
 
-   Temporary security measures to stay safe inside
+   ââTemporary security measures to stay safe inside
 
 Shelter-in-Place (SIP) Procedures
 --
@@ -26,8 +26,8 @@ Lockdown Procedures
 
    Page Content
 
-   Lockdown is a temporary sheltering technique used to protect employees
-   from a security threat outside the facility.
+   ââLockdown is a temporary sheltering technique used to protect
+   employees from a security threat outside the facility.â
      * Stay calm and follow the instructions of law enforcement if
        provided.
      * Lock doors and close window shades.

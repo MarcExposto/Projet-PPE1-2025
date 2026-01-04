@@ -4,34 +4,34 @@
 
    (BUTTON) Menu
    (BUTTON) Fermer
-     * (BUTTON) L'enrichissement de la langue française
+     * (BUTTON) Lâenrichissement de la langue franÃ§aise
           + Qui sommes-nous ?
-          + Le dispositif d'enrichissement de la langue française
-          + Les groupes d'experts (GE) ou collèges
+          + Le dispositif d'enrichissement de la langue franÃ§aise
+          + Les groupes d'experts (GE) ou collÃ¨ges
           + Les acteurs du dispositif
-          + Qu'est-ce que la terminologie ?
+          + Quâest-ce que la terminologie ?
           + Domaines
           + Recommandations d'usage
           + Toponymie
-          + Les termes recommandés, objets de recherche
-     * (BUTTON) S'informer
+          + Les termes recommandÃ©s, objets de recherche
+     * (BUTTON) Sâinformer
           + Toutes nos publications
-          + Listes publiées
+          + Listes publiÃ©es
           + Infolettres parues
-          + La terminologie en vidéo et en audio
-          + Abonnez-vous à la lettre d'information
-          + Abonnement aux derniers termes publiés
+          + La terminologie en vidÃ©o et en audio
+          + Abonnez-vous Ã  la lettre d'information
+          + Abonnement aux derniers termes publiÃ©s
           + Notre application
-     * (BUTTON) Actualités
-          + En français dans le texte
+     * (BUTTON) ActualitÃ©s
+          + En franÃ§ais dans le texte
           + Colloques, manifestations et parutions
-          + Clins d'oeil
+          + Clins dâÅil
      * Autres ressources terminologiques
-     * Boîte à idées
+     * BoÃ®te Ã  idÃ©es
 
-   (BUTTON) Voir le fil d'Ariane
+   (BUTTON) Voir le fil dâAriane
     1. Accueil
-    2. Résultats de recherche
+    2. RÃ©sultats de recherche
     3. confinement dynamique
 
 Recherche
@@ -39,7 +39,7 @@ Recherche
 Rechercher
 
    ____________________
-   [Tous les domaines_______________]
+   [Tous les domaines________________]
    (BUTTON) Rechercher
    (BUTTON)
 
@@ -53,58 +53,58 @@ confinement dynamique
 
 Domaine
 
-   NUCLÉAIRE
+   NUCLÃAIRE
 
-Définition
+DÃ©finition
 
-   Confinement assuré par une circulation maîtrisée d'air ou de gaz.
+   Confinement assurÃ© par une circulation maÃ®trisÃ©e dâair ou de gaz.
 
 Note
 
-   1. Le confinement dynamique intervient en complément d'un confinement
+   1. Le confinement dynamique intervient en complÃ©ment dâun confinement
    statique.
-   2. La circulation de l'air ou du gaz se fait des zones non contaminées
-   aux zones les plus contaminées.
+   2. La circulation de lâair ou du gaz se fait des zones non contaminÃ©es
+   aux zones les plus contaminÃ©es.
 
 Voir aussi
 
-     * barrière de confinement
+     * barriÃ¨re de confinement
      * confinement
      * confinement statique
-     * système de confinement
+     * systÃ¨me de confinement
 
-Équivalent étranger
+Ãquivalent Ã©tranger
 
    dynamic confinement (en), dynamic containment (en)
-   Télécharger au format RTF
+   TÃ©lÃ©charger au format RTF
    (BUTTON) Haut de page
 
 Menu prefooter
 
-Derniers termes publiés
+Derniers termes publiÃ©s
 
-     * Je m'abonne
+     * Je mâabonne
 
 Infolettre
 
-     * Je m'abonne
+     * Je mâabonne
      * Infolettres parues
 
-Données ouvertes
+DonnÃ©es ouvertes
 
-     * Je télécharge les termes de FranceTerme au format XML
+     * Je tÃ©lÃ©charge les termes de FranceTerme au format XML
 
 Contact
 
-     * J'écris à FranceTerme
+     * JâÃ©cris Ã  FranceTerme
 
-   république
-   française
+   rÃ©publique
+   franÃ§aise
      * Plan du site
-     * Mentions légales
+     * Mentions lÃ©gales
      * Qui sommes-nous ?
-     * Partagez votre expérience pour améliorer les services publics
-     * Accessibilité : partiellement conforme
+     * Partagez votre expÃ©rience pour amÃ©liorer les services publics
+     * AccessibilitÃ© : partiellement conforme
 
      * legifrance.gouv.fr
      * gouvernement.fr

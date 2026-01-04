@@ -1,4 +1,4 @@
-    #Digital Provisions » Feed Digital Provisions » Comments Feed JSON
+    #Digital Provisions Â» Feed Digital Provisions Â» Comments Feed JSON
    oEmbed (JSON) oEmbed (XML)
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WQ2BXNVB
@@ -167,7 +167,7 @@ Increased Deterrence Against Threats
 
 Seamless Integration with Other Security Measures
 
-   Lockdown systems work in harmony with a school's broader security
+   Lockdown systems work in harmony with a schoolâs broader security
    infrastructure, creating a multi-layered defense mechanism. By
    integrating with video surveillance, alarm systems, access control,
    emergency lighting, and AI-driven analytics, these systems provide
@@ -181,7 +181,7 @@ Compliance with Safety Regulations
    advanced lockdown system enhances compliance with safety standards and
    reduces liability risks.
 
-   One key regulation is Alyssa's Law, which requires public K-12 schools
+   One key regulation is Alyssaâs Law, which requires public K-12 schools
    in certain states, including New York, to consider installing silent
    panic alarms that directly notify law enforcement in emergencies. This
    law aims to improve response times and enhance school security, with
@@ -202,7 +202,7 @@ Peace of Mind for Parents and Educators
    At Digital Provisions, we specialize in designing and implementing
    state-of-the-art security solutions tailored to your unique needs. Our
    Lockdown Solution provides rapid response capabilities, securing your
-   facility at the push of a button. Ready to enhance your school's
+   facility at the push of a button. Ready to enhance your schoolâs
    security? Get a free on-site security assessment today and discover how
    our lockdown solutions can keep your students safe!
 
@@ -218,7 +218,7 @@ Recent Post
 
    Ethan Phan2026-01-02T17:39:14+00:00
 
-Video Surveillance Strategies for High-Risk Healthcare Areas (ICUs, ERs and
+Video Surveillance Strategies for HighâRisk Healthcare Areas (ICUs, ERs and
 Behavioral Health Units)
 
      * camera overlooking campus grounds
@@ -232,7 +232,7 @@ Universities
 
    Ethan Phan2025-11-12T12:52:32+00:00
 
-How to Secure Multi-Site Municipal Facilities: Protecting Libraries, Rec
+How to Secure MultiâSite Municipal Facilities: Protecting Libraries, Rec
 Centers & Civic Buildings
 
      * A female pharmacist wearing a blue face mask and sterile gloves
@@ -277,7 +277,7 @@ How Integrated Access Control Strengthens Pharmacy Security and Compliance
      * Transportation
      * Industrial, Logistics, and Data Facilities
 
-   © 2025  Digital Provisions. All Rights Reserved.
+   Â© 2025  Digital Provisions. All Rights Reserved.
    Terms & Conditions | Privacy Policy
 
    Page load link

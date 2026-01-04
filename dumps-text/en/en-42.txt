@@ -1,0 +1,418 @@
+   #alternate
+
+   â
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5P3SZGS
+
+   Skip to content
+
+   (BUTTON)
+   Investopedia
+   Trade
+     * (BUTTON)
+       Search ____________________ (BUTTON) (BUTTON)
+       Please fill out this field.
+     * Newsletters
+
+   Search ____________________ (BUTTON)
+   Please fill out this field.
+     * News
+       (BUTTON) News
+          + Markets
+          + Companies
+          + Earnings
+          + CD Rates
+          + Mortgage Rates
+          + Economy
+          + Government
+          + Crypto
+          + Live Markets News
+          + Personal Finance
+          + View All
+     * Investing
+       (BUTTON) Investing
+          + Stocks
+          + Cryptocurrency
+          + Bonds
+          + ETFs
+          + Options and Derivatives
+          + Commodities
+          + Trading
+          + Automated Investing
+          + Brokers
+          + Fundamental Analysis
+          + View All
+     * Simulator
+       (BUTTON) Simulator
+          + Login / Portfolio
+          + Trade
+          + Research
+          + My Games
+          + Leaderboard
+     * Banking
+       (BUTTON) Banking
+          + Savings Accounts
+          + Certificates of Deposit (CDs)
+          + Money Market Accounts
+          + Checking Accounts
+          + View All
+     * Personal Finance
+       (BUTTON) Personal Finance
+          + Budgeting and Saving
+          + Personal Loans
+          + Insurance
+          + Mortgages
+          + Credit and Debt
+          + Student Loans
+          + Taxes
+          + Credit Cards
+          + Financial Literacy
+          + Retirement
+          + View All
+     * Economy
+       (BUTTON) Economy
+          + Government and Policy
+          + Monetary Policy
+          + Fiscal Policy
+          + Economics
+          + View All
+     * Reviews
+       (BUTTON) Reviews
+          + Best Online Brokers
+          + Best Crypto Exchanges
+          + Best Savings Rates
+          + Best CD Rates
+          + Best Life Insurance
+          + Best Mortgage Rates
+          + Best Robo-Advisors
+          + Best Personal Loans
+          + Best Debt Relief Companies
+          + View All
+
+     * Newsletters
+
+   Follow Us
+     *
+     *
+     *
+     *
+     *
+
+     * News
+          + Markets
+          + Companies
+          + Earnings
+          + CD Rates
+          + Mortgage Rates
+          + Economy
+          + Government
+          + Crypto
+          + Live Markets News
+          + Personal Finance
+          + View All
+     * Investing
+          + Stocks
+          + Cryptocurrency
+          + Bonds
+          + ETFs
+          + Options and Derivatives
+          + Commodities
+          + Trading
+          + Automated Investing
+          + Brokers
+          + Fundamental Analysis
+          + View All
+     * Simulator
+          + Login / Portfolio
+          + Trade
+          + Research
+          + My Games
+          + Leaderboard
+     * Banking
+          + Savings Accounts
+          + Certificates of Deposit (CDs)
+          + Money Market Accounts
+          + Checking Accounts
+          + View All
+     * Personal Finance
+          + Budgeting and Saving
+          + Personal Loans
+          + Insurance
+          + Mortgages
+          + Credit and Debt
+          + Student Loans
+          + Taxes
+          + Credit Cards
+          + Financial Literacy
+          + Retirement
+          + View All
+     * Economy
+          + Government and Policy
+          + Monetary Policy
+          + Fiscal Policy
+          + Economics
+          + View All
+     * Reviews
+          + Best Online Brokers
+          + Best Crypto Exchanges
+          + Best Savings Rates
+          + Best CD Rates
+          + Best Life Insurance
+          + Best Mortgage Rates
+          + Best Robo-Advisors
+          + Best Personal Loans
+          + Best Debt Relief Companies
+          + View All
+
+     * Top Stories
+     * How To Make Financial Resolutions That Actually Work
+     * What the Average Social Security Benefit Will Look Like in 2026
+     * How 2026 Tax Bracket Changes Will Affect Retirees
+     * How to Tell if You're Wealthier Than You Think
+
+   IFRAME: about:blank
+
+Lockdown: What It Is, How It Works, Example
+
+   By
+   Jason Fernando
+   [ld+json] [jason_mugshot__jason_fernando-5bfc261946e0fb00260a1cea.jpg]
+   Full Bio
+     *
+
+   Jason Fernando is a professional investor and writer who enjoys
+   tackling and communicating complex business and financial problems.
+   Learn about our editorial policies
+   Updated April 28, 2025
+   Reviewed by Julius Mansa
+   (BUTTON) Close
+   Definition
+   A lockdown, or lockup, is a designated period when certain
+   shareholders, such as company insiders, are prohibited from selling
+   their stock, often following an initial public offering (IPO).
+
+What Is Lockdown?
+
+   A lockdown, also known as a lockup, is a period of time in which
+   holders of a companyâs stock are restricted from selling their shares.
+
+Key Takeaways
+
+     * A lockdown is a period of time in which holders of a companyâs
+       stock are restricted from selling their shares.
+     * Lockdown periods typically last 90 to 180 days and while not
+       mandatory, they're often requested by IPO underwriters.
+     * Lockdowns protect companies from excessive selling pressure
+       following their IPO.
+     * The period following the expiration of the lockdown can be
+       volatile, as holders sell shares and new investors take their
+       place.
+
+Understanding Lockdown
+
+   Lockdown restrictions are typically put in place in anticipation of a
+   companyâs initial public offering (IPO). They generally affect company
+   insiders such as founders, executives, and early investors.
+
+   Lockdown periods are an important part of the IPO process. Company
+   insiders are often eager to sell their shares following an IPO to cash
+   out of their investment. However, too much selling might frighten new
+   investors who may interpret it as a lack of faith in the companyâs
+   future prospects.
+
+   Lockdown periods are a compromise solution that requires insiders to
+   wait, typically for 90 to 180 days, before selling their shares.
+   Although lockdown periods are not required by law, they are frequently
+   requested by underwriters who want to ensure a successful IPO.
+
+Important
+
+   Because underwriters often insist on a lockdown period, investors
+   should understand that the lack of selling by insiders during the
+   lockdown doesn't necessarily indicate they're confident in the future
+   of the company. They may wish to sell but are temporarily prevented
+   from doing so.
+
+   The end of the lockdown can be turbulent for investors, because it's
+   often associated with increased trading volume. Insiders who are
+   finally free to sell their shares may do so, putting downward pressure
+   on the share price.
+
+   At the same time, new investors who feel confident in the prospects of
+   the company might take this opportunity to purchase shares at
+   relatively low prices. For some investors, such as pension funds and
+   other institutional buyers, this increase in liquidity may make the
+   company more attractive.
+
+Lockdown Example
+
+   A notable example of a lockdown period is that of Facebook (FB), which
+   completed its IPO in May of 2012 at a price of $38 per share.
+   Facebookâs IPO included a 180-day lockdown period which ended in
+   November 2012.
+
+   The companyâs shares declined to below $20 per share shortly after its
+   IPO, but rose above its $38 offer price in the months following the
+   expiration of its lockdown period. The shares had gained nearly 10-fold
+   by mid-2021.
+
+   Although many insiders sold shares in Facebook following the end of the
+   lockdown period, new retail and institutional investors quickly took
+   their place. In December 2013, Standard & Poorâs (S&P) announced that
+   Facebook would be included in the S&P 500 index. This announcement
+   further supported the continued rise of its share price by making the
+   shares accessible to exchange-traded funds (ETFs) and other investment
+   vehicles linked to the S&P 500 index.
+   Compare Accounts
+   (BUTTON) Advertiser Disclosure
+   (BUTTON) Ã
+   The offers that appear in this table are from partnerships from which
+   Investopedia receives compensation. This compensation may impact how
+   and where listings appear. Investopedia does not include all offers
+   available in the marketplace.
+   Read more
+     * Investing
+     * Investing Basics
+
+   Partner Links
+   Take the Next Step to Invest
+   (BUTTON) Advertiser Disclosure
+   (BUTTON) Ã
+   The offers that appear in this table are from partnerships from which
+   Investopedia receives compensation. This compensation may impact how
+   and where listings appear. Investopedia does not include all offers
+   available in the marketplace.
+
+Related Articles
+
+   [jason_mugshot__jason_fernando-5bfc261946e0fb00260a1cea.jpg]
+   [investing9-5bfc2b8d46e0fb0051bddfee.jpg]
+   CINS Number Explained: Key Facts and Importance
+   [investing9-5bfc2b8d46e0fb0051bddfee.jpg]
+   [investing1-5bfc2b9046e0fb005119b292.jpg]
+   Issue: Definition, Purposes, Types of Securities Offerings
+   [investing1-5bfc2b9046e0fb005119b292.jpg]
+   [investing9-5bfc2b8d46e0fb0051bddfee.jpg]
+   What Does It Mean to "Beat the Market"? Investor Insights
+   Close-up of New York Stock Exchange with American flags out front and
+   the Wall St street sign in front Close-up of New York Stock Exchange
+   with American flags out front and the Wall St street sign in front
+   The Impact of Home Bias on Investment Portfolios
+   Businesswomen Discussing Ideas Businesswomen Discussing Ideas
+   Inflection Points in Business: Critical Changes and Examples
+   Investment Investment
+   Cash Investments: Safe and Short-Term Financial Strategies
+   Greenfield investing Greenfield investing
+   Understanding Direct Investment: Types, Examples, and Key Insights
+   Two managers share a desk, laptop, and financial reports to analyze the
+   same-store sales figures for the previous quarter. Two managers share a
+   desk, laptop, and financial reports to analyze the same-store sales
+   figures for the previous quarter.
+   Understanding Trailing Measures in Finance
+   An investor reviews financial charts and macroeconomic data on a
+   computer screen An investor reviews financial charts and macroeconomic
+   data on a computer screen
+   Top-Down Investing: Definition, Benefits, and Strategy Insights
+   [Top-downinvesting-127323a8ee6a42f2b5e4ca197cb60f82.jpg]
+   [rbv2_53-5bfc2b8ac9e77c0058770499.jpg]
+   Realized vs. Unrealized âPaperâ Profits: What Investors Need to Know
+   [rbv2_53-5bfc2b8ac9e77c0058770499.jpg]
+   [investing4-5bfc2b8ec9e77c0026b4f956.jpg]
+   Understanding Interest Sensitive Stocks and Their Market Impact
+   Two foreign business executives look at a large map of the world
+   showing stock markets where their company shares are listed. Two
+   foreign business executives look at a large map of the world showing
+   stock markets where their company shares are listed.
+   Understanding SEC Form F-1: Requirements and Examples for Foreign IPOs
+   [WhatIsSECFormF-1-89068a25b571469c8bad984fc1c683a2.jpg]
+   [77005273-5bfc2b8d4cedfd0026c11921.jpg]
+   Understanding Downside Protection: Techniques and Examples
+   [77005273-5bfc2b8d4cedfd0026c11921.jpg]
+   [147713035-5bfc2b96c9e77c005143f261.jpg]
+   Understanding Investment Products: Types, Benefits & Examples
+   Passive Income Passive Income
+   25 Best Passive Income Ideas to Make Money in 2025
+   [PassiveIncomeV2-1cccf2c4f9de4eef93deeef4b5714b68.jpg]
+   [investing5-5bfc2b8e46e0fb0026016f0e.jpg]
+   Understanding Purchase Price in Finance and Its Impact on Capital Gains
+
+   Investopedia
+   Newsletter Sign Up
+   Follow Us
+     *
+     *
+     *
+     *
+     *
+
+     * News
+     * Investing
+     * Simulator
+     * Banking
+     * Personal Finance
+     * Economy
+     * Reviews
+     * Dictionary
+
+     * About Us
+     * Editorial Process
+     * Careers
+     * Contact Us
+     * Privacy Policy
+     * Terms of Service
+     * Advertise
+     * (BUTTON) EU Privacy
+
+     * #
+     * A
+     * B
+     * C
+     * D
+     * E
+     * F
+     * G
+     * H
+     * I
+     * J
+     * K
+     * L
+     * M
+     * N
+     * O
+     * P
+     * Q
+     * R
+     * S
+     * T
+     * U
+     * V
+     * W
+     * X
+     * Y
+     * Z
+
+   Investopedia is part of the People Inc. publishing family.
+   Newsletter Sign Up (BUTTON)
+   Newsletter Sign Up (BUTTON)
+
+We Care About Your Privacy
+
+   We and our 100 partners store and/or access information on a device,
+   such as unique IDs in cookies to process personal data. You may accept
+   or manage your choices by clicking below, including your right to
+   object where legitimate interest is used, or at any time in the privacy
+   policy page. These choices will be signaled to our partners and will
+   not affect browsing data.
+
+We and our partners process data to provide:
+
+   Store and/or access information on a device. Use limited data to select
+   advertising. Create profiles for personalised advertising. Use profiles
+   to select personalised advertising. Create profiles to personalise
+   content. Use profiles to select personalised content. Measure
+   advertising performance. Measure content performance. Understand
+   audiences through statistics or combinations of data from different
+   sources. Develop and improve services. Use limited data to select
+   content. (BUTTON) List of Partners (vendors)
+   (BUTTON) Accept All (BUTTON) Reject All (BUTTON) Show Purposes
+   (BUTTON)

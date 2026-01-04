@@ -6,34 +6,34 @@
    ETF
    (BUTTON)
    English
-   (BUTTON) ×
+   (BUTTON) Ã
 
 Select site language
 
      * Afrikaans Automated
-     * B"lgarski Automated
-     * Cestina Automated
+     * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸ Automated
+     * ÄeÅ¡tina Automated
      * Dansk Automated
      * Deutsch Automated
-     * Ellynika' Automated
+     * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬ Automated
      * English
-     * Español Automated
+     * EspaÃ±ol Automated
      * Eesti Automated
      * Suomi Automated
-     * Français Automated
+     * FranÃ§ais Automated
      * Gaeilge Automated
      * Hrvatski Automated
      * Magyar Automated
      * Italiano Automated
-     * Lietuviu Automated
-     * Latviesu Automated
+     * LietuviÅ³ Automated
+     * LatvieÅ¡u Automated
      * Malti Automated
      * Nederlands Automated
      * Polski Automated
-     * Português Automated
-     * Româna Automated
-     * Slovencina Automated
-     * Slovenscina Automated
+     * PortuguÃªs Automated
+     * RomÃ¢nÄ Automated
+     * SlovenÄina Automated
+     * SlovenÅ¡Äina Automated
      * Svenska Automated
 
      *
@@ -57,16 +57,16 @@ Main navigation
                o Digital skills and learning
                o Employability and transition to work
                o Green skills
-               o Innovative teaching and learning - CNL
-               o Policy analysis and progress monitoring - Torino Process
+               o Innovative teaching and learning â CNL
+               o Policy analysis and progress monitoring â Torino Process
                o Qualifications and qualification systems
                o Quality assurance in vocational training
                o Skills demands analysis
                o Skills for enterprise development
                o Skills and migration
-               o Vocational excellence - ENE
+               o Vocational excellence â ENE
           + EU projects
-               o DARYA - Dialogue and action for resourceful youth in
+               o DARYA â Dialogue and action for resourceful youth in
                  Central Asia
                o Internationalising vocational excellence
                o Supporting education reforms and skills in the Eastern
@@ -77,7 +77,7 @@ Main navigation
                o Eastern Partnership
                o Southern and Eastern Mediterranean
                o Sub-Saharan Africa
-               o Western Balkans and Türkiye
+               o Western Balkans and TÃ¼rkiye
           + Countries
                o Albania
                o Algeria
@@ -104,7 +104,7 @@ Main navigation
                o Tajikistan
                o Tunisia
                o Turkmenistan
-               o Türkiye
+               o TÃ¼rkiye
                o Ukraine
                o Uzbekistan
      * Publications & resources
@@ -155,12 +155,12 @@ Breadcrumb
      * Home
      * Publications & resources
      * Publications
-     * Current: Preventing a `lockdown generation' in Europe and Central
+     * Current: Preventing a âlockdown generationâ in Europe and Central
        Asia
 
-Preventing a `lockdown generation' in Europe and Central Asia
+Preventing a âlockdown generationâ in Europe and Central Asia
 
-   Preventing a `lockdown generation' in Europe and Central Asia
+   Preventing a âlockdown generationâ in Europe and Central Asia
 
 Building resilient societies with young people in the era of COVID-19
 
@@ -185,7 +185,7 @@ Building resilient societies with young people in the era of COVID-19
    uncertainty about their futures, many feel isolated, facing increased
    levels of stress, anxiety and depression.
 
-   In the face of this situation, the United Nations Children's Fund
+   In the face of this situation, the United Nations Childrenâs Fund
    (UNICEF) and the European Training Foundation (ETF) joined forces to
    look at the challenges, opportunities and, most importantly, the views,
    sentiments and opinions of young people concerning their current and
@@ -195,7 +195,7 @@ Building resilient societies with young people in the era of COVID-19
    about lockdown restrictions, access and participation in education,
    learning outcomes and the quality of teaching, as well as their views
    on mobility, entrepreneurship and participation. When it comes to the
-   future, the report captures young people's hopes and fears about deep
+   future, the report captures young peopleâs hopes and fears about deep
    changing societies and economies, as well their recommendations for a
    more inclusive, equitable, peaceful, sustainable and prosperous future
    in Europe and Central Asia.
@@ -216,7 +216,7 @@ Related content
    Montenegro
    North Macedonia
    Serbia
-   Türkiye
+   TÃ¼rkiye
    Armenia
    Azerbaijan
    Belarus
@@ -235,7 +235,7 @@ Related content
    human capital through the reform of education, training and labour
    market systems, and in the context of the EU's external relations
    policy. Based in Turin, Italy, the ETF has been operational since 1994.
-   © 2026 ETF All rights reserved.
+   Â© 2026 ETF All rights reserved.
 
 Footer menu
 

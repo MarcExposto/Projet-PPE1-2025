@@ -24,7 +24,7 @@ Lockdown
 
    [ ] 42 languages
      * Afrikaans
-     * a+l+e+r+b+y+tm
+     * Ø§ÙØ¹Ø±Ø¨ÙØ©
 --
    Emergency protocol that prevents people from leaving or entering a
    location
@@ -33,7 +33,7 @@ Lockdown
    lockdowns. For the practice of isolating prisoners, see Solitary
    confinement. For other uses, see Lockdown (disambiguation).
 
-   A lockdown (/|lA.kdaUn/ ^i-o) is a restriction policy for people,
+   A lockdown (/ËlÉkËdaÊn/ ^â) is a restriction policy for people,
    community or a country to stay where they are, usually due to specific
    risks that could possibly harm the people if they move and interact
    freely.
@@ -110,7 +110,7 @@ Purposes
 --
    [edit]
    Main article: Stay-at-home order
-   See also: Pandemic prevention § Testing and containment
+   See also: Pandemic prevention Â§ Testing and containment
 
    Lockdowns can limit movements or activities in a community while
    allowing most organizations to function normally, or limit movements or
@@ -133,13 +133,12 @@ COVID-19 pandemic
    related to mass quarantines or stay-at-home orders.^[6] The first
    lockdown during the pandemic was implemented in Wuhan on January 23,
    2020.^[7] By early April 2020, 3.9 billion people worldwide were under
-   some form of lockdown--more than half the world's population.^[8]^[9]
-   By late April, around 300 million people were under lockdown in
-   European countries, while around 200 million people were under lockdown
-   in Latin America.^[10] Nearly 300 million people, or about 90 per cent
-   of the population, were under some form of lockdown in the United
-   States,^[11] and 1.3 billion people have been under lockdown in
-   India.^[12]
+   some form of lockdownâmore than half the world's population.^[8]^[9] By
+   late April, around 300 million people were under lockdown in European
+   countries, while around 200 million people were under lockdown in Latin
+   America.^[10] Nearly 300 million people, or about 90 per cent of the
+   population, were under some form of lockdown in the United States,^[11]
+   and 1.3 billion people have been under lockdown in India.^[12]
 
    The lockdown in the Philippines started on 14 March 2020 and is one of
    the longest and strictest lockdowns with varying levels of community
@@ -294,7 +293,7 @@ References
        campussafetymagazine.com, June 14, 2012.
     3. ^ Brancati, Dawn (2023). "Locking Down Violence: The COVID-19
        Pandemic's Impact on Non-State Actor Violence". American Political
-       Science Review. January (1): 1327-1343.
+       Science Review. January (1): 1327â1343.
 --
     5. ^ Carroll, Rory; Tuckman, Jo (30 April 2009). "Swine flu: Mexico's
        government orders businesses to close and citizens to stay indoors
@@ -309,7 +308,7 @@ References
     8. ^ "Coronavirus: Half of humanity now on lockdown as 90 countries
        call for confinement". Euronews. 3 April 2020.
     9. ^ "A third of the global population is on coronavirus
-       lockdown--here's our constantly updated list of countries and
+       lockdownâhere's our constantly updated list of countries and
        restrictions". Business Insider. 28 March 2020.
    10. ^ "What Share of the World Population Is Already on COVID-19
        Lockdown?". Statista. 23 April 2020.

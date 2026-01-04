@@ -18,7 +18,7 @@
           + List of Issues
           + Special Issues
                o List of all Special Issues
-               o Prof. Pui's 50 Years of Contribution in Aerosol Science
+               o Prof. Puiâs 50 Years of Contribution in Aerosol Science
                  and Technology
                o 2022 Asian Aerosol Conference (AAC 2022)
                o Air Pollution and its Impact in South and Southeast Asia
@@ -55,7 +55,7 @@ Mitigation Potential for South Asia
           Volume 22, Issue 4, April 2022
           17 March 2022
 
-   Reach: 9826
+   Reach: 9829
    Empty
      *  Print
      * Email
@@ -109,7 +109,7 @@ HIGHLIGHTS
        and increase over Myanmar and Nepal.
      * Forest fires in the eastern part of South Asia are a dominant
        source of air pollutants.
-     * In-situ PM[2.5 ]data indicates ~20-60% reduction during the
+     * In-situ PM[2.5 ]data indicates ~20â60% reduction during the
        lockdown.
      * Household sector mitigation can lead to cost-effective and
        efficient air pollution reduction.
@@ -133,8 +133,8 @@ ABSTRACT
    compared to pre-lockdown over the South Asia domain. However,
    individual country statistics, urban site data, and industrial grid
    analysis within the region indicate a more varied picture. Cities with
-   high traffic loads reported a reduction of 12-39% in columnar NO[2]
-   during lockdown, in-situ PM[2.5] measurements indicate a 23-56% percent
+   high traffic loads reported a reduction of 12â39% in columnar NO[2]
+   during lockdown, in-situ PM[2.5] measurements indicate a 23â56% percent
    reduction over the country capitals and columnar SO[2] has an
    approximate reduction of 50% over industrial areas. In contrast,
    pollutant emissions from natural sources e.g., from biomass burning
@@ -161,7 +161,7 @@ ABSTRACT
    2020). The rapidity of its transmission globally and severity of its
    impacts lead to a global public health emergency (Lai et al., 2020;
    Phua et al., 2020). Mortality and morbidity rates rapidly rose and
-   public health concerns lead to the conditions of "lockdowns" where
+   public health concerns lead to the conditions of âlockdownsâ where
    movement of people and economic activity was highly restricted to
    reduce the spread of the disease. Lockdown related restrictions on
    industry and transport affected global and regional economies (ICIMOD,
@@ -205,7 +205,7 @@ ABSTRACT
    to country to city. The economic impact of restricted activity did not
    affect all sectors equally with intensive sectors such as transport
    being affected more than residential sector. The lockdown resulted in a
-   reduction of 10-31% in GDP, the equivalent of approximately 307-921
+   reduction of 10â31% in GDP, the equivalent of approximately 307â921
    billion dollars (Kanitkar, 2020) primarily associated with restrictions
    on the transport, industry, and power sectors. Thus, providing an
    opportunity to understand the potential of implementing mitigation
@@ -230,7 +230,7 @@ ABSTRACT
    observed in mountainous regions of SA. Country scale AQ analysis was
    based on megacity and city scale data as well as selected areas of
    major industrial activity. The analysis period was
-   01^st March-30^th April 2020, which includes approximately 3 weeks of
+   01^st Marchâ30^th April 2020, which includes approximately 3 weeks of
    data prior to the implementation of COVID-19 restrictions and 5 weeks
    of continuous data under more complete national lockdowns. Exact dates
    for lockdown implementation varied from country to country (see Table
@@ -240,11 +240,11 @@ ABSTRACT
    Table 1. List of lockdown implementation timeline in different
    countries.
 
-   To maintain consistency the period 1^st-20^th March was selected as the
+   To maintain consistency the period 1^stâ20^th March was selected as the
    pre-lockdown period, with the 25^th March to 30^th April period was
    designated as the lockdown period. Selected satellite data for 2020 in
    general and the study period in particular were compared with available
-   data from 2000-2019. To reduce the influence of missing values in daily
+   data from 2000â2019. To reduce the influence of missing values in daily
    satellite measurements (e.g., as a result of cloud cover, data quality
    thresholds and limitations in swath areas) available data was converted
    to a 5 days rolling mean for use in this study (e.g., Bechle et al.,
@@ -266,11 +266,11 @@ ABSTRACT
    respectively in solar-synchronous polar orbits. They are equipped with
    MODIS multispectral instruments providing continuous measurements of
    aerosols/clouds. In this study Level 2 (MOD04_L2) and Level 3
-   (MOD08D3), collection 6.1 aerosol products at 0.55 µm were used
+   (MOD08D3), collection 6.1 aerosol products at 0.55 Âµm were used
    (1^st March to 30^th April for 2000 to 2020). The spatial resolution of
-   L2 and L3 products is 10 km (at nadir) and 1° × 1°, respectively. The
+   L2 and L3 products is 10 km (at nadir) and 1Â° Ã 1Â°, respectively. The
    accuracy of MODIS AOD products over land is estimated to be within 0.05
-   ± 0.2 AOD (Kaufman et al., 1997). Validation analysis of collection 6.1
+   Â± 0.2 AOD (Kaufman et al., 1997). Validation analysis of collection 6.1
    products over the SA and Indian regions also showed a good agreement
    with AERONET observations (Bhattarai et al., 2019; Mangla et al., 2020;
    Wei et al., 2019a, b). MODIS active fire products were also used to
@@ -280,16 +280,16 @@ ABSTRACT
 
 2.1.2 Ozone Monitoring Instrument (OMI)
 
-   The OMI system aboard NASA's Aura spacecraft was placed in a
+   The OMI system aboard NASAâs Aura spacecraft was placed in a
    sun-synchronous polar orbit in 2004. It is a nadir-viewing instrument
-   and measures backscattered solar radiation in the 0.27-0.5 µm
-   wavelength range with a spectral resolution of 0.42-0.63 nm. This
+   and measures backscattered solar radiation in the 0.27â0.5 Âµm
+   wavelength range with a spectral resolution of 0.42â0.63 nm. This
    backscatter is used to derive column densities of different criteria
-   pollutants including NO[2] and SO[2] at a resolution of 13 km × 24 km
+   pollutants including NO[2] and SO[2] at a resolution of 13 km Ã 24 km
    at nadir (Levelt et al., 2006). The instrument has a 2600 km wide swath
-   at the earth's surface and a local afternoon equator crossing time of
+   at the earthâs surface and a local afternoon equator crossing time of
    13:45. In this study Level-3 daily gridded NO[2] product (OMNO2d)
-   binned and averaged into 0.25 × 0.25 degree global grids was used (see
+   binned and averaged into 0.25 Ã 0.25 degree global grids was used (see
    Haq et al., 2015). Only total column NO[2] with a cloud fraction less
    than 30% was used (for a detailed analysis of the version-3 OMI
    NO[2] product see Krotkov et al., 2017). For SO[2] the Level-3 daily
@@ -309,9 +309,9 @@ ABSTRACT
    European Space Agency. TROPOMI covers the ultraviolet (UV), visible
    (VIS), near-infrared (NIR) and shortwave infrared (SWIR) ranges
    (Veefkind et al., 2012). with a daily global coverage at a spatial
-   resolution of 7 × 7 km^2 with a swath of 2600 km. Total column density
-   of CO is derived from the measurement of Earth's radiance spectra in
-   the 2.3 µm spectral range of the shortwave infrared (SWIR) region
+   resolution of 7 Ã 7 km^2 with a swath of 2600 km. Total column density
+   of CO is derived from the measurement of Earthâs radiance spectra in
+   the 2.3 Âµm spectral range of the shortwave infrared (SWIR) region
    (Fu et al., 2016; Landgraf et al., 2016). This study used the Level 3,
    Offline (OFFL) CO dataset for 2019 and 2020 (limited due to age of
    satellite) from the Google Earth Engine platform data catalog
@@ -343,7 +343,7 @@ ABSTRACT
    semi-urban site in Kavre (Dhulikhel, established in 2017; also
    background site for Kathmandu) were used for this study. Both sites
    were established by the International Centre for Integrated Mountain
-   Development (ICIMOD) in collaboration with the Government of Nepal's
+   Development (ICIMOD) in collaboration with the Government of Nepalâs
    Department of Environment (DoEnv) (see Mahapatra et al., 2018). Date
    used was real-time PM[10], PM[2.5], PM[1] at 60 Hz from a laser
    scattering instrument (Environmental Dust Monitor-180, Grimm Aerosol
@@ -437,7 +437,7 @@ ABSTRACT
    (Agrawa et al., 2020). In response to the reduction in power demand,
    renewable energy was given priority over coal-based power plants in
    part due to their marginal cost of production (statement by, Tim
-   Buckley, IEEFA's Energy Finance studies) which is expected to reduce
+   Buckley, IEEFAâs Energy Finance studies) which is expected to reduce
    emissions from the energy sector during the lockdown. A significant
    reduction in re-suspended dust and construction dust was also expected
    due to restrictions on vehicular traffic and construction activities.
@@ -469,7 +469,7 @@ mean
 
    Fig. 1 (left panel) shows the long-term mean (years preceding 2019)
    satellite-derived columnar AOD, NO[2], SO[2], and CO over SA for the
-   lockdown period (25 March-30 April). An understanding of the spatial
+   lockdown period (25 Marchâ30 April). An understanding of the spatial
    distribution of the pollutants across SA during this period in previous
    years was deemed necessary to examine the impact of lockdown imposed in
    2020. The mean for the year 2020 (Fig. 1, middle panel) represents the
@@ -477,16 +477,16 @@ mean
    between long-term mean and 2020 means displays the changes due to
    lockdown (Fig. 1, right panel).
 
-   Fig. 1. (Left) Long-term mean of AOD (2000-2019), NO2 (2005-2019), SO2
-   (2005-2019) and CO (2019) during the 25th March-30th April lockdown
+   Fig. 1. (Left) Long-term mean of AOD (2000â2019), NO2 (2005â2019), SO2
+   (2005â2019) and CO (2019) during the 25th Marchâ30th April lockdown
    period over south Asia. (Middle) AOD, NO2, SO2, and CO for 2020 over
-   south Asia during the 25th March-30th April lockdown period. (Right)
+   south Asia during the 25th Marchâ30th April lockdown period. (Right)
    Difference between 2020 AOD, NO2, SO2 and CO compared to their
-   long-term mean. Fig. 1. (Left) Long-term mean of AOD (2000-2019),
-   NO[2] (2005-2019), SO[2] (2005-2019) and CO (2019) during the
-   25^th March-30^th April lockdown period over south Asia. (Middle) AOD,
+   long-term mean. Fig. 1. (Left) Long-term mean of AOD (2000â2019),
+   NO[2] (2005â2019), SO[2] (2005â2019) and CO (2019) during the
+   25^th Marchâ30^th April lockdown period over south Asia. (Middle) AOD,
    NO[2], SO[2,] and CO for 2020 over south Asia during the
-   25^th March-30^th April lockdown period. (Right) Difference between
+   25^th Marchâ30^th April lockdown period. (Right) Difference between
    2020 AOD, NO[2], SO[2] and CO compared to their long-term mean.
 
    Long-term data shows that AOD was usually high over the IGP and eastern
@@ -512,12 +512,12 @@ mean
    levels in these regions are attributed to the frequent forest fire
    activity during the pre-monsoon season (Girach and Nair, 2014). Over
    SA, the long-term mean of columnar AOD, NO[2], and CO during the
-   lockdown period was 0.41 (0.40-0.42, 95% CI), 3.35 × 10^15 (3.33 ×
-   10^15-3.37 × 10^15, 95% CI) molecules cm^-^2, and 0.033 (0.32-0.33, 95%
-   CI) mole m^-^2 respectively. While that for the year 2020 was 0.42
-   (0.40-0.44, 95% CI), 3.77 × 10^15 (3.69 × 10^15-3.84 × 10^15, 95% CI)
-   molecules cm^-^2 and 0.0346 (0.343-0.349, 95% CI) mole
-   m^-^2 respectively. However, SO[2] means for this large domain from OMI
+   lockdown period was 0.41 (0.40â0.42, 95% CI), 3.35 Ã 10^15 (3.33 Ã
+   10^15â3.37 Ã 10^15, 95% CI) molecules cm^â^2, and 0.033 (0.32â0.33, 95%
+   CI) mole m^â^2 respectively. While that for the year 2020 was 0.42
+   (0.40â0.44, 95% CI), 3.77 Ã 10^15 (3.69 Ã 10^15â3.84 Ã 10^15, 95% CI)
+   molecules cm^â^2 and 0.0346 (0.343â0.349, 95% CI) mole
+   m^â^2 respectively. However, SO[2] means for this large domain from OMI
    are near zero (Krotkov et al., 2016).
 
    The spatial mean of AOD, NO[2], and CO over SA during the lockdown
@@ -527,7 +527,7 @@ mean
    from approximately 0.1 to 0.4; this accounts for a 20 to 80% decrease
    in AOD. However, in the same period, an increase of AOD from 0.2 to 0.4
    was observed in the eastern part of the domain; this is approximately a
-   20-60% increase over the long-term mean of this period. Similar to our
+   20â60% increase over the long-term mean of this period. Similar to our
    findings, a decrease of 46% in AOD over North India and 42% in the
    Eastern IGP during the lockdown period compared to the 3 year mean
    using satellite data sets was reported by Kant et al. (2020). Reduction
@@ -537,7 +537,7 @@ mean
    2020 indicate an increase in most of the region, whereas some decrease
    was observed over the IGP. NO[2] was shown to have decreased by ~20%
    over the majority of the region, while in the Eastern part an increase
-   of ~20-40% was observed.
+   of ~20â40% was observed.
 
    Table 3. Percentage change in AOD, NO2, and CO level over the south
    Asia domain and major countries during the 2020 lockdown period
@@ -557,7 +557,7 @@ mean
    a more robust tool in the analysis of effect of lockdown on AQ. A
    significant reduction in AOD with respect to its long-term mean was
    reported over India (Ranjan et al., 2020) which was similar to our
-   finding for India. Similarly, a 4-10% decrease in NO[2] level was
+   finding for India. Similarly, a 4â10% decrease in NO[2] level was
    observed for India, Bangladesh, and Pakistan whereas a slight increase
    of 2% was observed over Myanmar. A 17% reduction in NO[2] over India
    for March 2020 compared to the 10-year mean was reported and attributed
@@ -604,12 +604,12 @@ mean
    Fig. 3. Line plot for a daily mean of AOD, NO2, SO2, and CO over south
    Asia, India, Pakistan, Bangladesh, and Myanmar from 1 March 2020 to 20
    April 2020. The vertical lines are representing the buffer zone between
-   the pre-lockdown period (01 March-20 March) and lockdown period (25
+   the pre-lockdown period (01 Marchâ20 March) and lockdown period (25
    March to 30 April) considered in this study. Fig. 3. Line plot for a
    daily mean of AOD, NO[2], SO[2], and CO over south Asia, India,
    Pakistan, Bangladesh, and Myanmar from 1 March 2020 to 20 April 2020.
    The vertical lines are representing the buffer zone between the
-   pre-lockdown period (01 March-20 March) and lockdown period (25 March
+   pre-lockdown period (01 Marchâ20 March) and lockdown period (25 March
    to 30 April) considered in this study.
 
    Table 4. Percentage change in AOD, NO2, and CO level during lockdown
@@ -650,7 +650,7 @@ long-term dataset
 
    Daily mean of AOD, NO[2] and CO obtained with historical long-term
    datasets over SA shows an increasing trend during the study period
-   (01^st March-30^th April); similarly, individual countries also
+   (01^st Marchâ30^th April); similarly, individual countries also
    indicate an increasing trend. Such a variation might be attributed to
    the increase in forest fire, agricultural waste burning of rabi crop,
    and frequent dust episodes prevalent during the dry season
@@ -676,7 +676,7 @@ long-term dataset
    values for Myanmar indicated an increase of 39.8% during the lockdown
    period in comparison to the pre-lockdown phase, and a 24.3% increase
    was seen with long-term datasets. This can be interpreted as the net
-   decrease of 26-30% over India, Pakistan, and Bangladesh, 15.4% increase
+   decrease of 26â30% over India, Pakistan, and Bangladesh, 15.4% increase
    over Myanmar, and the net decrease over SA domain by 3%. The decline in
    the NO[2] trend is also observed for SA as well as for Pakistan, India,
    Bangladesh, and Myanmar (Tables 4 and 5). Over SA, mean CO showed an
@@ -685,8 +685,8 @@ long-term dataset
    Pakistan, it remained almost unchanged with a slight decrease of 0.5%.
 
    Table 5. Percentage change in AOD, NO2, and CO level during previous
-   years lockdown period (25th March-30th April) compared to the previous
-   years pre-lockdown period (1st March-20th March) with their long-term
+   years lockdown period (25th Marchâ30th April) compared to the previous
+   years pre-lockdown period (1st Marchâ20th March) with their long-term
    dataset (2000 to 2019 for AOD, 2005 to 2019 for NO2 and 2019 for CO)
    for south Asia and major countries. The 95% confidence interval for the
    percentage change is given in parenthesis.
@@ -704,15 +704,15 @@ long-term dataset
    considerable improvement in AQ regionally (Lelieveld et al., 2019;
    Upadhyay et al., 2018). Simulations with zero-out emission sectors for
    the globe predicted that removing transport sector emission will reduce
-   PM[2.5] concentration by 6-7% in India, East Asia, and Southeast Asia
-   whereas it reduces 27-28% PM[2.5] in North America and Europe (Silva et
+   PM[2.5] concentration by 6â7% in India, East Asia, and Southeast Asia
+   whereas it reduces 27â28% PM[2.5] in North America and Europe (Silva et
    al., 2016). Whereas phasing out residential and commercial sector
    emission will reduce 42% of PM[2.5] in India and 10% and 20%
    PM[2.5] reduction in North America and Europe (Silva et al., 2016).
-   However, we don't expect any considerable change in residential sector
+   However, we donât expect any considerable change in residential sector
    emission and hence significant reduction at the regional scale is not
    observed in the SA region. In general, India has spent approximately $
-   13.7 billion year^-^1 on emission control of which 80% was spent on the
+   13.7 billion year^â^1 on emission control of which 80% was spent on the
    transportation sector whereas the cost of LPG and similar subsidy
    activities is $ 6 billion per year (Cameron et al., 2016; Purohit et
    al., 2019). A recent study estimated that the reductions in household
@@ -731,8 +731,8 @@ long-term dataset
    depicts the influence of lockdown-driven reduction in anthropogenic
    emission whereas the rise in Myanmar is reflecting the increase in
    forest fire emission during this period. Total fire count over South
-   Asia increased from 2150 counts day^-^1 in the pre-lockdown period to
-   2359 counts day^-^1 during lockdown with a large-scale forest fire
+   Asia increased from 2150 counts day^â^1 in the pre-lockdown period to
+   2359 counts day^â^1 during lockdown with a large-scale forest fire
    event were observed during 25^th March to 06^th April (Fig. 4).
    Residential sector emissions as a major contributor to CO remains
    almost unchanged during this period. So, forest fires as the other
@@ -748,7 +748,7 @@ long-term dataset
    the US embassy at a city-scale over individual country capitals (Kabul,
    Islamabad, Delhi, Yangon, Thimphu, Kathmandu, and Dhaka) and major
    industrial grid in the SA region was undertaken. The industrial grid
-   was chosen within India between 20.5-22.5 N and 81.5-85.5 E. This grid
+   was chosen within India between 20.5â22.5 N and 81.5â85.5 E. This grid
    includes a number of coal (e.g., southeastern coal field limited, HIL
    coal mines, Hindalco coal mines), and other mines (like zink mines,
    stone mine, cement mines, metal mines), along with thermal power
@@ -759,7 +759,7 @@ long-term dataset
    Singrauli and Jamshedpur in India, Hetauda in Nepal, and Chattogram in
    Bangladesh were also analyzed (Table 6). Mean AOD for the lockdown
    period was reduced by approximately 20% over Islamabad and New Delhi
-   whereas a 15-20% reduction was seen in the selected industrial grid and
+   whereas a 15â20% reduction was seen in the selected industrial grid and
    Yangon. An approximate 10% decrease was observed over Dhaka. Cities
    with heavy vehicular loads like Dhaka and New Delhi showed substantial
    percentage reductions of approximately 39% and 21% in NO[2 ]burden.
@@ -777,9 +777,9 @@ long-term dataset
    emissions during this period is considered to be the most likely reason
    for this increase. Yangon and Mandalay showed contrasting trends for
    pollutants during the lockdown period. AOD and CO are decreased by 18%
-   and 12% in Yangon. A small change (-1.2%) was observed for NO[2] over
+   and 12% in Yangon. A small change (â1.2%) was observed for NO[2] over
    Yangon during the lockdown period compared to the pre-lockdown period.
-   In contrast to other SA cities, only a small change in NO[2] level (-4
+   In contrast to other SA cities, only a small change in NO[2] level (â4
    to 3% in comparison with 5-year mean) was observed for Yangon
    (Kanniah et al., 2020). A 22% increase in AOD was observed over Kabul,
    which might have been due to increased particulate re suspension
@@ -794,7 +794,7 @@ long-term dataset
    anecdotal reports of increased open burning. All the study cities
    except Dhaka and the industrial grid showed very low levels of SO[2]. A
    44% reduction in SO[2] was observed over Dhaka. SO[2] levels over the
-   industrial grid were approximately 3-4 times greater than Dhaka and
+   industrial grid were approximately 3â4 times greater than Dhaka and
    decreased by more than 50% during the lockdown period. A similar
    reduction of 17% for SO[2] was also reported over the identified power
    plant hot spot domain in east India during March compared to the 5 year
@@ -847,16 +847,16 @@ long-term dataset
    In this section, in-situ PM[10] and PM[2.5] data from the Kathmandu and
    Kavre sites were used to further investigate this finding. Comparison
    of PM[10] data for both the sites (Fig. 5) showed much higher values
-   (close to three times) at the Kathmandu site (69.7 ± 41.1 µg m^-^3)
-   compared to the Kavre site (24.8 ± 10.2 µg m^-^3) in the pre-lockdown
+   (close to three times) at the Kathmandu site (69.7 Â± 41.1 Âµg m^â^3)
+   compared to the Kavre site (24.8 Â± 10.2 Âµg m^â^3) in the pre-lockdown
    period. While during lockdown, the PM[10] concentration observed at
-   Kathmandu site (37.3 ± 21.3 µg m^-^3) was only 15% higher than that of
-   Kavre site (32.3 ± 37.3 µg m^-^3). This indicates that within the
+   Kathmandu site (37.3 Â± 21.3 Âµg m^â^3) was only 15% higher than that of
+   Kavre site (32.3 Â± 37.3 Âµg m^â^3). This indicates that within the
    valley, a high concentration of PM[10] generally exists (attributed to
    sources like re-suspended dust and construction activities) that
    reduced by ~46% during lockdown versus pre-lockdown. Comparison of
    pre-monsoon PM[10] data from earlier study indicates an average of 241
-   ± 134 µg m^-^3 over Kathmandu (Putero et al., 2015). These differences
+   Â± 134 Âµg m^â^3 over Kathmandu (Putero et al., 2015). These differences
    might exist due to the different pre-monsoon period definitions
    considered by Putero et al. (2015) that ranged from February to May and
    the location of the station. There are limited studies of
@@ -874,12 +874,12 @@ long-term dataset
    Y-axis.
 
    Comparison of PM[2.5] at both stations indicates that levels of
-   PM[2.5] were ~55% higher at the Kathmandu site (35 ± 14 µg m^-^3)
-   compared to the Kavre site (22.5 ± 8.7 µg m^-^3) during pre-lockdown.
-   Similar values were also observed during studies from 2006-2007 but
+   PM[2.5] were ~55% higher at the Kathmandu site (35 Â± 14 Âµg m^â^3)
+   compared to the Kavre site (22.5 Â± 8.7 Âµg m^â^3) during pre-lockdown.
+   Similar values were also observed during studies from 2006â2007 but
    these comparisons are limited due to the age of these measurements
    (Aryal et al., 2009; Stone et al., 2010). Whereas the values at both
-   the stations (33.2 ± 19.8 and 30.5 ± 18.6 µg m^-^3 for Kathmandu and
+   the stations (33.2 Â± 19.8 and 30.5 Â± 18.6 Âµg m^â^3 for Kathmandu and
    Kavre sites respectively) were almost similar during the lockdown
    period. This indicates a stronger influence of sources such as
    transport, small scale industries and combustion within the valley
@@ -887,16 +887,16 @@ long-term dataset
    comparison of pre-lockdown and lockdown period PM[2.5] concentrations
    at both the stations indicate a gradual increase in
    PM[2.5] concentrations during the lockdown period reaching a maximum
-   between the 5^th-15^th April 2020 followed by a rapid decline. This is
+   between the 5^thâ15^th April 2020 followed by a rapid decline. This is
    contrary to findings from other studies on the impacts of lockdown on
    AQ (Collivignarelli et al., 2020; Mahato et al., 2020; Nakada and
    Urban, 2020; Sharma et al., 2020b). The gradual increase in
    PM[2.5] could be strongly attributed to the simultaneous increase in
    forest fires in the nearby regions. This was supported by the time
-   series plot of fire spots acquired from MODIS (25-35°E Latitude and
-   75-90°N longitude, i.e., encompassing the Kathmandu Valley, Fig. 6,
+   series plot of fire spots acquired from MODIS (25â35Â°E Latitude and
+   75â90Â°N longitude, i.e., encompassing the Kathmandu Valley, Fig. 6,
    bottom panel). During these events mean PM[2.5] concentrations were
-   51.2 ± 18.8 µg m^-^3 and 49.5 ± 22.2 µg m^-^3 (reaching 80-100 µg m^-³
+   51.2 Â± 18.8 Âµg m^â^3 and 49.5 Â± 22.2 Âµg m^â^3 (reaching 80â100 Âµg m^âÂ³
    for few days) respectively at Kavre and Kathmandu. Similar impacts of
    forest fires on the ambient AQ in the region (during different years)
    have been reported at other sites in Nepal (Mehra et al., 2019).
@@ -933,25 +933,25 @@ long-term dataset
      __________________________________________________________________
 
    This study indicates that spatial means of AOD, columnar NO[2], and CO
-   over SA during the defined lockdown period (25 March-30 April 2020)
+   over SA during the defined lockdown period (25 Marchâ30 April 2020)
    were 9.5%, 2.0%, and 2.6% higher than the pre-lockdown period (01
-   March-20 March 2020) and with the exception of CO. This change observed
+   Marchâ20 March 2020) and with the exception of CO. This change observed
    for the year 2020 is slightly lower than the change observed in the
    previous years pre lockdown and lockdown period, that can be attributed
    to the overall reduction due to lockdown. Country-level analysis
    indicates that during the lockdown a decline in AOD was observed for
-   India, Pakistan, Bangladesh (~14-18%) while an increase was observed
+   India, Pakistan, Bangladesh (~14â18%) while an increase was observed
    over Myanmar (~40%) and other mountainous regions in the North (i.e.,
    Nepal). While for CO an increase in India, Bangladesh could be
    attributed to the effect of forest fires which dominated over the
    eastern region. NO[2] generally declined except for Pakistan where no
    change was observed. Satellite-based observations over country capitals
    indicate a mixed pattern of change but surface-based in-situ
-   observation indicates an improvement in AQ (~20-60% PM[2.5] reduction)
+   observation indicates an improvement in AQ (~20â60% PM[2.5] reduction)
    during the lockdown compared to the pre-lockdown phase. Overall, this
    study indicates that a reduction of vehicular and industrial emissions
    of the level seen during lockdown could lead to a reduction of fine
-   particulate levels of approximately ~20-50% at the city level while on
+   particulate levels of approximately ~20â50% at the city level while on
    a regional scale that level of reduction might not be visible due to
    other strong contributing factors. Clearly reflecting the importance of
    other sources of emissions that are not directly linked to the large
@@ -992,33 +992,33 @@ REFERENCES
     2. Aryal, R.K., Lee, B.K., Karki, R., Gurung, A., Baral, B., Byeon,
        S.H. (2009). Dynamics of PM[2.5] concentrations in Kathmandu
        Valley, Nepal. J. Hazard. Mater. 168,
-       732-738. https://doi.org/10.1016/j.jhazmat.2009.02.086
+       732â738. https://doi.org/â10.1016/j.jhazmat.2009.02.086
     3. Aryal, R.K., Lee, B.K., Karki, R., Gurung, A., Kandasamy, J.,
        Pathak, B.K., Sharma, S., Giri, N. (2008). Seasonal PM[10] dynamics
        in Kathmandu Valley. Atmos. Environ. 42,
-       8623-8633. https://doi.org/10.1016/j.atmosenv.2008.08.016
+       8623â8633. https://doi.org/â10.1016/j.atmosenv.2008.08.016
     4. Bechle, M.J., Millet, D.B., Marshall, J.D. (2013). Remote sensing
        of exposure to NO[2]: Satellite versus ground-based measurement in
        a large urban area. Atmos. Environ. 69,
-       345-353. https://doi.org/10.1016/j.atmosenv.2012.11.046
+       345â353. https://doi.org/10.1016/j.atmosenv.2012.11.046
     5. Bhattarai, B.C., Burkhart, J.F., Stordal, F., Xu, C. (2019).
        Aerosol optical depth over the nepalese cryosphere derived from an
        empirical model. Front. Earth Sci. 7,
-       1-17. https://doi.org/10.3389/feart.2019.00178
+       1â17. https://doi.org/â10.3389/feart.2019.00178
     6. Borsdorff, T., Aan de Brugh, J., Hu, H., Aben, I., Hasekamp, O.,
        Landgraf, J. (2018). Measuring carbon monoxide with TROPOMI: First
        results and a comparison with ECMWF-IFS analysis data. Geophys.
-       Res. Lett. 45, 2826-2832. https://doi.org/10.1002/2018GL077045
+       Res. Lett. 45, 2826â2832. https://doi.org/10.1002/2018GL077045
     7. Cameron, C., Pachauri, S., Rao, N.D., McCollum, D., Rogelj, J.,
        Riahi, K. (2016). Policy trade-offs between climate mitigation and
        clean cook-stove access in South Asia. Nat. Energy 1,
-       1-5. https://doi.org/10.1038/nenergy.2015.10
+       1â5. https://doi.org/10.1038/nenergy.2015.10
     8. Chowdhury, S., Dey, S., Guttikunda, S., Pillarisetti, A., Smith,
        K.R., Di Girolamo, L. (2019). Indian annual ambient air quality
        standard is achievable by completely mitigating emissions from
        household sources. Proc. Natl. Acad. Sci. 116,
-       10711-10716. https://doi.org/10.1073/pnas.1900888116
-    9. Collivignarelli, M.C., Abbà, A., Bertanza, G., Pedrazzani, R.,
+       10711â10716. https://doi.org/10.1073/pnas.â1900888116
+    9. Collivignarelli, M.C., AbbÃ , A., Bertanza, G., Pedrazzani, R.,
        Ricciardi, P., Carnevale Miino, M. (2020). Lockdown for CoViD-2019
        in Milan: What are the effects on air quality? Sci. Total Environ.
        732, 139280. https://doi.org/10.1016/j.scitotenv.2020.139280
@@ -1032,18 +1032,18 @@ REFERENCES
        Pagliari, V., Janssens-Maenhout, G. (2018). Gridded emissions of
        air pollutants for the period 1970--2012 within EDGAR v4.3.2. Earth
        Syst. Sci. Data 10,
-       1987-2013. https://doi.org/10.5194/essd-10-1987-2018
+       1987â2013. https://doi.org/10.5194/essd-10-1987-2018
    12. Dey, S., Di Girolamo, L. (2011). A decade of change in aerosol
        properties over the Indian subcontinent. Geophys. Res. Lett. 38,
        L14811. https://doi.org/10.1029/2011GL048153
    13. Dhungel, S., Kathayat, B., Mahata, K., Panday, A. (2018). Transport
        of regional pollutants through a remote trans-Himalayan valley in
        Nepal. Atmos. Chem. Phys. 18,
-       1203-1216. https://doi.org/10.5194/acp-18-1203-2018
+       1203â1216. https://doi.org/â10.5194/acp-18-1203-2018
    14. Engel-Cox, J.A., Holloman, C.H., Coutant, B.W., Hoff, R.M. (2004).
        Qualitative and quantitative evaluation of MODIS satellite sensor
        data for regional and urban scale air quality. Atmos. Environ. 38,
-       2495-2509. https://doi.org/10.1016/j.atmosenv.2004.01.039
+       2495â2509. https://doi.org/10.1016/j.atmosenv.2004.01.039
    15. Fattorini, D., Regoli, F. (2020). Role of the chronic air pollution
        levels in the Covid-19 outbreak risk in Italy. Environ. Pollut.
        264, 114732. https://doi.org/10.1016/j.envpol.2020.114732
@@ -1051,43 +1051,43 @@ REFERENCES
        S., Veefkind, P., Aben, I., Landgraf, J., Strow, L., Han, Y.
        (2016). High-resolution tropospheric carbon monoxide profiles
        retrieved from CrIS and TROPOMI. Atmos. Meas. Tech. 9,
-       2567-2579. https://doi.org/10.5194/amt-9-2567-2016
+       2567â2579. https://doi.org/10.5194/âamt-9-2567-2016
    17. Giglio, L., Descloitres, J., Justice, C.O., Kaufman, Y.J. (2003).
        An enhanced contextual fire detection algorithm for MODIS. Remote
        Sens. Environ. 87,
-       273-282. https://doi.org/10.1016/S0034-4257(03)00184-6
+       273â282. https://doi.org/10.1016/S0034-4257(03)00184-6
    18. Girach, I.A., Nair, P.R. (2014). Carbon monoxide over Indian region
        as observed by MOPITT. Atmos. Environ. 99,
-       599-609. https://doi.org/10.1016/j.atmosenv.2014.10.019
+       599â609. https://doi.org/10.1016/j.atmosenv.2014.10.019
    19. Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D.,
        Moore, R. (2017). Google Earth Engine: Planetary-scale geospatial
        analysis for everyone. Remote Sens. Environ. 202,
-       18-27. https://doi.org/10.1016/j.rse.2017.06.031
+       18â27. https://doi.org/10.1016/j.rse.2017.06.031
    20. Gul, C., Mahapatra, P.S., Kang, S., Singh, P.K., Wu, X., He, C.,
        Kumar, R., Rai, M., Xu, Y., Puppala, S.P. (2021). Black carbon
        concentration in the central Himalayas: Impact on glacier melt and
        potential source contribution. Environ. Pollut. 275,
-       116544. https://doi.org/10.1016/j.envpol.2021.116544
+       116544. https://doi.org/10.1016/j.envpol.â2021.116544
    21. Guttikunda, S.K., Nishadh, K.A., Jawahar, P. (2019). Air pollution
        knowledge assessments (APnA) for 20 Indian cities. Urban Clim. 27,
-       124-141. https://doi.org/10.1016/j.uclim.2018.11.005
-   22. Holben, B.N., Eck, T.F., Slutsker, I., Tanré, D., Buis, J.P.,
+       124â141. https://doi.org/10.1016/j.uclim.2018.11.005
+   22. Holben, B.N., Eck, T.F., Slutsker, I., TanrÃ©, D., Buis, J.P.,
        Setzer, A., Vermote, E., Reagan, J.A., Kaufman, Y.J., Nakajima, T.,
        Lavenu, F., Jankowiak, I., Smirnov, A. (1998). AERONET - A
        federated instrument network and data archive for aerosol
        characterization. Remote Sens. Environ. 66,
-       1-16. https://doi.org/10.1016/S0034-4257(98)00031-5
+       1â16. https://doi.org/10.1016/S0034-4257(98)00031-5
    23. International Centre for Integrated Mountain Development (ICIMOD)
        (2020). COVID-19 impact and policy responses in the Hindu Kush
        Himalaya. International Centre for Integrated Mountain Development,
        Kathmandu, Nepal. https://doi.org/10.53055/ICIMOD.2
    24. Janssens-Maenhout, G., Crippa, M., Guizzardi, D., Dentener, F.,
        Muntean, M., Pouliot, G., Keating, T., Zhang, Q., Kurokawa, J.,
-       Wankmüller, R., Denier Van Der Gon, H., Kuenen, J.J.P., Klimont,
+       WankmÃ¼ller, R., Denier Van Der Gon, H., Kuenen, J.J.P., Klimont,
        Z., Frost, G., Darras, S., Koffi, B., Li, M. (2015). HTAP-v2.2: A
        mosaic of regional and global emission grid maps for 2008 and 2010
        to study hemispheric transport of air pollution. Atmos. Chem. Phys.
-       15, 11411-11432. https://doi.org/10.5194/acp-15-11411-2015
+       15, 11411â11432. https://doi.org/10.5194/acp-15-11411-2015
    25. Jayarathne, T., Stockwell, C.E., Bhave, P.V., Praveen, P.S.,
        Rathnayake, C.M., Islam, M.R., Panday, A.K., Adhikari, S.,
        Maharjan, R., Goetz, J.D., DeCarlo, P.F., Saikawa, E., Yokelson,
@@ -1095,43 +1095,43 @@ REFERENCES
        Testing Experiment (NAMaSTE): Emissions of particulate matter from
        wood- and dung-fueled cooking fires, garbage and crop residue
        burning, brick kilns, and other sources. Atmos. Chem. Phys. 18,
-       2259-2286. https://doi.org/10.5194/acp-18-2259-2018
+       2259â2286. https://doi.org/â10.5194/acp-18-2259-2018
    26. Jena, C., Ghude, S.D., Pfister, G.G., Chate, D.M., Kumar, R., Beig,
        G., Surendran, D.E., Fadnavis, S., Lal, D.M. (2015). Influence of
        springtime biomass burning in South Asia on regional ozone (O[3]):
        A model based case study. Atmos. Environ. 100,
-       37-47. https://doi.org/10.1016/j.atmosenv.2014.10.027
+       37â47. https://doi.org/10.1016/j.atmosenv.â2014.10.027
    27. Justice, C.O., Giglio, L., Korontzi, S., Owens, J., Morisette,
        J.T., Roy, D., Descloitres, J., Alleaume, S., Petitcolin, F.,
        Kaufman, Y. (2002). The MODIS fire products. Remote Sens. Environ.
-       83, 244-262. https://doi.org/10.1016/S0034-4257(02)00076-7
+       83, 244â262. https://doi.org/10.1016/S0034-4257(02)00076-7
    28. Kanitkar, T. (2020). The COVID-19 lockdown in India: Impacts on the
        economy and the power sector. Glob. Transitions 2,
-       150-156. https://doi.org/10.1016/j.glt.2020.07.005
+       150â156. https://doi.org/10.1016/j.glt.2020.07.005
    29. Kanniah, K.D., Kamarul Zaman, N.A.F., Kaskaoutis, D.G., Latif, M.T.
-       (2020). COVID-19's impact on the atmospheric environment in the
+       (2020). COVID-19âs impact on the atmospheric environment in the
        Southeast Asia region. Sci. Total Environ. 736,
        139658. https://doi.org/10.1016/j.scitotenv.2020.139658
    30. Kant, Y., Mitra, D., Chauhan, P. (2020). Space-based observations
        on the impact of COVID-19-induced lockdown on aerosols over India.
        Curr. Sci. 119,
-       539-544. https://doi.org/10.18520/cs/v119/i3/539-544
-   31. Kaufman, Y.J., Tanré, D., Remer, L.A., Vermote, E.F., Chu, A.,
+       539â544. https://doi.org/10.18520/âcs/v119/i3/539-544
+   31. Kaufman, Y.J., TanrÃ©, D., Remer, L.A., Vermote, E.F., Chu, A.,
        Holben, B.N. (1997). Operational remote sensing of tropospheric
        aerosol over land from EOS moderate resolution imaging
        spectroradiometer. J. Geophys. Res. 102,
-       17051-17067. https://doi.org/10.1029/96jd03988
+       17051â17067. https://doi.org/10.1029/96jd03988
    32. Krotkov, N.A., McLinden, C.A., Li, C., Lamsal, L.N., Celarier,
        E.A., Marchenko, S.V., Swartz, W.H., Bucsela, E.J., Joiner, J.,
        Duncan, B.N., Boersma, K.F., Veefkind, J.P., Levelt, P.F.,
        Fioletov, V.E., Dickerson, R.R., He, H., Lu, Z., Streets, D.G.
        (2016). Aura OMI observations of regional SO[2] and NO[2] pollution
        changes from 2005 to 2015. Atmos. Chem. Phys. 16,
-       4605-4629. https://doi.org/10.5194/acp-16-4605-2016
+       4605â4629. https://doi.org/â10.5194/acp-16-4605-2016
    33. Kumar, P., Hama, S., Omidvarborna, H., Sharma, A., Sahani, J.,
        Abhijith, K. V, Debele, S.E., Zavala-Reyes, J.C., Barwise, Y.,
        Tiwari, A. (2020). Temporary reduction in fine particulate matter
-       due to `anthropogenic emissions switch-off' during COVID-19
+       due to âanthropogenic emissions switch-offâ during COVID-19
        lockdown in Indian cities. Sustain. Cities Soc. 62,
        102382. https://doi.org/10.1016/j.scs.2020.102382
    34. Kumar, R., Barth, M.C., Nair, V.S., Pfister, G.G., Suresh Babu, S.,
@@ -1139,40 +1139,40 @@ REFERENCES
        Streets, D.G. (2015). Sources of black carbon aerosols in South
        Asia and surrounding regions during the Integrated Campaign for
        Aerosols, Gases and Radiation Budget (ICARB). Atmos. Chem. Phys.
-       15, 5415-5428. https://doi.org/10.5194/acp-15-5415-2015
+       15, 5415â5428. https://doi.org/10.5194/acp-15-5415-2015
    35. Kurokawa, J., Ohara, T. (2019). Long-term historical trends in air
        pollutant emissions in Asia: Regional Emission inventory in ASia
        (REAS) version 3.1. Atmos. Chem. Phys. Discuss. 2019,
-       1-51. https://doi.org/10.5194/acp-2019-1122
+       1â51. https://doi.org/10.5194/acp-2019-1122
    36. Lai, C.C., Shih, T.P., Ko, W.C., Tang, H.J., Hsueh, P.R. (2020).
        Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and
        coronavirus disease-2019 (COVID-19): The epidemic and the
        challenges. Int. J. Antimicrob. Agents 55,
-       105924. https://doi.org/10.1016/j.ijantimicag.2020.105924
+       105924. https://doi.org/10.1016/j.ijantimicag.â2020.105924
    37. Landgraf, J., Aan De Brugh, J., Scheepmaker, R., Borsdorff, T., Hu,
        H., Houweling, S., Butz, A., Aben, I., Hasekamp, O. (2016). Carbon
        monoxide total column retrievals from TROPOMI shortwave infrared
        measurements. Atmos. Meas. Tech. 9,
-       4955-4975. https://doi.org/10.5194/amt-9-4955-2016
+       4955â4975. https://doi.org/10.5194/amt-9-4955-2016
    38. Lelieveld, J., Evans, J.S., Fnais, M., Giannadaki, D., Pozzer, A.
        (2015). The contribution of outdoor air pollution sources to
        premature mortality on a global scale. Nature 525,
-       367-371. https://doi.org/10.1038/nature15371
-   39. Lelieveld, J., Klingmüller, K., Pozzer, A., Burnett, R.T., Haines,
+       367â371. https://doi.org/10.1038/nature15371
+   39. Lelieveld, J., KlingmÃ¼ller, K., Pozzer, A., Burnett, R.T., Haines,
        A., Ramanathan, V. (2019). Effects of fossil fuel and total
        anthropogenic emission removal on public health and climate. PNAS
-       116, 7192-7197. https://doi.org/10.1073/pnas.1819989116
+       116, 7192â7197. https://doi.org/10.1073/pnas.1819989116
    40. Levelt, P.F., Hilsenrath, E., Leppelmeier, G.W., van den Oord,
        G.H.J., Bhartia, P.K., Tamminen, J., de Haan, J.F., Veefkind, J.P.
        (2006). Science objectives of the ozone monitoring instrument. IEEE
        Trans. Geosci. Remote Sens. 44,
-       1199-1208. https://doi.org/10.1109/TGRS.2006.872336
+       1199â1208. https://doi.org/10.1109/TGRS.2006.872336
    41. Li, Q., Guan, X., Wu, P., Wang, X., Zhou, L., Tong, Y., Ren, R.,
        Leung, K.S.M., Lau, E.H.Y., Wong, J.Y., Xing, X., Xiang, N., Wu,
        Y., Li, C., Chen, Q., Li, D., Liu, T., Zhao, J., Liu, M., Tu,
        W., et al. (2020). Early Transmission Dynamics in Wuhan, China, of
-       Novel Coronavirus-Infected Pneumonia. N. Engl. J. Med. 382,
-       1199-1207. https://doi.org/10.1056/NEJMoa2001316
+       Novel CoronavirusâInfected Pneumonia. N. Engl. J. Med. 382,
+       1199â1207. https://doi.org/10.1056/NEJMoa2001316
    42. Madineni, V.R., Dasari, H.P., Karumuri, R., Viswanadhapalli, Y.,
        Perumal, P., Hoteit, I. (2021). Natural processes dominate the
        pollution levels during COVID-19 lockdown over India. Sci. Rep. 11,
@@ -1181,24 +1181,24 @@ REFERENCES
        S.P. (2018). Ambient endotoxin in PM[10] and association with
        inflammatory activity, air pollutants, and meteorology, in Chitwan,
        Nepal. Sci. Total Environ. 618,
-       1331-1342. https://doi.org/10.1016/j.scitotenv.2017.09.249
+       1331â1342. https://doi.org/10.1016/j.scitotenv.2017.09.249
    44. Mahato, S., Pal, S., Ghosh, K.G. (2020). Effect of lockdown amid
        COVID-19 pandemic on air quality of the megacity Delhi, India. Sci.
        Total Environ. 730,
-       139086. https://doi.org/10.1016/j.scitotenv.2020.139086
+       139086. https://doi.org/10.1016/j.âscitotenv.2020.139086
    45. Mangla, R., Indu, J., Chakra, S.S. (2020). Inter-comparison of
        multi-satellites and Aeronet AOD over Indian Region. Atmos. Res.
        240, 104950. https://doi.org/10.1016/j.atmosres.2020.104950
    46. Martin, R.V. (2008). Satellite remote sensing of surface air
        quality. Atmos. Environ. 42,
-       7823-7843. https://doi.org/10.1016/j.atmosenv.2008.07.018
+       7823â7843. https://doi.org/10.1016/j.atmosenv.2008.07.018
    47. Martin, R.V., Brauer, M., van Donkelaar, A., Shaddick, G., Narain,
        U., Dey, S. (2019). No one knows which city has the highest
        concentration of fine particulate matter. Atmos. Environ. X 3,
        100040. https://doi.org/10.1016/j.aeaoa.2019.100040
    48. McNeill, V.F. (2020). COVID-19 and the air we breathe. ACS Earth
        Space Chem. 4,
-       674-675. https://doi.org/10.1021/acsearthspacechem.0c00093
+       674â675. https://doi.org/10.1021/acsearthspacechem.0c00093
    49. Mehra, M., Panday, A.K., Puppala, S.P., Sapkota, V., Adhikary, B.,
        Pokheral, C.P., Ram, K. (2019). Impact of local and regional
        emission sources on air quality in foothills of the Himalaya during
@@ -1213,18 +1213,18 @@ REFERENCES
        (2020). COVID-19 lockdowns improve air quality in the South-East
        Asian regions, as seen by the remote sensing satellites. Aerosol
        Air Qual. Res. 20,
-       1772-1782. https://doi.org/10.4209/aaqr.2020.05.0240
+       1772â1782. https://doi.org/10.4209/aaqr.2020.05.0240
    52. Nakada, L.Y.K., Urban, R.C. (2020). COVID-19 pandemic: Impacts on
-       the air quality during the partial lockdown in São Paulo state,
+       the air quality during the partial lockdown in SÃ£o Paulo state,
        Brazil. Sci. Total Environ. 730,
-       139087. https://doi.org/10.1016/j.scitotenv.2020.139087
+       139087. https://doi.org/â10.1016/j.scitotenv.2020.139087
    53. Pandey, S.K., Vinoj, V. (2021). Surprising Changes in aerosol
        loading over India amid COVID-19 lockdown. Aerosol Air Qual. Res.
        21, 200466. https://doi.org/10.4209/aaqr.2020.07.0466
    54. Pathakoti, M., Muppalla, A., Hazra, S., Dangeti, M., Shekhar, R.,
        Jella, S., Mullapudi, S.S., Andugulapati, P., Vijayasundaram, U.
        (2020). An assessment of the impact of a nation-wide lockdown on
-       air pollution - a remote sensing perspective over India (preprint).
+       air pollution â a remote sensing perspective over India (preprint).
        Atmos. Chem. Phys. Discuss.
        [preprint], https://doi.org/10.5194/acp-2020-621
    55. Philip, S., Martin, R. V, Snider, G., Weagle, C.L., van Donkelaar,
@@ -1239,10 +1239,10 @@ REFERENCES
        M., Koh, Y., Du, B. (2020). Intensive care management of
        coronavirus disease 2019 (COVID-19): Challenges and
        recommendations. Lancet Respir. Med. 8,
-       506-517. https://doi.org/10.1016/S2213-2600(20)30161-2
+       506â517. https://doi.org/10.1016/S2213-2600(20)30161-2
    57. Purohit, P., Amann, M., Kiesewetter, G., Rafaj, P., Chaturvedi, V.,
        Dholakia, H.H., Koti, P.N., Klimont, Z., Borken-Kleefeld, J.,
-       Gomez-Sanabria, A., Schöpp, W., Sander, R. (2019). Mitigation
+       Gomez-Sanabria, A., SchÃ¶pp, W., Sander, R. (2019). Mitigation
        pathways towards national ambient air quality standards in India.
        Environ. Int. 133,
        105147. https://doi.org/10.1016/j.envint.2019.105147
@@ -1252,12 +1252,12 @@ REFERENCES
        A.K., Rupakheti, M., Bonasoni, P. (2015). Seasonal variation of
        ozone and black carbon observed at Paknajol, an urban site in the
        Kathmandu Valley, Nepal. Atmos. Chem. Phys. 15,
-       13957-13971. https://doi.org/10.5194/acp-15-13957-2015
+       13957â13971. https://doi.org/10.5194/acp-15-13957-2015
    59. Rai, M., Mahapatra, P.S., Gul, C., Kayastha, R.B., Panday, A.K.,
        Puppala, S.P. (2019). Aerosol radiative forcing estimation over a
        remote high-altitude location (4900 masl) near Yala Glacier, Nepal.
        Aerosol Air Qual. Res. 19,
-       1872-1891. https://doi.org/10.4209/aaqr.2018.09.0342
+       1872â1891. https://doi.org/10.4209/aaqr.2018.09.0342
    60. Ranjan, A.K., Patra, A.K., Gorai, A.K. (2020). Effect of lockdown
        due to SARS COVID-19 on aerosol optical depth (AOD) over urban and
        mining regions in India. Sci. Total Environ. 745,
@@ -1266,38 +1266,38 @@ REFERENCES
        S., Mahata, K.S., Naja, M., Zhang, Q., Panday, A.K., Lawrence, M.G.
        (2017). Pre-monsoon air quality over Lumbini, a world heritage site
        along the Himalayan foothills. Atmos. Chem. Phys. 17,
-       11041-11063. https://doi.org/10.5194/acp-17-11041-2017
+       11041â11063. https://doi.org/10.5194/acp-17-11041-2017
    62. Sadavarte, P., Venkataraman, C., Cherian, R., Patil, N., Madhavan,
        B.L., Gupta, T., Kulkarni, S., Carmichael, G.R., Adhikary, B.
        (2016). Seasonal differences in aerosol abundance and radiative
        forcing in months of contrasting emissions and rainfall over
        northern South Asia. Atmos. Environ. 125,
-       512-523. https://doi.org/10.1016/j.atmosenv.2015.10.092
+       512â523. https://doi.org/10.1016/j.atmosenv.2015.10.092
    63. Saikawa, E., Panday, A., Kang, S., Gautam, R., Zusman, E., Cong,
        Z., Somanathan, E., Adhikary, B. (2019). Air Pollution in the Hindu
        Kush Himalaya, in: Wester, P., Mishra, A., Mukherji, A., Shrestha,
        A.B. (Eds.), The Hindu Kush Himalaya Assessment, Springer
        International Publishing, Cham, pp.
-       339-387. https://doi.org/10.1007/978-3-319-92288-1_10
+       339â387. https://doi.org/10.1007/978-3-319-92288-1_10
    64. Shakoor, A., Chen, X., Farooq, T.H., Shahzad, U., Ashraf, F.,
        Rehman, A., Sahar, N. e., Yan, W. (2020). Fluctuations in
        environmental pollutants and air quality during the lockdown in the
        USA and China: Two sides of COVID-19 pandemic. Air Qual. Atmos.
-       Health 13, 1335-1342. https://doi.org/10.1007/s11869-020-00888-6
+       Health 13, 1335â1342. https://doi.org/10.1007/s11869-020-00888-6
    65. Sharma, R., Bhattarai, S., Rupakheti, M. (2020a). Lockdown caused
        by COVID-19 pandemic reduces air pollution in cities worldwide.
-       Preprint 1-25. https://doi.org/10.31223/osf.io/edt4j
+       Preprint 1â25. https://doi.org/10.31223/osf.io/edt4j
    66. Sharma, S., Zhang, M., Anshika, Gao, J., Zhang, H., Kota, S.H.
        (2020b). Effect of restricted emissions during COVID-19 on air
        quality in India. Sci. Total Environ. 728,
-       138878. https://doi.org/10.1016/j.scitotenv.2020.138878
+       138878. https://doi.org/â10.1016/j.scitotenv.2020.138878
    67. Shrestha, R.M. (2018). Emissions of air pollutants and greenhouse
        gases in Nepal. Regional Energy Resources Information Center
        (RERIC), Asian Institute of Technology, Thailand.
    68. Silva, R.A., Adelman, Z., Fry, M.M., West, J.J. (2016). The impact
        of individual anthropogenic emissions sectors on the global burden
        of human mortality due to ambient air pollution. Environ. Health
-       Perspect. 124, 1776-1784. https://doi.org/10.1289/EHP177
+       Perspect. 124, 1776â1784. https://doi.org/10.1289/EHP177
    69. Stone, E.A., Schauer, J.J., Pradhan, B.B., Dangol, P.M., Habib, G.,
        Venkataraman, C., Ramanathan, V. (2010). Characterization of
        emissions from South Asian biofuels and application to source
@@ -1309,24 +1309,24 @@ REFERENCES
        health benefits from mitigation of emissions from major
        anthropogenic PM[2.5] sources in India: Statistics at state level.
        Environ. Pollut. 242,
-       1817-1826. https://doi.org/10.1016/j.envpol.2018.07.085
+       1817â1826. https://doi.org/10.1016/j.envpol.2018.07.085
    72. Vadrevu, K.P., Lasko, K., Giglio, L., Schroeder, W., Biswas, S.,
        Justice, C. (2019). Trends in Vegetation fires in South and
        Southeast Asian Countries. Sci. Rep. 9,
-       7422. https://doi.org/10.1038/s41598-019-43940-x
+       7422. https://doi.org/â10.1038/s41598-019-43940-x
    73. van der Werf, G.R., Randerson, J.T., Giglio, L., van Leeuwen, T.T.,
        Chen, Y., Rogers, B.M., Mu, M., van Marle, M.J.E., Morton, D.C.,
        Collatz, G.J., Yokelson, R.J., Kasibhatla, P.S. (2017). Global fire
        emissions estimates during 1997--2016. Earth Syst. Sci. Data 9,
-       697-720. https://doi.org/10.5194/essd-9-697-2017
-   74. Veefkind, J.P., Aben, I., McMullan, K., Förster, H., de Vries, J.,
+       697â720. https://doi.org/â10.5194/essd-9-697-2017
+   74. Veefkind, J.P., Aben, I., McMullan, K., FÃ¶rster, H., de Vries, J.,
        Otter, G., Claas, J., Eskes, H.J., de Haan, J.F., Kleipool, Q., van
        Weele, M., Hasekamp, O., Hoogeveen, R., Landgraf, J., Snel, R.,
        Tol, P., Ingmann, P., Voors, R., Kruizinga, B., Vink, R., et
        al. (2012). TROPOMI on the ESA Sentinel-5 Precursor: A GMES mission
        for global observations of the atmospheric composition for climate,
        air quality and ozone layer applications. Remote Sens. Environ.
-       120, 70-83. https://doi.org/10.1016/j.rse.2011.09.027
+       120, 70â83. https://doi.org/â10.1016/j.rse.2011.09.027
    75. Venter, Z.S., Aunan, K., Chowdhury, S., Lelieveld, J. (2020).
        COVID-19 lockdowns cause global air pollution declines with
        implications for public health risk (preprint).
@@ -1338,11 +1338,11 @@ REFERENCES
    77. Wei, J., Li, Z., Peng, Y., Sun, L. (2019a). MODIS Collection 6.1
        aerosol optical depth products over land and ocean: validation and
        comparison. Atmos. Environ. 201,
-       428-440. https://doi.org/10.1016/j.atmosenv.2018.12.004
+       428â440. https://doi.org/â10.1016/j.atmosenv.2018.12.004
    78. Wei, J., Peng, Y., Guo, J., Sun, L. (2019b). Performance of MODIS
        Collection 6.1 Level 3 aerosol products in spatial-temporal
        variations over land. Atmos. Environ. 206,
-       30-44. https://doi.org/10.1016/j.atmosenv.2019.03.001
+       30â44. https://doi.org/â10.1016/j.atmosenv.2019.03.001
    79. Wester, P., Mishra, A., Mukherji, A., Shrestha, A.B. (2019). The
        Hindu Kush Himalaya Assessment: Mountains, Climate Change,
        Sustainability and People. Springer International Publishing,
@@ -1357,15 +1357,15 @@ REFERENCES
        (2017). Ambient particulate matter and carbon monoxide at an urban
        site of India: Influence of anthropogenic emissions and dust
        storms. Environ. Pollut. 225,
-       291-303. https://doi.org/10.1016/j.envpol.2017.01.038
+       291â303. https://doi.org/10.1016/j.envpol.2017.01.038
    84. Zambrano-Monserrate, M.A., Ruano, M.A., Sanchez-Alcalde, L. (2020).
        Indirect effects of COVID-19 on the environment. Sci. Total
        Environ. 728,
-       138813. https://doi.org/10.1016/j.scitotenv.2020.138813
+       138813. https://doi.org/10.1016/j.scitotenv.2020.â138813
    85. Zhang, M., Katiyar, A., Zhu, S., Shen, J., Xia, M., Ma, J., Kota,
        S.H., Wang, P., Zhang, H. (2021). Impact of reduced anthropogenic
        emissions during COVID-19 on air quality in India. Atmos. Chem.
-       Phys. 21, 4025-4037. https://doi.org/10.5194/acp-21-4025-2021
+       Phys. 21, 4025â4037. https://doi.org/10.5194/acp-21-4025-2021
      __________________________________________________________________
 
      * Prev
@@ -1375,60 +1375,58 @@ REFERENCES
 
 Other readers also read ...
 
-   Particle-bound PAHs and Chemical Composition, Sources and Health Risk
-   of PM2.5 in a Highly Industrialized Area
-   Particle-bound PAHs and Chemical Composition, Sources and Health Risk
-   of PM2.5 in a Highly Industrialized Area
-
-   Read more: ...
-   Potential Source Density Function: A New Tool for Identifying Air
-   Pollution Sources
-   Potential Source Density Function: A New Tool for Identifying Air
-   Pollution Sources
-
-   Read more: ...
-   Analysis of Air Quality Changes and Influencing Factors in Changchun
-   during the COVID-19 Pandemic in 2020
-   Analysis of Air Quality Changes and Influencing Factors in Changchun
-   during the COVID-19 Pandemic in 2020
-
-   Read more: ...
    Linking PM Pollution to the Respiratory Health of Children: A
    Cross-sectional Study from Ahmedabad City in Western India
    Linking PM Pollution to the Respiratory Health of Children: A
    Cross-sectional Study from Ahmedabad City in Western India
 
    Read more: ...
-   Impact of Wheat Harvest on Levels and Sources of PM2.5-associated PAHs
-   in an Urban Area Located at the Center of Beijing-Tianjin-Hebei Region
-   Impact of Wheat Harvest on Levels and Sources of PM2.5-associated PAHs
-   in an Urban Area Located at the Center of Beijing-Tianjin-Hebei Region
+   The Impact of Lockdown on Air Quality in Pakistan during the COVID-19
+   Pandemic Inferred from the Multi-sensor Remote Sensed Data
+   The Impact of Lockdown on Air Quality in Pakistan during the COVID-19
+   Pandemic Inferred from the Multi-sensor Remote Sensed Data
 
    Read more: ...
-   Soot Particle Agglomeration Inlet (SPAI) for Enabling Online Chemical
-   Composition Measurement of Nanoparticles with the Aerosol Mass
-   Spectrometer
-   Soot Particle Agglomeration Inlet (SPAI) for Enabling Online Chemical
-   Composition Measurement of Nanoparticles with the Aerosol Mass
-   Spectrometer
+   A Simple Method for Aerosol Transport Efficiency Tests in Sampling
+   Tubes
+   A Simple Method for Aerosol Transport Efficiency Tests in Sampling
+   Tubes
 
    Read more: ...
-   Measurement of PM2.5 and PM10 Concentrations in Nakhodka City with a
-   Network of Automatic Monitoring Stations
-   Measurement of PM2.5 and PM10 Concentrations in Nakhodka City with a
-   Network of Automatic Monitoring Stations
+   Characterization of PM2.5 and Particulate PAHs Emitted from Vehicles
+   via Tunnel Sampling in Different Time Frames
+   Characterization of PM2.5 and Particulate PAHs Emitted from Vehicles
+   via Tunnel Sampling in Different Time Frames
 
    Read more: ...
-   Long-term Measurements of Carbonaceous Aerosol at Cape Hedo, Okinawa,
-   Japan: Effects of Changes in Emissions in East Asia
-   Long-term Measurements of Carbonaceous Aerosol at Cape Hedo, Okinawa,
-   Japan: Effects of Changes in Emissions in East Asia
+   Then and Now: COVID-19 Pandemic Lockdown Misfire Atmospheric Methane
+   over India
+   Then and Now: COVID-19 Pandemic Lockdown Misfire Atmospheric Methane
+   over India
 
    Read more: ...
-   Temporal Change in Atmospheric Radiocesium during the First Seven Years
-   after the Fukushima Dai-ich Nuclear Power Plant Accident
-   Temporal Change in Atmospheric Radiocesium during the First Seven Years
-   after the Fukushima Dai-ich Nuclear Power Plant Accident
+   Fabrication of Iron-based Oxygen Carriers on Various Supports for
+   Chemical Looping Hydrogen Generation
+   Fabrication of Iron-based Oxygen Carriers on Various Supports for
+   Chemical Looping Hydrogen Generation
+
+   Read more: ...
+   Assessment of High-resolution Local Emissions and Land-use in Air
+   Quality Forecasting at an Urban, Coastal, Desert Environment
+   Assessment of High-resolution Local Emissions and Land-use in Air
+   Quality Forecasting at an Urban, Coastal, Desert Environment
+
+   Read more: ...
+   Particle Concentration Comparison of Radiator and Floor Heating Systems
+   under Zero Air Change Rate Condition
+   Particle Concentration Comparison of Radiator and Floor Heating Systems
+   under Zero Air Change Rate Condition
+
+   Read more: ...
+   The Association between Ambient Fine Particulate Matter and Oral
+   Neoplasm among Smokers and Betel Quids Chewers
+   The Association between Ambient Fine Particulate Matter and Oral
+   Neoplasm among Smokers and Betel Quids Chewers
 
    Read more: ...
 
@@ -1444,7 +1442,7 @@ Other readers also read ...
    Email Address *
    ____________________
    (BUTTON) Subscribe
-   First Name ____________________
+   Phone ____________________
 
    Aerosol and Air Quality Research is an Open Access Journal
    8.3
@@ -1471,20 +1469,18 @@ Other readers also read ...
      * Most Read
      * In Press
 
-     * Design and Optimization of Cross-corrugated Triangular Ducts
-       Towards Reducing CO2 Emission and Improving Energy Efficiency
-       (Volume 21, Issue 12, December 2021)
-     * Changes in Chemical Composition, Sources, and Health Risk of PM2.5
-       with Sand Storm at a Small City in North China ( Volume 22, Issue
-       6, June 2022)
-     * Assessment of PM2.5 Patterns in Malaysia Using the Clustering
-       Method (Volume 22, Issue 1, January 2022)
-     * A Semi-portable Enclosure to Measure Emission Rates from Small
-       Fugitive Sources: Leaf Blower Dust Example (Volume 21, Issue 10,
-       October 2021)
-     * Preschool Children's Inhalation Rates Estimated from
-       Accelerometers--A Tool to Estimate Children's Exposure to Air
-       Pollution (Volume 22, Issue 8, August 2022)
+     * Assessment of COVID-19 Impacts on Air Quality in Ulaanbaatar,
+       Mongolia, Based on Terrestrial and Sentinel-5P TROPOMI Data (Volume
+       22, Issue 10, October 2022)
+     * Effects of Lockdown due to the COVID-19 Pandemic on Air Quality at
+       Latin Americaâs Largest Open-pit Coal Mine (Volume 21, Issue 8,
+       August 2021)
+     * Growth, Yield and Quality of Maize under Ozone and Carbon Dioxide
+       Interaction in North West India (Volume 21, Issue 2, February 2021)
+     * Waste to Energy: Air Pollutant Emissions from the Steam Boilers
+       Using Recycled Waste Wood (Volume 21, Issue 12, December 2021)
+     * SARS-CoV-2 Aerosol and Surface Contamination in Health Care
+       Settings: The Moscow Pilot Study (Volume 21, Issue 4, April 2021)
 
 You may also like
 
@@ -1503,18 +1499,18 @@ You may also like
 
 Research Categories
 
-     * Aerosol Physics and Instrumentation
-     * Optical/Radiative Properties and Remote Sensing
-     * Control Techniques and Strategy
-     * Bioaerosols
-     * Physical and Chemical Characteristics of Aerosols
-     * Air Pollution Modeling
-     * Indoor Air Quality
-     * CO2 Capture, Storage and Emission
-     * Diesel Engine Emission
-     * Air Pollution and Health Effects
-     * Low-Cost Sensors
      * Nanoparticles
+     * Aerosol Physics and Instrumentation
+     * Air Toxics
+     * Air Pollution and Health Effects
+     * Indoor Air Quality
+     * Urban Air Quality
+     * Others
+     * CO2 Capture, Storage and Emission
+     * Low-Cost Sensors
+     * Optical/Radiative Properties and Remote Sensing
+     * Air Pollution Modeling
+     * Aerosol and Atmospheric Chemistry
 
 Research Regions
 

@@ -12,13 +12,13 @@
 
    Credit (photo: Shepherd Zhou/FeatureChina/Newscom)
    (BUTTON) English
-   français
-   português
-   russkij
-   ¥¬
-   a+l+e+r+b+y+tm
-   ­
-   español
+   franÃ§ais
+   portuguÃªs
+   ÑÑÑÑÐºÐ¸Ð¹
+   æ¥æ¬èª
+   Ø§ÙØ¹Ø±Ø¨ÙØ©
+   ä¸­æ
+   espaÃ±ol
    COVID-19
 
 Emerging from the Great Lockdown in Asia and Europe (BUTTON)
@@ -43,9 +43,9 @@ have peaked, are gradually reopening their economies.
    Given this, authorities are adopting a gradual and sequenced approach
    to reopening, along with the adoption of further prevention and
    containment measures. While some Asian countries have already moved
-   down this path with some success, risks remain--and the risks for
-   Europe may be even greater. How do unlocking strategies compare across
-   Asia and Europe?
+   down this path with some success, risks remainâand the risks for Europe
+   may be even greater. How do unlocking strategies compare across Asia
+   and Europe?
 
    The COVID-19 pandemic hit Asia first. It quickly spread from China to
    others in the region and has yet to retreat from all those countries.
@@ -58,14 +58,14 @@ have peaked, are gradually reopening their economies.
    two countries saw new infections peak in February, just when the
    pandemic began to hit Europe hard. The number of confirmed cases of
    COVID-19 in Europe has now reached 1.8 million, representing almost
-   half the world's total. The reported death toll stands close to
+   half the worldâs total. The reported death toll stands close to
    160,000, out of more than 280,000 worldwide.
 
    Economic impact of lockdown measures
 
    To slow the spread of the virus, most European and Asian countries
    adopted strict lockdowns, the economic impact of which has now become
-   evident. China's GDP dropped by 36.6 percent in the first quarter of
+   evident. Chinaâs GDP dropped by 36.6 percent in the first quarter of
    2020, and Korea saw an output decline of 5.5 percent (all rates are
    annualized and seasonally adjusted). The difference in impact reflects
    the fact that China faced the outbreak first and then moved to enforce
@@ -110,15 +110,15 @@ have peaked, are gradually reopening their economies.
    restricted in Korea. As a result, the resumption of economic activity
    is proceeding gradually, and more or less automatically as social
    distancing recedes. The authorities have transitioned to less stringent
-   guidelines for "Daily Social Distancing," which directs citizens to
+   guidelines for âDaily Social Distancing,â which directs citizens to
    stay home when feeling ill, keep personal distance, wash hands
    frequently, wear face masks, and ventilate indoor spaces regularly.
 
    Singapore also succeeded in containing the contagion early on following
-   a strategy similar to Korea's. But, in early April, it tightened
+   a strategy similar to Koreaâs. But, in early April, it tightened
    containment measures in response to a new outbreak.
 
-   Europe's gradual reopening
+   Europeâs gradual reopening
 
    Several European countries have announced plans to gradually reopen
    their economies and some have already begun the process. The timing,
@@ -150,7 +150,7 @@ have peaked, are gradually reopening their economies.
    While reopening strategies differ, Europe appears to be reopening its
    economy earlier in the epidemic cycle than China. In addition, the
    capacity for large-scale testing, contact tracing, and case isolation
-   in Europe may lag behind the best examples in Asia-partly reflecting
+   in Europe may lag behind the best examples in Asiaâpartly reflecting
    stringent privacy rules. For instance, the European Commission
    recommends tracking apps, but only on a voluntary basis. Consequently,
    Europe appears to be more at risk than some Asian countries, including
@@ -173,17 +173,18 @@ have peaked, are gradually reopening their economies.
 
 Recent Blogs
 
-   Healing the Pandemic's Economic Scars Demands Prompt Action
+   Healing the Pandemicâs Economic Scars Demands Prompt Action
    COVID-19
    A
+   æ
 
-Healing the Pandemic's Economic Scars Demands Prompt Action
+Healing the Pandemicâs Economic Scars Demands Prompt Action
 
    May 17, 2022
-   Pandemic's E-commerce Surge Proves Less Persistent, More Varied
+   Pandemicâs E-commerce Surge Proves Less Persistent, More Varied
    COVID-19
 
-Pandemic's E-commerce Surge Proves Less Persistent, More Varied
+Pandemicâs E-commerce Surge Proves Less Persistent, More Varied
 
    March 17, 2022
    Rethinking Fiscal Policy and Debt for a Post-Pandemic World
@@ -214,4 +215,4 @@ ABOUT THE BLOG
      * PEOPLE
      * IMF HOME PAGE
 
-   © 2025 INTERNATIONAL MONETARY FUND. ALL RIGHTS RESERVED
+   Â© 2025 INTERNATIONAL MONETARY FUND. ALL RIGHTS RESERVED

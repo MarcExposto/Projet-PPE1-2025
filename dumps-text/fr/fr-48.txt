@@ -8,7 +8,7 @@
      * Recrutement
 
      * English
-     * Français
+     * FranÃ§ais
 
    [logo-alcen.svg]
    [baseline_alcen.svg]
@@ -17,13 +17,13 @@
    Toggle navigation
    Menu
      * English
-     * Français
+     * FranÃ§ais
 
      * ALCEN
-     * Défense & Sécurité
-     * Énergie
-     * Médical & Santé
-     * Aéronautique & Spatial
+     * DÃ©fense & SÃ©curitÃ©
+     * Ãnergie
+     * MÃ©dical & SantÃ©
+     * AÃ©ronautique & Spatial
      * Grands Instruments Scientifiques
 
      *
@@ -32,45 +32,45 @@
      * Recrutement
 
     1. Accueil
-    2. Énergie
+    2. Ãnergie
 
 Solutions de confinement
 
-   ALSYMEX conçoit et réalise des boites à gants instrumentées pour les
-   installations nucléaires.
+   ALSYMEX conÃ§oit et rÃ©alise des boites Ã  gants instrumentÃ©es pour les
+   installations nuclÃ©aires.
 
-   Pour les applications nécessitant des boites à gants en Inox
-   chaudronnées de classe 1, ALSYMEX fabrique des équipements sur mesure
-   intégrant l'ensemble des contraintes des sites nucléaires relatives à
-   la manipulation, le transfert, la transformation de la matière
-   radioactive en enceinte confinée, ou sous atmosphère contrôlée en gaz
+   Pour les applications nÃ©cessitant des boites Ã  gants en Inox
+   chaudronnÃ©es de classe 1, ALSYMEX fabrique des Ã©quipements sur mesure
+   intÃ©grant l'ensemble des contraintes des sites nuclÃ©aires relatives Ã 
+   la manipulation, le transfert, la transformation de la matiÃ¨re
+   radioactive en enceinte confinÃ©e, ou sous atmosphÃ¨re contrÃ´lÃ©e en gaz
    neutre.
 
    Ses savoir-faire et expertises lui permettent de prendre en compte les
-   classes de ventilation (taux de renouvèlement, confinement dynamique),
+   classes de ventilation (taux de renouvÃ¨lement, confinement dynamique),
    les classes de confinement statique (taux de fuite) et autres
-   spécificités de l'application (ex : matériaux sous forme fluide, gaz ou
-   solide), spécialement dans les applications en boite à gants
-   nécessitant des procédés mécaniques, fluides ou gaz et imposant des
-   contraintes d'exploitation particulières. (T°, P, PH, H[2], O[2]).
-   En savoir plus sur le site de la société
+   spÃ©cificitÃ©s de l'application (ex : matÃ©riaux sous forme fluide, gaz ou
+   solide), spÃ©cialement dans les applications en boite Ã  gants
+   nÃ©cessitant des procÃ©dÃ©s mÃ©caniques, fluides ou gaz et imposant des
+   contraintes d'exploitation particuliÃ¨res. (TÂ°, P, PH, H[2], O[2]).
+   En savoir plus sur le site de la sociÃ©tÃ©
    Solutions de confinement - ALSYMEX
    Solutions de confinement - ALSYMEX
    ALSYMEX
-     * (BUTTON) Fiche de la société
+     * (BUTTON) Fiche de la sociÃ©tÃ©
 
    ALCEN for fusion
-   Mentions légales | © ALCEN -- Tous droits réservés
+   Mentions lÃ©gales | Â© ALCEN â Tous droits rÃ©servÃ©s
 
 Contact
 
-   (BUTTON) ×
+   (BUTTON) Ã
 
 Choisissez votre contact
 
    Contact [ALCEN____________________________]
    Subsidiary contact
-   [--- Sélectionnez une filiale ou une marque d'ALCEN ---]
+   [--- SÃ©lectionnez une filiale ou une marque d'ALCEN ----]
 
 Vous souhaitez contacter
 
@@ -80,7 +80,7 @@ Vous souhaitez contacter
    First name ____________________________________________________________
    Last name ____________________________________________________________
    Company ____________________________________________________________
-   Téléphone ____________________________________________________________
+   TÃ©lÃ©phone ____________________________________________________________
    Email ____________________
    Message
    ____________________________________________________________
@@ -94,7 +94,7 @@ ALCEN
 
    Head office
    6 rue Paul Baudry
-   75008 Paris - France
+   75008 Paris â France
 
    + 33 1 40 72 55 00
    + 33 1 40 72 67 38

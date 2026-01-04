@@ -125,9 +125,8 @@ o 2
 
 1 international
 international conventions
-conventions 1852
-1852 1927
-1927 *
+conventions 1852â1927
+1852â1927 *
 * 3
 3 signals
 signals and
@@ -214,9 +213,8 @@ o 5
 british maritime
 maritime quarantine
 quarantine rules
-rules 1711
-1711 1896
-1896 +
+rules 1711â1896
+1711â1896 +
 + 5
 
 5 united
@@ -296,12 +294,10 @@ typhoid +
 3 typhoid
 typhoid mary
 mary us
-us 1907
-1907 1910
-1910 and
-and 1915
-1915 1938
-1938 +
+us 1907â1910
+1907â1910 and
+and 1915â1938
+1915â1938 +
 + 6
 
 4 east
@@ -314,9 +310,8 @@ pandemic +
 
 5 gruinard
 gruinard island
-island 1942
-1942 1990
-1990 anthrax
+island 1942â1990
+1942â1990 anthrax
 anthrax +
 + 6
 
@@ -324,9 +319,8 @@ anthrax +
 apollo series
 series space
 space explorers
-explorers 1969
-1969 1971
-1971 +
+explorers 1969â1971
+1969â1971 +
 + 6
 
 7 yugoslavia
@@ -350,9 +344,8 @@ ebola +
 9 covid
 covid 19
 19 pandemic
-pandemic 2020
-2020 2023
-2023 o
+pandemic 2020â2023
+2020â2023 o
 o 6
 
 
@@ -419,24 +412,24 @@ quarantine [
 ] 82
 82 languages
 languages *
-* a+l+e+r+b+y+tm
-a+l+e+r+b+y+tm *
-* az@rbaycanca
-az@rbaycanca *
-* ¬¾²¾
-¬¾²¾ *
-* belaruskaya
-belaruskaya *
-* b"lgarski
-b"lgarski *
+* Ø§ÙØ¹Ø±Ø¨ÙØ©
+Ø§ÙØ¹Ø±Ø¨ÙØ© *
+* azÉrbaycanca
+azÉrbaycanca *
+* à¦¬à¦¾à¦à¦²à¦¾
+à¦¬à¦¾à¦à¦²à¦¾ *
+* ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ
+ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ *
+* ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸ *
 * bosanski
 bosanski *
-* català
-català *
-* chvashla
-chvashla *
-* cestina
-cestina *
+* catalÃ 
+catalÃ  *
+* Ð§ÓÐ²Ð°ÑÐ»Ð°
+Ð§ÓÐ²Ð°ÑÐ»Ð° *
+* ÄeÅ¡tina
+ÄeÅ¡tina *
 * cymraeg
 cymraeg *
 * dagbanli
@@ -447,28 +440,28 @@ dansk *
 deutsch *
 * eesti
 eesti *
-* ellynika
-ellynika *
-* español
-español *
+* ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+ÎÎ»Î»Î·Î½Î¹ÎºÎ¬ *
+* espaÃ±ol
+espaÃ±ol *
 * esperanto
 esperanto *
 * euskara
 euskara *
-* f+a+r+s+
-f+a+r+s+ *
-* français
-français *
+* ÙØ§Ø±Ø³Û
+ÙØ§Ø±Ø³Û *
+* franÃ§ais
+franÃ§ais *
 * gaeilge
 gaeilge *
 * galego
 galego *
-* ­´
-­´ *
-* ¡µ¥¥¶
-¡µ¥¥¶ *
-* ¹¿¨¦
-¹¿¨¦ *
+* íêµ­ì´
+íêµ­ì´ *
+* ÕÕ¡ÕµÕ¥ÖÕ¥Õ¶
+ÕÕ¡ÕµÕ¥ÖÕ¥Õ¶ *
+* à¤¹à¤¿à¤¨à¥à¤¦à¥
+à¤¹à¤¿à¤¨à¥à¤¦à¥ *
 * hrvatski
 hrvatski *
 * bahasa
@@ -478,129 +471,124 @@ indonesia *
 interlingua *
 * italiano
 italiano *
-* e+b+r+j+t+
-e+b+r+j+t+ *
-* ¥ £
-¥ £ *
-* azasha
-azasha *
+* ×¢××¨××ª
+×¢××¨××ª *
+* á¥áá áá£áá
+á¥áá áá£áá *
+* ÒÐ°Ð·Ð°ÒÑÐ°
+ÒÐ°Ð·Ð°ÒÑÐ° *
 * kiswahili
 kiswahili *
-* kreyòl
-kreyòl ayisyen
+* kreyÃ²l
+kreyÃ²l ayisyen
 ayisyen *
-* kurdî
-kurdî *
-* kyrgyzcha
-kyrgyzcha *
+* kurdÃ®
+kurdÃ® *
+* ÐÑÑÐ³ÑÐ·ÑÐ°
+ÐÑÑÐ³ÑÐ·ÑÐ° *
 * latina
 latina *
-* latviesu
-latviesu *
-* lëtzebuergesch
-lëtzebuergesch *
-* lietuviu
-lietuviu *
+* latvieÅ¡u
+latvieÅ¡u *
+* lÃ«tzebuergesch
+lÃ«tzebuergesch *
+* lietuviÅ³
+lietuviÅ³ *
 * magyar
 magyar *
-* makedonski
-makedonski *
-* ®²¯¾³
-®²¯¾³ *
-* ®°¾
-®°¾ *
-*  £
- £ *
+* ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸
+ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸ *
+* à´®à´²à´¯à´¾à´³à´
+à´®à´²à´¯à´¾à´³à´ *
+* à¤®à¤°à¤¾à¤ à¥
+à¤®à¤°à¤¾à¤ à¥ *
+* ááá áááá£á á
+ááá áááá£á á *
 * bahasa
 bahasa melayu
 melayu *
-* mongol
-mongol *
+* ÐÐ¾Ð½Ð³Ð¾Ð»
+ÐÐ¾Ð½Ð³Ð¾Ð» *
 * nederlands
 nederlands *
 * nedersaksies
 nedersaksies *
-* ¥¬
-¥¬ *
+* æ¥æ¬èª
+æ¥æ¬èª *
 * norsk
-norsk bokmål
-bokmål *
+norsk bokmÃ¥l
+bokmÃ¥l *
 * norsk
 norsk nynorsk
 nynorsk *
 * occitan
 occitan *
-* o
-o szbekcha
-szbekcha /
-/ v%zbekcha
-v%zbekcha *
+* oÊ»zbekcha
+oÊ»zbekcha /
+/ ÑÐ·Ð±ÐµÐºÑÐ°
+ÑÐ·Ð±ÐµÐºÑÐ° *
 * papiamentu
 papiamentu *
 * polski
 polski *
-* português
-português *
-* româna
-româna *
-* russkij
-russkij *
+* portuguÃªs
+portuguÃªs *
+* romÃ¢nÄ
+romÃ¢nÄ *
+* Ð ÑÑÑÐºÐ¸Ð¹
+Ð ÑÑÑÐºÐ¸Ð¹ *
 * sardu
 sardu *
 * shqip
 shqip *
-* ½
-½ *
+* à·à·à¶à·à¶½
+à·à·à¶à·à¶½ *
 * simple
 simple english
 english *
-* s+n+y+
-s+n+y+ *
-* slovencina
-slovencina *
-* slovenscina
-slovenscina *
-* ©w+r+d+
-©w+r+d+ *
-* srpski
-srpski /
+* Ø³ÙÚÙ
+Ø³ÙÚÙ *
+* slovenÄina
+slovenÄina *
+* slovenÅ¡Äina
+slovenÅ¡Äina *
+* Ú©ÙØ±Ø¯Û
+Ú©ÙØ±Ø¯Û *
+* Ð¡ÑÐ¿ÑÐºÐ¸
+Ð¡ÑÐ¿ÑÐºÐ¸ /
 / srpski
 srpski *
 * srpskohrvatski
 srpskohrvatski /
-/ srpskohrvatski
-srpskohrvatski *
+/ ÑÑÐ¿ÑÐºÐ¾ÑÑÐ²Ð°ÑÑÐºÐ¸
+ÑÑÐ¿ÑÐºÐ¾ÑÑÐ²Ð°ÑÑÐºÐ¸ *
 * suomi
 suomi *
 * svenska
 svenska *
-* ¤®¿´
-¤®¿´ *
+* à®¤à®®à®¿à®´à¯
+à®¤à®®à®¿à®´à¯ *
 * taqbaylit
 taqbaylit *
-* ¢
-¢ *
-* türkçe
-türkçe *
-* ukrayins
-ukrayins ka
-ka *
-* a+r+d+w+
-a+r+d+w+ *
+* à¹à¸à¸¢
+à¹à¸à¸¢ *
+* tÃ¼rkÃ§e
+tÃ¼rkÃ§e *
+* Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ° *
+* Ø§Ø±Ø¯Ù
+Ø§Ø±Ø¯Ù *
 * vahcuengh
 vahcuengh *
-* tie>
-tie> ng
-ng vie>
-
-
-t *
-* ´­
-´­ *
-* µ
-µ *
-* ­
-­ edit
+* tiáº¿ng
+tiáº¿ng viá»t
+viá»t *
+* å´è¯­
+å´è¯­ *
+* ç²µèª
+ç²µèª *
+* ä¸­æ
+ä¸­æ edit
 edit links
 links *
 * article
@@ -1784,7 +1772,7 @@ in 1526
 on the
 the island
 island of
-of pomègues
+of pomÃ¨gues
 
 
 the practise
@@ -2182,8 +2170,8 @@ example at
 at the
 the port
 port of
-of izmir
-izmir all
+of Ä°zmir
+Ä°zmir all
 all ships
 ships and
 and their
@@ -2237,9 +2225,8 @@ empire would
 would be
 be quarantined
 quarantined for
-for 9
-9 15
-15 days
+for 9â15
+9â15 days
 
 
 upon appearance
@@ -2268,9 +2255,8 @@ disease monitoring
 
 ^[32] international
 international conventions
-conventions 1852
-1852 1927
-1927 [edit]
+conventions 1852â1927
+1852â1927 [edit]
 [edit] since
 since 1852
 1852 several
@@ -3198,9 +3184,8 @@ ebola 2014
 
 
 during the
-the 1957
-1957 58
-58 influenza
+the 1957â58
+1957â58 influenza
 influenza pandemic
 pandemic and
 and the
@@ -3339,7 +3324,8 @@ china has
 has employed
 employed mass
 mass quarantines
-quarantines firstly
+quarantines â
+â firstly
 firstly of
 of the
 the city
@@ -3357,7 +3343,8 @@ province population
 population 55
 
 5 million
-million in
+million â
+â in
 in the
 the covid
 covid 19
@@ -3659,9 +3646,8 @@ in modern
 modern times
 times indicates
 indicates the
-the opposite
-opposite a
-a ship
+the oppositeâa
+oppositeâa ship
 ship that
 that requests
 requests free
@@ -4429,9 +4415,8 @@ a decontamination
 decontamination tent
 
 ^[63] the
-the february
-february march
-march 2003
+the februaryâmarch
+februaryâmarch 2003
 2003 issue
 issue of
 of hazmat
@@ -4840,13 +4825,11 @@ the region
 region from
 from cairns
 cairns to
-to broome
-broome including
-including the
+to broomeâincluding
+broomeâincluding the
 the torres
-torres strait
-strait is
-is the
+torres straitâis
+straitâis the
 the focus
 focus for
 for quarantine
@@ -5475,9 +5458,8 @@ appropriate vaccinations
 british maritime
 maritime quarantine
 quarantine rules
-rules 1711
-1711 1896
-1896 [edit]
+rules 1711â1896
+1711â1896 [edit]
 [edit] quarantine
 quarantine act
 act 1710
@@ -5780,9 +5762,8 @@ in 1801
 and 1805
 1805 and
 and in
-in 1823
-1823 24
-24 an
+in 1823â24
+1823â24 an
 an elaborate
 elaborate inquiry
 inquiry was
@@ -5861,9 +5842,8 @@ england in
 in 1849
 1849 1853
 1853 and
-and 1865
-1865 66
-66 no
+and 1865â66
+1865â66 no
 no attempt
 attempt was
 was made
@@ -7277,9 +7257,8 @@ members and
 and capable
 capable of
 of accommodating
-accommodating 1
-1 2
-2 travellers
+accommodating 1â2
+1â2 travellers
 travellers for
 for a
 a short
@@ -7380,7 +7359,7 @@ title 42
 
 
 
-§§264 and
+Â§Â§264 and
 and 266
 266 archived
 archived 24
@@ -7747,9 +7726,8 @@ greater new
 new york
 york charter
 charter sections
-sections 1169
-1169 1170
-1170 ^[88]
+sections 1169â1170
+1169â1170 ^[88]
 ^[88] which
 which permitted
 permitted the
@@ -8225,12 +8203,10 @@ quarantine purposes
 ^[96] typhoid
 typhoid mary
 mary us
-us 1907
-1907 1910
-1910 and
-and 1915
-1915 1938
-1938 [edit]
+us 1907â1910
+1907â1910 and
+and 1915â1938
+1915â1938 [edit]
 [edit] mary
 mary mallon
 mallon was
@@ -8414,9 +8390,8 @@ eventual independence
 
 ^[98] gruinard
 gruinard island
-island 1942
-1942 1990
-1990 anthrax
+island 1942â1990
+1942â1990 anthrax
 anthrax [edit]
 [edit] in
 in 1942
@@ -8479,9 +8454,8 @@ the island
 apollo series
 series space
 space explorers
-explorers 1969
-1969 1971
-1971 [edit]
+explorers 1969â1971
+1969â1971 [edit]
 [edit] between
 between 24
 24 july
@@ -8739,7 +8713,8 @@ for disease
 disease control
 control and
 and prevention
-prevention not
+prevention â
+â not
 not politicians
 politicians like
 like new
@@ -8754,7 +8729,8 @@ maine gov
 
 
 paul lepage
-lepage should
+lepage â
+â should
 should be
 be in
 in charge
@@ -8772,9 +8748,8 @@ not fear
 "^[102] covid
 covid 19
 19 pandemic
-pandemic 2020
-2020 2023
-2023 [edit]
+pandemic 2020â2023
+2020â2023 [edit]
 [edit] [250px
 [250px vermont_covid_travel_sign
 
@@ -8864,9 +8839,8 @@ to 2
 billion people
 people two
 two days
-days later
-later around
-around a
+days laterâaround
+laterâaround a
 a third
 third of
 of the
@@ -9681,8 +9655,8 @@ further information
 information isolation
 isolation health
 health care
-care §
-§ self
+care Â§
+Â§ self
 self isolation
 isolation self
 self quarantine
@@ -9887,7 +9861,8 @@ see also
 also [edit]
 [edit] *
 * biosecurity
-biosecurity preventive
+biosecurity â
+â preventive
 preventive measures
 measures designed
 designed to
@@ -9900,7 +9875,8 @@ infectious disease
 disease transmission
 transmission *
 * epidemiology
-epidemiology study
+epidemiology â
+â study
 study of
 of health
 health and
@@ -9913,7 +9889,8 @@ population *
 extra terrestrial
 terrestrial exposure
 exposure law
-law regulations
+law â
+â regulations
 regulations adopted
 adopted by
 by nasa
@@ -9928,7 +9905,8 @@ harmful contamination
 contamination *
 * infection
 infection control
-control medical
+control â
+â medical
 medical discipline
 discipline for
 for preventing
@@ -9947,7 +9925,8 @@ targets *
 * isolation
 isolation health
 health care
-care measure
+care â
+â measure
 measure taken
 taken to
 to prevent
@@ -9958,7 +9937,8 @@ from being
 being spread
 spread *
 * lazaretto
-lazaretto quarantine
+lazaretto â
+â quarantine
 quarantine station
 station for
 for maritime
@@ -9967,7 +9947,8 @@ travelers *
 * lytton
 lytton quarantine
 quarantine station
-station heritage
+station â
+â heritage
 heritage listed
 listed former
 former quarantine
@@ -9979,7 +9960,8 @@ queensland australia
 australia *
 * pest
 pest house
-house building
+house â
+â building
 building used
 used for
 for persons
@@ -9990,7 +9972,8 @@ communicable diseases
 diseases *
 * protective
 protective sequestration
-sequestration public
+sequestration â
+â public
 public health
 health term
 term *
@@ -10006,7 +9989,8 @@ western australia
 australia *
 * social
 social distancing
-distancing infection
+distancing â
+â infection
 infection control
 control technique
 technique by
@@ -10094,8 +10078,7 @@ disease elsevier
 elsevier pp
 
 
-173 215
-215 doi
+173â215 doi
 doi 10
 
 1016/b978 0
@@ -10124,7 +10107,8 @@ the journal
 journal of
 of sociologic
 sociologic medicine
-medicine volume
+medicine â
+â volume
 volume 17
 17 3
 
@@ -10149,7 +10133,7 @@ online ausg
 
 
 
-basel birkhäuser
+basel birkhÃ¤user
 
 
 
@@ -10272,8 +10256,7 @@ health law
 law review
 
 
-12 227
-227 280
+12 227â280
 
 
 doi 10
@@ -10308,9 +10291,7 @@ north america
 
 
 44 1
-1 44
-44 1
-1 8780
+1 44â1â8780
 
 
 doi 10
@@ -10400,7 +10381,8 @@ modern world
 
 ^ "ibn
 "ibn sina
-sina ancient
+sina â
+â ancient
 ancient hero
 hero of
 of modern
@@ -10438,8 +10420,8 @@ of coronavirus
 dunlop d
 d colin
 colin g
-g sehsuvaroglu
-sehsuvaroglu bn
+g ÅehsuvaroÇ§lu
+ÅehsuvaroÇ§lu bn
 bn 24
 24 april
 april 2012
@@ -10513,8 +10495,7 @@ infectious diseases
 
 
 35 9
-9 1071
-1071 1072
+9 1071â1072
 
 
 doi 10
@@ -10625,9 +10606,8 @@ dawn of
 of the
 the modern
 modern era
-era 1496
-1496 1585
-1585 "
+era 1496â1585
+1496â1585 "
 
 
 gms hygiene
@@ -10679,8 +10659,7 @@ infectious diseases
 
 
 19 2
-2 254
-254 259
+2 254â259
 
 
 doi 10
@@ -10843,9 +10822,8 @@ san francisco
 francisco plague
 plague epidemic
 epidemic of
-of 1900
-1900 1904
-1904 "
+of 1900â1904
+1900â1904 "
 " doctoral
 doctoral thesis
 thesis san
@@ -10922,9 +10900,8 @@ managing the
 the masses
 masses during
 during the
-the 1918
-1918 1919
-1919 influenza
+the 1918â1919
+1918â1919 influenza
 influenza pandemic"
 
 
@@ -10934,8 +10911,7 @@ health reports
 
 125 suppl
 suppl 3
-3 48
-48 62
+3 48â62
 
 
 doi 10
@@ -10987,7 +10963,8 @@ and hygiene
 
 60 1
 1 e64
-e64 e67
+e64 â
+â e67
 
 
 doi 10
@@ -11026,8 +11003,7 @@ and history
 
 
 21 1
-1 63
-63 81
+1 63â81
 
 
 doi 10
@@ -11062,15 +11038,13 @@ debates on
 on plague
 plague in
 in the
-the 1830s
-1830s 1840s"
+the 1830sâ1840s"
 
 
 past and
 and present
 present 253
-253 235
-235 270
+253 235â270
 
 
 doi 10
@@ -11104,7 +11078,6 @@ humanities press
 
 
 
-236 7
 
 
 
@@ -11151,7 +11124,6 @@ series vol
 4 pp
 
 
-282 413
 
 
 
@@ -11169,7 +11141,6 @@ series vol
 78 pp
 
 
-230 349
 
 
 
@@ -11187,7 +11158,6 @@ series vol
 5 pp
 
 
-394 441
 
 
 
@@ -11205,7 +11175,6 @@ series vol
 38 pp
 
 
-10 55
 
 
 
@@ -11223,7 +11192,6 @@ series vol
 37 pp
 
 
-318 339
 
 
 
@@ -11241,7 +11209,6 @@ series vo
 34 pp
 
 
-302 313
 
 
 
@@ -11259,7 +11226,6 @@ series vol
 18 pp
 
 
-104 119
 
 
 
@@ -11277,7 +11243,6 @@ series vol
 49 pp
 
 
-286 314
 
 
 
@@ -11295,7 +11260,6 @@ series vol
 58 pp
 
 
-144 177
 
 
 
@@ -11313,7 +11277,6 @@ series vol
 63 pp
 
 
-322 361
 
 
 
@@ -11342,8 +11305,7 @@ infectious diseases
 
 
 19 2
-2 254
-254 259
+2 254â259
 
 
 doi 10
@@ -11574,7 +11536,7 @@ february 2020
 disease 2019
 2019 covid
 covid 19
-19 transmission"
+19 âtransmission"
 
 
 
@@ -11779,8 +11741,7 @@ health action
 
 
 3 1
-1 7
-7 10
+1 7â10
 
 
 doi 10
@@ -11867,8 +11828,7 @@ the lancet
 
 
 395 10227
-10227 912
-912 920
+10227 912â920
 
 
 doi 10
@@ -11966,8 +11926,7 @@ social psychiatry
 
 
 66 6
-6 525
-525 527
+6 525â527
 
 
 doi 10
@@ -12045,8 +12004,7 @@ infectious diseases
 
 
 19 2
-2 254
-254 259
+2 254â259
 
 
 doi 10
@@ -12368,11 +12326,11 @@ william strahan
 
 
 
-420 421
 
 
 oclc 228755149
-228755149 via
+228755149 â
+â via
 via internet
 internet archive
 
@@ -12395,7 +12353,6 @@ the british
 british experience
 experience c
 
-1650 1900"
 
 
 the history
@@ -12546,7 +12503,8 @@ the control
 control of
 of communicable
 communicable diseases
-diseases final
+diseases â
+â final
 final rule
 rule for
 for control
@@ -12691,7 +12649,8 @@ beardslee "the
 "the 1832
 1832 cholera
 cholera epidemic
-epidemic part
+epidemic â
+â part
 part 2
 2 19th
 19th century
@@ -12745,8 +12704,7 @@ of medicine
 
 
 56 5
-5 488
-488 510
+5 488â510
 
 
 pmc 1805119
@@ -12926,8 +12884,7 @@ the spanish
 spanish flu
 flu epidemic
 epidemic of
-of 1918
-1918 19
+of 1918â19
 
 
 
@@ -13016,8 +12973,7 @@ jg 1989
 
 
 eyam plague
-plague 1665
-1665 1666
+plague 1665â1666
 
 
 
@@ -13208,8 +13164,8 @@ january 2020
 2020 103
 
 
-^ grépin
-grépin ka
+^ grÃ©pin
+grÃ©pin ka
 ka 4
 4 october
 october 2024
@@ -13295,6 +13251,7 @@ population is
 is on
 on coronavirus
 lockdown
+â here
 here s
 s our
 our constantly
@@ -13719,8 +13676,8 @@ fase 2
 2 dal
 dal 4
 4 maggio
-maggio sì
-sì a
+maggio sÃ¬
+sÃ¬ a
 a incontri
 incontri con
 con familiari
@@ -13765,8 +13722,8 @@ calendario di
 di quello
 quello che
 che si
-si potrà
-potrà fare
+si potrÃ 
+potrÃ  fare
 fare nella
 nella "fase
 "fase 2"
@@ -14264,7 +14221,7 @@ h ed
 
 
 
-encyclopædia britannica
+encyclopÃ¦dia britannica
 britannica 11th
 11th ed
 
@@ -14334,8 +14291,7 @@ health law
 law review
 
 
-12 227
-227 280
+12 227â280
 
 
 doi 10
@@ -14368,8 +14324,7 @@ nei secoli
 
 
 12 1
-1 103
-103 27
+1 103â27
 
 
 pmid 11624707
@@ -14432,6 +14387,7 @@ cambridge university
 university press
 
 
+â hardback
 hardback isbn
 isbn 0
 0 521
@@ -14446,7 +14402,8 @@ isbn 0
 0 emerging
 emerging infectious
 infectious diseases
-diseases contents
+diseases â
+â contents
 contents volume
 volume 11
 11 number
@@ -14806,9 +14763,8 @@ sex *
 sanitation +
 + emergency
 emergency +
-+ fecal
-fecal oral
-oral transmission
++ fecalâoral
+fecalâoral transmission
 transmission +
 + open
 open defecation
@@ -14899,9 +14855,8 @@ biological and
 and epidemiological
 epidemiological statistics
 statistics *
-* case
-case control
-control study
+* caseâcontrol
+caseâcontrol study
 study *
 * randomized
 randomized controlled
@@ -15032,9 +14987,8 @@ psychology *
 * positive
 positive deviance
 deviance *
-* precede
-precede proceed
-proceed model
+* precedeâproceed
+precedeâproceed model
 model *
 * social
 social cognitive
@@ -15283,8 +15237,8 @@ israel other
 other *
 * nara
 nara *
-* islâm
-islâm ansiklopedisi
+* Ä°slÃ¢m
+Ä°slÃ¢m ansiklopedisi
 ansiklopedisi *
 * yale
 yale lux
@@ -15539,8 +15493,8 @@ incorporating text
 text from
 from the
 the 1911
-1911 encyclopædia
-encyclopædia britannica
+1911 encyclopÃ¦dia
+encyclopÃ¦dia britannica
 britannica *
 * commons
 commons category
@@ -15597,7 +15551,7 @@ and privacy
 privacy policy
 
 
-wikipedia® is
+wikipediaÂ® is
 is a
 a registered
 registered trademark

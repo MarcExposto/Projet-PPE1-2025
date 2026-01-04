@@ -5,16 +5,16 @@
 Arborescence superieur
 
      * Europe & International
-     * Collectifs d'experts
+     * Collectifs dâexperts
      * Programme de recherche
      * Espace Presse
      * Rejoignez-nous !
 
    fr
-     * Français
+     * FranÃ§ais
      * English
 
-Réseaux sociaux
+RÃ©seaux sociaux
 
      * X
      * Facebook
@@ -25,59 +25,59 @@ Réseaux sociaux
 
 Main navigation
 
-     * Actualités
-       (BUTTON) Actualités
-          + Toutes les actualités
-          + Nos événements
-          + Les bibliothèques de nos événements
-            (BUTTON) Les bibliothèques de nos événements
-               o Bibliothèque des présentations des "Rencontres
+     * ActualitÃ©s
+       (BUTTON) ActualitÃ©s
+          + Toutes les actualitÃ©s
+          + Nos Ã©vÃ©nements
+          + Les bibliothÃ¨ques de nos Ã©vÃ©nements
+            (BUTTON) Les bibliothÃ¨ques de nos Ã©vÃ©nements
+               o BibliothÃ¨que des prÃ©sentations des "Rencontres
                  scientifiques de l'Anses"
-               o Bibliothèque des présentations des journées
-                 "Antibiorésistance en santé animale"
-               o Bibliothèque des présentations des journées "Santé des
+               o BibliothÃ¨que des prÃ©sentations des journÃ©es
+                 "AntibiorÃ©sistance en santÃ© animale"
+               o BibliothÃ¨que des prÃ©sentations des journÃ©es "SantÃ© des
                  abeilles"
-               o Bibliothèque des présentations de la journée "Vecteurs"
+               o BibliothÃ¨que des prÃ©sentations de la journÃ©e "Vecteurs"
      * Explorer nos sujets
        (BUTTON) Explorer nos sujets
-          + Nos sujets de A à Z
+          + Nos sujets de A Ã  Z
           + Focus sur
             (BUTTON) Focus sur
-               o Les néonicotinoïdes
+               o Les nÃ©onicotinoÃ¯des
                o Dermatose nodulaire contagieuse : une maladie virale
-                 bovine à surveiller de près
+                 bovine Ã  surveiller de prÃ¨s
                o Le moustique tigre
-     * Nous connaître
-       (BUTTON) Nous connaître
+     * Nous connaÃ®tre
+       (BUTTON) Nous connaÃ®tre
           + L'essentiel
             (BUTTON) L'essentiel
-               o Carte d'identité
+               o Carte d'identitÃ©
                o Notre organisation
                o Gouvernance
           + Au coeur de nos missions
             (BUTTON) Au coeur de nos missions
-               o Évaluer les risques sanitaires
+               o Ãvaluer les risques sanitaires
                o Produire des connaissances
                o Surveiller et alerter
-               o Examiner des demandes d'autorisation de mise sur le
-                 marché
-          + Nos thématiques
-            (BUTTON) Nos thématiques
-               o Santé et environnement
-               o Santé et bien-être des animaux
-               o Santé et travail
+               o Examiner des demandes dâautorisation de mise sur le
+                 marchÃ©
+          + Nos thÃ©matiques
+            (BUTTON) Nos thÃ©matiques
+               o SantÃ© et environnement
+               o SantÃ© et bien-Ãªtre des animaux
+               o SantÃ© et travail
                o Alimentation et nutrition humaine
-               o Santé des végétaux
+               o SantÃ© des vÃ©gÃ©taux
                o Produits phytopharmaceutiques, biocides, fertilisants et
                  macro-organismes
           + Aller plus loin
             (BUTTON) Aller plus loin
                o Comprendre l'expertise collective
-               o Cadre déontologique
-               o Déclarations publiques d'intérets
-               o Comité de déontologie
+               o Cadre dÃ©ontologique
+               o DÃ©clarations publiques d'intÃ©rets
+               o ComitÃ© de dÃ©ontologie
                o Conseil scientifique
-               o Dialogue et ouverture à la société
+               o Dialogue et ouverture Ã  la sociÃ©tÃ©
                o Sciences sociales
           + Celles et ceux qui font l'Anses
      * Nos publications
@@ -87,27 +87,27 @@ Main navigation
                o Tous les avis et rapports
                o Derniers avis et rapports
                o Avis et rapports en "Alimentation et nutrition"
-               o Avis et rapports en "Santé travail"
-               o Avis et rapports en "Santé environnement"
-               o Avis et rapports en "Alimentation et santé animale"
-               o Avis et rapports sur les "Médicaments vétérinaires"
-               o Avis et rapports en "Santé et protection du végétal"
-               o Avis et rapports d'expertise : Produits
+               o Avis et rapports en "SantÃ© travail"
+               o Avis et rapports en "SantÃ© environnement"
+               o Avis et rapports en "Alimentation et santÃ© animale"
+               o Avis et rapports sur les "MÃ©dicaments vÃ©tÃ©rinaires"
+               o Avis et rapports en "SantÃ© et protection du vÃ©gÃ©tal"
+               o Avis et rapports dâexpertise : Produits
                  phytopharmaceutiques et macro-organismes ; Produits
-                 Biocides ; Matières fertilisantes et supports de culture
-          + Décisions réglementaires
-            (BUTTON) Décisions réglementaires
+                 Biocides ; MatiÃ¨res fertilisantes et supports de culture
+          + DÃ©cisions rÃ©glementaires
+            (BUTTON) DÃ©cisions rÃ©glementaires
                o Registre des AMM des produits phytopharmaceutiques et des
-                 matières fertilisantes et supports de culture
+                 matiÃ¨res fertilisantes et supports de culture
                o Registre des AMM des produits biocides
                o Registre des avis macroorganismes
-               o Registres des médicaments vétérinaires
-               o Demande d'agrément des laboratoires
-               o Produits et procédés de traitement des eaux de piscines
+               o Registres des mÃ©dicaments vÃ©tÃ©rinaires
+               o Demande d'agrÃ©ment des laboratoires
+               o Produits et procÃ©dÃ©s de traitement des eaux de piscines
                  et baignades artificielles
                o Fluides de thanatopraxie
                o Autorisation d'utilisation d'additifs pour l'alimentation
-                 animale, non autorisés dans l'Union européenne, à des
+                 animale, non autorisÃ©s dans l'Union europÃ©enne, Ã  des
                  fins de recherche
           + Registre des actes de l'Agence
           + Fiches scientifiques
@@ -116,31 +116,31 @@ Main navigation
                  professionnelles
                o Fiches de dangers biologiques
                o Fiches de maladies animales
-               o Fiches sur les maladies végétales
+               o Fiches sur les maladies vÃ©gÃ©tales
                o Fiches de phytopharmacovigilance
                o Fiches de reconnaissance des insectes
                o Fiches de reconnaissance des plantes
-          + Périodiques et magazines scientifiques
-            (BUTTON) Périodiques et magazines scientifiques
-               o Bulletin épidémiologique
+          + PÃ©riodiques et magazines scientifiques
+            (BUTTON) PÃ©riodiques et magazines scientifiques
+               o Bulletin Ã©pidÃ©miologique
                o Cahiers de la recherche
                o Vigil'Anses
-               o Rapport d'activité 2024
+               o Rapport d'activitÃ© 2024
           + Appels et consultations
             (BUTTON) Appels et consultations
                o Consultations publiques
-               o Appels à candidatures
-               o Appels à manifestations d'intérêt
+               o Appels Ã  candidatures
+               o Appels Ã  manifestations d'intÃ©rÃªt
      * Acces rapide
 
      * Europe & International
-     * Collectifs d'experts
+     * Collectifs dâexperts
      * Programme de recherche
      * Espace Presse
      * Rejoignez-nous !
 
    fr
-     * Français
+     * FranÃ§ais
      * English
 
      * X
@@ -157,26 +157,26 @@ Main navigation
 Fil d'Ariane
 
     1. Accueil
-    2. Toutes les actualités
-    3. Maintenir une activité physique et limiter la sédentarité : l'Anses
-       adapte ses repères au confinement
+    2. Toutes les actualitÃ©s
+    3. Maintenir une activitÃ© physique et limiter la sÃ©dentaritÃ© : lâAnses
+       adapte ses repÃ¨res au confinement
 
-   (BUTTON) Accès rapides
+   (BUTTON) AccÃ¨s rapides
 
-Accès rapides
+AccÃ¨s rapides
 
      * Tous les avis et rapports
      * Les derniers avis et rapports
      * Espace Presse
      * Rejoignez-nous
-     * Médicaments vétérinaires
+     * MÃ©dicaments vÃ©tÃ©rinaires
      * Nos laboratoires
 
    [Activite_Physique.jpg?h=c9390af0&amp;itok=E4zo-f30]
    Alimentation et nutrition humaine
 
-Maintenir une activité physique et limiter la sédentarité : l'Anses adapte
-ses repères au confinement
+Maintenir une activitÃ© physique et limiter la sÃ©dentaritÃ© : lâAnses adapte
+ses repÃ¨res au confinement
 
    (BUTTON) Partager
      * Partager sur Twitter
@@ -184,103 +184,103 @@ ses repères au confinement
      * Partager sur Linkedin
      * (BUTTON) Fermer
      * (BUTTON) Copier le lien
-       Lien copié !
+       Lien copiÃ© !
      * Partager par email
      * (BUTTON) Imprimer
 
-   Réduction des déplacements, baisse de l'activité physique et
-   augmentation des temps de sédentarité, déséquilibres énergétiques et
-   alimentaires : le confinement préconisé pour combattre l'épidémie de
-   Covid-19 peut être source de risques spécifiques pour notre santé.
-   L'Anses s'est autosaisie afin d'émettre des recommandations pour
-   atténuer les effets de cette situation particulière sur l'appareil
-   locomoteur, cardiovasculaire et sur le métabolisme.
+   RÃ©duction des dÃ©placements, baisse de lâactivitÃ© physique et
+   augmentation des temps de sÃ©dentaritÃ©, dÃ©sÃ©quilibres Ã©nergÃ©tiques et
+   alimentaires : le confinement prÃ©conisÃ© pour combattre lâÃ©pidÃ©mie de
+   Covid-19 peut Ãªtre source de risques spÃ©cifiques pour notre santÃ©.
+   LâAnses sâest autosaisie afin dâÃ©mettre des recommandations pour
+   attÃ©nuer les effets de cette situation particuliÃ¨re sur lâappareil
+   locomoteur, cardiovasculaire et sur le mÃ©tabolisme.
 
-   Dans son avis publié en février 2016, l'Anses rappelait les dangers
-   liés à la pratique insuffisante d'activité physique et les effets de la
-   sédentarité. Se basant sur cet avis, l'Agence adapte ses repères aux
-   conditions de confinement et énonce des principes à respecter par la
-   population : enfants, adultes, personnes âgées. L'Agence formule des
-   propositions concrètes d'activités sollicitant les fonctions
-   musculaires à intensités adaptées à chaque population et à pratiquer
-   dans un espace qui peut être restreint. Enfin, l'Agence identifie des
-   dangers plus spécifiques à la situation de confinement en termes de
-   santé mentale et de sommeil.
+   Dans son avis publiÃ© en fÃ©vrier 2016, lâAnses rappelait les dangers
+   liÃ©s Ã  la pratique insuffisante dâactivitÃ© physique et les effets de la
+   sÃ©dentaritÃ©. Se basant sur cet avis, lâAgence adapte ses repÃ¨res aux
+   conditions de confinement et Ã©nonce des principes Ã  respecter par la
+   population : enfants, adultes, personnes Ã¢gÃ©es. LâAgence formule des
+   propositions concrÃ¨tes dâactivitÃ©s sollicitant les fonctions
+   musculaires Ã  intensitÃ©s adaptÃ©es Ã  chaque population et Ã  pratiquer
+   dans un espace qui peut Ãªtre restreint. Enfin, lâAgence identifie des
+   dangers plus spÃ©cifiques Ã  la situation de confinement en termes de
+   santÃ© mentale et de sommeil.
 
-Maintenir une activité physique quotidienne suffisante, même dans un petit
+Maintenir une activitÃ© physique quotidienne suffisante, mÃªme dans un petit
 espace
 
-   La pratique d'une activité physique quotidienne doit être adaptée aux
-   possibilités offertes par l'espace disponible. A ce propos, l'Agence
-   rappelle que l'activité physique ne se réduit pas à la pratique d'une
-   activité sportive : se déplacer dans son logement et son jardin, porter
-   une charge, monter ou descendre les escaliers, réaliser des tâches
-   domestiques sont des pratiques qui sollicitent également le corps.
+   La pratique dâune activitÃ© physique quotidienne doit Ãªtre adaptÃ©e aux
+   possibilitÃ©s offertes par lâespace disponible. A ce propos, lâAgence
+   rappelle que lâactivitÃ© physique ne se rÃ©duit pas Ã  la pratique dâune
+   activitÃ© sportive : se dÃ©placer dans son logement et son jardin, porter
+   une charge, monter ou descendre les escaliers, rÃ©aliser des tÃ¢ches
+   domestiques sont des pratiques qui sollicitent Ã©galement le corps.
 
-   En situation de confinement, il est nécessaire de compenser la
-   diminution d'activités quotidiennes qui incluaient notamment les
-   déplacements actifs. Comparativement aux repères donnés par l'Anses en
-   2016, les fréquences et les durées des périodes de temps dédiées à
-   l'exercice physique peuvent être augmentées, moyennant le respect des
-   règles de progressivité et d'adaptation aux capacités de chacun.
-   L'Agence livre des recommandations précises concernant les types
-   d'exercice à pratiquer - renforcement musculaire, assouplissement et
-   exercices cardiorespiratoires - en fonction des âges et des situations.
+   En situation de confinement, il est nÃ©cessaire de compenser la
+   diminution dâactivitÃ©s quotidiennes qui incluaient notamment les
+   dÃ©placements actifs. Comparativement aux repÃ¨res donnÃ©s par lâAnses en
+   2016, les frÃ©quences et les durÃ©es des pÃ©riodes de temps dÃ©diÃ©es Ã 
+   lâexercice physique peuvent Ãªtre augmentÃ©es, moyennant le respect des
+   rÃ¨gles de progressivitÃ© et dâadaptation aux capacitÃ©s de chacun.
+   LâAgence livre des recommandations prÃ©cises concernant les types
+   dâexercice Ã  pratiquer - renforcement musculaire, assouplissement et
+   exercices cardiorespiratoires - en fonction des Ã¢ges et des situations.
 
-   Avant toute pratique d'activité physique, l'Agence rappelle qu'il est
-   essentiel de tenir compte de son état de santé, en incluant toute
-   suspicion de contamination, ou état de fébrilité, imputable au virus
-   SARS-CoV-2. Si l'on est malade ou qu'on pense l'être, il faut
-   s'abstenir de toute pratique d'activité physique.
+   Avant toute pratique dâactivitÃ© physique, lâAgence rappelle quâil est
+   essentiel de tenir compte de son Ã©tat de santÃ©, en incluant toute
+   suspicion de contamination, ou Ã©tat de fÃ©brilitÃ©, imputable au virus
+   SARS-CoV-2. Si lâon est malade ou quâon pense lâÃªtre, il faut
+   sâabstenir de toute pratique dâactivitÃ© physique.
 
-Écrans : multiplier les pauses pour bouger et éviter de grignoter
+Ãcrans : multiplier les pauses pour bouger et Ã©viter de grignoter
 
-   La sédentarité est un facteur de risque de maladies chroniques et de
-   mortalité accrue. Le confinement s'accompagnant souvent d'une
-   augmentation du temps passé au quotidien en position assise, l'Anses
-   adapte ses recommandations de 2016 et recommande d'augmenter les
-   interruptions des temps de sédentarité, qui doivent être trois à quatre
-   fois plus fréquentes.
+   La sÃ©dentaritÃ© est un facteur de risque de maladies chroniques et de
+   mortalitÃ© accrue. Le confinement sâaccompagnant souvent dâune
+   augmentation du temps passÃ© au quotidien en position assise, lâAnses
+   adapte ses recommandations de 2016 et recommande dâaugmenter les
+   interruptions des temps de sÃ©dentaritÃ©, qui doivent Ãªtre trois Ã  quatre
+   fois plus frÃ©quentes.
 
-   L'avis alerte également sur l'augmentation du temps dédié aux écrans
-   pour un usage passif. Il est aussi nécessaire d'être vigilant sur les
-   comportements alimentaires associés : grignotage de produits sucrés et
-   salés, et multiplication des prises alimentaires hors des repas
-   principaux qui conduiraient à des apports énergétiques augmentés et le
-   risque de s'éloigner d'autant plus des repères de consommation
-   alimentaires pour chacune des populations visées (voir les
-   recommandation de l'Anses de 2019 pour les 3-17 ans, les personnes
-   âgées, et les recommandations de 2017 pour la population générale).
+   Lâavis alerte Ã©galement sur lâaugmentation du temps dÃ©diÃ© aux Ã©crans
+   pour un usage passif. Il est aussi nÃ©cessaire dâÃªtre vigilant sur les
+   comportements alimentaires associÃ©s : grignotage de produits sucrÃ©s et
+   salÃ©s, et multiplication des prises alimentaires hors des repas
+   principaux qui conduiraient Ã  des apports Ã©nergÃ©tiques augmentÃ©s et le
+   risque de sâÃ©loigner dâautant plus des repÃ¨res de consommation
+   alimentaires pour chacune des populations visÃ©es (voir les
+   recommandation de lâAnses de 2019 pour les 3-17 ans, les personnes
+   Ã¢gÃ©es, et les recommandations de 2017 pour la population gÃ©nÃ©rale).
 
-Des vigilances particulières pour les personnes âgées, les enfants et les
+Des vigilances particuliÃ¨res pour les personnes Ã¢gÃ©es, les enfants et les
 adolescents
 
-   Préserver la santé de tous en situation de confinement implique
-   d'accorder une attention particulière aux personnes de plus de 65 ans,
-   aux enfants et aux adolescents. Avec l'avancée en âge, les effets de la
-   restriction des déplacements sur l'appareil locomoteur sont en effet
-   difficilement réversibles. Chez les enfants et des adolescents, les
-   besoins d'activité physique plus élevés que chez les adultes sont plus
-   difficiles à satisfaire en confinement. Autre point de vigilance
-   concernant les adolescents : les risques découlant de mauvaises
-   habitudes comportementales et alimentaires associées à l'augmentation
-   des temps passés devant les écrans.
+   PrÃ©server la santÃ© de tous en situation de confinement implique
+   dâaccorder une attention particuliÃ¨re aux personnes de plus de 65 ans,
+   aux enfants et aux adolescents. Avec lâavancÃ©e en Ã¢ge, les effets de la
+   restriction des dÃ©placements sur lâappareil locomoteur sont en effet
+   difficilement rÃ©versibles. Chez les enfants et des adolescents, les
+   besoins dâactivitÃ© physique plus Ã©levÃ©s que chez les adultes sont plus
+   difficiles Ã  satisfaire en confinement. Autre point de vigilance
+   concernant les adolescents : les risques dÃ©coulant de mauvaises
+   habitudes comportementales et alimentaires associÃ©es Ã  lâaugmentation
+   des temps passÃ©s devant les Ã©crans.
 
-   Cette attention est d'autant plus justifiée que d'une façon générale,
-   la réversibilité des effets du confinement n'est à ce jour pas connue
-   et devra faire l'objet de recherches spécifiques.
+   Cette attention est dâautant plus justifiÃ©e que dâune faÃ§on gÃ©nÃ©rale,
+   la rÃ©versibilitÃ© des effets du confinement nâest Ã  ce jour pas connue
+   et devra faire lâobjet de recherches spÃ©cifiques.
 
 En savoir plus
 
-   AVIS de l'Anses relatif à l'évaluation des risques liés à la réduction
-   du niveau d'activité physique et à l'augmentation du niveau de
-   sédentarité en situation de confinement (PDF)
+   AVIS de l'Anses relatif Ã  lâÃ©valuation des risques liÃ©s Ã  la rÃ©duction
+   du niveau dâactivitÃ© physique et Ã  lâaugmentation du niveau de
+   sÃ©dentaritÃ© en situation de confinement (PDF)
 
 Notre offre de newsletters
 
-   Découvrir
+   DÃ©couvrir
 
-Réseaux sociaux
+RÃ©seaux sociaux
 
      * X
      * Facebook
@@ -292,18 +292,18 @@ Réseaux sociaux
    14 rue Pierre et Marie Curie
    94701 Maisons-Alfort Cedex
    01 49 77 13 50
-   Se rendre au siège de l'Anses
+   Se rendre au siÃ¨ge de l'Anses
 
 Footer
 
-     * Connaître l'Anses
-          + Carte d'identité
+     * ConnaÃ®tre l'Anses
+          + Carte d'identitÃ©
           + Notre Organisation
           + Nous Contacter - Foire Aux Questions
      * Liens utiles
-          + Mentions Légales
-          + Marchés publics
+          + Mentions LÃ©gales
+          + MarchÃ©s publics
           + Recrutement
-          + Accessibilité : Partiellement Conforme
+          + AccessibilitÃ© : Partiellement Conforme
 
    Haut de page

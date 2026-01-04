@@ -1,22 +1,22 @@
    #Syndiquer tout le site alternate
 
-   Académie de Versailels
-   Logo du site Collège Georges Pompidou
+   AcadÃ©mie de Versailels
+   Logo du site CollÃ¨ge Georges Pompidou
    (BUTTON) Rechercher (BUTTON) Menu
 
-   Collège Georges Pompidou
+   CollÃ¨ge Georges Pompidou
 
    20 rue de la Coussaye, 95880 Enghien-les-Bains - 01 34 12 63 32
      * Se connecter
-     * (BUTTON) Paramètres d'affichage
+     * (BUTTON) ParamÃ¨tres d'affichage
 
    (BUTTON) Fermer
    Rechercher : __________ (Rechercher)
    (BUTTON) Fermer
 
      * Accueil
-     * Le collège
-     * Actualités
+     * Le collÃ¨ge
+     * ActualitÃ©s
      * (BUTTON) Sorties et voyages
           + Voir toute la rubrique
           + Parcours artistique et culturel
@@ -24,64 +24,64 @@
           + Voyage en Allemagne
           + VOYAGES AU ROYAUME-UNI
           + VOYAGES EN ESPAGNE
-          + VOYAGES ET ECHANGES AVEC L'ITALIE
+          + VOYAGES ET ECHANGES AVEC LâITALIE
           + VOYAGES SPORTIFS
 
-   (BUTTON) Voir le fil d'Ariane
+   (BUTTON) Voir le fil dâAriane
     1. Accueil
-    2. Sécurité
+    2. SÃ©curitÃ©
     3. Exercice de confinement dans le cadre du PPMS
 
 Exercice de confinement dans le cadre du PPMS
 
-   Mis à jour le mercredi 31 mai 2023 , par Équipe de direction
+   Mis Ã  jour le mercredi 31 mai 2023 , par Ãquipe de direction
 
-   Dans les prochains jours, un exercice de confinement sera réalisé au
-   collège dans le cadre du PPMS. Le scénario et l'heure seront fixés par
-   la Direction Académique. Tous les établissements scolaires de
-   Versailles sont concernés (écoles, collèges, lycées).
+   Dans les prochains jours, un exercice de confinement sera rÃ©alisÃ© au
+   collÃ¨ge dans le cadre du PPMS. Le scÃ©nario et lâheure seront fixÃ©s par
+   la Direction AcadÃ©mique. Tous les Ã©tablissements scolaires de
+   Versailles sont concernÃ©s (Ã©coles, collÃ¨ges, lycÃ©es).
 
-   Le Plan Particulier de Mise en Sûreté (PPMS) est un dispositif
-   réglementaire dont l'objectif est de mettre en place une organisation
-   interne au collège afin d'assurer la mise en sécurité de toutes les
-   personnes présentes dans l'établissement en cas d'accident majeur :
-   tempête, glissement de terrain, nuage toxique, émeutes urbaines,
-   attentats...
+   Le Plan Particulier de Mise en SÃ»retÃ© (PPMS) est un dispositif
+   rÃ©glementaire dont lâobjectif est de mettre en place une organisation
+   interne au collÃ¨ge afin dâassurer la mise en sÃ©curitÃ© de toutes les
+   personnes prÃ©sentes dans lâÃ©tablissement en cas dâaccident majeur :
+   tempÃªte, glissement de terrain, nuage toxique, Ã©meutes urbaines,
+   attentatsâ¦
 
-   [fond vert][blanc]En cas de risque majeur, les élèves doivent rester
-   confinés dans l'établissement sous la surveillance des adultes dans
-   l'attente des consignes des autorités.[/blanc][/fond vert]
+   [fond vert][blanc]En cas de risque majeur, les Ã©lÃ¨ves doivent rester
+   confinÃ©s dans lâÃ©tablissement sous la surveillance des adultes dans
+   lâattente des consignes des autoritÃ©s.[/blanc][/fond vert]
 
-   [bleu]Il est recommandé aux familles[/bleu]
+   [bleu]Il est recommandÃ© aux familles[/bleu]
 
-   [bleu]|> de ne pas venir chercher leur enfant au collège[/bleu] pour ne
-   pas l'exposer ou s'exposer.
+   [bleu]âº de ne pas venir chercher leur enfant au collÃ¨ge[/bleu] pour ne
+   pas lâexposer ou sâexposer.
 
-   [bleu]|> de ne pas téléphoner[/bleu] pour ne pas encombrer les réseaux,
-   les secours en ont besoin pour s'organiser.
+   [bleu]âº de ne pas tÃ©lÃ©phoner[/bleu] pour ne pas encombrer les rÃ©seaux,
+   les secours en ont besoin pour sâorganiser.
 
-   [bleu]|> de se fier aux informations diffusées par les autorités
-   uniquement[/bleu] : écouter France Inter = 87.8 MHz ou France Bleu Ile
+   [bleu]âº de se fier aux informations diffusÃ©es par les autoritÃ©s
+   uniquement[/bleu] : Ã©couter France Inter = 87.8 MHz ou France Bleu Ile
    de France = 107.1 MHz.
    Sur internet, suivre les comptes officiels @Place_Beauvau et
    @gouvernementFR
 
-Dans la même rubrique
+Dans la mÃªme rubrique
 
 RESSOURCES PEDAGOGIQUES ET DOCUMENTATION : ALEA TEMPETE / RISQUES MAJEURS
 
    29 janvier 2019
 
-Plan de sécurité et protocole en cas d'intrusion dans l'établissement
+Plan de sÃ©curitÃ© et protocole en cas dâintrusion dans lâÃ©tablissement
 
-   De nouvelles consignes de sécurité sont applicables dans les
-   établissements scolaires depuis la (...)
+   De nouvelles consignes de sÃ©curitÃ© sont applicables dans les
+   Ã©tablissements scolaires depuis la (...)
 
    31 mai 2023
 
-Se préparer aux exercices PPMS
+Se prÃ©parer aux exercices PPMS
 
-   [([*PPMS Plan Particulier de Mise en Sûreté*])] Afin de préparer les
+   [([*PPMS Plan Particulier de Mise en SÃ»retÃ©*])] Afin de prÃ©parer les
    prochains exercices qui (...)
 
    31 mai 2023
@@ -93,26 +93,26 @@ Se préparer aux exercices PPMS
      * Partager par email
      * (BUTTON) Copier dans le presse-papier
 
-   Académie de Versailels
+   AcadÃ©mie de Versailels
 
-   2009 - 2026 Collège Georges Pompidou
+   2009 - 2026 CollÃ¨ge Georges Pompidou
 
      * Plan du site
      * Nous contacter
-     * Accessibilité : non conforme
-     * Mentions légales
-     * (BUTTON) Paramètres d'affichage
+     * AccessibilitÃ© : non conforme
+     * Mentions lÃ©gales
+     * (BUTTON) ParamÃ¨tres d'affichage
      * Flux RSS
 
    (BUTTON) Fermer
 
-Paramètres d'affichage
+ParamÃ¨tres dâaffichage
 
-   Choisissez un thème pour personnaliser l'apparence du site.
+   Choisissez un thÃ¨me pour personnaliser lâapparence du site.
 
-   (*) Thème clair
-   ( ) Thème sombre
-   ( ) Système Utilise les paramètres système.
+   (*) ThÃ¨me clair
+   ( ) ThÃ¨me sombre
+   ( ) SystÃ¨me Utilise les paramÃ¨tres systÃ¨me.
 
    (*) Police Marianne
 

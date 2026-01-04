@@ -2,9 +2,9 @@
    The science behind COVID-19
    Pandemic preparednessCOVID-19
 
-Did the COVID lockdowns work? Here's what we know two years on
+Did the COVID lockdowns work? Hereâs what we know two years on
 
-   Research shows that lockdowns helped control cases in general - but
+   Research shows that lockdowns helped control cases in general â but
    that not all control measures had the same effect.
      * 25 March 2022
      * 6 min read
@@ -14,7 +14,7 @@ Did the COVID lockdowns work? Here's what we know two years on
 
        <article>___________________________________________________
          <h1>______________________________________________________
-           <span>Did the COVID lockdowns work? Here's what we know 
+           <span>Did the COVID lockdowns work? Hereâs what we kno__
          </h1>_____________________________________________________
          <div>_____________________________________________________
                <div><p>Research shows that lockdowns helped control
@@ -29,10 +29,10 @@ Did the COVID lockdowns work? Here's what we know two years on
              ______________________________________________________
        <p>Since the UK first entered lockdown on March 23 2020, lit
        <p>Properly evaluating the effectiveness of any health-orien
-       <p>Unfortunately, this isn't possible for lockdowns. There a
+       <p>Unfortunately, this isnât possible for lockdowns. There__
        <p>Mathematical <a href="https://www.science.org/doi/full/10
-       <p>However, they've also been <a href="https://www.telegraph
-       <p>An alternative is to use a data-driven method that doesn'
+       <p>However, theyâve also been <a href="https://www.telegra__
+       <p>An alternative is to use a data-driven method that doesnâ
        <p>But of course, this runs into our initial problem. While 
 --
        </ul>_______________________________________________________
@@ -50,7 +50,7 @@ Did the COVID lockdowns work? Here's what we know two years on
        <p>Although British people reduced their mobility before loc
        <h3>Lessons for the future</h3>_____________________________
        <p>Should the world face another new pandemic disease, there
-       <p>Plus, unless it's possible to eliminate the virus in a re
+       <p>Plus, unless itâs possible to eliminate the virus in a __
        <p>The 2020 lockdowns demonstrated that societies are willin
        <p><iframe height="1" width="1" data-src="https://counter.th
                        </div>______________________________________
@@ -73,23 +73,23 @@ Did the COVID lockdowns work? Here's what we know two years on
    Properly evaluating the effectiveness of any health-oriented treatment,
    be it a new medicine, vaccine or lockdown measure, involves comparing
    its introduction with a counterfactual situation where everything is
-   the same except for what's being tested. This is why medical trials
+   the same except for whatâs being tested. This is why medical trials
    have a control group, whose members are given a placebo and whose
    characteristics match the testing group as closely as possible.
 
-   Unfortunately, this isn't possible for lockdowns. There are no directly
+   Unfortunately, this isnât possible for lockdowns. There are no directly
    equivalent parts of a country or the world that can act as true test
    and control groups, and so no possibility of a controlled trial.
    Instead, researchers must resort to other methods to try to measure
-   lockdowns' effects.
+   lockdownsâ effects.
 
-   Mathematical models can be used to produce "what if" scenarios, where
+   Mathematical models can be used to produce âwhat ifâ scenarios, where
    applying various different COVID control measures is simulated to
    estimate what would work best, essentially comparing the value of
-   lockdown to other measures - or doing nothing at all. Such models are
+   lockdown to other measures â or doing nothing at all. Such models are
    very useful and have been used throughout the pandemic.
 
-   However, they've also been heavily criticised for their pessimistic
+   However, theyâve also been heavily criticised for their pessimistic
    predictions about the impact of the virus. Their outputs depend on
 --
 
@@ -119,18 +119,18 @@ The danger of delaying
    possible measures should have been applied given the unknowns that were
    being faced.
 
-   Despite substantial variability across countries, there's little doubt
-   that lockdowns successfully slowed COVID's spread in spring 2020,
-   reducing cases in the first wave. There's enough evidence to show that
+   Despite substantial variability across countries, thereâs little doubt
+   that lockdowns successfully slowed COVIDâs spread in spring 2020,
+   reducing cases in the first wave. Thereâs enough evidence to show that
    countries and regions that quickly introduced substantial and multiple
-   restrictions also had fewer cases and deaths. Compare New Zealand's and
-   the UK's responses.
+   restrictions also had fewer cases and deaths. Compare New Zealandâs and
+   the UKâs responses.
    Graph showing how New Zealeand introduced stricter control measures
    quicker in spring 2020 compared to the UK, and suffered fewer cases and
    deaths as a result New Zealand locked down quicker and more forcefully
-   in the spring of 2020 - resulting in fewer cases and deaths. The
+   in the spring of 2020 â resulting in fewer cases and deaths. The
    strength of lockdown restrictions is measured using the COVID response
-   stringency index developed by the University of Oxford; people's
+   stringency index developed by the University of Oxford; peopleâs
    mobility is measured via anonymously collected data from mobile
    devices. Adam Kleczkowski
 
@@ -152,13 +152,13 @@ The danger of delaying
 Lessons for the future
 
 --
-   voluntary responses - such as social distancing - and test and trace.
-   There's no single silver bullet. Some measures might need maintaining,
+   voluntary responses â such as social distancing â and test and trace.
+   Thereâs no single silver bullet. Some measures might need maintaining,
    even after, for example, introducing vaccines.
 
    The 2020 lockdowns demonstrated that societies are willing and capable
    of supporting drastic disease-control measures if they see the need.
-   But, full - and particularly repeated - lockdowns can be seen as a
+   But, full â and particularly repeated â lockdowns can be seen as a
    failure of other, more gradual public health policies. A lockdown
    should be seen as an efficient but also very blunt public health tool,
    to be used in necessity but as part of a wider strategy. The

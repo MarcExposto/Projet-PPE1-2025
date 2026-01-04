@@ -1,24 +1,24 @@
-   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+   #Modifier WikipÃ©dia (fr) Flux Atom de WikipÃ©dia
 
    Aller au contenu
 
    [ ] Menu principal
    Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
    Navigation
-     * Page d'accueil
-     * Portails thématiques
+     * Page dâaccueil
+     * Portails thÃ©matiques
      * Article au hasard
      * Contact
 
    Contribuer
-     * Débuter sur Wikipédia
+     * DÃ©buter sur WikipÃ©dia
      * Aide
-     * Communauté
-     * Pages spéciales
-     * Modifications récentes
+     * CommunautÃ©
+     * Pages spÃ©ciales
+     * Modifications rÃ©centes
 
-   Wikipédia l'encyclopédie libre
+   WikipÃ©dia l'encyclopÃ©die libre
    Rechercher
    ____________________
    (BUTTON) Rechercher
@@ -26,123 +26,123 @@
    [ ] Apparence
 
      * Faire un don
-     * Créer un compte
+     * CrÃ©er un compte
      * Se connecter
 
    [ ] Outils personnels
      * Faire un don
-     * Créer un compte
+     * CrÃ©er un compte
      * Se connecter
 
 Sommaire
 
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-     * Début
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+     * DÃ©but
      * 1 En France
-       (BUTTON) Afficher/masquer la sous-section En France
+       (BUTTON) Afficherâ¯/â¯masquer la sous-section En France
           + 1.1 Description
-          + 1.2 Prise de décision
+          + 1.2 Prise de dÃ©cision
           + 1.3 Alternative
      * 2 Dans le monde
-       (BUTTON) Afficher/masquer la sous-section Dans le monde
+       (BUTTON) Afficherâ¯/â¯masquer la sous-section Dans le monde
           + 2.1 Etats-Unis
           + 2.2 Canada
           + 2.3 Belgique
           + 2.4 Suisse
-     * 3 Cas médiatisés
-     * 4 Notes et références
+     * 3 Cas mÃ©diatisÃ©s
+     * 4 Notes et rÃ©fÃ©rences
      * 5 Liens
      * 6 Articles connexes
 
-   [ ] Basculer la table des matières
+   [ ] Basculer la table des matiÃ¨res
 
 Isolement (prison)
 
    [ ] 23 langues
-     * a+l+e+r+b+y+tm
+     * Ø§ÙØ¹Ø±Ø¨ÙØ©
      * Cymraeg
      * Dansk
      * Deutsch
      * English
-     * Español
+     * EspaÃ±ol
      * Eesti
-     * f+a+r+s+
+     * ÙØ§Ø±Ø³Û
      * Hausa
-     * E+B+R+J+T+
+     * ×¢××¨××ª
      * Bahasa Indonesia
      * Italiano
-     * ¥¬
+     * æ¥æ¬èª
      * Nederlands
-     * Norsk bokmål
-     * Português
-     * Russkij
+     * Norsk bokmÃ¥l
+     * PortuguÃªs
+     * Ð ÑÑÑÐºÐ¸Ð¹
      * Simple English
-     * Srpski / srpski
+     * Ð¡ÑÐ¿ÑÐºÐ¸ / srpski
      * Svenska
-     * ¤®¿´
-     * Türkçe
-     * ­
+     * à®¤à®®à®¿à®´à¯
+     * TÃ¼rkÃ§e
+     * ä¸­æ
 
    Modifier les liens
 
      * Article
      * Discussion
 
-   [ ] français
+   [ ] franÃ§ais
 
      * Lire
      * Modifier
      * Modifier le code
-     * Voir l'historique
+     * Voir lâhistorique
 
    [ ] Outils
    Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
    Actions
      * Lire
      * Modifier
      * Modifier le code
-     * Voir l'historique
+     * Voir lâhistorique
 
-   Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
+   GÃ©nÃ©ral
+     * Pages liÃ©es
+     * Suivi des pages liÃ©es
+     * TÃ©lÃ©verser un fichier
      * Lien permanent
      * Informations sur la page
      * Citer cette page
      * Obtenir l'URL raccourcie
-     * Télécharger le code QR
+     * TÃ©lÃ©charger le code QR
 
-   Imprimer/exporter
-     * Créer un livre
-     * Télécharger comme PDF
+   Imprimerâ¯/â¯exporter
+     * CrÃ©er un livre
+     * TÃ©lÃ©charger comme PDF
      * Version imprimable
 
-   Dans d'autres projets
+   Dans dâautres projets
      * Wikimedia Commons
-     * Élément Wikidata
+     * ÃlÃ©ment Wikidata
 
    Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Un article de Wikipédia, l'encyclopédie libre.
-   Page d'aide sur l'homonymie
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+   Un article de WikipÃ©dia, l'encyclopÃ©die libre.
+   Page dâaide sur lâhomonymie
 
    Pour les articles homonymes, voir Isolement (homonymie).
 
-   Cet article est une ébauche concernant le droit et la prison.
-   Vous pouvez partager vos connaissances en l'améliorant (comment ?)
+   Cet article est une Ã©bauche concernant le droit et la prison.
+   Vous pouvez partager vos connaissances en lâamÃ©liorant (comment ?)
    selon les recommandations des projets correspondants.
    [250px-Cellule_du_quartier_d%27isolement_de_la_prison_Jacques-Cartier%2
    C_%C3%A0_travers_le_judas%2C_Rennes%2C_France.jpg] Cellule du quartier
-   d'isolement de la prison Jacques-Cartier (Rennes), à travers le judas.
+   d'isolement de la prison Jacques-Cartier (Rennes), Ã  travers le judas.
 
-   L'isolement carcéral est une mesure de sécurité de confinement
-   solitaire. Elle est décidée par l'autorité administrative compétente
-   (chef d'établissement pénitentiaire, directeur interrégional ou
-   ministre de la justice) sur la demande de la personne détenue (pour sa
-   sécurité) ou dans l'intérêt du bon ordre des établissements
-   pénitentiaires.
+   L'isolement carcÃ©ral est une mesure de sÃ©curitÃ© de confinement
+   solitaire. Elle est dÃ©cidÃ©e par l'autoritÃ© administrative compÃ©tente
+   (chef d'Ã©tablissement pÃ©nitentiaire, directeur interrÃ©gional ou
+   ministre de la justice) sur la demande de la personne dÃ©tenue (pour sa
+   sÃ©curitÃ©) ou dans l'intÃ©rÃªt du bon ordre des Ã©tablissements
+   pÃ©nitentiaires.
 
 En France
 
@@ -152,82 +152,82 @@ Description
 
    [modifier | modifier le code]
 
-   La loi française nomme « isolement » une mesure spécifique pour isoler
-   une personne détenue du reste de la population pénale ou le protéger
-   des autres personnes détenues (comme une personne médiatique). Cette
-   mesure n'est pas à confondre avec la cellule disciplinaire (que les
-   détenus appellent « mitard »), qui consiste certes en un isolement
-   effectif du prisonnier mais à titre punitif et pour une durée limitée à
-   30 jours. Le régime portant l'appellation d'« isolement » n'a pas de
-   durée maximale^[1]^,^[2].
+   La loi franÃ§aise nomme Â« isolement Â» une mesure spÃ©cifique pour isoler
+   une personne dÃ©tenue du reste de la population pÃ©nale ou le protÃ©ger
+   des autres personnes dÃ©tenues (comme une personne mÃ©diatique). Cette
+   mesure n'est pas Ã  confondre avec la cellule disciplinaire (que les
+   dÃ©tenus appellent Â« mitard Â»), qui consiste certes en un isolement
+   effectif du prisonnier mais Ã  titre punitif et pour une durÃ©e limitÃ©e Ã 
+   30 jours. Le rÃ©gime portant l'appellation d'Â« isolement Â» n'a pas de
+   durÃ©e maximale^[1]^,^[2].
 
-   Les conséquences concrètes du placement en isolement sont
+   Les consÃ©quences concrÃ¨tes du placement en isolement sont
    nombreuses^[3].
 
-   Le détenu placé à l'isolement dispose d'une cellule individuelle et n'a
-   aucun contact avec d'autres détenus sans autorisation du chef
-   d'établissement. Contrairement aux détenus du quartier disciplinaire,
-   il n'est pas privé de télévision, d'achat en cantine ou du relatif
+   Le dÃ©tenu placÃ© Ã  l'isolement dispose d'une cellule individuelle et n'a
+   aucun contact avec d'autres dÃ©tenus sans autorisation du chef
+   d'Ã©tablissement. Contrairement aux dÃ©tenus du quartier disciplinaire,
+   il n'est pas privÃ© de tÃ©lÃ©vision, d'achat en cantine ou du relatif
    confort des cellules ordinaires.
 
-   Le détenu à l'isolement est examiné au moins deux fois par semaine par
-   un médecin qui peut recommander de mettre fin à l'isolement, mais
-   contrairement à la cellule disciplinaire il n'émet qu'une
-   recommandation, pas une décision.
+   Le dÃ©tenu Ã  l'isolement est examinÃ© au moins deux fois par semaine par
+   un mÃ©decin qui peut recommander de mettre fin Ã  l'isolement, mais
+   contrairement Ã  la cellule disciplinaire il nâÃ©met qu'une
+   recommandation, pas une dÃ©cision.
 
-Prise de décision
+Prise de dÃ©cision
 
    [modifier | modifier le code]
 
-   L'autorité judiciaire peut prescrire la mise à l'isolement d'une
-   personne placée en détention provisoire « si cette mesure est
-   indispensable aux nécessités de l'information ». Il peut aussi être
-   prononcé par le juge des libertés et de la détention lorsqu'il statue
-   sur le placement en détention provisoire de la personne, ou sur la
-   prolongation de cette détention^[4].
+   LâautoritÃ© judiciaire peut prescrire la mise Ã  lâisolement dâune
+   personne placÃ©e en dÃ©tention provisoire Â« si cette mesure est
+   indispensable aux nÃ©cessitÃ©s de lâinformation Â». Il peut aussi Ãªtre
+   prononcÃ© par le juge des libertÃ©s et de la dÃ©tention lorsqu'il statue
+   sur le placement en dÃ©tention provisoire de la personne, ou sur la
+   prolongation de cette dÃ©tention^[4].
 
-   L'isolement peut être décidé par le chef de l'établissement. Un premier
-   placement pour jusqu'à cinq jours peut être décidé en cas d'urgence
-   sans appliquer la procédure habituelle.
+   L'isolement peut Ãªtre dÃ©cidÃ© par le chef de l'Ã©tablissement. Un premier
+   placement pour jusqu'Ã  cinq jours peut Ãªtre dÃ©cidÃ© en cas d'urgence
+   sans appliquer la procÃ©dure habituelle.
 
-   Il en fixe la durée jusqu'à trois mois. À l'expiration de cette durée,
-   il peut décider de prolonger l'isolement jusqu'à trois mois.
+   Il en fixe la durÃ©e jusqu'Ã  trois mois. Ã l'expiration de cette durÃ©e,
+   il peut dÃ©cider de prolonger l'isolement jusqu'Ã  trois mois.
 
-   À l'expiration de la première prolongation de l'isolement (après six
-   mois), seul le directeur interrégional des services pénitentiaires peut
-   le prolonger une deuxième fois, toujours pour jusqu'à trois mois et une
-   troisième fois, toujours pour la même durée.
+   Ã l'expiration de la premiÃ¨re prolongation de l'isolement (aprÃ¨s six
+   mois), seul le directeur interrÃ©gional des services pÃ©nitentiaires peut
+   le prolonger une deuxiÃ¨me fois, toujours pour jusqu'Ã  trois mois et une
+   troisiÃ¨me fois, toujours pour la mÃªme durÃ©e.
 
-   L'éventuelle quatrième prolongation (généralement au bout d'un an
+   L'Ã©ventuelle quatriÃ¨me prolongation (gÃ©nÃ©ralement au bout d'un an
    d'isolement) et les suivantes sont elles prises par le ministre de la
    justice en personne, toujours pour trois mois.
 
-   La loi permet aux autorités ci-dessus de mettre fin à l'isolement à
-   tout moment et les contraint à un certain nombre de notifications avant
-   de prendre leur décision.
+   La loi permet aux autoritÃ©s ci-dessus de mettre fin Ã  l'isolement Ã 
+   tout moment et les contraint Ã  un certain nombre de notifications avant
+   de prendre leur dÃ©cision.
 
-   L'article 726-1 du code de procédure pénale permet notamment au détenu
-   concerné de saisir le juge des référés administratif et rend
-   obligatoire un « avis » de « l'autorité judiciaire » lorsque
-   l'isolement est prolongé au-delà d'un an.
+   L'article 726-1 du code de procÃ©dure pÃ©nale permet notamment au dÃ©tenu
+   concernÃ© de saisir le juge des rÃ©fÃ©rÃ©s administratif et rend
+   obligatoire un Â« avis Â» de Â« l'autoritÃ© judiciaire Â» lorsque
+   l'isolement est prolongÃ© au-delÃ  d'un an.
 
-   L'isolement ne peut être prolongé au-delà de deux ans sauf à titre
-   exceptionnel, si le placement à l'isolement constitue l'unique moyen
-   d'assurer la sécurité des personnes ou de l'établissement. Dans ce
-   cas-là, la décision de prolongation doit être spécialement motivée.
+   L'isolement ne peut Ãªtre prolongÃ© au-delÃ  de deux ans sauf Ã  titre
+   exceptionnel, si le placement Ã  l'isolement constitue l'unique moyen
+   d'assurer la sÃ©curitÃ© des personnes ou de l'Ã©tablissement. Dans ce
+   cas-lÃ , la dÃ©cision de prolongation doit Ãªtre spÃ©cialement motivÃ©e.
 
 Alternative
 
    [modifier | modifier le code]
 
-   Dans certaines prisons, comme les maisons d'arrêt de La Santé,
-   Fleury-Mérogis ou Fresnes, il existe des quartiers spécifiques plus
-   souples que l'isolement afin d'accueillir les détenus sensibles en
-   raison de leur sexualité ou genre (homosexuels, bisexuels, prostitués,
-   transgenres), de leur métier (avocat, juge, huissier, policier,
-   douanier, personnalité politique...) ou de leur affaire (affaire
-   sexuelle, affaire avec un mineur, affaire médiatisée...). À l'inverse
-   de l'isolement, les détenus de ces quartiers ont des activités et des
+   Dans certaines prisons, comme les maisons d'arrÃªt de La SantÃ©,
+   Fleury-MÃ©rogis ou Fresnes, il existe des quartiers spÃ©cifiques plus
+   souples que l'isolement afin d'accueillir les dÃ©tenus sensibles en
+   raison de leur sexualitÃ© ou genre (homosexuels, bisexuels, prostituÃ©s,
+   transgenres), de leur mÃ©tier (avocat, juge, huissier, policier,
+   douanier, personnalitÃ© politique...) ou de leur affaire (affaire
+   sexuelle, affaire avec un mineur, affaire mÃ©diatisÃ©e...). Ã l'inverse
+   de l'isolement, les dÃ©tenus de ces quartiers ont des activitÃ©s et des
    promenades communes^[3].
 
 Dans le monde
@@ -238,108 +238,108 @@ Etats-Unis
 
    [modifier | modifier le code]
 
-   La pratique de l'isolement aux États-Unis est contestée par Amnesty
-   International^[5]. Elle est désignée sous le terme « incommunicado ».
+   La pratique de l'isolement aux Ãtats-Unis est contestÃ©e par Amnesty
+   International^[5]. Elle est dÃ©signÃ©e sous le terme Â« incommunicado Â».
 
 Canada
 
    [modifier | modifier le code]
 
-   Au Canada^[6] les conditions de l'isolement sont critiquées.
+   Au Canada^[6] les conditions de l'isolement sont critiquÃ©es.
 
 Belgique
 
    [modifier | modifier le code]
 
-   L'avocat Marc Nèvel, qui préside Conseil central de surveillance
-   pénitentiaire (CCSP) a relevé les « conditions matérielles
-   déplorables^[7] » qui caractérisent en Belgique la peine d'isolement.
+   Lâavocat Marc NÃ¨vel, qui prÃ©side Conseil central de surveillance
+   pÃ©nitentiaire (CCSP) a relevÃ© les Â« conditions matÃ©rielles
+   dÃ©plorables^[7] Â» qui caractÃ©risent en Belgique la peine dâisolement.
 
 Suisse
 
    [modifier | modifier le code]
 
-   En Suisse l'isolement est nommé « au secret ».
+   En Suisse lâisolement est nommÃ© Â« au secret Â».
 
-Cas médiatisés
+Cas mÃ©diatisÃ©s
 
    [modifier | modifier le code]
      * Mohamed El Ghanem (en Suisse)
      * Nicolas Sarkozy (en France)
 
-Notes et références
+Notes et rÃ©fÃ©rences
 
    [modifier | modifier le code]
-    1. ^| Ouest France avec AFP, « Prison. La justice annule le placement
-       pendant près d'un an à l'isolement d'un détenu », sur
-       Ouest-France.fr, 8 février 2019 (consulté le 28 mars 2024)
-    2. ^| Malena Zingoni-Fernandez et Nicola Giovannini, La détention en
-       isolement dans les prisons européennes: les régimes spéciaux de
-       détention en Italie et en Espagne et les mesures administratives en
+    1. â Ouest France avec AFP, Â« Prison. La justice annule le placement
+       pendant prÃ¨s dâun an Ã  lâisolement dâun dÃ©tenu Â», sur
+       Ouest-France.fr, 8 fÃ©vrier 2019 (consultÃ© le 28 mars 2024)
+    2. â Malena Zingoni-Fernandez et Nicola Giovannini, La dÃ©tention en
+       isolement dans les prisons europÃ©ennes: les rÃ©gimes spÃ©ciaux de
+       dÃ©tention en Italie et en Espagne et les mesures administratives en
        France et au Royaume Uni, Bruylant, 2004 (ISBN 978-2-8027-1933-5,
        lire en ligne)
-    3. ^| ^a et b Romane Lizée, « Fouilles, isolement, agressions : des
-       personnes trans dénoncent la violence en détention », sur
-       Mediapart, 6 juillet 2021 (consulté le 28 mars 2024)
-    4. ^| Observatoire international des prisons (OIP), « L'isolement »,
-       dans Le guide du prisonnier, La Découverte, coll. « Guides », 2021,
-       115-135 p. (ISBN 978-2-348-06486-9, lire en ligne)
-    5. ^| « Témoignage: les dérives de l'isolement carcéral aux
-       Etats-Unis », sur RFI, 13 mai 2014 (consulté le 28 mars 2024)
-    6. ^| Émilie Dubreuil, « Détenus, on a violé vos droits, réclamez ! »,
-       sur Radio-Canada, 30 octobre 2022 (consulté le 13 août 2025)
-    7. ^| « La plupart des cellules d'isolement dans les prisons belges
-       sont incompatibles avec la dignité humaine », sur RTBF (consulté le
+    3. â ^a et b Romane LizÃ©e, Â« Fouilles, isolement, agressions : des
+       personnes trans dÃ©noncent la violence en dÃ©tention Â», sur
+       Mediapart, 6 juillet 2021 (consultÃ© le 28 mars 2024)
+    4. â Observatoire international des prisons (OIP), Â« Lâisolement Â»,
+       dans Le guide du prisonnier, La DÃ©couverte, coll. Â« Guides Â», 2021,
+       115â135 p. (ISBN 978-2-348-06486-9, lire en ligne)
+    5. â Â« TÃ©moignage: les dÃ©rives de l'isolement carcÃ©ral aux
+       Etats-Unis Â», sur RFI, 13 mai 2014 (consultÃ© le 28 mars 2024)
+    6. â Ãmilie Dubreuil, Â« DÃ©tenus, on a violÃ© vos droits, rÃ©clamez ! Â»,
+       sur Radio-Canada, 30 octobre 2022 (consultÃ© le 13 aoÃ»t 2025)
+    7. â Â« La plupart des cellules dâisolement dans les prisons belges
+       sont incompatibles avec la dignitÃ© humaine Â», sur RTBF (consultÃ© le
        28 mars 2024)
 
 Liens
 
    [modifier | modifier le code]
-     * Le code de procédure pénale à propos de l'isolement
-     * Nathalie Hernandez et Michel Mercier, « L'isolement carcéral, une
-       prison dans la prison », sur France Inter - Dans le Prétoire, 30
+     * Le code de procÃ©dure pÃ©nale Ã  propos de l'isolement
+     * Nathalie Hernandez et Michel Mercier, Â« L'isolement carcÃ©ral, une
+       prison dans la prison Â», sur France Inter - Dans le PrÃ©toire, 30
        septembre 2011
 
 Articles connexes
 
    [modifier | modifier le code]
-     * Régime pennsylvanien
-     * Régime auburnien
+     * RÃ©gime pennsylvanien
+     * RÃ©gime auburnien
 
-     * icône décorative Portail de la prison
+     * icÃ´ne dÃ©corative Portail de la prison
 
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Isolement_(prison)&oldid=2
-   29999637 ».
-   Catégorie:
+   Â« https://fr.wikipedia.org/w/index.php?title=Isolement_(prison)&oldid=2
+   29999637 Â».
+   CatÃ©gorieâ¯:
      * Prison
 
-   Catégories cachées:
-     * Wikipédia:ébauche droit
-     * Wikipédia:ébauche prison
-     * Portail:Prison/Articles liés
+   CatÃ©gories cachÃ©esâ¯:
+     * WikipÃ©dia:Ã©bauche droit
+     * WikipÃ©dia:Ã©bauche prison
+     * Portail:Prison/Articles liÃ©s
 
-     * La dernière modification de cette page a été faite le 23 octobre
-       2025 à 16:23.
+     * La derniÃ¨re modification de cette page a Ã©tÃ© faite le 23 octobre
+       2025 Ã  16:23.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mêmes conditions ; d'autres
-       conditions peuvent s'appliquer. Voyez les conditions d'utilisation
-       pour plus de détails, ainsi que les crédits graphiques. En cas de
-       réutilisation des textes de cette page, voyez comment citer les
+       Commons attribution, partage dans les mÃªmes conditions ; dâautres
+       conditions peuvent sâappliquer. Voyez les conditions dâutilisation
+       pour plus de dÃ©tails, ainsi que les crÃ©dits graphiques. En cas de
+       rÃ©utilisation des textes de cette page, voyez comment citer les
        auteurs et mentionner la licence.
-       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
+       WikipediaÂ® est une marque dÃ©posÃ©e de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance rÃ©gie par le paragraphe 501(c)(3) du
+       code fiscal des Ãtats-Unis.
 
-     * Politique de confidentialité
-     * À propos de Wikipédia
+     * Politique de confidentialitÃ©
+     * Ã propos de WikipÃ©dia
      * Avertissements
      * Contact
-     * Contacts juridiques & sécurité
+     * Contacts juridiques & sÃ©curitÃ©
      * Code de conduite
-     * Développeurs
+     * DÃ©veloppeurs
      * Statistiques
-     * Déclaration sur les témoins (cookies)
+     * DÃ©claration sur les tÃ©moins (cookies)
      * Version mobile
 
      * Wikimedia Foundation
@@ -349,6 +349,6 @@ Articles connexes
    ____________________
    (BUTTON) Rechercher
 
-   [ ] Basculer la table des matières
+   [ ] Basculer la table des matiÃ¨res
    Isolement (prison)
    (BUTTON) 23 langues Ajouter un sujet
