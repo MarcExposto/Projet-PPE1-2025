@@ -1,0 +1,1017 @@
+   (BUTTON) contenu principal
+   (BUTTON) Accueil France Info
+     * Rechercher une actualité Recherche
+     * Direct TV TV
+     * Direct radio Radio
+     * Le live Live
+     * (BUTTON) Services
+          + Newsletters (Nouvelle fenêtre)
+          + Météo (Nouvelle fenêtre)
+          + Jeux (Nouvelle fenêtre)
+          + Scolarité
+     * (BUTTON) Mon espace
+          + S'inscrire
+          + Se connecter
+          + À lire plus tard
+          + Mes commentaires
+          + Mes newsletters
+          + Mes informations
+          + Se déconnecter
+
+     * Accueil
+     * (BUTTON) Menu
+     * Grands formats
+     * Enquêtes
+     * Vrai ou faux
+     * Mort de Brigitte Bardot
+     * Nouvel An 2026
+     * Budget 2026
+
+   France Info France Info (BUTTON)
+   Rechercher sur franceinfo
+   ____________________
+   (BUTTON) Annuler la saisie
+     * Accueil
+
+   En ce moment
+     * Mort de Brigitte Bardot
+     * Nouvel An 2026
+     * Budget 2026
+
+     * Grands formats
+     * Enquêtes
+     * Vrai ou faux
+
+   Rubriques
+     * L'actu pour les jeunes
+     * Une info transparente
+     * (BUTTON) Monde
+     * (BUTTON) Europe
+     * (BUTTON) Faits-divers
+     * (BUTTON) Politique
+     * (BUTTON) Société
+     * (BUTTON) Environnement
+     * (BUTTON) Sport
+     * (BUTTON) Culture
+     * (BUTTON) Éco / Conso
+     * (BUTTON) Santé
+     * (BUTTON) Sciences & technologies
+     * (BUTTON) Météo Météo
+     * (BUTTON) Jeux Jeux
+     * Dossiers
+
+     * (BUTTON) Services
+
+   Recevez l'essentiel de l'actualité et restez à jour avec nos
+   newsletters
+   découvrir nos newsletters (Nouvelle fenêtre)
+   Continuez votre exploration
+     * France 3 régions (nouvelle fenêtre) France 3 régions
+     * Outremer la 1ère (nouvelle fenêtre) Outremer la 1ère
+     * (BUTTON) france TV france TV
+     * (BUTTON) radio france radio france
+
+   (BUTTON) Services Services
+     * Newsletters (nouvelle fenêtre) Newsletters
+     * Météo (nouvelle fenêtre) Météo
+     * Jeux (nouvelle fenêtre) Jeux
+     * Scolarité
+
+   (BUTTON) Monde Monde
+   voir toute l'actu Monde
+   En direct
+     * Guerre en Ukraine
+
+   En ce moment
+     * Nouvel An 2026
+     * Attaque antisémite en Australie
+     * Guerre en Ukraine
+     * Un an de la chute de Bachar al-Assad
+     * Guerre dans la bande de Gaza
+     * Guerre au Proche-Orient
+     * Voir plus de sujets monde
+
+   Rubriques
+     * Afrique
+     * Amériques
+     * Asie-Pacifique
+     * Etats Unis d'Amérique
+     * Russie
+     * Chine
+     * Proche-orient
+     * Brésil
+     * ONU
+     * Otan
+     * Story Killers
+     * Conflit dans le Haut-Karabakh
+     * Guerre entre Israël et le Hamas
+     * Inondations meurtrières en Libye
+     * Séisme au Maroc
+
+   (BUTTON) Europe Europe
+   voir toute l'actu Europe
+   En direct
+     * Guerre en Ukraine
+
+   En ce moment
+     * Guerre en Ukraine
+     * Voir plus de sujets europe
+
+   Rubriques
+     * Guerre en Ukraine
+     * France
+     * Allemagne
+     * Sommet de l'UE
+     * Royaume-Uni
+     * Espagne
+     * Italie
+     * Belgique
+     * Brexit
+
+   (BUTTON) Faits-divers Faits-divers
+   voir toute l'actu Faits-divers
+   En ce moment
+     * Cambriolage au musée du Louvre
+     * Procès de Frédéric Péchier
+     * Affaire Grégory
+     * Voir plus de sujets faits-divers
+
+   Rubriques
+     * Meurtres
+     * Affaires
+     * Enlèvements
+     * Accidents
+     * Police
+     * Terrorisme
+     * Justice - Procès
+     * Evasions
+     * Incendies de forêt
+     * Mort de Nahel à Nanterre
+     * Disparition de Delphine Jubillar
+     * Attaque au couteau à Annecy
+     * Procès de l'attentat de Magnanville
+     * Disparition du petit Emile
+     * Incendie meurtrier à Wintzenheim
+
+   (BUTTON) Politique Politique
+   voir toute l'actu Politique
+   En ce moment
+     * Gouvernement de Sébastien Lecornu
+     * Financement de la campagne 2007 de Sarkozy
+     * Voir plus de sujets politique
+
+   Rubriques
+     * Élections municipales 2026
+     * Gouvernement de Gabriel Attal
+     * Assemblée nationale
+     * Sénat
+     * Emmanuel Macron
+     * Réforme des retraites 2023
+     * Les Républicains
+     * Renaissance
+     * Rassemblement national
+     * Parti socialiste
+     * La France insoumise
+     * Les Ecologistes - EELV
+     * Affaires
+     * Election présidentielle
+     * Toutes les élections
+
+   (BUTTON) Société Société
+   voir toute l'actu Société
+   En ce moment
+     * Drogue et narcotrafic
+     * Laïcité
+     * Armée, sécurité et défense
+     * Affaires Sarkozy
+     * Violences sexuelles
+     * Immigration
+     * Voir plus de sujets société
+
+   Rubriques
+     * Justice
+     * Drogue
+     * Education
+     * Egalité femmes-hommes
+     * Immigration
+     * Fin de vie
+     * IVG
+     * Maltraitance dans les Ehpad
+     * Droits des femmes
+     * Violences sexuelles
+     * Féminicides
+     * Laïcité
+     * Prisons
+     * Prostitution
+     * PMA
+     * Scolarité
+     * Calendrier des vacances scolaires
+     * Calendrier des jours fériés
+     * Résultats Bac
+     * Résultats Brevet
+     * Résultats Bts
+     * Résultats Cap
+     * Harcèlement scolaire
+     * Guide scolaire des parents
+
+   (BUTTON) Environnement Environnement
+   voir toute l'actu Environnement
+   En ce moment
+     * Qualité de l'eau
+     * Crise climatique
+     * Voir plus de sujets environnement
+
+   Rubriques
+     * Biodiversité
+     * Crise climatique
+     * Militants pour l'environnement
+     * Pollution
+     * Energie
+     * Actions écologiques
+     * Transition écologique de l'agriculture
+     * Évènements météorologiques extrêmes
+     * Catastrophes naturelles
+     * Outils de l'Ademe
+     * Outils environnement
+     * Problèmes de santé liés à l'environnement
+     * Le tableau de bord du réchauffement climatique
+     * Nos réponses à vos questions sur le climat
+     * Carte des restrictions d'eau
+     * Tableau de bord des nappes phréatiques
+     * Calculez votre empreinte carbone
+     * Calculez l'impact carbone de vos déplacements
+     * Trouvez des fruits et légumes de saison
+     * Triez mieux vos déchets
+
+   (BUTTON) Sport Sport
+   voir toute l'actu Sport
+   En ce moment
+     * Directs
+     * Voir plus de sujets sport
+
+   Rubriques
+     * Foot
+     * Cyclisme
+     * Tennis
+     * Rugby
+     * Formule 1
+     * Basket
+     * Handball
+     * Golf
+     * Jeux olympiques
+     * Jeux paralympiques
+     * Dakar
+     * 6 nations
+     * Roland-Garros
+     * Tour de France
+     * Coupe du monde de foot
+     * Mondiaux d'athlétisme
+     * Coupe du monde de rugby
+
+   (BUTTON) Culture Culture
+   voir toute l'actu Culture
+   En direct
+     * Mort de Brigitte Bardot
+
+   En ce moment
+     * Mort de Brigitte Bardot
+     * Noël et fêtes de fin d'année
+     * Prix littéraires
+     * Voir plus de sujets culture
+
+   Rubriques
+     * Musique
+     * Cinéma
+     * Séries
+     * Arts-Expos
+     * Spectacles
+     * Livres
+     * BD
+     * Mode
+     * Patrimoine
+     * Jeux Vidéo
+     * Festival de Cannes 2023
+     * Oscars 2024
+     * Victoires de la musique 2024
+     * Festival du livre de Paris 2024
+     * Les Molières
+     * Fête de la musique 2024
+     * Rock en Seine 2024
+     * Festivals d'été
+
+   (BUTTON) Éco / Conso Éco / Conso
+   voir toute l'actu Éco / Conso
+   En ce moment
+     * Budget 2026
+     * Brandt
+     * Colère des agriculteurs
+     * Dermatose nodulaire
+     * Shein
+     * Réforme des retraites
+     * Voir plus de sujets éco / conso
+
+   Rubriques
+     * Inflation
+     * Pouvoir d'achat
+     * Réforme des retraites 2023
+     * Chômage
+     * Crise
+     * Commerce
+     * Déficit
+     * Emploi
+     * Grève
+     * Impôts - Fiscalité
+     * Entreprises
+     * Industrie
+     * Médias
+     * Ménages
+     * Retraite
+     * Auto-entrepreneurs
+     * Aéronautique
+     * Automobile
+     * Transports
+     * Bourse
+     * Budget de la France
+     * Fraude
+     * Soldes d'hiver 2024
+
+   (BUTTON) Santé Santé
+   voir toute l'actu Santé
+   En ce moment
+     * Grippe
+     * Scandale des eaux en bouteille
+     * Voir plus de sujets santé
+
+   Rubriques
+     * Maladie
+     * Hôpital
+     * Covid-19
+     * Vaccin contre le Covid-19
+     * Cancer
+     * La crise de l'hôpital public
+     * Biologie - Génétique
+     * Médicament
+     * Alimentation
+     * Lutte contre le tabagisme
+     * Politique de santé
+     * Psycho - Bien-être
+     * Sport et santé
+     * Professions médicales
+     * Le tabou de la santé mentale
+
+   (BUTTON) Sciences & technologies Sciences & technologies
+   voir toute l'actu Sciences & technologies
+     * Mars
+     * OGM
+     * Météorites en Russie
+     * Astéroïde 2012 DA14
+     * High Tech
+     * Steak in-vitro
+     * Boson de Higgs
+     * Astronomie
+     * Espace
+     * Solar Impulse
+     * Homo naledi
+     * Dinosaures
+
+   (BUTTON) Météo Météo
+   Météo (Nouvelle fenêtre)
+     * Tsunami
+     * Séisme
+     * Avalanche
+     * Canicule
+     * Cyclone
+     * Intempéries
+     * Neige
+     * Orages
+     * Tempêtes
+     * Tornade
+     * Météo France (nouvelle fenêtre) Météo France
+     * Météo Paris (nouvelle fenêtre) Météo Paris
+     * Météo Lyon (nouvelle fenêtre) Météo Lyon
+     * Météo Marseille (nouvelle fenêtre) Météo Marseille
+     * Actualités météo
+
+   (BUTTON) Jeux Jeux
+   Jeux (Nouvelle fenêtre)
+     * Sudoku (nouvelle fenêtre) Sudoku
+     * Mots fléchés (nouvelle fenêtre) Mots fléchés
+     * Mots croisés (nouvelle fenêtre) Mots croisés
+     * Mots mystères (nouvelle fenêtre) Mots mystères
+     * Solitaire (nouvelle fenêtre) Solitaire
+     * Alphamo (nouvelle fenêtre) Alphamo
+     * 7 erreurs (nouvelle fenêtre) 7 erreurs
+     * FreeCell (nouvelle fenêtre) FreeCell
+     * Puzzle (nouvelle fenêtre) Puzzle
+
+   (BUTTON) france TV france TV
+   france TV (Nouvelle fenêtre)
+     * France 2 (nouvelle fenêtre) France 2
+     * France 3 (nouvelle fenêtre) France 3
+     * France 4 (nouvelle fenêtre) France 4
+     * France 5 (nouvelle fenêtre) France 5
+     * Lumni (nouvelle fenêtre) Lumni
+     * Okoo (nouvelle fenêtre) Okoo
+     * France tv & vous (nouvelle fenêtre) France tv & vous
+     * France tv le club (nouvelle fenêtre) France tv le club
+     * France tv lab (nouvelle fenêtre) France tv lab
+     * Les Médiateurs (nouvelle fenêtre) Les Médiateurs
+
+   (BUTTON) radio france radio france
+   radio france (Nouvelle fenêtre)
+     * France Inter (nouvelle fenêtre) France Inter
+     * ici (nouvelle fenêtre) ici
+     * France Culture (nouvelle fenêtre) France Culture
+     * France Musique (nouvelle fenêtre) France Musique
+     * Fip (nouvelle fenêtre) Fip
+     * Mouv' (nouvelle fenêtre) Mouv'
+     * Maison de la Radio et de la Musique (nouvelle fenêtre) Maison de la
+       Radio et de la Musique
+     * La Médiatrice (nouvelle fenêtre) La Médiatrice
+
+   Flash info
+   (BUTTON) Fermer la notification
+
+   lire l'article
+   Cet article date de plus de cinq ans.
+
+Coronavirus : le confinement a-t-il vraiment été efficace contre l'épidémie
+de Covid-19 ?
+
+   Faute d'une politique massive de test et de traçage des cas dès le
+   début de l'épidémie, le confinement a été nécessaire. Cette mesure
+   radicale a permis de reprendre le contrôle de la crise sanitaire.
+   (BUTTON) lire plus tard
+
+   Pour sauvegarder cet article, connectez-vous ou créez un compte
+   franceinfo
+
+   Sans paiement. Sans abonnement.
+   (BUTTON) Fermer la fenêtre d'activation des notifications France Info
+   (BUTTON) créer votre compte
+   (BUTTON) se connecter
+   :
+
+   (BUTTON) Fermer la fenêtre de présentation
+
+   (BUTTON) précédent (BUTTON) suivant
+   (BUTTON) commenter
+   (BUTTON) partager
+     * Copier le lien
+     * Facebook
+     * Whatsapp
+     * X
+     * Email
+
+   Article rédigé par Benoît Zagdoun
+   France Télévisions
+   Publié le 21/06/2020 07:07 Mis à jour le 24/06/2020 10:04
+   Temps de lecture : 15min
+   Un panneau annonçant l'obligation de porter un masque à l'entrée du
+   métro à Paris le 1er juin 2020. (MARTIN NODA / HANS LUCAS / AFP) Un
+   panneau annonçant l'obligation de porter un masque à l'entrée du métro
+   à Paris le 1er juin 2020. (MARTIN NODA / HANS LUCAS / AFP)
+
+   Fallait-il vraiment confiner la France entière pour faire face à
+   l'épidémie de coronavirus ? Cette mesure a-t-elle réellement freiné la
+   propagation du Covid-19, évitant des milliers de morts supplémentaires
+   ? N'y avait-il pas de meilleures solutions ? Plus d'un mois après sa
+   levée, le confinement est la cible d'un procès en inefficacité. A
+   l'Assemblée nationale aussi, la commission d'enquête sur la gestion de
+   la crise s'interroge. Mais ces critiques formulées notamment sur les
+   réseaux sociaux disent-elles vrai ou "fake" ?
+
+"Une mesure de dernier ressort"
+
+   "Lorsque vous ouvrez les manuels de santé publique, la plupart
+   expliquent que le confinement généralisé à l'ensemble de la population
+   est toujours une solution que l'on veut éviter au cours d'une
+   pandémie, constate Patrick Pintus, enseignant-chercheur en économie à
+   l'université Aix-Marseille, qui travaille sur l'épidémie de Covid-19 au
+   sein d'une équipe pluridisciplinaire. Il y a d'autres solutions plus
+   efficaces pour limiter les effets d'une pandémie."
+
+   A la fin février, la Corée du Sud était le deuxième pays le plus touché
+   par l'épidémie, après la Chine. Mais Séoul est parvenu à maîtriser la
+   situation, sans avoir à recourir au confinement. Une vaste campagne de
+   tests a permis de détecter et d'isoler les personnes infectées, et le
+   traçage systématique de leurs contacts a limité la propagation du
+   virus. Début mai, le pays ne comptait que 279 morts et un peu moins de
+   12 200 cas de contamination. "C'était vraiment la politique qui devait
+   être suivie, à condition d'être capable de le faire", observe Patrick
+   Pintus. Un avis partagé par Pascal Crépey, enseignant-chercheur à
+   l'Ecole des hautes études en santé publique à Rennes.
+
+     Cela fait un mois qu'on n'est plus en confinement et l'épidémie
+     reste sous contrôle. C'est la meilleure preuve que le confinement
+     n'est pas la seule solution.
+
+   Pascal Crépey, épidémiologiste
+
+   à franceinfo
+
+   Singapour, Taïwan, Hong Kong, le Japon ou la Nouvelle-Zélande sont
+   également cités en exemples par Antoine Flahault, directeur de
+   l'Institut de santé globale de l'université de Genève. Après l'épidémie
+   de H1N1 en 2009, ces pays "sont restés dans un état d'alerte et de
+   vigilance tel qu'ils se sont précipités sur les premiers cas arrivant
+   chez eux de façon beaucoup plus active que les pays européens qui
+   voyaient cette menace de très loin", analyse le professeur de santé
+   publique.
+
+   Pendant les premiers mois de l'épidémie, "Singapour est parvenu à
+   contenir le tsunami par des mesures de distanciation sociale
+   personnalisées, de testing, de tracing et de quarantaine, souligne
+   Antoine Flahault. Mais lorsqu'en avril, l'épidémie a ressurgi de
+   l'intérieur, de cités-dortoirs de travailleurs immigrés précaires,
+   Singapour a introduit des mesures de confinement, sans hésiter, comme
+   une sorte de réponse graduée." "Le confinement, ce n'est pas la
+   panacée. Cela doit rester une mesure de dernier ressort", estime Pascal
+   Crépey.
+
+"Il n'y avait plus d'autre solution" en France
+
+   Si la France, comme ses voisins européens, a décidé de confiner sa
+   population à la mi-mars, c'est parce que, "dans l'urgence et l'état
+   d'impréparation" dans lesquels elle se trouvait, "il n'y avait plus
+   d'autre solution pour infléchir la courbe épidémique", jugent les
+   experts interrogés par franceinfo.
+
+   "Au moment où on a confiné, le niveau de circulation du virus était
+   bien plus important", rappelle Pascal Crépey, soulignant que les
+   conditions matérielles ne laissaient guère d'autre choix.
+
+     On n'avait pas assez de masques pour la population, les capacités de
+     test étaient limitées et tout le dispositif de traçage des cas
+     contacts mis en place ensuite était débordé par le nombre de cas
+     déclarés.
+
+   Pascal Crépey, épidémiologiste
+
+   à franceinfo
+
+   "Malgré cette mesure drastique, on a quand même été obligés de
+   transférer plus de 600 patients d'Ile-de-France et du Grand Est, les
+   capacités de réanimation étant dépassées", poursuit
+   l'épidémiologiste. "Il aurait même fallu confiner plus tôt",
+   estime-t-il "avec le recul". Pascal Crépey reconnaît toutefois que "ce
+   genre de décision est difficile à prendre". "Au moment où le
+   confinement a été décrété, les signaux étaient encore relativement
+   faibles. Il y a une quinzaine de jours d'inertie entre le moment où les
+   infections ont lieu et celui où on voit arriver les malades à
+   l'hôpital." Or, note Antoine Flahault, "à partir d'un certain seuil, il
+   n'est plus possible de casser les chaînes de transmission à la racine
+   de façon systématique et chirurgicale".
+
+Une efficacité mesurée par des modèles mathématiques
+
+   Le confinement repose sur une règle basique de statistiques et de
+   probabilités. "En réduisant le nombre de contacts par individu, on
+   réduit mécaniquement le risque de transmission du virus, donc on a un
+   impact sur l'évolution de l'épidémie", résume Pascal Crépey. A l'aide
+   de modèles mathématiques, de nombreuses équipes de
+   chercheurs ont tenté de chiffrer l'effet des mesures de distanciation
+   (interdiction des rassemblements, limitation des déplacements,
+   fermeture des frontières et des écoles, confinement de la population,
+   isolement des malades et des cas contacts, etc).
+
+   A partir du nombre de morts recensées par le Centre européen de
+   prévention et contrôle des maladies et du taux de reproduction du virus
+   (le nombre de nouvelles personnes contaminées par chaque personne
+   infectée, aussi appelé R0) avant le confinement, l'Imperial College de
+   Londres a ainsi calculé le nombre de décès qui auraient pu survenir si
+   aucune disposition n'avait été prise face à l'épidémie dans onze pays
+   européens (l'Autriche, la Belgique, le Danemark, la France,
+   l'Allemagne, l'Italie, la Norvège, l'Espagne, la Suède, la Suisse et le
+   Royaume-Uni). D'après cette étude parue dans la revue Nature* début
+   juin, 3,1 millions de morts supplémentaires ont été évitées. Ces
+   mesures de distanciation sociale d'intensités diverses ont abouti à
+   une baisse de 82% en moyenne du taux de reproduction du virus,
+   permettant de le ramener en dessous de 1, le seuil en-deçà duquel le
+   nombre de nouveaux cas diminue.
+
+   L'Arc de triomphe à Paris durant le confinement, le 26 avril 2020.
+   (CARINE SCHMITT / HANS LUCAS / AFP) L'Arc de triomphe à Paris durant le
+   confinement, le 26 avril 2020. (CARINE SCHMITT / HANS LUCAS / AFP)
+   L'Arc de triomphe à Paris durant le confinement, le 26 avril 2020.
+   (CARINE SCHMITT / HANS LUCAS / AFP)
+
+   Sans mesures prises par les pouvoirs publics pour enrayer la
+   contagion, la France aurait compté 1,4 million de cas confirmés en plus
+   (ce qui correspondrait à 45 millions de personnes infectées par le
+   virus), d'après les estimations de chercheurs de l'université
+   américaine de Berkeley dont les travaux sont parus dans Nature* début
+   juin. Une telle situation épidémique se serait soldée par plus de
+   214 000 morts français d'après ce scénario catastrophe. Ces
+   modélisations de type prédictif ne font toutefois pas l'unanimité au
+   sein de la communauté scientifique, dont une partie estime que les
+   modèles mathématiques employés aboutissent à des résultats trop
+   alarmistes. Les modélisations de type rétrospectif font, elles, moins
+   débat.
+
+   Les travaux dirigés par une équipe de l'Institut Pasteur, publiés dans
+   la revue Science* mi-mai, concluent eux aussi à un "impact massif" du
+   confinement sur l'évolution de l'épidémie en France. Le R0 de
+   l'épidémie a été réduit de 77%, chutant de 2,90 à 0,67. Entre fin mars
+   et début mai, les hospitalisations sont passées de 3 600 à 357 par
+   jour, les admissions quotidiennes en soins intensifs sont tombées de
+   700 à 66. Quant aux nouvelles infections, elles ont considérablement
+   diminué, dégringolant de 150 000 à 390 000 chaque jour avant le
+   confinement à 2 600 à 6 300 après, selon les projections.
+
+   Le résultat de cette modélisation sur le taux de reproduction
+   est proche des projections*, prépubliées mi-avril, de l'EPIcx lab*,
+   un groupe de recherche dirigé par Vittoria Colizza, de l'Inserm. Les
+   équipes du CNRS, de l'IRD et de l'université de Montpellier, dirigées
+   par Samuel Alizon, sont parvenues à un constat similaire.
+
+     Le confinement a permis de ramener la situation sanitaire à quelque
+     chose de gérable en termes de circulation du virus, mais il a aussi
+     permis de gagner du temps pour augmenter les capacités de test et
+     permettre aux Français de s'équiper en masques.
+
+   Pascal Crépey, épidémiologiste
+
+   à franceinfo
+
+   "Les mesures de confinement ont en moyenne été très efficaces pour
+   aplanir la 'courbe pandémique' et réduire le nombre de
+   décès", confirment des économistes du Fonds monétaire international
+   dans une revue sur le Covid-19*, éditée mi-mai par le Centre pour la
+   recherche en politique économique de Londres.
+
+Les contre-exemples suédois, américain et brésilien
+
+   Pour les experts interrogés par franceinfo, la meilleure preuve de
+   l'efficacité du confinement est apportée par les contre-exemples. La
+   Suède est l'un des rares pays en Europe à ne pas l'avoir imposé. Les
+   commerces comme les écoles sont restés ouverts. Le royaume
+   nordique affiche un taux de contamination et de mortalité par habitant
+   plus élevé que ses voisins, avec plus de 53 000 cas détectés, plus de
+   4 900 morts, soit plus de 521 cas et 48 morts pour 100 000 habitants.
+
+   Courbes des décès dûs au Covid-19 par pays pour 100 000 habitants.
+   (FRANCEINFO) Courbes des décès dûs au Covid-19 par pays pour 100 000
+   habitants. (FRANCEINFO) Courbes des décès dûs au Covid-19 par pays pour
+   100 000 habitants. (FRANCEINFO)
+
+   Aux Etats-Unis et au Brésil, les deux pays les plus touchés désormais,
+   la première vague épidémique n'en finit pas. Les Etats américains se
+   sont confinés dans le désordre, et certains se sont déconfinés
+   trop tôt, le président Donald Trump appelant à faire repartir
+   l'économie sur fond de récession. D'un bout à l'autre du pays, plus
+   d'une douzaine d'Etats enregistrent en ce moment leur plus grand nombre
+   de nouveaux cas depuis le début de l'épidémie.
+
+   Au Brésil, le président Jair Bolsonaro compare le virus à une "petite
+   grippe", rejette les mesures de confinement mises en oeuvre par les
+   autorités dans certains Etats et certaines villes, et multiplie les
+   bains de foule. Résultat, les Etats-Unis comptent plus de 2 137 000 cas
+   et plus de 116 900 morts, soit plus de 649 cas et 35 morts pour 100 000
+   habitants. Au Brésil, on dénombre plus de 923 000 cas et 45 200 morts,
+   soit plus de 437 cas et 21 morts pour 100 000 habitants.
+
+     Le confinement a montré son efficacité partout où il a été mis en
+     place.
+
+   Antoine Flahault, épidémiologiste
+
+   à franceinfo
+
+   Si le confinement a bel et bien permis d'aplatir la courbe de
+   l'épidémie, "plusieurs études montrent cependant qu'il n'y a pas de
+   grande valeur ajoutée au confinement strict, autoritaire, à la
+   chinoise, appliqué par les Français, les Espagnols et les Italiens, par
+   rapport à un semi-confinement plus libéral, appliqué en Suisse, en
+   Allemagne ou en Autriche par exemple", relève Antoine Flahault.
+
+   L'explication serait cette fois d'ordre culturel. "Il y a eu en Suisse,
+   en Allemagne et en Autriche un autoconfinement, moins centralisé, plus
+   discipliné, qui est venu des citoyens eux-mêmes", explique Patrick
+   Pintus, pour qui "la réaction de la population est aussi importante
+   pour lutter contre la progression d'une épidémie que la mesure de santé
+   publique adoptée par les autorités".
+
+Le confinement seul ne suffit pas
+
+   Si le confinement est efficace, il l'est encore plus lorsqu'il est
+   associé à une politique de testing et de tracing poussée. "Les
+   Allemands et les Suisses ont fait du testing et du tracing plus
+   précocement et plus intensément que les Français", note Antoine
+   Flahault. Et leurs bilans épidémiques sont bien meilleurs. La Suisse
+   recense plus de 31 000 cas et plus de 1 600 morts, soit plus de 363 cas
+   et plus de 19 morts pour 100 000 habitants. L'Allemagne dénombre
+   187 000 cas et 8 800 morts, soit un peu plus de 225 cas et 10 morts
+   pour 100 000 habitants. La France, elle, déplore plus de 157 700 cas et
+   plus de 29 500 morts, soit plus de 235 cas et 44 morts pour 100 000
+   habitants.
+
+   "Les modélisations disent qu'une politique de confinement généralisée
+   marche moins bien qu'une politique de test, de contact tracing et
+   d'isolement", remarque Patrick Pintus. Une étude pilotée par l'Ecole
+   d'hygiène et de médecine tropicale de Londres, parue dans le Lancet*
+   mi-juin, le confirme. D'après ces travaux, les stratégies de testing et
+   de tracing réduisent plus fortement le taux de reproduction du
+   virus que les tests de masse ou l'autoconfinement à eux seuls. Le
+   dépistage massif de la population réduirait ainsi la transmission du
+   virus de 2% à 5%. Avec l'autoconfinement des cas symptomatiques et la
+   quarantaine, on passerait à une fourchette entre 29% et 37%, et, en y
+   ajoutant le traçage des cas contacts, on atteindrait un effet allant de
+   47% à 64%. Reste une inconnue, souligne Antoine Flahault.
+
+     Le port du masque systématique et bien observé dans les
+     circonstances de contact à risque, comme les transports en commun,
+     et les mesures barrières, comme le lavage des mains, pourraient être
+     beaucoup plus efficaces que ne l'envisagent les modèles actuels.
+
+   Antoine Flahaut, épidémiologiste
+
+   à franceinfo
+
+   Selon une étude internationale*, prépubliée fin avril, le port du
+   masque pourrait avoir "un impact significatif" sur le cours de
+   l'épidémie s'il était porté massivement. D'après les différents
+   scénarios testés, le port du masque par au moins 80% de la
+   population du Royaume-Uni, associé à la distanciation physique, se
+   solderait par un bilan de 60 000 morts sur 500 jours. Un confinement,
+   sans port du masque, qui durerait sur toute la période entraînerait
+   180 000 décès ; et le port du masque par seulement 50% de la
+   population, associé à la distanciation physique, conduirait à 240 000
+   morts et ne permettrait pas de contenir l'épidémie (p. 6 du PDF). Des
+   résultats qui demandent à être confirmés.
+
+   "Si on arrive à combiner un port du masque très respecté dans tous les
+   lieux clos - les transports en commun, en particulier - et une
+   stratégie de testing et de tracing de masse, espère Antoine
+   Flahault, on parviendra peut-être à éviter un second confinement."
+
+   * lien en anglais
+     * accueil
+     * (BUTTON) lire plus tard
+     * (BUTTON) commenter
+     * (BUTTON) partager
+
+   : Vrai ou Faux
+
+   Voir tous les contenus vrai ou faux
+   (BUTTON) commenter
+   (BUTTON) partager
+     * Copier le lien
+     * Facebook
+     * Whatsapp
+     * X
+     * Email
+
+     *
+     *
+     *
+     *
+     *
+
+   À regarder
+   (BUTTON) passer cette liste
+   (BUTTON) Afficher les liens précédents (BUTTON) Afficher les liens
+   suivants
+     * Brigitte Bardot, militante et défenseuse des animaux (franceinfotv)
+       Brigitte Bardot, militante et défenseuse des animaux (franceinfotv)
+       Brigitte Bardot, militante et défenseuse des animaux
+       o 3 min
+     * Kinji00, 18 ans et rappeur indépendantiste québécois (Réseaux
+       sociaux) Kinji00, 18 ans et rappeur indépendantiste québécois
+       (Réseaux sociaux)
+       Kinji00, 18 ans et rappeur souverainiste québécois
+       o 3 min
+     * Le cyberharcèlement dans les lieux publics (France 2) Le
+       cyberharcèlement dans les lieux publics (France 2)
+       Le cyberharcèlement dans les lieux publics
+       o 4 min
+     * Brigitte Bardot, icône mondiale du cinéma est morte à 91 ans
+       (franceinfotv) Brigitte Bardot, icône mondiale du cinéma est morte
+       à 91 ans (franceinfotv)
+       Brigitte Bardot, icône mondiale du cinéma, est morte à 91 ans
+       o 4 min
+     * Un lien entre dépression post-partum et soins irrespectueux en
+       maternité (franceinfo) Un lien entre dépression post-partum et
+       soins irrespectueux en maternité (franceinfo)
+       Un lien entre dépression post-partum et soins irrespectueux en
+       maternité
+       o 2 min
+     * Femmes poignardées : le lourd passé du suspect (France 2) Femmes
+       poignardées : le lourd passé du suspect (France 2)
+       Femmes poignardées : le lourd passé du suspect
+       o 3 min
+     * Agressions dans le métro : le suspect connu de la justice
+       (franceinfotv) Agressions dans le métro : le suspect connu de la
+       justice (franceinfotv)
+       Agressions dans le métro : le suspect connu de la justice
+       o 2 min
+     * Londres : les maisons étroites (France 2) Londres : les maisons
+       étroites (France 2)
+       Londres : les maisons étroites
+       o 3 min
+     * Un chat à tête plate observé en Thaïlande (AFP) Un chat à tête
+       plate observé en Thaïlande (AFP)
+       Thaïlande : un chat à tête plate repéré pour la première fois
+       depuis 30 ans
+       o 2 min
+     * Crues et fortes pluies : des voitures emportées (France 2) Crues et
+       fortes pluies : des voitures emportées (France 2)
+       Crues et fortes pluies : des voitures emportées
+       o 2 min
+     * Geoffrey Hodicq : "Quand on vit la guerre, on ne peut pas dire je
+       n'ai pas peur" (FRANCEINFO) Geoffrey Hodicq : "Quand on vit la
+       guerre, on ne peut pas dire je n'ai pas peur" (FRANCEINFO)
+       Geoffrey Hodicq : ""Ma nouvelle guerre, c'est de lutter contre les
+       inégalités"
+       o 2 min
+     * Un canon à neige à Trojena, Arabie saoudite (AFP) Un canon à neige
+       à Trojena, Arabie saoudite (AFP)
+       Arabie saoudite : où en est-on de Trojena, la station de ski en
+       plein désert ?
+       o 3 min
+     * - (C quoi l'info ?) - (C quoi l'info ?)
+       Il est inventeur à 16 ans
+       o 3 min
+     * De la prison pour les grands excès de vitesse (France 2) De la
+       prison pour les grands excès de vitesse (France 2)
+       De la prison pour les grands excès de vitesse
+       o 3 min
+     * - (franceinfo) - (franceinfo)
+       Un troupeau de brebis décimé, la peur du loup grandit en
+       Haute-Marne
+       o 2 min
+     * Incendie d'une maison : solidarité avec une famille sinistrée
+       (France 2) Incendie d'une maison : solidarité avec une famille
+       sinistrée (France 2)
+       Incendie d'une maison : solidarité avec une famille sinistrée
+       o 2 min
+     * - (afp) - (afp)
+       Les États-Unis ont lancé plusieurs assauts contre l'État Islamique
+       au Nigéria.
+       o 2 min
+     * Plan grand froid : plusieurs départements en alerte (France 2) Plan
+       grand froid : plusieurs départements en alerte (France 2)
+       Plan grand froid : plusieurs départements en alerte
+       o 2 min
+     * Grippe : des médecins réquisitionnés en colère (France 2) Grippe :
+       des médecins réquisitionnés en colère (France 2)
+       Grippe : des médecins réquisitionnés en colère
+       o 3 min
+     * Inondations : état d'urgence en Californie (France 2) Inondations :
+       état d'urgence en Californie (France 2)
+       Inondations : état d'urgence en Californie
+       o 3 min
+     * Laurent Vinatier : un espoir de libération ? (France 2) Laurent
+       Vinatier : un espoir de libération ? (France 2)
+       Laurent Vinatier : un espoir de libération ?
+       o 3 min
+     * Au Royaume-Uni, la pub sur la malbouffe bientôt limitée (RADIO
+       FRANCE / FRANCEINFO) Au Royaume-Uni, la pub sur la malbouffe
+       bientôt limitée (RADIO FRANCE / FRANCEINFO)
+       Au Royaume-Uni, la pub sur la malbouffe bientôt limitée
+       o 3 min
+     * - (C quoi l'info ?) - (C quoi l'info ?)
+       Football : cette année, on n'a pas de Boxing Day
+       o 2 min
+     * Royaume-Uni : les homards éviteront-ils l'eau bouillante ? (France
+       2) Royaume-Uni : les homards éviteront-ils l'eau bouillante ?
+       (France 2)
+       Royaume-Uni : les homards éviteront-ils l'eau bouillante ?
+       o 3 min
+     * Noël : privés de chauffage et d'ascenseur (France 2) Noël : privés
+       de chauffage et d'ascenseur (France 2)
+       Noël : privés de chauffage et d'ascenseur
+       o 2 min
+     * Donald Trump bannit 5 personnalités européennes (France 2) Donald
+       Trump bannit 5 personnalités européennes (France 2)
+       Donald Trump bannit cinq personnalités européennes
+       o 2 min
+     * Les téléfilms de Noël : la magie Hallmark ... (Stéphanie Berlu) Les
+       téléfilms de Noël : la magie Hallmark ... (Stéphanie Berlu)
+       Les téléfilms de Noël : la magie Hallmark ...
+       o 2 min
+     * - (franceinfo) - (franceinfo)
+       "S'il joue le dur..." : Washington met la pression militaire sur le
+       Venezuela
+       o 2 min
+     * Quartiers prioritaires : les filles se mettent au rugby (CFJ)
+       Quartiers prioritaires : les filles se mettent au rugby (CFJ)
+       Quartiers prioritaires : les filles se mettent au rugby
+       o 3 min
+     * Droits de douane : la Chine cible les produits laitiers (France 2)
+       Droits de douane : la Chine cible les produits laitiers (France 2)
+       Droits de douane : la Chine cible les produits laitiers
+       o 3 min
+
+     *
+     *
+     *
+     *
+     *
+
+   les mots-clés associés à cet article
+     * Covid-19
+     * Confinement
+     * Vrai ou faux
+     * Maladie
+     * Santé
+
+     *
+     *
+     *
+     *
+     *
+
+   contenus sponsorisés
+
+Commentaires
+
+   (BUTTON) Fermer la fenêtre Commentaires
+
+Connectez-vous ou créez votre espace franceinfo pour commenter.
+
+   (BUTTON) se connecter
+
+   Pas encore de compte ? S'inscrire
+
+   (BUTTON)
+
+   Découvrez l'application France Info
+
+   Toute l'actu en direct et en continu, où et quand vous voulez.
+     * Sauvegardez vos articles à lire plus tard
+     * Recevez les alertes uniquement sur ce qui vous intéresse
+
+     * Télécharger dans l'App Store Télécharger dans l'App Store
+     * Disponible sur Google Play Disponible sur Google Play
+
+   Télécharger l'application (Nouvelle fenêtre)
+
+    1. Accueil
+    2. Santé
+    3. Maladie
+    4. Covid-19
+
+   Abonnement Newsletter
+
+   :toute l'actu dès 7h30
+
+   Votre adresse e-mail
+   ____________________
+   (BUTTON) s'inscrire
+
+   Merci ! Votre inscription est bien prise en compte.
+
+   France Télévisions utilise votre adresse e-mail afin de vous adresser
+   des newsletters.
+   Pour exercer vos droits, contactez-nous.
+   Notre politique de confidentialité
+
+   Suivez-nous sur les réseaux sociaux :
+     * France Info sur Facebook (Nouvelle fenêtre)
+     * France Info sur X, anciennement Twitter (Nouvelle fenêtre)
+     * France Info sur Instagram (Nouvelle fenêtre)
+     * France Info sur Youtube (Nouvelle fenêtre)
+     * France Info sur Tiktok (Nouvelle fenêtre)
+
+   Accueil France Info
+
+   Suivez l'actualité en direct :
+     * le live
+     * direct tv
+     * direct radio
+
+   Retrouvez aussi
+   La météo Les jeux
+
+     * Politique de confidentialité (Nouvelle fenêtre)
+     * CGU et mentions légales
+     * Gérer mes traceurs
+     * Plan du site
+     * Plan du site recherche
+     * Qui sommes-nous ?
+     * Nous contacter
+
+     * Accessibilité (partiellement conforme)
+     * Charte déontologique
+     * Charte du Live
+     * Assistant vocal
+     * Devenir annonceur (Nouvelle fenêtre)
+     * Recrutement (Nouvelle fenêtre)
+
+   L'application France Info
+   (BUTTON) Fermer la notification
+
+   Tout France Info, et bien plus. Sauvegardez vos articles à lire plus
+   tard et filtrer l'actualité qui vous intéresse
+   Télécharger l'application
+
+   Activez les notifications franceinfo et ne manquez rien de l'actualité
+
+   Vous pouvez changer d'avis à tout moment dans les réglages de votre
+   navigateur.
+   (BUTTON) Fermer la fenêtre d'activation des notifications France Info
+   (BUTTON) plus tard
+   (BUTTON) activer
+
+   [tr?id=882125681855230&ev=PageView&noscript=1]

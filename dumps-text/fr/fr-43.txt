@@ -1,0 +1,373 @@
+   #alternate
+
+   Aller au contenu principal
+
+     * (BUTTON) L'ASNR
+     * (BUTTON) Expertise
+       (BUTTON)
+       (BUTTON) Expertise
+       Expertise
+          + L' expertise de l'ASNR
+          + Avis d'expertise (BUTTON)
+               o Avis d'expertise de l'ASNR 2025
+               o Avis de l'IRSN de l'année 2024
+               o Avis de l'IRSN de l'année 2023
+               o Avis de l'IRSN de l'année 2022
+               o Avis de l'IRSN de l'année 2021
+               o Avis de l'IRSN de l'année 2020
+               o Avis de l'IRSN de l'année 2019
+               o Avis de l'IRSN de l'année 2018
+               o Avis de l'IRSN de l'année 2017
+               o Avis de l'IRSN de l'année 2016
+               o Avis de l'IRSN de l'année 2015
+               o Avis de l'IRSN de l'année 2014
+               o Avis de l'IRSN de l'année 2013
+               o Avis de l'IRSN de l'année 2012
+               o Avis de l'IRSN de l'année 2011
+               o Avis de l'année 2010 et antérieurs
+          + Avis commentés
+          + Avis et rapports de l'IRSN par installations et thèmes
+            (BUTTON)
+               o Avis et rapports EPR 2
+               o Avis et Rapports Centrale nucléaire de Gravelines
+          + Rapports d'expertise en radioprotection de l'homme
+          + Rapports d'expertise en sûreté nucléaire
+          + Rapports d'expertise sur la surveillance de l'environnement
+          + Les Groupes Permanents (BUTTON)
+               o Rapports présentés au Groupe permanent d'experts pour les
+                 déchets (GPD)
+               o Rapports présentés au Groupe permanent d'experts pour le
+                 démantèlement
+               o Avis et rapports présentés au Groupe permanent d'experts
+                 pour les équipements sous pression nucléaires (GPESPN)
+               o Rapports présentés au Groupe permanent d'experts pour la
+                 radioprotection dans les applications médicales (GPMED)
+               o Rapports présentés au Groupe permanent d'experts pour les
+                 réacteurs nucléaires (GPR)
+               o Rapports présentés au Groupe permanent d'experts pour la
+                 radioprotection dans les applications industrielles et de
+                 recherche des rayonnements ionisants (GPRAD)
+               o Rapports présentés au Groupe permanent d'experts pour les
+                 transports (GPT)
+               o Rapports présentés au Groupe permanent d'experts pour les
+                 laboratoires et usines (GPU)
+          + Démarches de sûreté IRSN (BUTTON)
+               o Guide ASN n°22 : Conception des réacteurs à eau sous
+                 pression
+               o Guide ASN n°28 : Qualification des outils de calcul
+                 scientifique utilisés dans la démonstration de sûreté
+                 nucléaire - première barrière
+               o La démarche d'exclusion de rupture - Document du
+                 référentiel d'expertise de sûreté
+               o La démarche d'élimination pratique de situations
+                 accidentelles pour les réacteurs à eau de puissance
+               o Principes relatifs à la démarche de conception du
+                 contrôle-commande numérique
+          + Prestations d'expertise
+     * (BUTTON) Recherche
+       (BUTTON)
+       (BUTTON) Recherche
+       Recherche
+          + La recherche à l'ASNR
+          + Réseaux internationaux
+          + Formation par la recherche (BUTTON)
+               o Les bilans de la formation par la recherche
+               o Politique de formation et objectifs
+               o Un post-doctorat à l'IRSN
+               o Une thèse à l'IRSN
+               o Toutes les thèses
+               o Concours "3 minutes pour une thèse"
+          + Évaluation de la recherche à l'IRSN
+          + Domaines de recherche (BUTTON)
+               o GTR Altération et vieillissement des matériaux du
+                 nucléaire
+               o GTR Combustible en situations accidentelle
+               o GTR Dispersion des matières radioactives et polluants
+               o GTR Domaine de recherche thérapie cellulaire
+               o GTR Dosimétries
+               o GTR Incendie Explosion
+               o GTR Neutronique
+               o GTR Radiobiologie - radiopathologie
+               o GTR Radiotoxicologie expositions chroniques
+               o GTR Risques environnementaux
+               o GTR Risques naturels
+               o GTR Sciences humaines et sociales
+               o GTR Stockage géologique
+               o GTR Thermohydraulique des systèmes nucléaires
+               o GTR Epidémiologie
+          + Les programmes de recherche
+          + Publications et documentations (BUTTON)
+               o Toutes les thèses
+               o Les collections d'ouvrages scientifiques de l'IRSN
+               o Portail HAL IRSN
+          + Outils et équipes scientifiques (BUTTON)
+               o Les installations et moyens expérimentaux
+               o Les codes de calcul
+               o Les bases de données
+               o Les équipes de recherche
+     * (BUTTON) Savoir et comprendre
+       (BUTTON)
+       (BUTTON) Savoir et comprendre
+       Savoir et comprendre
+          + Présentation
+          + Bibliothèque Environnement
+          + Bibliothèque Santé
+          + Bibliothèque Sûreté
+          + Bibliothèque Sécurité
+          + Bibliothèque Crise
+          + Bibliothèque Non-prolifération
+          + Bibliothèque Dialogue et pédagogie
+          + Exposition pédagogique
+     * (BUTTON) Prestations et formations
+       (BUTTON)
+       (BUTTON) Prestations et formations
+       Prestations et formations
+          + Nos prestations et formations
+     * (BUTTON) L'IRSN (archives)
+       (BUTTON)
+       (BUTTON) L'IRSN (archives)
+       L'IRSN (archives)
+          + Qui sommes-nous ? (BUTTON)
+               o Nos missions
+               o Nos implantations
+               o Nos chiffres-clés
+               o Outils et ressources
+          + Gouvernance (BUTTON)
+               o Organigramme
+               o Conseil d'administration
+               o Le Conseil scientifique
+               o Comité d'orientation des recherches en sûreté nucléaire
+                 et en radioprotection (COR)
+               o Comité d'orientation auprès de la Direction de
+                 l'expertise nucléaire de défense (CODEND)
+               o Commission d'éthique et de déontologie (CED)
+               o Comité ODISCE
+               o Contrat d'objectifs et de performance Etat - IRSN
+               o Stratégie scientifique de l'IRSN
+               o Management par la qualité
+          + Un institut responsable et citoyen
+          + Un institut innovant
+          + Un institut tourné vers l'international
+     * (BUTTON) Communiqués de presse
+
+     * Environnement
+     * Santé
+     * Sûreté
+     * Crise
+     * Dialogue et pédagogie
+
+   Le kiosque
+   (BUTTON) Rechercher (BUTTON)
+   (BUTTON) Fermer
+   Recherche par mots clés ____________________ (BUTTON) Rechercher
+   (BUTTON) Fermer
+   Rejoignez-nous
+
+   (BUTTON) FR
+     * FR
+     * EN
+
+     * Environnement
+     * Santé
+     * Sûreté
+     * Crise
+     * Dialogue et pédagogie
+
+   Le kiosque
+
+   (BUTTON) Voir le fil d'Ariane
+
+   (BUTTON)
+    1. Accueil
+    2. Savoir et comprendre
+    3. Sûreté
+    4. La sûreté nucléaire
+    5. Les grands principes de la Sûreté nucléaire
+    6. Le confinement des matières ...
+
+La sûreté nucléaire
+
+    1. Les grands principes de la Sûreté nucléaire
+    2. La défense en profondeur
+    3. De l'incident à l'accident nucléaire
+    4. Les barrières de confinement
+    5. Le confinement des matières radioactives ou toxiques
+    6. L'échelle INES (International Nuclear Event Scale)
+    7. Le retour d'expérience : analyser et comprendre
+
+Le confinement des matières radioactives ou toxiques
+
+     * (BUTTON) Imprimer
+     * (BUTTON) Partager
+       Partager la page
+       (BUTTON) Fermer
+          + facebook
+          + twitter
+          + linkedin
+          + Partager par email
+          + (BUTTON) Copier dans le presse-papier
+
+   21/05/2012
+
+   La maîtrise des transferts de contamination
+
+
+   La maîtrise des transferts de contamination est un objectif
+   particulièrement important pour la sûreté des installations nucléaires
+   et pour la protection des opérateurs.
+
+   L' une des missions de l'IRSN est :
+
+     * d'une part d'évaluer les dispositions retenues par les exploitants
+       pour maîtriser les risques de dissémination de matières
+       radioactives ou toxiques lors du fonctionnement normal des
+       installations, ainsi que lors des situations incidentelles et
+       accidentelles susceptibles de les affecter (incendie, ruptures de
+       tuyauteries, chutes de charge, séisme, etc.),
+     * d'autre part de réaliser des études et des recherches permettant
+       d'améliorer les connaissances nécessaires à cette évaluation.
+
+
+   Une analyse des risques
+
+   Dans le cadre de l'expertise de sûreté des installations nucléaires de
+   base autres que les réacteurs nucléaires en exploitation, l'IRSN
+   examine les dispositions retenues par les exploitants pour maîtriser
+   les risques de dissémination de matières radioactives ou toxiques au
+   regard de la protection des travailleurs, du public et de
+   l'environnement.
+
+   Les expertises portent en particulier sur :
+
+
+     * le confinement statique des gaz, des aérosols et des liquides ;
+     * le comportement des barrières de confinement (boîtes à gants,
+       enceintes, locaux, cuvettes de rétention) lors des situations
+       normales et accidentelles ;
+     * le confinement dynamique de l'installation assuré par ses systèmes
+       de ventilation ;
+     * les dispositifs de filtration et d'épuration des effluents gazeux
+       (piégeage des aérosols et de certains gaz radioactifs, comme les
+       isotopes de l'iode) ;
+     * l'évaluation des quantités de matières radioactives ou toxiques
+       franchissant les différentes barrières de confinement ainsi que
+       celles sortant de l'installation ;
+     * les dispositions de surveillance associées aux barrières de
+       confinement statique et au confinement dynamique.
+
+
+   Les expertises portent également sur la quantification des éventuels
+   phénomènes de radiolyse et les dispositions de dilution de l'hydrogène
+   produit. Ces expertises s'appuient à la fois sur des recherches
+   génériques, menées notamment à l'IRSN, et sur des études spécifiques
+   destinées à apporter des réponses à des questions précises ou à
+   anticiper de nouvelles problématiques.
+
+
+     Banc d'essai STARMANIA : installation expérimentale pour tester la
+        résistance des équipements de sectorisation et de confinement
+
+     Banc d'essai STARMANIA : installation expérimentale pour tester la
+      résistance des équipements de sectorisation et de confinement en
+                           situation accidentelle.
+
+                              Local ventilation
+
+                            Local de ventilation.
+
+
+   Une R&D générique
+
+
+   En appui aux expertises de sûreté, des codes de calcul (codes 0D à 3D)
+   sont développés et utilisés pour modéliser les transferts de
+   contamination, que ce soit aux environs d'une source de polluants ou à
+   l'intérieur d'un local ventilé, ou pour modéliser un réseau de
+   ventilation complet d'un bâtiment. Des modèles de filtration des
+   aérosols sont tout particulièrement développés afin de mieux
+   appréhender les phénomènes intervenant dans l'épuration des effluents
+   gazeux rejetés dans l'environnement.
+
+
+           Code SIMEVENT : modélisation d'un réseau de ventilation
+
+          Code SIMEVENT : modélisation d'un réseau de ventilation.
+
+     DISCO : expériences de mise en suspension accidentelle d'une poudre
+
+     DISCO : expériences de mise en suspension accidentelle d'une poudre
+
+     DISCO : expériences de mise en suspension accidentelle d'une poudre
+
+    DISCO : expériences de mise en suspension accidentelle d'une poudre.
+
+
+                Simulation 3D de la dispersion d'un gaz lourd
+
+                Simulation 3D de la dispersion d'un gaz lourd
+
+                Simulation 3D de la dispersion d'un gaz lourd
+
+               Simulation 3D de la dispersion d'un gaz lourd.
+     __________________________________________________________________
+
+   (BUTTON)
+
+Vidéo à la Une
+
+   C'est quoi un SMR ?
+   C'est quoi un SMR ?
+
+Pour bien débuter
+
+   Découvrir et comprendre la radioactivité
+
+Les actualités
+
+     * Rapport d'activité IRSN 2024
+       Le rapport d'activité 2024 de l'IRSN est paru
+       22/05/2025
+     * Visuel fusion ASN-IRSN
+       Création de l'Autorité de sûreté nucléaire et de radioprotection
+       (ASNR)
+       02/01/2025
+
+   Plus d'actualités
+
+Dernières mises à jour
+
+     * Extraction d'une archive sédimentaire, de gauche à droite : mise en
+       place du carottier, visualisation de l'archive sédimentaire,
+       extraction (photos prises respectivement en Garonne, Rhône et
+       Meuse) Le projet TRAJECTOIRE
+       16/12/2025
+     * Vignette générique ASNR
+       Dialogue technique sur le DDAC de Cigéo - 2023-2025
+       27/11/2025
+     * photomontage espèces animales
+       Laboratoire d'Écologie et d'Écotoxicologie des radionucléides
+       (LECO)
+       27/11/2025
+     * Vignette générique ASNR
+       Avis et Rapports Centrale nucléaire de Gravelines
+       20/10/2025
+
+   Découvrir plus
+
+Suivez-nous
+
+     * linkedin
+     * instagram
+     * facebook
+     * youtube
+     * twitter
+
+   Institut de Radioprotection et de Sûreté Nucléaire
+     * Nos marchés
+     * Nos offres d'emploi
+     * FAQ
+     * Glossaire
+     * Politique de données
+     * Mentions légales
+     * Plan du site
+     * Contactez-nous

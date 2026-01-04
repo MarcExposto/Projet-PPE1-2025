@@ -709,16 +709,6 @@ long-term dataset
    76. Wang, P., Chen, K., Zhu, S., Wang, P., Zhang, H. (2020). Severe air
        pollution events not avoided by reduced anthropogenic activities
 --
-     * Prediction of High-ozone Events Using GAM, SMOTE, and Tail
-       Dependence Approaches in Texas (2005-2019) (Volume 21, Issue 10,
-       October 2021)
-     * Health Benefits Due to Reduction in Respirable Particulates during
-       COVID-19 Lockdown in India (Volume 21, Issue 5, May 2021)
-
-You may also like
-
-     * Spatio-temporal Variation of Meteorological Influence on PM2.5 and
---
      * PM2.5 in Sri Lanka: Trend Analysis, Low-cost Sensor Correlations
        and Spatial Distribution
      * A Meteorology Based Particulate Matter Prediction Model for

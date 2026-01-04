@@ -1,0 +1,57 @@
+    2. Savoir et comprendre
+    3. Sûreté
+    4. La sûreté nucléaire
+    5. Les grands principes de la Sûreté nucléaire
+    6. Le confinement des matières ...
+
+La sûreté nucléaire
+
+    1. Les grands principes de la Sûreté nucléaire
+    2. La défense en profondeur
+    3. De l'incident à l'accident nucléaire
+    4. Les barrières de confinement
+    5. Le confinement des matières radioactives ou toxiques
+    6. L'échelle INES (International Nuclear Event Scale)
+    7. Le retour d'expérience : analyser et comprendre
+
+Le confinement des matières radioactives ou toxiques
+
+     * (BUTTON) Imprimer
+     * (BUTTON) Partager
+       Partager la page
+--
+
+   Les expertises portent en particulier sur :
+
+
+     * le confinement statique des gaz, des aérosols et des liquides ;
+     * le comportement des barrières de confinement (boîtes à gants,
+       enceintes, locaux, cuvettes de rétention) lors des situations
+       normales et accidentelles ;
+     * le confinement dynamique de l'installation assuré par ses systèmes
+       de ventilation ;
+     * les dispositifs de filtration et d'épuration des effluents gazeux
+       (piégeage des aérosols et de certains gaz radioactifs, comme les
+       isotopes de l'iode) ;
+     * l'évaluation des quantités de matières radioactives ou toxiques
+       franchissant les différentes barrières de confinement ainsi que
+       celles sortant de l'installation ;
+     * les dispositions de surveillance associées aux barrières de
+       confinement statique et au confinement dynamique.
+
+
+   Les expertises portent également sur la quantification des éventuels
+   phénomènes de radiolyse et les dispositions de dilution de l'hydrogène
+--
+   anticiper de nouvelles problématiques.
+
+
+     Banc d'essai STARMANIA : installation expérimentale pour tester la
+        résistance des équipements de sectorisation et de confinement
+
+     Banc d'essai STARMANIA : installation expérimentale pour tester la
+      résistance des équipements de sectorisation et de confinement en
+                           situation accidentelle.
+
+                              Local ventilation
+

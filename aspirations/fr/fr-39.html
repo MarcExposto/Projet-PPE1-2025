@@ -1,0 +1,399 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta Property="og: titre" Content="Recommandations pour la gestion du risque amiante dans l’habitat et l’environnement" />
+    <meta Property="og: URL" Content="/explore.cgi/avisrapportsdomaine?clefr=449" />
+    <meta Property="og: SITE_NAME" Content="www.hcsp.fr" />
+    <script type="text/javascript">
+        (function (d) {
+            var config = {
+                kitId: 'fxq1hww',
+                scriptTimeout: 3000
+            },
+                h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = '//use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
+        })(document);
+    </script>
+    <title>
+        Recommandations pour la gestion du risque amiante dans l’habitat et l’environnement
+    </title>
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=67e9486af80bb90012168139&product=sop' async='async'></script>
+    
+    <link rel="stylesheet" type="text/css" href="/Content/bootstrap.css " />
+    <link rel="stylesheet" type="text/css" href="/Content/rouged.css " />
+    <link rel="stylesheet" type="text/css" href="/Content/hcsp_papier.css" media="print" />
+    
+</head>
+<body>
+    <noscript>
+        <div id="js-inactif">
+            Javascript est inactif dans votre navigateur. Pour un meilleur confort de navigation,
+            il est conseill&eacute; de l'activer.
+        </div>
+    </noscript>
+    <div id="maxime" class="hidden-print">
+        Une expertise pluridisciplinaire au service de la sant&eacute; publique
+    </div>
+    <div class="visible-print">
+        Haut Conseil de la sant&eacute; publique
+    </div>
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/Explore.cgi/Accueil">
+                    <img src="/images/logo_hcsp_rouge.jpg " alt="Haut Conseil de la sant&eacute; publique"
+                         height="75" />
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="collapse-1">
+                <ul class="nav navbar-nav navbar-right navigation-menu">
+                    <li><a href="/Explore.cgi/Hcsp" class="navigation-hcsp">le HCSP</a></li>
+                    <li><a href="/Explore.cgi/AvisRapports" class="navigation-ar">avis et rapports</a></li>
+                    <li><a href="/Explore.cgi/Adsps" class="navigation-adsp">la revue <em>adsp</em></a></li>
+                    <li>
+                        <div>
+                            <form class="navbar-form navbar-left" role="search" method="post" action="/Explore.cgi/chercher" name="PleinTexte">
+                                <div class="form-group">
+                                    <input class="form-control" type="search" name="requete" id="requete" placeholder="Que recherchez-vous ?" />
+                                </div>
+                                <button type="submit" class="btn btn-default submit" value="chercher">chercher</button>
+                            </form>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div id="conteneur" class="container">
+        <div class="row hidden-print">
+            <div class="col-lg-12 pull-right text-right" style="margin-top: 5px;">
+                <div class="nous-suivre">Nous suivre</div>
+                <a class="sharethis-button" href="https://fr.linkedin.com/company/haut-conseil-de-la-sante-publique" target="_blank" title="Nous suivre sur LinkedIn"><img alt="bouton nous suivre sur linkedin" src="https://platform-cdn.sharethis.com/img/linkedin-white.svg" /></a>
+                <a class="sharethis-button" href="https://bsky.app/profile/hcsp.bsky.social" target="_blank" title="Nous suivre sur Bluesky"><img alt="bouton nous suivre sur bluesky" src="https://platform-cdn.sharethis.com/img/bluesky-white.svg" /></a>
+                <a class="sharethis-button" href="https://www.facebook.com/p/Haut-Conseil-de-la-sant%C3%A9-publique-100064301095082/" target="_blank" title="Nous suivre sur Facebook"><img alt="bouton nous suivre sur facebook" src="https://platform-cdn.sharethis.com/img/facebook-white.svg" /></a>
+                <div class="menu-abonnement-wrapper">
+                    <button class="menu-abonnement-button" title="S'abonner à la lettre de diffusion et consulter les anciennes" tabindex="0">
+                        <img alt="email sharing button" src="https://platform-cdn.sharethis.com/img/email.svg" />
+                    </button>
+                    <div class="context-menu-abonnement">
+                        <button id="btn-abonnement" data-toggle="modal" data-target="#abonnement">S'abonner à la lettre du HCSP</button>
+                        <a href="/Explore.cgi/hcspInformations">Consulter l'historique des lettres</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu" class="row">
+            <div class="col-sm-3 logo hidden-print">
+                <a href="/Explore.cgi/Accueil">
+                    <img src="/images/logo_hcsp_rouge.jpg " alt="Haut Conseil de la sant&eacute; publique"
+                         width="150" height="75" />
+                </a>
+            </div>
+            <div class="col-sm-9" id="hautdroit">
+                <div class="row">
+                    <div id="recherche-bloc" class="col-sm-12 text-right">
+                        <form method="post" action="/Explore.cgi/chercher" name="PleinTexte" class="form-inline">
+                            <div class="form-group">
+                                <input class="form-control" type="search" name="requete" id="requete" placeholder="Que recherchez-vous ?" />
+                                <button type="submit" class="btn btn-default" value="chercher">Chercher</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div id="navigation" class="row text-center">
+                    <div class="navigation-menu col-sm-3">
+                        <a href="/Explore.cgi/Hcsp" class="navigation-hcsp">le HCSP</a>
+                    </div>
+                    <div class="navigation-menu col-sm-3">
+                        <a href="/Explore.cgi/AvisRapports" class="navigation-ar">avis et rapports</a>
+                    </div>
+                    <div class="navigation-menu col-sm-3">
+                        <a href="/Explore.cgi/Adsps" class="navigation-adsp">la revue <em>adsp</em></a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12 enquete-fond">
+                <div class="enquete-bloc" style="margin: 0; text-align: center;">
+                    <span class="enquete-titre" style="margin-left: -10px;">Le Haut Conseil de la santé publique vous souhaite une excellente année 2026</span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div id="arborescence">
+                <h2>Vous &ecirc;tes ici :</h2>
+                <ol class="breadcrumb">
+                    <li><a href="/Explore.cgi/Accueil">accueil</a></li>
+                    
+       <li><a href="avisrapports">avis et rapports</a></li><li class="active">Recommandations pour la gestion du risque amiante dans l’habitat et l’environnement</li>
+
+                </ol>
+
+            </div>
+        </div>
+        <div class="row principal">
+            
+
+
+
+
+<div class="col-sm-12">
+        <h2>
+            Recommandations pour la gestion du risque amiante dans l’habitat et l’environnement
+        </h2>
+        <div id="doc-donnees">
+                    <p>
+                        <a href="/Explore.cgi/Telecharger?NomFichier=hcspr20140523_recogestrisqamiantehabitenvir.pdf" target="_blank">Rapport&nbsp;<img src="/images/pdf3.gif" width="23" height="9" border="0">&nbsp;(4541&nbsp;ko)</a>
+                    </p>
+                    <p>
+                        <a href="/Explore.cgi/Telecharger?NomFichier=hcsps20140523_recogestrisqamiantehabitenvir.pdf" target="_blank">Synthèse&nbsp;<img src="/images/pdf3.gif" width="23" height="9" border="0">&nbsp;(2996&nbsp;ko)</a>
+                    </p>
+
+            <p>
+                Date du document : 23/05/2014
+            </p>
+            <p>
+                Date de mise en ligne : 14/08/2014
+            </p>
+                <p><a href="/Explore.cgi/Groupe?clef=83">Groupe de travail</a> </p>
+            <h4>
+                Autres documents portant sur
+            </h4>
+                <span class="motclef motclef2">
+                    <a href="avisrapports?Annee=&Langue=&Type=&MC1=155&MC2=&filtrer=filtrer"
+                       target="_blank">
+                        Environnement
+                    </a>
+                </span>
+                <span class="motclef motclef3">
+                    <a href="avisrapports?Annee=&Langue=&Type=&MC1=&MC2=31&filtrer=filtrer"
+                       target="_blank">
+                        Amiante
+                    </a>
+                </span>
+                <span class="motclef motclef3">
+                    <a href="avisrapports?Annee=&Langue=&Type=&MC1=&MC2=1368&filtrer=filtrer"
+                       target="_blank">
+                        Amiante environnemental
+                    </a>
+                </span>
+                <span class="motclef motclef3">
+                    <a href="avisrapports?Annee=&Langue=&Type=&MC1=&MC2=627&filtrer=filtrer"
+                       target="_blank">
+                        D&#233;samiantage
+                    </a>
+                </span>
+                <span class="motclef motclef3">
+                    <a href="avisrapports?Annee=&Langue=&Type=&MC1=&MC2=1369&filtrer=filtrer"
+                       target="_blank">
+                        Empoussi&#232;rement
+                    </a>
+                </span>
+                <span class="motclef motclef3">
+                    <a href="avisrapports?Annee=&Langue=&Type=&MC1=&MC2=1367&filtrer=filtrer"
+                       target="_blank">
+                        Rep&#233;rage amiante
+                    </a>
+                </span>
+                <span class="motclef motclef3">
+                    <a href="avisrapports?Annee=&Langue=&Type=&MC1=&MC2=835&filtrer=filtrer"
+                       target="_blank">
+                        Seuil
+                    </a>
+                </span>
+                <span class="motclef motclef3">
+                    <a href="avisrapports?Annee=&Langue=&Type=&MC1=&MC2=1357&filtrer=filtrer"
+                       target="_blank">
+                        Valeur de gestion
+                    </a>
+                </span>
+            
+
+        </div>
+            <div class="avistexte">
+                <p>En  France, les b&acirc;timents font l&rsquo;objet d&rsquo;une r&eacute;glementation relative au risque  d&rsquo;exposition &agrave; l&rsquo;amiante depuis 1996. Un seuil d&rsquo;empoussi&egrave;rement a &eacute;t&eacute; fix&eacute; &agrave; 5  fibres d&rsquo;amiante par litre d&rsquo;air, &agrave; partir duquel doivent &ecirc;tre entrepris des  travaux de d&eacute;samiantage ou de confinement des mat&eacute;riaux amiant&eacute;s.</p><p>
+  Cette  valeur correspond au niveau moyen qui &eacute;tait mesur&eacute; dans l&rsquo;air en milieu urbain  dans les ann&eacute;es 70. Le d&eacute;passement de cette valeur &agrave; l&rsquo;int&eacute;rieur des locaux  doit &ecirc;tre interpr&eacute;t&eacute; comme une pollution li&eacute;e &agrave; la d&eacute;gradation des mat&eacute;riaux et  produits contenant de l&rsquo;amiante, ou &agrave; une contamination provoqu&eacute;e par des  travaux qui sont susceptibles de g&eacute;n&eacute;rer un risque d&rsquo;exposition des occupants  du b&acirc;timent. </p><p>
+  Dans  ce rapport, le HCSP a analys&eacute; les proc&eacute;dures en place et la coh&eacute;rence entre les  r&egrave;glementations (codes de la sant&eacute;, du travail et de l&rsquo;environnement), les  normes et les pratiques concernant le rep&eacute;rage de l&rsquo;amiante, les mesures  d&rsquo;empoussi&egrave;rement et la gestion des expositions environnementale &agrave; l&rsquo;amiante  (d&rsquo;origine naturelle, industrielle ou li&eacute;es aux d&eacute;chets amiant&eacute;s).</p><p>
+  Le  HCSP d&eacute;plore une r&egrave;glementation trop complexe qui ne s&rsquo;appuie pas assez sur les  normes, un faible contr&ocirc;le des pratiques qui, dans de nombreux cas, ne sont pas  conformes &agrave; la r&egrave;glementation, et une connaissance insuffisante du risque li&eacute; &agrave;  la pr&eacute;sence d&rsquo;amiante dans les b&acirc;timents.</p><p>
+  Le  HCSP formule de nombreuses recommandations pour rendre coh&eacute;rentes les  diff&eacute;rentes r&egrave;glementations sur l&rsquo;amiante et r&eacute;duire l&rsquo;&eacute;cart entre ces  r&egrave;glementations et la pratique, appelant &agrave; leur mise en &oelig;uvre dans les plus  brefs d&eacute;lais pour am&eacute;liorer la gestion des risques li&eacute;s aux expositions &agrave; l&rsquo;amiante.  Cette politique de mise en conformit&eacute; est la priorit&eacute; pr&eacute;conis&eacute;e par le HCSP.</p><p>
+  Ces  conditions remplies, le HCSP propose pour le seuil de d&eacute;clenchement des travaux  une valeur de 2 f/L applicable au 1/1/2020.</p>
+<p>Le HCSP pr&eacute;conise une  &eacute;valuation de l&rsquo;&eacute;volution des pratiques &agrave; cette &eacute;ch&eacute;ance. En fonction des  r&eacute;sultats de cette &eacute;valuation, la possibilit&eacute; d&rsquo;un abaissement suppl&eacute;mentaire  du seuil pourrait &ecirc;tre consid&eacute;r&eacute;e.
+</p>
+            </div>
+            <div class="avistexte">
+                
+            </div>
+            <div>
+                            <p>Ce document est actualisé par&nbsp;:</p>
+                    <ul>
+        <li>
+            <a href="/Explore.cgi/AvisRapportsDomaine?clefr=1412" target="_blank">Actualisation des recommandations de 2014 concernant le seuil de d&#233;clenchement des travaux de retrait ou d’encapsulage de l’amiante dans les b&#226;timents </a>
+                 du&nbsp;11&nbsp;janvier&nbsp;2024        </li>
+        <li>
+            <a href="/Explore.cgi/AvisRapportsDomaine?clefr=1416" target="_blank">Actualisation des recommandations du HCSP de 2014 sur la gestion des mat&#233;riaux et produits contenant de l’amiante dans les b&#226;timents</a>
+                 du&nbsp;7&nbsp;novembre&nbsp;2024        </li>
+        <li>
+            <a href="/Explore.cgi/AvisRapportsDomaine?clefr=1417" target="_blank">Actualisation des recommandations du HCSP de 2014 sur la gestion des mat&#233;riaux et produits contenant de l’amiante dans les b&#226;timents</a>
+                 du&nbsp;7&nbsp;novembre&nbsp;2024        </li>
+                    </ul>
+            </div>
+</div>
+
+
+        </div>
+        <div id="liens-directs" class="row">
+            <div class="col-sm-4 col-sm-push-4">
+                <h5>HCSP</h5>
+                <ul>
+                    <li><a href="/Explore.cgi/hcsp">Pr&eacute;sentation</a></li>
+                    <li><a href="/Explore.cgi/groupe?clef=44">Coll&egrave;ge</a></li>
+                    <li><a href="/Explore.cgi/groupe?clef=8424">CS Maladies infectieuses et maladies &eacute;mergentes</a></li>
+                    <li><a href="/Explore.cgi/groupe?clef=8425">CS D&eacute;terminants de sant&eacute; et maladies non-transmissibles</a></li>
+                    <li><a href="/Explore.cgi/groupe?clef=8426">CS Risques li&eacute;s &agrave; l&rsquo;environnement</a></li>
+                    <li><a href="/Explore.cgi/groupe?clef=8427">CS Syst&egrave;me de sant&eacute; et&nbsp;s&eacute;curit&eacute; des&nbsp;patients</a></li>
+                    <li><a href="/Explore.cgi/groupe?clef=8428">CS Sant&eacute; des enfants et des jeunes / approche populationnelle</a></li>
+                    <li>
+                        Groupes de travail permanents
+                        <ul>
+                            <li><a href="/Explore.cgi/groupe?clef=8459">In&eacute;galit&eacute;s sociales et territoriales de sant&eacute;</a></li>
+                            <li><a href="/Explore.cgi/groupe?clef=8460">Strat&eacute;gie nationale de sant&eacute; et indicateurs</a></li>
+                            <li><a href="/Explore.cgi/groupe?clef=8461">S&eacute;curit&eacute; des &eacute;l&eacute;ments et produits du corps humain (Secproch)</a></li>
+                            <li><a href="/Explore.cgi/groupe?clef=8462">Grippe, coronavirus, viroses respiratoires &eacute;mergentes</a></li>
+                            <li><a href="/Explore.cgi/groupe?clef=8463">D&eacute;chets d&rsquo;activit&eacute;s de soins &agrave; risques infectieux (Dasri)</a></li>
+                            <li><a href="/Explore.cgi/groupe?clef=8464">Pr&eacute;vention et sant&eacute; dans toutes les politiques</a></li>
+                            <li><a href="/Explore.cgi/groupe?clef=8465">&Eacute;valuation, strat&eacute;gie, prospective en sant&eacute; publique</a></li>
+                            <li><a href="/Explore.cgi/groupe?clef=8540">S&eacute;curit&eacute; Sanitaire Eau (Sec Eau)</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-2 col-sm-pull-4">
+
+                <h5>Avis et rapports</h5>
+                <ul>
+                    <li><a href="/Explore.cgi/PointSur?clef=4">Le point sur la canicule</a></li>
+                    <li>
+                        <a href="/Explore.cgi/PointSur?clef=2">Le point sur la Covid-19</a>
+
+                    </li>
+                    <li>
+                        <a href="/Domiscore.cgi/Debut">Grille Domiscore</a>
+                    </li>
+                    <li>
+                        <a href="/Explore.cgi/avisrapports?Langue=en&amp;filtrer=filtrer">
+                            English
+                            synthesis
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-2 col-sm-pull-4">
+                <h5>Revue <em>adsp</em></h5>
+                <ul>
+                    <li><a href="/Explore.cgi/adspdernier">Dernier num&eacute;ro paru</a></li>
+                    <li><a href="/Explore.cgi/adsps">Tous les num&eacute;ros</a></li>
+                    <li>
+                        <a href="/Explore.cgi/adspp">Politique &eacute;ditoriale</a>
+                    </li>
+                    <li><a href="/Explore.cgi/groupe?clef=19">Comit&eacute; de r&eacute;daction</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <h5>Archives</h5>
+                <ul>
+                    <li><a href="/Explore.cgi/santeEnFrance">La sant&eacute; en France</a></li>
+                    <li>
+                        <a href="/Explore.cgi/avisrapports1">
+                            Haut Comit&eacute; de la
+                            sant&eacute; publique (1992-2004)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Explore.cgi/avisrapports2">
+                            Conseil sup&eacute;rieur
+                            d'hygi&egrave;ne publique de France (1902-2004)
+                        </a>
+                    </li>
+                    <li><a href="/Explore.cgi/hcspInformations">Lettre de diffusion <span class="text-info">HCSP&nbsp;Informations</span></a></li>
+                    <li><a href="/Explore.cgi/infoarchive">Informations</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <h5>Le site hcsp.fr</h5>
+                <ul>
+                    <li> 
+        [ <a href="/Compte.cgi/Connecter">Se connecter</a> ]
+ </li>
+                    <li><a href="/Explore.cgi/contacter">Contacter le HCSP</a></li>
+                    <li> </li>
+                    <li><a href="/Explore.cgi/mentionslegales">Mentions l&eacute;gales</a></li>
+                </ul>
+
+            </div>
+        </div>
+        <div id="copyright" class="row">
+            <div class="text-center">
+                &copy; Copyright Haut Conseil de la sant&eacute; publique 2026
+            </div>
+        </div>
+    </div>
+    <div id="patientez">
+        <div id="patientez-texte">Veuillez patienter quelques instants...</div>
+    </div>
+    <div class="modal fade" id="abonnement">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">S'abonner &agrave; la lettre d&rsquo;information du HCSP</h4>
+                </div>
+                <div class="modal-body">
+                    <iframe width="540" height="400" src="https://31b9ab30.sibforms.com/serve/MUIFAIGZIGft8zhwsFPbCU09ZVS-nwrPVrpG9WPBobNhWzXB2Vi8amF8BFEKkWEMQYeeg63pp7vJpTMT6ZOm7naMbWmmgNiLt1j2ud-ZlS1nW-M_gC4DCAillDnoYe5e987EKW4_bTo7bi3AAbRI6ly5IP1i5nMpJzNjbkv3x6BQR8rhGG-tjSai6LnLCul-owLg5P7G277IQCEz" frameborder="0" scrolling="auto" allowfullscreen=allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="#" class="retour"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span></a>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#onglet-lettre").click(function () {
+                $("#panneau").stop(true, true).toggle();
+                $("#onglet-lettre").toggleClass("affichee");
+            });
+            $(".envoyer").click(function () {
+                $("#patientez").show();
+                $("body").addClass("loading");
+            });
+
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 100) {
+                    $(".retour").fadeIn();
+                }
+                else {
+                    $(".retour").fadeOut();
+                }
+            });
+            $(".retour").click(function () {
+                $("html, body").animate({ scrollTop: 0 }, 800);
+                return false;
+            });
+        });
+    </script>
+</body>
+</html>

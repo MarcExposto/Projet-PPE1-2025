@@ -1,0 +1,236 @@
+
+   lire l'article
+   Cet article date de plus de cinq ans.
+
+Coronavirus : le confinement a-t-il vraiment été efficace contre l'épidémie
+de Covid-19 ?
+
+   Faute d'une politique massive de test et de traçage des cas dès le
+   début de l'épidémie, le confinement a été nécessaire. Cette mesure
+   radicale a permis de reprendre le contrôle de la crise sanitaire.
+   (BUTTON) lire plus tard
+
+   Pour sauvegarder cet article, connectez-vous ou créez un compte
+--
+   Fallait-il vraiment confiner la France entière pour faire face à
+   l'épidémie de coronavirus ? Cette mesure a-t-elle réellement freiné la
+   propagation du Covid-19, évitant des milliers de morts supplémentaires
+   ? N'y avait-il pas de meilleures solutions ? Plus d'un mois après sa
+   levée, le confinement est la cible d'un procès en inefficacité. A
+   l'Assemblée nationale aussi, la commission d'enquête sur la gestion de
+   la crise s'interroge. Mais ces critiques formulées notamment sur les
+   réseaux sociaux disent-elles vrai ou "fake" ?
+
+"Une mesure de dernier ressort"
+
+   "Lorsque vous ouvrez les manuels de santé publique, la plupart
+   expliquent que le confinement généralisé à l'ensemble de la population
+   est toujours une solution que l'on veut éviter au cours d'une
+   pandémie, constate Patrick Pintus, enseignant-chercheur en économie à
+   l'université Aix-Marseille, qui travaille sur l'épidémie de Covid-19 au
+   sein d'une équipe pluridisciplinaire. Il y a d'autres solutions plus
+   efficaces pour limiter les effets d'une pandémie."
+
+   A la fin février, la Corée du Sud était le deuxième pays le plus touché
+   par l'épidémie, après la Chine. Mais Séoul est parvenu à maîtriser la
+   situation, sans avoir à recourir au confinement. Une vaste campagne de
+   tests a permis de détecter et d'isoler les personnes infectées, et le
+   traçage systématique de leurs contacts a limité la propagation du
+   virus. Début mai, le pays ne comptait que 279 morts et un peu moins de
+   12 200 cas de contamination. "C'était vraiment la politique qui devait
+   être suivie, à condition d'être capable de le faire", observe Patrick
+   Pintus. Un avis partagé par Pascal Crépey, enseignant-chercheur à
+   l'Ecole des hautes études en santé publique à Rennes.
+
+     Cela fait un mois qu'on n'est plus en confinement et l'épidémie
+     reste sous contrôle. C'est la meilleure preuve que le confinement
+     n'est pas la seule solution.
+
+   Pascal Crépey, épidémiologiste
+
+--
+   contenir le tsunami par des mesures de distanciation sociale
+   personnalisées, de testing, de tracing et de quarantaine, souligne
+   Antoine Flahault. Mais lorsqu'en avril, l'épidémie a ressurgi de
+   l'intérieur, de cités-dortoirs de travailleurs immigrés précaires,
+   Singapour a introduit des mesures de confinement, sans hésiter, comme
+   une sorte de réponse graduée." "Le confinement, ce n'est pas la
+   panacée. Cela doit rester une mesure de dernier ressort", estime Pascal
+   Crépey.
+
+"Il n'y avait plus d'autre solution" en France
+--
+   capacités de réanimation étant dépassées", poursuit
+   l'épidémiologiste. "Il aurait même fallu confiner plus tôt",
+   estime-t-il "avec le recul". Pascal Crépey reconnaît toutefois que "ce
+   genre de décision est difficile à prendre". "Au moment où le
+   confinement a été décrété, les signaux étaient encore relativement
+   faibles. Il y a une quinzaine de jours d'inertie entre le moment où les
+   infections ont lieu et celui où on voit arriver les malades à
+   l'hôpital." Or, note Antoine Flahault, "à partir d'un certain seuil, il
+   n'est plus possible de casser les chaînes de transmission à la racine
+   de façon systématique et chirurgicale".
+
+Une efficacité mesurée par des modèles mathématiques
+
+   Le confinement repose sur une règle basique de statistiques et de
+   probabilités. "En réduisant le nombre de contacts par individu, on
+   réduit mécaniquement le risque de transmission du virus, donc on a un
+   impact sur l'évolution de l'épidémie", résume Pascal Crépey. A l'aide
+   de modèles mathématiques, de nombreuses équipes de
+   chercheurs ont tenté de chiffrer l'effet des mesures de distanciation
+   (interdiction des rassemblements, limitation des déplacements,
+   fermeture des frontières et des écoles, confinement de la population,
+   isolement des malades et des cas contacts, etc).
+
+   A partir du nombre de morts recensées par le Centre européen de
+   prévention et contrôle des maladies et du taux de reproduction du virus
+   (le nombre de nouvelles personnes contaminées par chaque personne
+   infectée, aussi appelé R0) avant le confinement, l'Imperial College de
+   Londres a ainsi calculé le nombre de décès qui auraient pu survenir si
+   aucune disposition n'avait été prise face à l'épidémie dans onze pays
+   européens (l'Autriche, la Belgique, le Danemark, la France,
+   l'Allemagne, l'Italie, la Norvège, l'Espagne, la Suède, la Suisse et le
+--
+   une baisse de 82% en moyenne du taux de reproduction du virus,
+   permettant de le ramener en dessous de 1, le seuil en-deçà duquel le
+   nombre de nouveaux cas diminue.
+
+   L'Arc de triomphe à Paris durant le confinement, le 26 avril 2020.
+   (CARINE SCHMITT / HANS LUCAS / AFP) L'Arc de triomphe à Paris durant le
+   confinement, le 26 avril 2020. (CARINE SCHMITT / HANS LUCAS / AFP)
+   L'Arc de triomphe à Paris durant le confinement, le 26 avril 2020.
+   (CARINE SCHMITT / HANS LUCAS / AFP)
+
+   Sans mesures prises par les pouvoirs publics pour enrayer la
+   contagion, la France aurait compté 1,4 million de cas confirmés en plus
+--
+   débat.
+
+   Les travaux dirigés par une équipe de l'Institut Pasteur, publiés dans
+   la revue Science* mi-mai, concluent eux aussi à un "impact massif" du
+   confinement sur l'évolution de l'épidémie en France. Le R0 de
+   l'épidémie a été réduit de 77%, chutant de 2,90 à 0,67. Entre fin mars
+   et début mai, les hospitalisations sont passées de 3 600 à 357 par
+   jour, les admissions quotidiennes en soins intensifs sont tombées de
+   700 à 66. Quant aux nouvelles infections, elles ont considérablement
+   diminué, dégringolant de 150 000 à 390 000 chaque jour avant le
+   confinement à 2 600 à 6 300 après, selon les projections.
+
+   Le résultat de cette modélisation sur le taux de reproduction
+   est proche des projections*, prépubliées mi-avril, de l'EPIcx lab*,
+   un groupe de recherche dirigé par Vittoria Colizza, de l'Inserm. Les
+   équipes du CNRS, de l'IRD et de l'université de Montpellier, dirigées
+   par Samuel Alizon, sont parvenues à un constat similaire.
+
+     Le confinement a permis de ramener la situation sanitaire à quelque
+     chose de gérable en termes de circulation du virus, mais il a aussi
+     permis de gagner du temps pour augmenter les capacités de test et
+     permettre aux Français de s'équiper en masques.
+
+   Pascal Crépey, épidémiologiste
+
+   à franceinfo
+
+   "Les mesures de confinement ont en moyenne été très efficaces pour
+   aplanir la 'courbe pandémique' et réduire le nombre de
+   décès", confirment des économistes du Fonds monétaire international
+   dans une revue sur le Covid-19*, éditée mi-mai par le Centre pour la
+   recherche en politique économique de Londres.
+
+Les contre-exemples suédois, américain et brésilien
+
+   Pour les experts interrogés par franceinfo, la meilleure preuve de
+   l'efficacité du confinement est apportée par les contre-exemples. La
+   Suède est l'un des rares pays en Europe à ne pas l'avoir imposé. Les
+   commerces comme les écoles sont restés ouverts. Le royaume
+   nordique affiche un taux de contamination et de mortalité par habitant
+   plus élevé que ses voisins, avec plus de 53 000 cas détectés, plus de
+--
+   d'une douzaine d'Etats enregistrent en ce moment leur plus grand nombre
+   de nouveaux cas depuis le début de l'épidémie.
+
+   Au Brésil, le président Jair Bolsonaro compare le virus à une "petite
+   grippe", rejette les mesures de confinement mises en oeuvre par les
+   autorités dans certains Etats et certaines villes, et multiplie les
+   bains de foule. Résultat, les Etats-Unis comptent plus de 2 137 000 cas
+   et plus de 116 900 morts, soit plus de 649 cas et 35 morts pour 100 000
+   habitants. Au Brésil, on dénombre plus de 923 000 cas et 45 200 morts,
+   soit plus de 437 cas et 21 morts pour 100 000 habitants.
+
+     Le confinement a montré son efficacité partout où il a été mis en
+     place.
+
+   Antoine Flahault, épidémiologiste
+
+   à franceinfo
+
+   Si le confinement a bel et bien permis d'aplatir la courbe de
+   l'épidémie, "plusieurs études montrent cependant qu'il n'y a pas de
+   grande valeur ajoutée au confinement strict, autoritaire, à la
+   chinoise, appliqué par les Français, les Espagnols et les Italiens, par
+   rapport à un semi-confinement plus libéral, appliqué en Suisse, en
+   Allemagne ou en Autriche par exemple", relève Antoine Flahault.
+
+   L'explication serait cette fois d'ordre culturel. "Il y a eu en Suisse,
+   en Allemagne et en Autriche un autoconfinement, moins centralisé, plus
+   discipliné, qui est venu des citoyens eux-mêmes", explique Patrick
+   Pintus, pour qui "la réaction de la population est aussi importante
+   pour lutter contre la progression d'une épidémie que la mesure de santé
+   publique adoptée par les autorités".
+
+Le confinement seul ne suffit pas
+
+   Si le confinement est efficace, il l'est encore plus lorsqu'il est
+   associé à une politique de testing et de tracing poussée. "Les
+   Allemands et les Suisses ont fait du testing et du tracing plus
+   précocement et plus intensément que les Français", note Antoine
+   Flahault. Et leurs bilans épidémiques sont bien meilleurs. La Suisse
+--
+   pour 100 000 habitants. La France, elle, déplore plus de 157 700 cas et
+   plus de 29 500 morts, soit plus de 235 cas et 44 morts pour 100 000
+   habitants.
+
+   "Les modélisations disent qu'une politique de confinement généralisée
+   marche moins bien qu'une politique de test, de contact tracing et
+   d'isolement", remarque Patrick Pintus. Une étude pilotée par l'Ecole
+   d'hygiène et de médecine tropicale de Londres, parue dans le Lancet*
+   mi-juin, le confirme. D'après ces travaux, les stratégies de testing et
+   de tracing réduisent plus fortement le taux de reproduction du
+   virus que les tests de masse ou l'autoconfinement à eux seuls. Le
+   dépistage massif de la population réduirait ainsi la transmission du
+   virus de 2% à 5%. Avec l'autoconfinement des cas symptomatiques et la
+   quarantaine, on passerait à une fourchette entre 29% et 37%, et, en y
+   ajoutant le traçage des cas contacts, on atteindrait un effet allant de
+   47% à 64%. Reste une inconnue, souligne Antoine Flahault.
+
+--
+   masque pourrait avoir "un impact significatif" sur le cours de
+   l'épidémie s'il était porté massivement. D'après les différents
+   scénarios testés, le port du masque par au moins 80% de la
+   population du Royaume-Uni, associé à la distanciation physique, se
+   solderait par un bilan de 60 000 morts sur 500 jours. Un confinement,
+   sans port du masque, qui durerait sur toute la période entraînerait
+   180 000 décès ; et le port du masque par seulement 50% de la
+   population, associé à la distanciation physique, conduirait à 240 000
+   morts et ne permettrait pas de contenir l'épidémie (p. 6 du PDF). Des
+--
+
+   "Si on arrive à combiner un port du masque très respecté dans tous les
+   lieux clos - les transports en commun, en particulier - et une
+   stratégie de testing et de tracing de masse, espère Antoine
+   Flahault, on parviendra peut-être à éviter un second confinement."
+
+   * lien en anglais
+     * accueil
+     * (BUTTON) lire plus tard
+--
+     *
+
+   les mots-clés associés à cet article
+     * Covid-19
+     * Confinement
+     * Vrai ou faux
+     * Maladie
+     * Santé
+

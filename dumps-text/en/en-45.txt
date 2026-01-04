@@ -55,7 +55,7 @@ Mitigation Potential for South Asia
           Volume 22, Issue 4, April 2022
           17 March 2022
 
-   Reach: 9824
+   Reach: 9826
    Empty
      *  Print
      * Email
@@ -1375,53 +1375,60 @@ REFERENCES
 
 Other readers also read ...
 
-   Measurement of Black Carbon in Delhi: Evidences of Regional Transport,
-   Meteorology and Local Sources for Pollution Episodes
-   Measurement of Black Carbon in Delhi: Evidences of Regional Transport,
-   Meteorology and Local Sources for Pollution Episodes
+   Particle-bound PAHs and Chemical Composition, Sources and Health Risk
+   of PM2.5 in a Highly Industrialized Area
+   Particle-bound PAHs and Chemical Composition, Sources and Health Risk
+   of PM2.5 in a Highly Industrialized Area
 
    Read more: ...
-   Calibration of Low-cost Gas Sensors for Air Quality Monitoring
+   Potential Source Density Function: A New Tool for Identifying Air
+   Pollution Sources
+   Potential Source Density Function: A New Tool for Identifying Air
+   Pollution Sources
 
    Read more: ...
-   Air Quality Assessment by Moss Biomonitoring and Trace Metals
-   Atmospheric Deposition
-   Air Quality Assessment by Moss Biomonitoring and Trace Metals
-   Atmospheric Deposition
+   Analysis of Air Quality Changes and Influencing Factors in Changchun
+   during the COVID-19 Pandemic in 2020
+   Analysis of Air Quality Changes and Influencing Factors in Changchun
+   during the COVID-19 Pandemic in 2020
 
    Read more: ...
-   Impact of Biomass Burning on Air Quality in Temuco City, Chile
-   Impact of Biomass Burning on Air Quality in Temuco City, Chile
+   Linking PM Pollution to the Respiratory Health of Children: A
+   Cross-sectional Study from Ahmedabad City in Western India
+   Linking PM Pollution to the Respiratory Health of Children: A
+   Cross-sectional Study from Ahmedabad City in Western India
 
    Read more: ...
-   Assessing the Relationship between COVID-19, Air Quality, and
-   Meteorological Variables: A Case Study of Dhaka City in Bangladesh
-   Assessing the Relationship between COVID-19, Air Quality, and
-   Meteorological Variables: A Case Study of Dhaka City in Bangladesh
+   Impact of Wheat Harvest on Levels and Sources of PM2.5-associated PAHs
+   in an Urban Area Located at the Center of Beijing-Tianjin-Hebei Region
+   Impact of Wheat Harvest on Levels and Sources of PM2.5-associated PAHs
+   in an Urban Area Located at the Center of Beijing-Tianjin-Hebei Region
 
    Read more: ...
-   Chemical Fingerprints for PM2.5 in the Ambient Air near a Raw Material
-   Storage Site for Iron Ore, Coal, Limestone, and Sinter
-   Chemical Fingerprints for PM2.5 in the Ambient Air near a Raw Material
-   Storage Site for Iron Ore, Coal, Limestone, and Sinter
+   Soot Particle Agglomeration Inlet (SPAI) for Enabling Online Chemical
+   Composition Measurement of Nanoparticles with the Aerosol Mass
+   Spectrometer
+   Soot Particle Agglomeration Inlet (SPAI) for Enabling Online Chemical
+   Composition Measurement of Nanoparticles with the Aerosol Mass
+   Spectrometer
 
    Read more: ...
-   Survival of Expiratory Aerosols in a Room: Study Using a Bi-compartment
-   and Bi-component Indoor Air Model
-   Survival of Expiratory Aerosols in a Room: Study Using a Bi-compartment
-   and Bi-component Indoor Air Model
+   Measurement of PM2.5 and PM10 Concentrations in Nakhodka City with a
+   Network of Automatic Monitoring Stations
+   Measurement of PM2.5 and PM10 Concentrations in Nakhodka City with a
+   Network of Automatic Monitoring Stations
 
    Read more: ...
-   Characteristics of Chemical Composition and Particle Size Distribution
-   from Real Coal-fired Circulating Fluidised Bed (CFB) Boiler
-   Characteristics of Chemical Composition and Particle Size Distribution
-   from Real Coal-fired Circulating Fluidised Bed (CFB) Boiler
+   Long-term Measurements of Carbonaceous Aerosol at Cape Hedo, Okinawa,
+   Japan: Effects of Changes in Emissions in East Asia
+   Long-term Measurements of Carbonaceous Aerosol at Cape Hedo, Okinawa,
+   Japan: Effects of Changes in Emissions in East Asia
 
    Read more: ...
-   Impact of Climate Change and Air Pollution Forecasting Using Machine
-   Learning Techniques in Bishkek
-   Impact of Climate Change and Air Pollution Forecasting Using Machine
-   Learning Techniques in Bishkek
+   Temporal Change in Atmospheric Radiocesium during the First Seven Years
+   after the Fukushima Dai-ich Nuclear Power Plant Accident
+   Temporal Change in Atmospheric Radiocesium during the First Seven Years
+   after the Fukushima Dai-ich Nuclear Power Plant Accident
 
    Read more: ...
 
@@ -1437,7 +1444,7 @@ Other readers also read ...
    Email Address *
    ____________________
    (BUTTON) Subscribe
-   Message ____________________
+   First Name ____________________
 
    Aerosol and Air Quality Research is an Open Access Journal
    8.3
@@ -1464,19 +1471,20 @@ Other readers also read ...
      * Most Read
      * In Press
 
-     * Numerical Simulation of Condensation of Natural Fog Aerosol under
-       Acoustic Wave Action (Volume 21, Issue 4, April 2021)
-     * Impact of 21 June 2020 Annular Solar Eclipse on Meteorological
-       Parameters, O3 and CO at a High Mountain Site in Taiwan (Volume 22,
-       Issue 12, December 2022)
-     * Predicting Exposure to Dust Particles Using Spirometric Index and
-       Perception Studies among Farmers in Selected Farm Settlements in
-       Ogun State, Nigeria (Volume 21, Issue 7, July 2021)
-     * Prediction of High-ozone Events Using GAM, SMOTE, and Tail
-       Dependence Approaches in Texas (2005-2019) (Volume 21, Issue 10,
+     * Design and Optimization of Cross-corrugated Triangular Ducts
+       Towards Reducing CO2 Emission and Improving Energy Efficiency
+       (Volume 21, Issue 12, December 2021)
+     * Changes in Chemical Composition, Sources, and Health Risk of PM2.5
+       with Sand Storm at a Small City in North China ( Volume 22, Issue
+       6, June 2022)
+     * Assessment of PM2.5 Patterns in Malaysia Using the Clustering
+       Method (Volume 22, Issue 1, January 2022)
+     * A Semi-portable Enclosure to Measure Emission Rates from Small
+       Fugitive Sources: Leaf Blower Dust Example (Volume 21, Issue 10,
        October 2021)
-     * Health Benefits Due to Reduction in Respirable Particulates during
-       COVID-19 Lockdown in India (Volume 21, Issue 5, May 2021)
+     * Preschool Children's Inhalation Rates Estimated from
+       Accelerometers--A Tool to Estimate Children's Exposure to Air
+       Pollution (Volume 22, Issue 8, August 2022)
 
 You may also like
 
@@ -1495,18 +1503,18 @@ You may also like
 
 Research Categories
 
-     * Others
-     * Aerosol and Atmospheric Chemistry
-     * Bioaerosols
-     * Nanoparticles
-     * Control Techniques and Strategy
-     * Diesel Engine Emission
-     * Air Pollution Modeling
-     * Physical and Chemical Characteristics of Aerosols
      * Aerosol Physics and Instrumentation
-     * Air Toxics
-     * Urban Air Quality
      * Optical/Radiative Properties and Remote Sensing
+     * Control Techniques and Strategy
+     * Bioaerosols
+     * Physical and Chemical Characteristics of Aerosols
+     * Air Pollution Modeling
+     * Indoor Air Quality
+     * CO2 Capture, Storage and Emission
+     * Diesel Engine Emission
+     * Air Pollution and Health Effects
+     * Low-Cost Sensors
+     * Nanoparticles
 
 Research Regions
 

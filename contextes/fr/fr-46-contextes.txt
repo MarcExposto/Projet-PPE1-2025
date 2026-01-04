@@ -1,0 +1,34 @@
+    1. Accueil
+    2. Mécanismes de transfert aéraulique au travers d'ou...
+
+Mécanismes de transfert aéraulique au travers d'ouvertures : application à
+l'efficacité du confinement dynamique d'enceintes de chantier
+
+     * (BUTTON) Imprimer
+     * (BUTTON) Partager
+       Partager la page
+--
+
+   &#8203;Salima Kaissoun a soutenu sa thèse le 14 juin 2018 à Saclay.
+   Type de document > *Mémoire/HDR/Thèse
+
+   Le confinement dynamique est une technique mise en oeuvre dans les
+   installations nucléaires. Elle consiste à imposer un sens d'écoulement
+   d'air préférentiel au travers d'une ouverture (nominale ou
+   intempestive) séparant deux zones physiques afin d'orienter la
+   contamination vers la zone la plus polluée et d'éviter tout transfert
+   vers l'extérieur de l'enceinte de confinement. Des critères aérauliques
+   tels qu'une vitesse débitante à l'ouverture ou une dépression imposée
+   sont actuellement utilisés par les exploitants, y compris dans les sas
+   de chantiers lors des opérations de maintenance et de démantèlement.
+
+--
+   Laboratoire IRSN impliqué
+   Migration content text
+
+   &#8203;Laboratoire d'études et de modélisation en aérodispersion et
+   confinement (LEMAC)
+   Migration content title
+   Contact
+   Migration content text
+

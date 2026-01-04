@@ -1,0 +1,47 @@
+
+   (BUTTON) Voir le fil d'Ariane
+    1. Accueil
+    2. Résultats de recherche
+    3. confinement dynamique
+
+Recherche
+
+Rechercher
+--
+   [Tous les domaines_______________]
+   (BUTTON) Rechercher
+   (BUTTON)
+
+confinement dynamique
+
+     * Commenter
+     * Imprimer
+     * Partager par courriel
+--
+   NUCLÉAIRE
+
+Définition
+
+   Confinement assuré par une circulation maîtrisée d'air ou de gaz.
+
+Note
+
+   1. Le confinement dynamique intervient en complément d'un confinement
+   statique.
+   2. La circulation de l'air ou du gaz se fait des zones non contaminées
+   aux zones les plus contaminées.
+
+Voir aussi
+
+     * barrière de confinement
+     * confinement
+     * confinement statique
+     * système de confinement
+
+Équivalent étranger
+
+   dynamic confinement (en), dynamic containment (en)
+   Télécharger au format RTF
+   (BUTTON) Haut de page
+
+Menu prefooter

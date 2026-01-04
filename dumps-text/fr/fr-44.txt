@@ -1,0 +1,113 @@
+     * Contenu
+     * Menu
+     * Pied de page
+
+   (BUTTON) Menu
+   (BUTTON) Fermer
+     * (BUTTON) L'enrichissement de la langue française
+          + Qui sommes-nous ?
+          + Le dispositif d'enrichissement de la langue française
+          + Les groupes d'experts (GE) ou collèges
+          + Les acteurs du dispositif
+          + Qu'est-ce que la terminologie ?
+          + Domaines
+          + Recommandations d'usage
+          + Toponymie
+          + Les termes recommandés, objets de recherche
+     * (BUTTON) S'informer
+          + Toutes nos publications
+          + Listes publiées
+          + Infolettres parues
+          + La terminologie en vidéo et en audio
+          + Abonnez-vous à la lettre d'information
+          + Abonnement aux derniers termes publiés
+          + Notre application
+     * (BUTTON) Actualités
+          + En français dans le texte
+          + Colloques, manifestations et parutions
+          + Clins d'oeil
+     * Autres ressources terminologiques
+     * Boîte à idées
+
+   (BUTTON) Voir le fil d'Ariane
+    1. Accueil
+    2. Résultats de recherche
+    3. confinement dynamique
+
+Recherche
+
+Rechercher
+
+   ____________________
+   [Tous les domaines_______________]
+   (BUTTON) Rechercher
+   (BUTTON)
+
+confinement dynamique
+
+     * Commenter
+     * Imprimer
+     * Partager par courriel
+
+   Journal officiel du 23/04/2016
+
+Domaine
+
+   NUCLÉAIRE
+
+Définition
+
+   Confinement assuré par une circulation maîtrisée d'air ou de gaz.
+
+Note
+
+   1. Le confinement dynamique intervient en complément d'un confinement
+   statique.
+   2. La circulation de l'air ou du gaz se fait des zones non contaminées
+   aux zones les plus contaminées.
+
+Voir aussi
+
+     * barrière de confinement
+     * confinement
+     * confinement statique
+     * système de confinement
+
+Équivalent étranger
+
+   dynamic confinement (en), dynamic containment (en)
+   Télécharger au format RTF
+   (BUTTON) Haut de page
+
+Menu prefooter
+
+Derniers termes publiés
+
+     * Je m'abonne
+
+Infolettre
+
+     * Je m'abonne
+     * Infolettres parues
+
+Données ouvertes
+
+     * Je télécharge les termes de FranceTerme au format XML
+
+Contact
+
+     * J'écris à FranceTerme
+
+   république
+   française
+     * Plan du site
+     * Mentions légales
+     * Qui sommes-nous ?
+     * Partagez votre expérience pour améliorer les services publics
+     * Accessibilité : partiellement conforme
+
+     * legifrance.gouv.fr
+     * gouvernement.fr
+
+   Sauf mention contraire, tous les contenus de ce site sont sous licence
+   etalab-2.0

@@ -1,0 +1,77 @@
+       quelques jours le développement de tests PCR ;
+     * une évolution par vagues successives dont le développement est
+       corrélé à :
+          + des mesures de distanciation, le port de masques, des
+            confinements, des couvre-feux,
+          + l'arrivée régulière de nouveaux variants,
+          + le développement très rapide de vaccins.
+
+   Ce premier chapitre historique sera suivi d'un second article centré
+--
+   mars, 949 cas sont confirmés, 45 malades sont en réanimation et 11
+   décès sont survenus. La semaine suivante, la hausse est foudroyante :
+   5 433 nouveaux cas, 240 patients en réanimation et 150 décès.
+
+   Le confinement le plus sévère qu'ait connu la France est instauré le 17
+   mars 2020. Un mois plus tard, 32 300 malades sont hospitalisés dont
+   plus de 7 000 en réanimation. Il faudra un mois pour que son effet
+   porte ses fruits, pour que le nombre d'hospitalisés, tant en médecine
+   qu'en réanimation, diminue. C'est seulement début juin que les chiffres
+--
+   février alors que 10 000 cas étaient répertoriés dans tout le pays,
+   puis plus de 80 000 la deuxième quinzaine de février. Ultérieurement,
+   la progression de l'épidémie est censée être contrôlée en Chine, mais
+   les autorités ne communiquent plus de chiffres crédibles. Les mesures
+   sévères de confinement sont maintenues et le seront jusqu'au 7 décembre
+   2022.
+
+   Reine de la polémique, la France s'émeut du retard de la décision du
+   confinement et de la très grande valse-hésitation, qui va se prolonger
+   plusieurs semaines, sur l'usage impératif et généralisé des masques :
+   « Il ne sert à rien de se déplacer avec un masque sanitaire, [...] les
+   masques de protection ne sont utiles que pour les personnes déjà
+   malades - ils servent à éviter la contamination » (Le Monde, 12 mars
+--
+
+   La gestion des masques ne sera vraiment réglée que trois mois plus
+   tard.
+
+Le déconfinement et la deuxième vague
+
+   Dans un premier temps, c'est le confinement surtout et les mesures de
+   distanciation, qui coïncident avec la régression de l'épidémie. Si elle
+   n'a duré en réalité que 6 semaines, elle a plutôt ressemblé à un
+   tsunami.
+
+   Ce n'est que le 11 mai 2020, après 55 jours de mise sous cloche du
+   pays, que des mesures de déconfinement prudentes, dans la crainte d'une
+   deuxième vague, sont prises [4].
+
+   En l'absence d'un rebond de l'épidémie, le retour progressif à la
+   normale se fait à partir du 15 juin. Pas pour longtemps, car dès le 15
+--
+   réanimation sont occupés par des malades de la Covid-19.
+
+   C'est la deuxième vague. Elle va durer 12 semaines à partir de
+   septembre 2020. Un couvre-feu instauré le 15 octobre, redevient vite un
+   vrai confinement qui va durer jusqu'au 15 décembre [4], date à laquelle
+   la deuxième vague est réputée en voie d'achèvement. Le confinement
+   national est levé, un couvre-feu est mis en place entre 20 h et 6 h, à
+   l'exception de la soirée du 24 décembre. Le soir du Nouvel An se fera
+   quant à lui sous couvre-feu.
+
+   Ce deuxième confinement n'a toutefois pas permis de faire suffisamment
+   chuter ni les contaminations, ni la pression sur le système
+   hospitalier. Le nombre de nouveaux cas ne s'abaisse qu'à 10 000/j début
+   décembre, avant de repartir à la hausse. Le nombre d'hospitalisations
+   ne descend pas en dessous de 25 000.
+--
+   données permettent des comparaisons dans le temps.
+
+   Le cas de la Chine est particulier car une partie importante des
+   données chiffrées est occultée. Au 29 novembre 2022 (avant la levée des
+   mesures de confinement), l'affichage est de 100 millions de cas
+   confirmés (seulement 7 % de la population), d'un peu moins de 120 000
+   décès, et de 3,5 milliards de doses de vaccins administrées. Depuis la
+   levée des restrictions début décembre 2022, il n'existe aucune
+   statistique globale sur la Chine : on croit savoir que le 18 janvier,
