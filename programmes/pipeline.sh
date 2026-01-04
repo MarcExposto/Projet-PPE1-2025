@@ -127,17 +127,9 @@ while read -r line; do
   CheminFichierConcordances="${CheminRacineProjet}/concordances/${Langue}/${Langue}-${id}-concordances.tsv"
   concordances "${CheminFichierTexte}" "${TailleFenetre}" "${MotCible}" >"${CheminFichierConcordances}"
 
-  printf "${id}\t
-    <a href=${Url}>${Url}</a>\t
-    ${Robots}\t
-    ${CodeHTTP}\t
-    ${Encodage}\t
-    <a href=${CheminFichierAspiration}>Lien page brute</a>\t
-    <a href=${CheminFichierTexte}>Lien dump</a>\t
-    ${NbMots}\t
-    ${NbOccurrences}\t
-    <a href=${CheminFichierConcordances}>Lien Concordancier</a>\n"
+  printf "${id}\t<a href=${Url}>${Url}</a>\t${Robots}\t${CodeHTTP}\t${Encodage}\t<a href=${CheminFichierAspiration}>Lien page brute</a>\t<a href=${CheminFichierTexte}>Lien dump</a>\t${NbMots}\t${NbOccurrences}\t<a href=${CheminFichierConcordances}>Lien Concordancier</a>\n"
 
+  echo "${Langue}: ${id} terminé" >&2
   ((id++))
 done <"${FichierUrls}"
 
