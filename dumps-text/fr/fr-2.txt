@@ -1,0 +1,1402 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d'accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Usage du mot
+     * 2 Objectif
+     * 3 Mesures
+     * 4 Effets
+       (BUTTON) Afficher/masquer la sous-section Effets
+          + 4.1 Sur le plan de la santé
+          + 4.2 Sur le plan social
+          + 4.3 Sur le plan scolaire
+               o 4.3.1 Un environnement défavorable
+                    # 4.3.1.1 Une disposition à l'enseignement virtuel
+                      différente d'une école à l'autre
+                    # 4.3.1.2 Une disposition au matériel numérique
+                      différente d'un établissement à un autre
+               o 4.3.2 Une compétence faible dans le maniement des
+                 ordinateurs et outils numériques
+     * 5 Pandémie de Covid-19
+       (BUTTON) Afficher/masquer la sous-section Pandémie de Covid-19
+          + 5.1 Canada
+               o 5.1.1 Québec
+          + 5.2 Espagne
+          + 5.3 France
+          + 5.4 Italie
+          + 5.5 Royaume-Uni
+     * 6 Dans la fiction
+       (BUTTON) Afficher/masquer la sous-section Dans la fiction
+          + 6.1 Littérature
+          + 6.2 Films et téléfilms
+     * 7 Notes et références
+     * 8 Voir aussi
+       (BUTTON) Afficher/masquer la sous-section Voir aussi
+          + 8.1 Bibliographie
+          + 8.2 Articles connexes
+
+   [ ] Basculer la table des matières
+
+Confinement (mesure sanitaire)
+
+   [ ] 42 langues
+     * Afrikaans
+     * a+l+e+r+b+y+tm
+     * ¬¾²¾
+     * Brezhoneg
+     * Cestina
+     * Cymraeg
+     * Dagbanli
+     * Deutsch
+     * Ellynika'
+     * English
+     * Esperanto
+     * f+a+r+s+
+     * Nordfriisk
+     * Gaeilge
+     * E+B+R+J+T+
+     * ¹¿¨¦
+     * Hrvatski
+     * Interlingua
+     * Bahasa Indonesia
+     * Italiano
+     * ¥¬
+     * ­´
+     * Malagasy
+     * ®²¯¾³
+     * ®°¾
+     * Bahasa Melayu
+     * ¨ª¾²
+     * Nederlands
+     * Papiamentu
+     * p+n+g+a+b+
+     * Português
+     * Slovencina
+     * Shqip
+     * Srpski / srpski
+     * Svenska
+     * Kiswahili
+     * ¤®¿´
+     * Türkçe
+     * Ukrayins'ka
+     * a+r+d+w+
+     * ­
+     * µ
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l'historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l'historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer/exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d'autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d'aide sur l'homonymie
+
+   Cet article concerne le confinement des populations. Pour le
+   confinement dans les laboratoires biologiques, voir Confinement
+   (biologie). Pour les autres significations, voir Confinement.
+   [250px-Coronavirus_Almer%C3%ADa.jpg] Rues désertes à Almería, pendant
+   le confinement de 2020 en Espagne.
+
+   Le confinement est une stratégie de réduction des risques sanitaires
+   qui oblige, sous peine de sanctions économiques ou pénales, une
+   population à rester dans son logement ou dans un lieu spécifique. Le
+   confinement sanitaire est parfois utilisé en cas d'épidémie de maladie
+   infectieuse (notamment les maladies infectieuses émergentes) pour
+   limiter les contacts entre personnes et donc la propagation d'une
+   contagion.
+
+   Lors de la pandémie de Covid-19, le terme est massivement employé pour
+   désigner l'ensemble des mesures d'hygiène et de distanciation physique,
+   dites « barrières », présentées comme des mesures distinctes du concept
+   de confinement, définies au niveau international, national et local
+   dans les différents territoires concernés par la crise sanitaire.
+
+   À la fin de la période du confinement s'ouvre celle du déconfinement,
+   néologisme créé à cette occasion.
+
+Usage du mot
+
+   [modifier | modifier le code]
+
+   Avant la crise sanitaire de 2019-2021, le terme de « distanciation
+   physique » est privilégié dans les études en langue française dédiées
+   aux mesures de prévention d'une pandémie de maladie infectieuse
+   concernant des populations entières^[1]^,^[2]^,^[3]. Le terme de
+   confinement est alors réservé à des mesures qui touchent
+   individuellement les personnes ou des groupes réduits, par exemple en
+   cas d'accident chimique ou nucléaire, y compris dans les textes rédigés
+   par l'Organisation mondiale de la santé^[4].
+
+   Les termes génériques employés en anglais pour définir les mesures
+   concernant des populations entières sont « stay-at-home order^[5]» et
+   « lockdown^[6]», ce dernier a un sens plus large et peut désigner un
+   bouclage de quartier, ou la fermeture d'un espace aérien, comme celui
+   qui a eu lieu à la suite des attaques du 11 septembre 2001. On
+   l'emploie parfois dans l'aire francophone pour désigner le blocage ou
+   la fermeture complète d'une ville ou d'un quartier ; il est alors
+   surtout employé pour nommer des mesures faisant suite à des attentats
+   terroristes, comme au moment du « Lockdown de Bruxelles » de novembre
+   2015^[7]. C'est la raison pour laquelle, le gouvernement belge
+   n'emploie, dans un premier temps, ni le mot « confinement » ni le mot
+   « lockdown » pour désigner les mesures entreprises au début de la crise
+   sanitaire de 2020^[8].
+
+   Lors des mesures de protection contre la Covid-19 prises en France à
+   partir du 20 mars 2021, le président Emmanuel Macron considère que le
+   mot confinement ne leur est pas adapté^[9].
+
+Objectif
+
+   [modifier | modifier le code]
+   [250px-20200406_Flatten_the_curve_animated_GIF_-_International_version.
+   gif] Aplatir la courbe pour ne pas atteindre les limites de prise en
+   charge hospitalière.
+
+   L'objectif majeur poursuivi par une mesure de confinement est de
+   préserver la capacité de prise en charge des patients par les hôpitaux
+   en diminuant la vitesse de propagation d'un agent pathogène au sein de
+   la population. Ces mesures permettent ainsi d'aplatir la courbe
+   exponentielle observée au début d'une épidémie pour maintenir son
+   évolution à un niveau absorbable par les services de santé en général
+   et les unités de soins intensifs en particulier^[10]^,^[11].
+
+Mesures
+
+   [modifier | modifier le code]
+
+   Les autorités et les responsables de la santé publique peuvent adopter
+   trois stratégies de confinement^[12]^,^[13] :
+     * l'isolement, qui consiste en la séparation des personnes infectées
+       ou malades de la population générale : isolement des particuliers à
+       domicile, appelé aussi auto-confinement ; isolement collectif qui
+       consiste en une mise à l'écart de plusieurs individus (comme dans
+       les léproseries médiévales, les lazarets, ou dans des centres de
+       confinement^[14]) ;
+     * la quarantaine individuelle ou collective, qui est la mise à
+       l'écart pendant une période déterminée - réputée supérieure à la
+       durée d'incubation - de personnes en cas de suspicion de maladie
+       (parfois le terme est employé pour désigner le confinement de
+       personnes potentiellement contaminantes) ;
+     * des mesures de distanciation physique, ce qui recouvre des
+       restrictions supplémentaires de liberté de circulation
+       (instauration de cordons sanitaires, de couvre-feux) et des
+       restrictions de rassemblement. Elles peuvent conduire au
+       confinement d'individus ou de groupes en bonne santé
+       (auto-confinement de la population) qui ont été potentiellement
+       exposés à un agent en cas de flambée épidémique^[15] (confinement
+       local, autour des foyers d'infection, ou confinement général ;
+       confinement partiel ou confinement total^[16]).
+
+Effets
+
+   [modifier | modifier le code]
+
+Sur le plan de la santé
+
+   [modifier | modifier le code]
+
+   Au-delà des effets sanitaires recherchés, le confinement peut avoir des
+   effets secondaires bénéfiques ou indésirés sur les comportements ou le
+   mode de vie.
+     * troubles visuels : fatigabilité visuelle, céphalées (maux de tête)
+       d'origine visuelle dus à l'augmentation du temps passé devant un
+       écran^[17].
+     * troubles musculosquelettiques rachidiens (colonne vertébrale) en
+       raison du fait, qu'en cas de télétravail, les équipements à la
+       maison ne seraient pas souvent aussi ergonomiques qu'en
+       entreprise^[17].
+     * risques de surcharge pondérale, due à la sédentarité et le
+       grignotage subséquent^[17].
+
+   Selon Stéphane Gayet, infectiologue, les confinements de 2020 liés à la
+   pandémie de Covid-19 « ont confirmé ce que l'on savait pertinemment :
+   la sédentarité augmente les risques de surcharge pondérale, de diabète
+   de type 2, d'hypertension artérielle, d'infarctus du myocarde,
+   d'accident vasculaire cérébral, d'embolie pulmonaire, de cancer »^[17].
+   L'augmentation constatée de la consommation d'alcool aurait également
+   induit celle d'actes de violence et autres actes délictueux^[17]. Il
+   considère ainsi que « la sédentarité et l'isolement de l'être humain
+   lui sont délétères (néfastes à sa santé) à bien des égards »^[17].
+     * Répercussions psychologiques : une enquête internationale en ligne
+       (ECLB-COVID19) a été lancée le 6 avril 2020 pour élucider l'impact
+       des restrictions du COVID-19 sur la santé mentale et le bien-être
+       émotionnel. Le confinement à domicile COVID-19 a eu un effet
+       négatif à la fois sur le bien-être mental et sur l'humeur et les
+       sentiments. Les résultats du questionnaire sur l'humeur et les
+       sentiments ont montré une augmentation du nombre de personnes (+
+       10 %) présentant des symptômes dépressifs pendant le confinement à
+       domicile^[18].
+
+Sur le plan social
+
+   [modifier | modifier le code]
+
+   Dans le cadre de la sécurité routière, dans des pays de l'Union
+   européenne, un confinement peut réduire le trafic routier et les
+   accidents causés par ce dernier, et il peut également mener à une
+   augmentation des vitesses pratiquées et du nombre d'excès de
+   vitesse^[19]. Ainsi, en avril 2020, la mortalité routière a baissé de
+   36 % dans l'Union européenne dont une baisse de 84 % en Italie comparé
+   à avril 2019. En Belgique, Espagne, France et Grèce, la baisse de
+   mortalité routière a été supérieure à 59 %^[19]. Alors que la
+   diminution du trafic conduit plutôt à une réduction de la mortalité
+   routière, certaines preuves montrent qu'elle peut aussi mener à une
+   hausse des vitesses pratiquées qui aggrave les conséquences des
+   accidents augmentant le risque mortel^[19]. Des augmentations de
+   vitesse ont notamment été observées au Danemark, en France, en Estonie,
+   en Espagne et au Royaume-Uni^[20].
+
+Sur le plan scolaire
+
+   [modifier | modifier le code]
+   [20px-Circle-icons-globe.svg.png]
+   Cette section adopte un point de vue régional ou culturel particulier
+   et doit être internationalisée (13 avril 2021).
+
+   Le confinement a des conséquences sur l'apprentissage et accentue les
+   inégalités scolaires^[21]. Il favorise le décrochage scolaire, et
+   d'autant plus chez les élèves issus de milieux défavorisés^[22].
+
+   La fermeture des écoles a en outre radicalement modifié l'écosystème
+   dans lequel l'enfant évolue, entraînant des inégalités dans leur
+   apprentissage, tout particulièrement pour ceux en situation de handicap
+   ou défavorisés. On estime ainsi que 4 % des élèves, soit
+   500 000 enfants, sont « décrocheurs »^[23]. Il y a eu un « effet
+   Covid » sur les résultats scolaires. En effet, une baisse des résultats
+   des élèves notamment en français et en maths a été observée^[24].
+
+   Une enquête menée par Pascale Haag et publiée le 29 avril 2020 qui
+   portait sur le regard des élèves pendant le confinement n'a pas mis en
+   évidence de différence significative entre les filles et garçons en ce
+   qui concerne les ressentis vis-à-vis à l'apprentissage à distance^[25].
+
+Un environnement défavorable
+
+   [modifier | modifier le code]
+   [20px-Circle-icons-globe.svg.png]
+   Cette section adopte un point de vue régional ou culturel particulier
+   et doit être internationalisée (13 avril 2021).
+
+   Premièrement, une grande majorité de la population française, 94 %, est
+   restée dans son logement lors du confinement. De plus, les Français
+   sont en moyenne confinés dans 95,8 m^2 avec 2,6 occupants^[26]. Ainsi
+   le peu d'espace dans lequel une grande majorité de la population a été
+   confinée a eu des conséquences sur l'apprentissage de nombreux élèves.
+   En conséquence, de nombreux élèves ne disposaient pas, et ne disposent
+   pas en ce moment, d'un espace privé, calme dans lequel ils peuvent
+   travailler.
+
+Une disposition à l'enseignement virtuel différente d'une école à l'autre
+
+   [modifier | modifier le code]
+
+   De plus, la plupart des pays n'étaient cependant « pas prêts » à faire
+   la bascule vers l'enseignement à distance. L'Organisation de
+   coopération et de développement économiques (OCDE) cite ainsi son
+   enquête Talis de 2018, où 18 % des enseignants, des 38 pays étudiés,
+   déclarent un fort besoin de formation sur les outils numériques^[26].
+
+Une disposition au matériel numérique différente d'un établissement à un
+autre
+
+   [modifier | modifier le code]
+
+   L'accès aux matériels et à la connexion internet permettant
+   l'enseignement virtuel est inégalitaire.
+
+   En effet, 50 % de la population mondiale n'a pas accès à un ordinateur
+   ni à internet, et les élèves issus de milieux socio-économiques
+   défavorisés, ont encore moins de chance d'y avoir accès^[27]. De plus,
+   36 % des français aux revenus les plus faibles n'ont pas d'ordinateur à
+   la maison^[28].
+
+   On peut également constater une inégalité d'accès au réseau internet :
+   15 % des étudiants dans les Outre-mer ont accès à la fibre, contre 85 %
+   des Parisiens. On note donc également une inégalité entre la métropole
+   et les territoires d'Outre-Mer français^[26].
+
+Une compétence faible dans le maniement des ordinateurs et outils numériques
+
+   [modifier | modifier le code]
+
+   A été constaté qu'il y a beaucoup de jeunes qui ont un niveau très
+   faible de compétence dans le domaine numérique. 43% des jeunes français
+   ont des compétences faibles dans le maniement des ordinateurs et des
+   outils numériques^[26].
+
+Pandémie de Covid-19
+
+   [modifier | modifier le code]
+   Article détaillé : Confinements liés à la pandémie de Covid-19.
+   [20px-Circle-icons-globe.svg.png]
+   Cette section adopte un point de vue régional ou culturel particulier
+   et doit être internationalisée (septembre 2024).
+
+Canada
+
+   [modifier | modifier le code]
+
+Québec
+
+   [modifier | modifier le code]
+   Cette section est un extrait de Confinements liés à la pandémie de
+   Covid-19 au Québec.[modifier].
+   [250px-Fermeture_d%C3%A9panneur_couvre-feu_au_Qu%C3%A9bec_%28Covid-19%2
+   9.jpg] Affiche dans une porte de dépanneur indiquant la fermeture à
+   19h30 en raison du couvre-feu.Les confinements liés à la pandémie de
+   Covid-19 au Québec font partie d'une série de mesures prises par le
+   gouvernement du Québec pour lutter contre la propagation de Covid-19.
+   Le premier confinement, est annoncé le 23 mars 2020 par François
+   Legault. Cette « mise sur pause » de la province prend place à minuit
+   le 24 mars 2020. Du 4 mai au 1^er juillet 2020, un déconfinement
+   progressif se met en place. Face à la deuxième vague, le gouvernement
+   du Québec remet en place des restrictions s'apparentant à un
+   confinement partiel le 1^er octobre 2020 dans certains régions. Le 25
+   décembre 2020, une grande partie des régions du Québec sont
+   reconfinées. Le 9 janvier 2021, la province en entier se reconfine,
+   avec des exceptions régionales, et un couvre-feu est mis en place entre
+   20 h et 5 h.
+
+Espagne
+
+   [modifier | modifier le code]
+   Cette section est un extrait de Confinement lié à la pandémie de
+   Covid-19 en Espagne.[modifier].
+   [250px-Platja_Nova_Ic%C3%A0ria_COVID19_20200318.jpg] Plage déserte à
+   Barcelone, pendant le confinement de 2020.
+
+   Le confinement de la population espagnole désigne l'ensemble des
+   mesures d'hygiène et de distanciation sociale, dites « barrières »,
+   définies au niveau national et local en réponse à la pandémie de
+   Covid-19 en Espagne.
+
+   Il est ordonné par le gouvernement espagnol à compter du 15 mars 2020
+   dans le cadre des mesures d'urgence (état d'alerte) pour lutter contre
+   l'épidémie de coronavirus dans le pays^[29]^,^[30]. Tous les habitants
+   sont tenus de rester dans leur logement, sauf pour acheter de la
+   nourriture et des médicaments, travailler ou se rendre aux
+   urgences^[31]^,^[32]. Les restrictions de la quarantaine ont rendu
+   obligatoire la fermeture temporaire des magasins et des entreprises
+   « non essentiels », y compris les bars, restaurants, cafés, cinémas,
+   commerces et commerces de détail^[29].
+
+   L'annonce est intervenue après une augmentation significative du nombre
+   de cas confirmés de COVID-19 en Espagne, passant de 3 146 cas à
+   5 232 cas dans la journée du 13 mars 2020^[33].
+   Cette « décision extraordinaire », selon le président du gouvernement
+   d'Espagne, Pedro Sánchez, est nécessaire car l'Espagne fait face à une
+   « crise sanitaire, sociale et économique »^[29].
+
+France
+
+   [modifier | modifier le code]
+   Cette section est un extrait de Confinements liés à la pandémie de
+   Covid-19 en France.[modifier].
+   Vues de Paris le 6 avril 2020, en plein premier confinement national.
+
+   Les confinements liés à la pandémie de Covid-19 en France sont
+   plusieurs phases non consécutives d'interdiction de déplacement mises
+   en place par le gouvernement afin de freiner la propagation du
+   SARS-CoV-2 dans le pays :
+     * trois phases nationales :
+         1. du 17 mars au 11 mai 2020 non inclus, soit 1 mois et
+            25 jours ;
+         2. du 30 octobre au 15 décembre 2020 non inclus, soit 1 mois et
+            15 jours ;
+         3. du 3 avril au 3 mai 2021 non inclus, soit 28 jours.
+     * d'autres phases locales.
+
+   Après une campagne sanitaire de recommandation des « gestes barrières »
+   hygiéniques et de distanciation physique, la décision d'un premier
+   confinement national est annoncée au soir du 16 mars 2020 par le
+   président de la République, Emmanuel Macron, lors d'une adresse à la
+   nation^[34]. Il indique à plusieurs reprises que la France est en
+   « guerre » contre le Covid, alors que le pays, au « stade 3 » des
+   mesures sanitaires gouvernementales, est en pleine expansion
+   épidémique.
+   Le confinement national implique la restriction des déplacements au
+   strict nécessaire (courses alimentaires, soins et travail quand le
+   télétravail n'est pas possible), des sorties près du domicile (activité
+   sportive individuelle, hygiène canine), ainsi que la pénalisation des
+   infractions liées à cette nouvelle règle, la fermeture des frontières
+   de l'espace Schengen et le report du second tour des élections
+   municipales.
+
+Italie
+
+   [modifier | modifier le code]
+   Cette section est un extrait de Confinement lié à la pandémie de
+   Covid-19 en Italie.[modifier].
+
+   Le confinement de 2020 en Italie désigne l'ensemble des mesures
+   d'hygiène et de distanciation physique, dites « barrières », définies
+   au niveau national et local en réponse à la pandémie de Covid-19 en
+   Italie.
+   Il est ordonné le 9 mars 2020 par le gouvernement italien, au cours
+   d'une intervention télévisée du président du Conseil des ministres
+   Giuseppe Conte. La mesure imposée à l'ensemble du pays désormais placé
+   en zone rouge a pour but de restreindre les mouvements de population
+   pour limiter la propagation de la pandémie de maladie à coronavirus de
+   2020 en Italie, pays comprenant soixante millions d'habitants. Seuls
+   les déplacements nécessaires, pour le travail, pour des soins de santé
+   ou pour acheter de la nourriture, sur justificatifs téléchargeables sur
+   Internet sont autorisés sous peine d'amende et de trois mois de prison.
+   Tous les rassemblements publics ou privés sont interdits. Cela fait
+   suite à une quarantaine similaire imposée la veille pour seize millions
+   de personnes du nord de l'Italie, en Lombardie et quatorze provinces du
+   Piémont, de Vénétie, d'Émilie-Romagne et des Marches, ainsi que onze
+   municipalités de la province de Lodi déjà confinées depuis la fin du
+   mois de février.
+
+Royaume-Uni
+
+   [modifier | modifier le code]
+   Cette section est un extrait de Confinements liés à la pandémie de
+   Covid-19 au Royaume-Uni.[modifier].
+
+   Le confinement de la population britannique (en anglais : lockdown in
+   the United Kingdom) désigne l'ensemble des mesures d'hygiène et de
+   distanciation sociale, dites « barrières », définies au niveau national
+   et local en réponse à la pandémie de Covid-19 au Royaume-Uni.
+
+   Il est ordonné par le gouvernement britannique à travers le Premier
+   ministre Boris Johnson à compter du 23 mars 2020 pour une durée
+   initiale de trois semaines dans le cadre des mesures d'urgence (état
+   d'urgence) pour lutter contre la pandémie de Covid-19 au
+   Royaume-Uni^[35].
+   Tous les habitants sont tenus de rester dans leur logement, sauf pour
+   acheter de la nourriture et des médicaments, travailler ou se rendre
+   aux urgences. Les restrictions de la quarantaine ont rendu obligatoire
+   la fermeture temporaire des magasins et des entreprises « non
+   essentiels », y compris les bars, restaurants, pubs, cafés, cinémas,
+   théâtres, salles de gyms, commerces et commerces de détail^[36].
+
+Dans la fiction
+
+   [modifier | modifier le code]
+
+Littérature
+
+   [modifier | modifier le code]
+     * Edward Morgan Forster, La machine s'arrête, 1909
+     * Isaac Asimov, Face aux feux du soleil, 1956 lors de la description
+       de la planète Solaria dont les conséquences sont abordées dans
+       Terre et Fondation, 1986
+     * Jean-Michel Truong, Le Successeur de pierre, 1999
+     * Adèle Tariel, Nos jours perdus : chroniques adolescentes d'une
+       pandémie qui n'en finit pas^[37], Magnard jeunesse, 2022
+
+Films et téléfilms
+
+   [modifier | modifier le code]
+     * Dany Boon, 8 Rue de l'Humanité, film de 2021 sur Netflix
+     * Jérôme Bonnell, À la joie^[38], téléfilm, France, 2024
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ^| David Z. Roth et Bonnie Henry, « La distanciation sociale comme
+       mesure de prévention de la grippe pandémique », National
+       Collaborating Centre for Infectious Diseases, juillet 2011, lire en
+       ligne.
+    2. ^| Jean-Claude Ameisen, « La lutte contre la pandémie grippale : un
+       levier contre l'exclusion », Esprit, n^o 7, juillet 2007, p. 78-95,
+       lire en ligne.
+    3. ^| I. Bonmarin, D. Levy-Bruhl, « Apport des modélisations des
+       épidémies dans la décision de santé publique : exemple de la
+       pandémie grippale », Médecine et Maladies Infectieuses, vol. 37,
+       supplément 3, décembre 2007, p. S204-S209, lire en ligne.
+    4. ^| « Considérations relatives au placement en quarantaine de
+       personnes dans le cadre de l'endiguement de la maladie à
+       coronavirus 2019 (COVID-19) : orientations provisoires »,
+       Organisation mondiale de la santé, 29 février 2020, lire en ligne
+    5. ^| Adam Kleczkowski et Savi Maharaj, « Stay at home, wash your
+       hands: epidemic dynamics with awareness of infection », Proceedings
+       of the 2010 Summer Computer Simulation Conference, juillet 2010, p.
+       141-146, lire en ligne.
+    6. ^| Yuzhen Zhang, Bin Jiang, Jiamin Yuan et Yanyun Tao, « The impact
+       of social distancing and epicenter lockdown on the COVID-19
+       epidemic in mainland China: A data-driven SEIQR model study »,
+       COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv, mars 2020,
+       lire en ligne
+    7. ^| Quentin Jardon, Sandrine Puissant Baeyens et Lara van Dievoet,
+       « Couvrir une actualité de crise terroriste : un dispositif web
+       first ? les cas du Brussels Lockdown et des attentats de
+       Bruxelles », Communication, technologie et développement, n^o 4,
+       septembre 2017, p. 39-48, lire en ligne.
+    8. ^| Bernard Demonty, Coronavirus: pourquoi Sophie Wilmès a évité les
+       termes « lockdown » et « confinement », Le Soir, 18 mars 2020,
+       consulté le 25 mars 2020.
+    9. ^|
+       https://www.lefigaro.fr/politique/covid-19-emmanuel-macron-estime-q
+       ue-le-mot-confinement-n-est-pas-adapte-20210319
+   10. ^| Hugo Jalinière, "Aplatir la courbe" : l'enjeu des prochaines
+       semaines face au coronavirus Covid-19., Sciences et avenir, 10 mars
+       2020, (Lire en ligne).
+   11. ^| Le Figaro, Coronavirus : quel est l'objectif du confinement ?,
+       27 mars 2020, (lire en ligne)
+   12. ^| (en) Richard Beebe et Jeffrey C Myers, Medical Emergencies,
+       Maternal Health & Pediatrics, Cengage Learning, 2012, p. 591-592
+   13. ^| (en) David Schlossberg, Clinical Infectious Disease, Cambridge
+       University Press, 2015, p. 1209-1210
+   14. ^| « Coronavirus: pour les sans-abri, 5000 places d'hôtel
+       débloquées en plus », sur huffingtonpost.fr, 30 mars 2020
+   15. ^| « Une flambée épidémique est la brusque augmentation du nombre
+       de cas d'une maladie normalement enregistrée dans une communauté,
+       dans une zone géographique ou pendant une saison données. Une
+       flambée peut se produire dans une zone restreinte ou s'étendre à
+       plusieurs pays ». « Flambées épidémiques », sur Organisation
+       mondiale de la santé (consulté le 19 mars 2020)
+   16. ^| Dans le cadre d'un confinement total, les autorités décrètent le
+       principe général d'interdiction de circulation (les personnes n'ont
+       plus le droit de sortir de chez elles pour d'autres raisons que de
+       faire leurs courses ou aller à la pharmacie) et du couvre-feu.
+       Sebastian Roché (propos recueillis par Carine Janin),
+       « Coronavirus. Un confinement total du pays, ça changerait
+       quoi ? », sur ouest-france.fr, 16 mars 2020
+   17. ^| ^a b c d e et f Stéphane Gayet, Ces étranges impacts sur notre
+       corps des multi-confinements dus au Covid-19, atlantico.fr, 25
+       décembre 2020
+   18. ^| (en) Achraf Ammar et al., Psychological consequences of COVID-19
+       home confinement: The ECLB-COVID19 multicenter study,
+       journals.plos.org, 5 novembre 2020,
+       doi.org/10.1371/journal.pone.0240204
+   19. ^| ^a b et c (en) « PIN report : Lockdowns resulted in an
+       unprecedented 36% drop in road deaths in... », sur etsc.eu
+       (consulté le 13 novembre 2023).
+   20. ^| sulted-in-an-unprecedented-36-drop-in-road-deaths-in-the-eu/
+   21. ^| Elsa Doladille, « « Le confinement a accentué les inégalités
+       scolaires », selon la direction générale du Trésor », sur
+       VousNousIls, 13 août 2020 (consulté le 13 avril 2021)
+   22. ^| Ministère français de l'économie, des finances et de la relance.
+       Direction générale du Trésor, « Inégalités de conditions de vie
+       face au confinement »
+   23. ^| « « Nous sommes surpris de voir à quel point les enfants disent
+       s'être sentis seuls durant le premier confinement » », Le Monde.fr,
+       12 novembre 2020 (lire en ligne, consulté le 13 avril 2021)
+   24. ^| « « Nous sommes surpris de voir à quel point les enfants disent
+       s'être sentis seuls durant le premier confinement » », Le Monde.fr,
+       12 novembre 2020 (lire en ligne, consulté le 13 avril 2021)
+   25. ^| DNE-TN2, « Ecole, numérique et confinement : enquêtes,
+       questionnaires et premiers résultats », sur Éducation, numérique et
+       recherche (consulté le 27 avril 2021)
+   26. ^| ^a b c et d « L'OCDE évalue l'impact de la crise du Covid-19 sur
+       la scolarité », Le Monde.fr, 8 septembre 2020 (lire en ligne,
+       consulté le 13 avril 2021)
+   27. ^| (en) https://plus.google.com/+UNESCO, « Le confinement mondial
+       met à l'épreuve le développement des compétences. Webinaire #8 sur
+       le COVID-19 », sur UNESCO, 10 juin 2020 (consulté le 13 avril 2021)
+   28. ^| Ouafia Kheniche, « Numérique à l'école: une étude révèle
+       l'ampleur des inégalités », sur www.franceinter.fr, 15 octobre 2020
+       (consulté le 27 avril 2021)
+   29. ^| ^a b et c (en-GB) Sam Jones, « Spain orders nationwide lockdown
+       to battle coronavirus », The Guardian, 14 mars 2020
+       (ISSN 0261-3077, lire en ligne, consulté le 15 mars 2020)
+   30. ^| Kollmeyer, « Spain may be a week ahead of the U.S. in its
+       coronavirus quarantine: Here's what you can learn from its
+       experience », MarketWatch
+   31. ^| (en-CA) Health, « Spain to impose nationwide lockdown - El Mundo
+       | National Post », 14 mars 2020 (consulté le 14 mars 2020)
+   32. ^| (es) « Real Decreto 463/2020, de 14 de marzo, por el que se
+       declara el estado de alarma para la gestión de la situación de
+       crisis sanitaria ocasionada por el COVID-19 », Bulletin officiel de
+       l'État, Agencia Estatal Boletín Oficial del Estado, n^o 67, 14 mars
+       2020, p. 25390-25400 (ISSN 0212-033X, lire en ligne [PDF])
+   33. ^| « Ministerio de Sanidad, Consumo y Bienestar Social -
+       Profesionales - Situación actual Coronavirus », mscbs.gob.es
+       (consulté le 14 mars 2020)
+   34. ^| « Déclaration de M. Emmanuel Macron, président de la République,
+       sur la lutte contre l'épidémie de COViD-19, l'engagement des
+       personnels soignants et la protection des personnes vulnérables, à
+       Paris le 12 mars 2020. », sur vie-publique.fr (consulté le 3 juin
+       2022)
+   35. ^| (en) F. Brinley Bruton, « U.K. government imposes 3-week
+       national lockdown, enforced by police, to contain coronavirus »,
+       sur nbcnews.com, 23 mars 2020 (consulté le 21 novembre 2023).
+   36. ^| Le Figaro avec AFP, « Coronavirus: le Royaume-Uni ordonne la
+       fermeture des pubs, restaurants, cinémas et théâtres », sur Le
+       Figaro.fr, 20 mars 2020 (consulté le 3 avril 2020)
+   37. ^| Clarisse Gadala, avis critique de Nos jours perdus : chroniques
+       adolescentes d'une pandémie qui n'en finit pas, dans La Revue des
+       livres pour enfants, du 1er septembre 2022 ; avis repris sur la
+       notice BnF de l'ouvrage.
+   38. ^| Émilie Gavoille, « "À la joie", de Jérôme Bonnell, sur arte.tv :
+       une singulière et sensuelle romance à huis clos », sur Télérama, 23
+       février 2024 (consulté en juin 2024).
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Jean-Paul Demoule, Pré-histoires du confinement, Gallimard,
+       « Tracts », n^o 35, 2020.
+     * Fang Fang, Wuhan, ville close: Journal, éditions Stock, septembre
+       2020
+     * Patrice Cartier, Je me souviens du Grand Confinement, éditions Quai
+       des brunes, octobre 2020
+     * Éric Fottorino, Le temps suspendu avec Nicolas Vial, Gallimard,
+       octobre 2020
+     * Théo Boulakia et Nicolas Mariot, L'attestation : une expérience
+       d'obéissance de masse, printemps 2020, Anamosa, 2023
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Confinement lié à la pandémie de Covid-19 en Espagne
+     * Confinements liés à la pandémie de Covid-19 en France
+     * Confinement lié à la pandémie de Covid-19 en Italie
+     * Confinements liés à la pandémie de Covid-19 au Royaume-Uni
+     * Comportements-barrière
+     * Contrôle des infections
+     * Cordon sanitaire
+     * Déconfinement
+     * Immunité grégaire
+
+   v · m
+   Santé publique [20px-Star_of_life2.svg.png]
+   Général
+     * Assurance maladie
+     * Clinique
+     * Crise sanitaire
+     * Danger biologique
+     * Hôpital
+     * Liste OMS des médicaments essentiels
+     * Psychologie sociale
+     * Risque
+          + pandémique
+          + phytosanitaire
+          + sanitaire
+          + Syndémie
+     * Santé
+          + Anthropologie
+          + Code
+          + Économie
+          + Éducation
+          + Environnement
+          + Globale
+          + Numérique
+          + Politique
+          + Professionnel
+          + Promotion
+          + Santé planétaire
+          + Soins
+          + Système
+     * Sécurité sanitaire
+     * Sécurité sociale
+     * Surveillance syndromique
+     * Urgence de santé publique de portée internationale
+     * Vigilance sanitaire
+
+   Prophylaxie, Prévention
+     * Assainissement
+          + défécation en plein air
+          + réseau séparatif
+          + maladie hydrique
+     * Hygiène
+          + bucco-dentaire
+          + des aliments
+          + du corps
+          + des mains
+          + de vie
+     * Médecine
+     * Pharmacovigilance
+     * Planification familiale
+     * Prévention quaternaire
+     * Propreté
+     * Dératisation
+     * Santé et sécurité au travail
+          + EPI
+          + Ergonomie
+          + Hygiène
+          + Médecine
+          + Prévention des blessures
+     * Sécurité du patient
+     * Sécurisexe
+     * Tabagisme
+          + législation
+          + sevrage
+     * Vaccin
+     * Vaccination
+
+   Infections et épidémies
+     * Contagion
+     * Endémie
+     * Immunité grégaire
+     * Maladie
+          + à déclaration obligatoire
+          + infectieuse émergente
+          + sexuellement transmissible
+          + tropicale
+     * Pandémie
+     * Porteur sain
+     * Prévention
+          + Comportements-barrière
+          + Confinement
+          + Contrôle des infections
+          + Désinfection
+          + Distanciation physique
+          + Solution hydroalcoolique
+          + Paradoxe de la prévention
+     * Protection
+          + Cordon sanitaire
+          + EPI médical
+          + Masques
+               o chirurgical
+               o FFP
+               o en tissu
+          + Préservatif
+          + Quarantaine
+     * Recherche des contacts
+     * Veille sanitaire
+
+   Alimentation
+     * Additifs
+     * Alimentation
+          + humaine
+          + saine
+          + génétiquement modifiée
+     * Chimie
+     * Eau potable
+     * Microbiologie
+     * Procédé agroalimentaire
+     * Sécurité
+     * Bonnes pratiques
+          + agricole
+          + de fabrication
+               o HACCP
+               o ISO 22000
+
+   Populations
+     * Accès aux soins
+     * Déterminant de santé
+          + social
+          + commercial
+     * Dépistage
+     * Données de santé
+     * Mouvements des malades
+     * Médecine sociale
+     * Mortalité
+          + infantile
+          + infanto-juvénile
+     * Santé
+          + communautaire
+          + mentale
+          + sexuelle
+          + Équité
+
+   Sciences
+     * Communication
+     * Comportementales
+          + Déviance
+          + Déviance positive
+          + Changement de comportement
+          + Modèle
+               o de croyance en santé
+               o compartimental en épidémiologie
+               o transthéorique de changement
+          + Psychologie de la santé
+          + Théorie
+               o sociale cognitive
+               o du comportement planifié
+               o microbienne
+     * Démographie
+          + Espérance de vie
+          + Taux de natalité, de mortalité
+     * Épidémiologie
+          + Évolutive
+          + Incidence
+          + Prévalence
+          + Taux de létalité, de morbidité
+     * Études de Whitehall
+     * Hygiénisme
+     * Logiciels médicaux libres
+     * Sociologie
+          + de la médecine
+          + de la santé
+     * Statistiques
+          + Biostatistique
+          + Étude cas-témoins
+          + Essai randomisé contrôlé
+          + Risque relatif
+
+   Organisations
+     * Algérie (INSP)
+     * Canada
+          + Agence de la santé publique
+          + INSPQ
+     * Chine
+          + Centre de contrôle et de prévention des maladies
+     * Union européenne
+          + Banque de données
+          + CEPCM
+          + cnDAspe
+          + ENVI
+          + EHESP
+          + ESP
+          + HCSP
+          + Institut Pasteur
+          + Oclaesp
+          + Portail Santé
+          + Santé publique France
+          + Sciensano
+          + WIV-ISP
+     * États-Unis
+          + CDC
+          + Service de santé publique
+     * Organisation mondiale
+          + OMS
+          + des toilettes
+     * Suisse (OFSP)
+
+   Par pays
+     * Belgique
+     * Canada
+     * Chine
+     * France
+     * Luxembourg
+     * Suisse
+
+   Histoire
+     * Charte d'Ottawa
+     * Conférences sanitaires internationales
+     * Liste d'épidémies
+     * Mouvement d'hygiène sociale
+     * Office international d'hygiène publique
+     * Règlement sanitaire international
+
+   Personnalités
+     * Elena Arnedo Soriano
+     * Sara Josephine Baker
+     * Agostino Bassi
+     * Girolamo Fracastoro
+     * Joseph Lister
+     * Louis Pasteur
+     * Margaret Sanger
+     * Ignace Philippe Semmelweis
+     * John Snow
+     * Charles-Edward Amory Winslow
+
+   v · m
+   Pandémie de Covid-19
+     * Virus (coronavirus) : SARS-CoV-2
+     * Maladie : Covid-19
+
+   Généralités
+     * Chronologie
+     * Urgence de santé publique de portée internationale (USPPI)
+     * Maladie X
+     * Modélisation mathématique
+     * Applications mobiles
+     * Résolution 2532 du Conseil de sécurité des Nations unies
+     * Rhétorique guerrière dans la pandémie de Covid-19
+     * Opposition aux mesures de lutte
+          + Dictature sanitaire
+          + Démocratie sanitaire
+          + Opposition à la vaccination
+               o Manifestations contre les mesures vaccinales
+     * Déclaration de Great Barrington
+     * Art et culture
+
+   Conséquences
+     * Achat de panique
+     * Désinformation
+     * Coronapiste
+     * Crise alimentaire
+     * Crise économique
+     * Crise du secteur textile asiatique
+     * Santé mentale
+          + Fatigue pandémique
+     * Conséquences environnementales
+     * Inégalités femmes-hommes
+     * Xénophobie et racisme
+          + Stop AAPI Hate
+     * Krach boursier
+          + Plan de relance européen
+     * Pénuries
+          + Pénurie de composants électroniques
+          + Pénurie de bois d'oeuvre
+          + Hausse du prix des matières premières
+     * Conséquences sur les droits de l'homme
+     * Conséquences sur les personnes âgées
+     * Conséquences sur les personnes handicapées
+     * Conséquences sur les religions
+     * Conséquences sur les communautés LGBT
+     * Conséquences sur les peuples indigènes
+     * Conséquences sur le secteur culturel
+          + Conséquences sur le secteur musical
+          + Conséquences sur le cinéma
+          + Conséquences sur l'industrie du jeu vidéo
+     * Ville Zoom
+
+   Localisation (confinements)
+   Afrique
+     * Afrique du Sud
+     * Algérie
+     * Angola
+     * Bénin
+     * Botswana
+     * Burkina Faso
+     * Burundi
+     * Cameroun
+     * Cap-Vert
+     * Comores
+     * Côte d'Ivoire
+     * Djibouti
+     * Égypte
+     * Érythrée
+     * Eswatini
+     * Éthiopie
+     * Gabon
+     * Gambie
+     * Ghana
+     * Guinée
+     * Guinée-Bissau
+     * Guinée équatoriale
+     * Kenya
+     * Lesotho
+     * Liberia
+     * Libye
+     * Madagascar
+     * Malawi
+     * Mali
+     * Maroc
+     * Maurice
+     * Mauritanie
+     * Mozambique
+     * Namibie
+     * Niger
+     * Nigeria
+     * Ouganda
+     * République centrafricaine
+     * République démocratique du Congo
+     * République du Congo
+     * Rwanda
+     * Sao Tomé-et-Principe
+     * Sénégal
+     * Seychelles
+     * Sierra Leone
+     * Somalie
+     * Soudan
+     * Soudan du Sud
+     * Tanzanie
+     * Tchad
+     * Togo
+     * Tunisie
+     * Zambie
+     * Zimbabwe
+
+   Amérique
+     * Anguilla
+     * Antigua-et-Barbuda
+     * Argentine
+     * Bahamas
+     * Barbade
+     * Belize
+     * Bolivie
+     * Brésil
+     * Canada
+          + Québec
+               o confinements
+     * Chili
+     * Colombie
+     * Costa Rica
+     * Cuba
+     * Dominique
+     * Équateur
+     * États-Unis
+          + télévision
+     * Grenade
+     * Groenland
+     * Guatemala
+     * Guyana
+     * Haïti
+     * Honduras
+     * Jamaïque
+     * Mexique
+     * Panama
+     * Paraguay
+     * Pérou
+     * République dominicaine
+     * Saint-Christophe-et-Niévès
+     * Saint-Vincent-et-les-Grenadines
+     * Sainte-Lucie
+     * Salvador
+     * Suriname
+     * Trinité-et-Tobago
+     * Uruguay
+     * Venezuela
+
+   Asie
+     * Afghanistan
+     * Arabie saoudite
+     * Arménie
+     * Azerbaïdjan
+     * Bahreïn
+     * Bangladesh
+     * Bhoutan
+     * Birmanie
+     * Brunei
+     * Cambodge
+     * Chine
+     * Corée du Nord
+     * Corée du Sud
+     * Émirats arabes unis
+     * Géorgie
+     * Hong Kong
+     * Inde
+     * Indonésie
+     * Irak
+     * Iran
+     * Israël
+     * Japon
+     * Jordanie
+     * Kazakhstan
+     * Kirghizistan
+     * Koweït
+     * Laos
+     * Liban
+     * Macao
+     * Malaisie
+     * Maldives
+     * Mongolie
+     * Népal
+     * Oman
+     * Ouzbékistan
+     * Pakistan
+     * Philippines
+          + Visayas centrales
+     * Qatar
+     * Russie
+     * Singapour
+     * Sri Lanka
+     * Syrie
+     * Taïwan
+     * Thaïlande
+     * Timor oriental
+     * Turquie
+     * Vietnam
+     * Yémen
+
+   Europe
+     * Albanie
+     * Allemagne
+     * Andorre
+     * Arménie
+     * Autriche
+     * Azerbaïdjan
+     * Belgique
+          + musique
+     * Biélorussie
+     * Bosnie-Herzégovine
+     * Bulgarie
+     * Chypre
+     * Croatie
+     * Danemark
+     * Espagne
+          + confinement
+     * Estonie
+     * Finlande
+     * France
+          + confinements
+          + couvre-feux
+          + journée nationale
+          + culture
+     * Géorgie
+     * Grèce
+     * Hongrie
+     * Irlande
+     * Islande
+     * Italie
+          + confinement
+          + journée nationale
+     * Kazakhstan
+     * Kosovo
+     * Lettonie
+     * Liechtenstein
+     * Lituanie
+     * Luxembourg
+     * Macédoine du Nord
+     * Malte
+     * Moldavie
+     * Monaco
+     * Monténégro
+     * Norvège
+     * Pays-Bas
+     * Pologne
+     * Portugal
+     * Roumanie
+     * Royaume-Uni
+          + confinements
+     * Russie
+     * Saint-Marin
+     * Serbie
+     * Slovaquie
+     * Slovénie
+     * Suède
+     * Suisse
+     * Tchéquie
+     * Turquie
+     * Ukraine
+     * Vatican
+
+   Océanie
+     * Australie
+     * Fidji
+     * Kiribati
+     * Îles Marshall
+     * États fédérés de Micronésie
+     * Nauru
+     * Nouvelle-Zélande
+     * Palaos
+     * Papouasie-Nouvelle-Guinée
+     * Îles Salomon
+     * Samoa
+     * Tonga
+     * Tuvalu
+     * Vanuatu
+
+   Antarctique
+     * Base General Bernardo O'Higgins
+
+   Navires
+     * Charles de Gaulle
+     * Diamond Princess
+     * Grand Princess
+     * USS Theodore Roosevelt
+     * MS Westerdam
+     * MS Zaandam
+
+   Recherches d'origines
+     * Phylogénie et implantation
+     * Origine du SARS-CoV-2
+          + Marché de gros de fruits de mer de Huanan
+          + Institut de virologie de Wuhan
+     * Chauve-souris
+     * Pangolins
+
+   Virologie
+     * Virus à ARN
+     * Cycle de réplication du SARS-CoV-2
+     * Tropisme du SARS-CoV-2
+     * Transmission de la Covid-19
+     * Réponse immunitaire face au SARS-CoV-2
+     * Variants
+          + Variants brésiliens
+          + Variants Kappa et Delta du SARS-CoV-2
+          + Variant Bêta du SARS-CoV-2
+     * Champignon noir
+     * Sotrovimab
+
+   Traitement médical
+     * Modes de transmission
+     * Traitement et gestion
+     * Symptômes
+     * Mortalité
+     * Chez le jeune enfant
+          + Syndrome inflammatoire multisystémique chez l'enfant
+     * Grossesse
+     * SARS-CoV-2 chez les animaux
+     * Épidémiologie comparative
+     * Test diagnostique
+          + Écouvillonnage nasopharyngé
+     * Traitements
+          + Développement de médicaments
+          + Solidarity
+          + Recovery
+          + Repositionnement
+     * Vaccins
+          + Politique
+          + Thrombose atypique liée à la vaccination
+     * Guérison
+     * Pseudo-traitements
+          + Controverse sur l'usage de l'hydroxychloroquine et
+            l'ivermectine
+     * Forme longue
+
+   Prévention et protection
+     * Politique vaccinale
+     * Aplatir la courbe
+     * Comportements-barrière
+     * Confinement
+     * Déconfinement
+     * Distanciation physique
+     * Immunité croisée
+     * Immunité grégaire
+     * Passeport sanitaire
+     * Port du masque
+          + chirurgical
+          + de protection
+               o FFP
+               o N95
+          + en tissu
+     * Recherche des contacts
+     * Solution hydroalcoolique
+
+   Institutions impliquées
+     * Organisation mondiale de la santé
+     * COVAX
+     * Commission nationale de la santé (Chine)
+     * CDC européen
+     * CDC américain
+     * CDC chinois
+     * CDC sud-coréen
+     * CDC taïwanais
+     * Hôpital de la Charité (Berlin)
+     * Institut Pasteur (Paris)
+     * Sciensano (Bruxelles)
+     * Université de Hong Kong
+     * Hôpital central de Wuhan
+     * Hôpital Huoshenshan
+     * Hôpital Leishenshan
+     * Access to COVID-19 Tools Accelerator
+
+   Personnalités
+     * D^r Tedros Adhanom (OMS)
+     * D^r Horacio Arruda (MSSS)
+     * D^r Christian Drosten (RFWUB)
+     * D^r Anthony Fauci (NIAID)
+     * D^r Ai Fen (lanceuse d'alerte)
+     * D^r George Gao (CCDC)
+     * D^r Daniel Koch (OFSP)
+     * D^r Didier Pittet (HUG)
+     * P^r Didier Raoult (AMU)
+     * D^r Theresa Tam (ASPC)
+     * D^r Özlem Türeci (BioNTech)
+     * D^r Li Wenliang^(/-) (lanceur d'alerte)
+     * D^r Guan Yi (HKU)
+     * Personnalités mortes de la maladie
+
+     * icône décorative Portail de la médecine
+     * icône décorative Portail de la sociologie
+     * icône décorative Portail du nettoyage et de l'hygiène
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Confinement_(mesure_sanita
+   ire)&oldid=226330146 ».
+
+   Catégories:
+     * Gestion des risques
+     * Isolement (soin de santé)
+     * Plan d'urgence
+     * Article incluant une approche sociologique
+
+   Catégories cachées:
+     * Article à internationaliser
+     * Page utilisant le modèle Extrait
+     * Portail:Médecine/Articles liés
+     * Portail:Biologie/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Sociologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Société/Articles liés
+     * Portail:Nettoyage et hygiène/Articles liés
+
+     * La dernière modification de cette page a été faite le 8 juin 2025 à
+       00:34.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d'autres
+       conditions peuvent s'appliquer. Voyez les conditions d'utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Confinement (mesure sanitaire)
+   (BUTTON) 42 langues Ajouter un sujet

@@ -1,0 +1,256 @@
+   #Understanding Society » Feed Understanding Society » Comments Feed
+   JSON oEmbed (JSON) oEmbed (XML)
+
+   Skip to content
+
+Main Navigation
+
+   Understanding Society
+     * Visit our twitter page
+     * Visit our Bluesky Page
+     * Visit our LinkedIn Page
+     * Visit our YouTube channel
+
+   (BUTTON) Search
+
+   MenuMenu
+     * Topics
+          + Biomarkers, genetics and epigenetics
+          + Covid-19
+          + Education
+          + Employment
+          + Ethnicity and immigration
+          + Family and households
+          + Health and wellbeing
+          + Housing
+          + Money and finances
+          + Politics and social attitudes
+          + Survey methods
+          + Transport and environment
+          + Young people
+     * Documentation
+          +
+               o
+                    # Surveys
+                         @ Main survey
+                         @ Innovation Panel
+                         @ COVID-19
+               o
+                    # Specialist datasets
+                         @ Calendar Year datasets
+                         @ Health and biomarkers
+                         @ Genetics and epigenetics (omics)
+                         @ Linked data
+                         @ Pregnancy and early childhood
+                         @ Teaching datasets
+               o
+                    # Access the data
+                         @ Data release information
+                         @ How to access the data
+                         @ Download the data
+                         @ Cite the data
+                         @ Access conditions
+     * Research
+          +
+               o
+                    # Survey methods and research
+                         @ Survey Methodology
+                         @ Understanding Society Working Paper Series
+                         @ ISER Working Paper Series
+                         @ Fellowship programme
+                         @ Visiting fellowship programme
+                         @ MSc Survey Methods
+                         @ Associated Studies
+               o
+                    # Findings
+                         @ Publications library
+                         @ Submit your research
+                         @ News
+                         @ Briefings
+               o
+                    # Policy & impact
+                         @ Our Impact
+                         @ Your impact
+                         @ Insights report
+                         @ Insights podcast
+                         @ Blog
+                         @ Events
+                         @ Help for policy users
+                         @ Policy and Partnerships Unit
+     * Participants
+     * About Us
+          +
+               o
+                    # The Study
+                         @ About the Study
+                         @ Governance
+                         @ Annual Report
+                         @ Study content
+                         @ Questionnaire development
+                         @ Meet the team
+                         @ Our participants
+                         @ Funders
+                         @ BHPS
+                         @ World wide household panel studies
+               o
+                    # Get involved
+                         @ Work with us
+                         @ Fellows
+                         @ Visiting fellowship programme
+                         @ Events
+                         @ Contact Us
+     * Help & Support
+          + Training
+          + Webinars
+          + Help for new users
+          + Help for experienced users
+          + Help for biological and social science users
+          + User Support Forum
+          + Data User Group
+          + YouTube Channel
+          + Glossary
+          + FAQs
+          + Contact User Support
+
+   Home
+   > News
+
+   News
+
+Lockdown has forced people to live for longer in unsuitable housing
+
+   24 November 2020
+     * Visit our twitter page
+     * Share on facebook
+     *
+
+   During the coronavirus pandemic much of the population have been
+   `staying home to save lives', but this has meant many people have been
+   stuck living in poor housing conditions
+   house
+
+   According to the latest housing report from the Resolution Foundation,
+   which used Understanding Society's COVID-19 data, - age, income and
+   ethnicity affected the quality of homes that people have been occupying
+   during lockdown.
+
+Key findings
+
+     * Younger age groups have spent lockdown in considerably poorer
+       housing conditions than those in older age brackets. Young people
+       have less space, are more likely to live in a damp home,  are more
+       likely to have no garden, or to live in a derelict or congested
+       neighbourhood than older generations.
+     * Within age groups, income and ethnicity are strongly corelated with
+       housing quality. The average low-income 55-64-year-old is more
+       likely to contend with damp, or to live in a problematic
+       neighbourhood, than the average 25-34-year-old in the highest
+       income bracket. And on average, those aged 55 and older from BAME
+       backgrounds occupy homes with 30 percent less useable space than
+       their white counterparts.
+     * One-in-five children from a low-income household has spent lockdown
+       in an overcrowded home, while close to 10 percent are growing up in
+       damp conditions. Nearly 40 percent of under-16s from BAME groups
+       have no obvious garden, and one-quarter live in an objectively
+       poor-quality environment.
+     * While housing quality has generally improved over time,
+       overcrowding has increased. This is an especially pronounced
+       problem for those with dependent children.
+     * The private-rented sector (PRS) is the tenure with the poorest
+       record on damp (8 percent of properties), while the social-rented
+       sector contains the largest proportion of households living in
+       overcrowded conditions (16 percent). The structural shift, whereby
+       many more young people and families with children live in the PRS
+       today than in the past, has played a large role in widening
+       intergenerational gaps in living conditions.
+
+   Housing conditions have had a stronger effect on well-being during the
+   pandemic. Even after controlling for key characteristics such as pay
+   and relationship status, the well-being gap between renters and owners
+   has widened over the lockdown period.
+
+   The researchers said in the report, "Decent living conditions are not
+   just a `nice to have': they have a profound influence on outcomes
+   including well-being, an effect this note shows has been amplified
+   during the lockdown period. Moreover, the inequalities in living
+   conditions we document here are far from natural. Instead, they are the
+   product of long-run housing trends such as tenure change, lack of
+   building and insufficient regulation of privately rented homes."
+
+   Read the full report
+   Covid 19Family and households
+
+What else is Understanding Society doing?
+
+   news
+   A family celebrating A family celebrating
+
+Understanding Society Wave 15
+
+   The latest wave of UKHLS is now available from the UK Data Service
+   10 Dec 2025
+
+   blog
+   Ariel view of a UK town Ariel view of a UK town
+
+Understanding Society Wave 15 - what can data users expect?
+
+   The latest wave of data is out, so what's included and what's changed
+   in this release?
+   10 Dec 2025
+
+   Case study
+   Photo of child on chair Photo of child on chair
+
+Authoritarian parents have negative effects on behaviour
+
+   A new `explainer' from Understanding Society sets out how the Welsh
+   Government has used Understanding Society data
+   03 Dec 2025
+
+   Case study
+   Photo of family walking their dog in the countryside Photo of family
+   walking their dog in the countryside
+
+Children's worries include good grades and rising prices
+
+   Children's average happiness is lower across six aspects of life in
+   2022/23 compared to 2009/10
+   30 Oct 2025
+
+Email newsletter
+
+   Sign up to our newsletter
+   ____________________
+   (BUTTON) Sign up!
+
+   ESRC Institute for Social and Economic Research University of Essex
+
+   The Economic and Social Research Council is the primary funder of the
+   study
+   The Study is led by a team at the Institute for Social and Economic
+   Research (ISER) at the University of Essex.
+     * Visit our twitter page
+     * Visit our Bluesky Page
+     * Visit our LinkedIn Page
+     * Visit our YouTube channel
+
+     * News
+     * Events
+     * Email sign up
+     * Information Security Policy
+     * Accessibility
+
+   (BUTTON) Close
+
+Search findings, outputs, variables ...
+
+   Search for:
+   ____________________ Search
+
+Alternative searches:
+
+     * Main Survey variables
+     * Innovation Panel Survey variables
+     * Covid-19 Survey variables
+     * Research Publications

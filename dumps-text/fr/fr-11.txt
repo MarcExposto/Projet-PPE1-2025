@@ -1,0 +1,575 @@
+   false
+
+   Veuillez-patienter...
+
+     Aller au contenu
+
+   Aide Accès sourds et malentendants
+   Thèmes
+   Recherche
+   accueil accueil
+   English
+   Presse
+   Menu
+     * Menu
+     * Blog
+     * Presse
+     * Aide
+     * Accès sourds et malentendants
+     * English
+
+   Veuillez-patienter... ____________________ (BUTTON) Lancer la recherche
+   sur le site Thèmes
+     *
+     * Statistiques et études
+       Cherchez vos statistiques par...
+          + Thèmes
+               o Économie - conjoncture - comptes nationaux
+               o Démographie
+               o Entreprises
+               o Plus de thèmes...
+          + Niveaux géographiques
+               o France
+               o Toutes les régions ou tous les départements
+               o Toutes les communes
+               o Plus de niveaux géographiques...
+          + Catégories
+               o Données
+               o Publications
+               o Plus de catégories...
+          + Collections
+               o Insee Première
+               o Notes et points de conjoncture
+               o Plus de collections...
+     * Définitions, méthodes et qualité
+          + Définitions
+               o Toutes les définitions des concepts
+          + Sources statistiques et indicateurs
+               o Liste des sources statistiques
+               o Liste des indicateurs
+               o Documentation complémentaire sur le recensement
+          + La qualité dans le Service statistique public (SSP)
+               o Le cadre de référence
+               o La gouvernance
+               o La politique et la stratégie qualité du SSP
+               o Les engagements européens
+          + Nomenclatures
+               o Nomenclature d'activités française
+               o Nomenclature agrégée - NA, 2008
+               o Classification des produits française
+               o Classification des fonctions de consommation des ménages
+               o Catégories juridiques
+               o Nomenclatures des professions et catégories
+                 socioprofessionnelles
+          + Géographie administrative et d'étude
+               o Recherche sur une zone géographique
+               o Téléchargement de fichiers
+               o Historique des communes
+          + Modèles, méthodes et outils statistiques
+               o Les modèles statistiques
+               o Les outils statistiques
+               o Méthodologie statistique
+          + Courrier des statistiques
+          + Offre de données ouvertes
+               o Le catalogue des données de l'Insee
+               o Le catalogue des API de l'Insee
+               o L'offre de données au travers de nos produits de
+                 diffusion
+               o Les formats de mise à disposition des données
+               o Nos données disponibles sur d'autres plateformes
+     * Services
+          + Réviser une pension, un loyer, bail ou contrat
+               o Réviser une pension alimentaire
+               o Réviser un loyer d'habitation
+               o Réviser un bail commercial ou professionnel
+               o Indexer un contrat
+               o Convertisseur franc-euro
+          + Consulter les indices et séries chronologiques
+               o Actualités des indices et séries chronologiques
+               o Accès des séries et indices chronologiques par thème
+               o Recherche par identifiant ou par mot-clé
+               o Service web SDMX
+               o Tables de passage
+          + Sirene
+               o Obtenir un avis de situation au répertoire Sirene
+               o Demander la modification de son statut de diffusion
+               o Demander la modification du code APE
+               o Immatriculation, cessation ou modification des données au
+                 répertoire Sirene
+               o Obtenir sa catégorie d'entreprise
+               o Consulter et télécharger la base Sirene
+               o Identifiant unique des intervenants sur les marchés
+                 financiers (LEI)
+               o Réponses à vos questions sur le répertoire Sirene
+          + Découvrir, apprendre, enseigner
+               o Pour commencer...
+               o Visualiser les données
+               o La Compétition européenne de statistiques
+               o Pour approfondir...
+          + Répondre à une enquête de l'Insee
+               o Enquêtes auprès des particuliers
+               o Enquêtes auprès des entreprises
+               o Vrai ou faux enquêteur de l'Insee, fraude, malveillance :
+                 comment vérifier ?
+          + S'informer sur l'actualité de notre diffusion
+               o Agenda de diffusion des indicateurs économiques
+               o Dernières publications de l'Insee
+               o Dernières publications des Services statistiques
+                 ministériels
+               o Évènements annoncés à la Une du site
+               o Thèmes d'actualité
+          + Gérer les répertoires des personnes physiques
+               o Recueil des données d'état civil
+               o Le Répertoire électoral unique
+               o Dématérialisation des échanges de données
+               o Nombre de décès quotidiens par département
+               o Fichiers des personnes décédées depuis 1970
+          + Bibliothèque de l'Insee Alain Desrosières
+               o Portail documentaire et catalogue
+               o La Bibliothèque numérique de la statistique publique
+          + Commander une prestation, acheter une publication
+               o Diffusion sur mesure
+               o Acheter nos publications
+          + Nous suivre
+               o Lettres d'information
+               o Abonnements aux lettres d'information et aux avis
+                 de parution
+               o Abonnement aux flux RSS
+               o L'Insee sur les médias sociaux
+               o Insee Mobile
+          + Aide et contacts
+               o Réponses à vos questions
+               o Obtenir des informations par téléphone
+          + Espace presse
+               o Événements presse
+               o Calendrier des publications
+               o Communiqués de presse nationaux
+               o Communiqués de presse régionaux
+               o Nominations
+     * L'Insee et la statistique publique
+          + L'Insee
+               o Connaître l'Insee
+               o Travailler à l'Insee
+               o Événements et colloques
+               o Un peu d'histoire
+               o Rapports d'activité
+          + Les activités de l'Insee
+               o Suivre l'économie française
+               o Connaître les entreprises
+               o Observer l'évolution de la société
+               o Réaliser le recensement de la population
+               o Décrire et analyser les régions et les territoires
+               o Gérer des grands répertoires
+               o Diffuser et valoriser ses productions
+               o Perfectionner ses méthodes et évaluer la qualité
+               o Contribuer à la construction de la statistique européenne
+                 et internationale
+          + La statistique publique
+               o Cadre juridique et institutionnel
+               o Le service statistique public
+               o Secret statistique
+               o Protection des données personnelles
+               o Règles de diffusion du SSP
+               o Accès aux documents administratifs
+          + La construction de la statistique européenne
+               o Les producteurs de statistiques européennes en France
+               o Textes juridiques de la gouvernance
+                 statistique européenne
+               o Les règlements cadres et sectoriels
+          + Mesure de la qualité de service
+               o Les indicateurs de qualité du programme Transparence
+               o Résultats des enquêtes de satisfaction
+          + Services Publics+ : un service public plus proche, plus
+            simple, plus efficace
+
+    1. Accueil
+    2. Statistiques et études
+    3. Pendant les périodes de confinement, un tiers des personnes de
+       18 ans ou plus ont échangé tous les jours avec leur famille
+
+Insee
+
+   Insee Focus · Avril 2022 · n° 265
+   Insee Focus Pendant les périodes de confinement, un tiers des personnes
+   de 18 ans ou plus ont échangé tous les jours avec leur famille
+
+   Marie Clerc, Amandine Nougaret (Insee)
+
+   Pendant les périodes particulières des confinements liés à l'épidémie
+   de Covid-19, une personne majeure sur dix résidant en France
+   métropolitaine déclare avoir éprouvé un sentiment d'abandon permanent
+   ou récurrent. Les femmes sont deux fois plus nombreuses que les hommes
+   à en faire état.
+
+   Trois personnes sur dix déclarent avoir eu besoin d'aide entre mars
+   2020 et octobre 2021. Dans la grande majorité des cas, l'aide attendue
+   relevait d'un soutien moral (79 %) et dans une moindre mesure, d'une
+   aide matérielle ou financière (respectivement 26 % et 18 %). Près des
+   trois quarts des personnes ayant eu besoin d'aide ont sollicité leur
+   entourage pour l'obtenir et, parmi elles, presque toutes l'ont
+   effectivement reçue.
+
+   Les périodes de confinement ont, par ailleurs, amené à adapter les
+   modes de communication avec ses proches. Ainsi, un tiers des personnes
+   de 18 ans ou plus ont échangé tous les jours avec leur famille pendant
+   les périodes de confinement, contre un peu plus d'un quart avant la
+   crise sanitaire et après juillet 2021. Les liens avec la famille se
+   sont ainsi maintenus. En revanche, les échanges avec les amis et
+   voisins sont moins fréquents à l'automne 2021 qu'avant mars 2020.
+   Insee Focus
+   N^o 265
+   Paru le :Paru le25/04/2022
+   Imprimer
+   Découvrir la collection
+   Données
+   (xlsx, 22 Ko)
+
+     * Consulter
+     * Documentation
+
+   Consultation de la publication ou de la documentation qui lui est
+   associée [Consulter____]
+   Sommaire
+    1. Une personne sur dix a éprouvé un sentiment d'abandon permanent ou
+       récurrent pendant les confinements
+    2. 94 % des personnes ayant demandé de l'aide à leurs proches depuis
+       le début de la crise sanitaire l'ont obtenue
+    3. Des liens maintenus avec les proches grâce aux contacts à distance
+       pendant les périodes de confinement
+
+Une personne sur dix a éprouvé un sentiment d'abandon permanent ou récurrent
+pendant les confinements
+
+   Les périodes de confinement liées à la pandémie de Covid-19 (17 mars -
+   10 mai 2020, 30 octobre - 14 décembre 2020 et 3 avril - 2 mai 2021) ont
+   durement mis à l'épreuve la santé mentale des habitants. Ainsi, une
+   personne majeure sur dix déclare avoir éprouvé un sentiment d'abandon
+   permanent ou récurrent pendant ces périodes (sources ; figure 1). Par
+   ailleurs, trois personnes sur dix ont éprouvé ce même sentiment
+   d'abandon mais de manière ponctuelle. Ainsi, quatre personnes sur dix
+   expriment s'être senties, parfois ou souvent, voire en permanence,
+   perdues ou abandonnées pendant les trois confinements. Ce mal-être est
+   parfois durable : près d'un quart des personnes qui se sont senties
+   perdues ou abandonnées de façon récurrente ou permanente pendant les
+   confinements ont déclaré l'avoir été de nouveau au cours des quatre
+   semaines précédant l'enquête, en octobre 2021.
+     * Graphique
+     * Tableau
+
+   Affichage de l'onglet contenant le tableau ou de l'onglet contenant le
+   graphique[Graphique -Figure 1 - Sentiment d'abandon pendant les période
+   s de confinement]
+
+tableauFigure 1 - Sentiment d'abandon pendant les périodes de confinement
+
+   en %
+
+   CAPTION: Figure 1 - Sentiment d'abandon pendant les périodes de
+   confinement (en %) - Lecture : 11 % des personnes de 18 ans ou plus ont
+   éprouvé un sentiment d'abandon récurrent ou permanent pendant les
+   périodes de confinement.
+
+                                      Femmes Hommes Ensemble
+   Sentiment récurrent ou permanent^1 15     7      11
+          Sentiment ponctuel^2        37     23     31
+     N'a jamais éprouvé ce sentiment  48     70     58
+                  Total               100    100    100
+     * 1. Personnes ayant répondu « En permanence », « Très souvent » ou
+       « Souvent » à la question « Vous est-il arrivé de vous sentir
+       perdu(e), abandonné(e) ? ».
+     * 2. Personnes ayant répondu « Quelques fois » ou « Rarement » à la
+       question « Vous est-il arrivé de vous sentir perdu(e),
+       abandonné(e) ? ».
+     * Lecture : 11 % des personnes de 18 ans ou plus ont éprouvé un
+       sentiment d'abandon récurrent ou permanent pendant les périodes
+       de confinement.
+     * Champ : France métropolitaine, personnes âgées de 18 ans ou plus
+       résidant en logement ordinaire.
+     * Source : Insee, enquête Camme d'octobre 2021.
+
+graphiqueFigure 1 - Sentiment d'abandon pendant les périodes de confinement
+
+     * 1. Personnes ayant répondu « En permanence », « Très souvent » ou
+       « Souvent » à la question « Vous est-il arrivé de vous sentir
+       perdu(e), abandonné(e) ? ».
+     * 2. Personnes ayant répondu « Quelques fois » ou « Rarement » à la
+       question « Vous est-il arrivé de vous sentir perdu(e),
+       abandonné(e) ? ».
+     * Lecture : 11 % des personnes de 18 ans ou plus ont éprouvé un
+       sentiment d'abandon récurrent ou permanent pendant les périodes
+       de confinement.
+     * Champ : France métropolitaine, personnes âgées de 18 ans ou plus
+       résidant en logement ordinaire.
+     * Source : Insee, enquête Camme d'octobre 2021.
+
+   Les femmes sont nettement plus nombreuses que les hommes à avoir
+   éprouvé ce sentiment d'abandon pendant les périodes de confinement. Une
+   femme sur deux indique s'être sentie perdue ou abandonnée, contre trois
+   hommes sur dix. Elles sont également deux fois plus nombreuses que ces
+   derniers à déclarer un sentiment d'abandon récurrent ou permanent (15 %
+   des femmes se sont senties souvent, très souvent, voire en permanence
+   abandonnées, contre 7 % des hommes). Si le genre est le principal
+   déterminant de ce ressenti, d'autres facteurs entrent aussi en jeu
+   comme la composition familiale ou les conditions de logement. Les
+   personnes seules et les parents de famille monoparentale ont été plus
+   touchés : respectivement 17 % et 15 % d'entre eux indiquent avoir eu ce
+   sentiment de manière récurrente ou permanente. À l'inverse, le fait
+   d'appartenir à un ménage aisé et le fait de disposer d'un espace
+   extérieur diminuent le risque d'avoir eu cette impression de manière
+   récurrente ou permanente. Seules 6 % des personnes appartenant aux
+   ménages les plus aisés ont éprouvé un sentiment d'abandon, contre 22 %
+   de celles appartenant aux ménages les plus modestes. 10 % des personnes
+   disposant d'un espace extérieur ont déclaré un tel sentiment récurrent
+   voire permanent, contre 19 % de celles qui n'en avaient pas.
+
+94 % des personnes ayant demandé de l'aide à leurs proches depuis le début de
+la crise sanitaire l'ont obtenue
+
+   Le désarroi ou la détresse liés à cette période se retrouvent aussi
+   dans la part de personnes déclarant avoir eu besoin d'aide. Entre mars
+   2020 et octobre 2021, 30 % des personnes de 18 ans ou plus ont éprouvé
+   le besoin d'avoir de l'aide de leur famille ou de leur entourage hors
+   famille (amis, voisins, etc.). Cette attente était majoritairement
+   celle d'un soutien moral (79 %), puis, dans une moindre mesure, d'une
+   aide matérielle (26 %) ou financière (18 %). Ce besoin d'aide est,
+   toutes choses égales par ailleurs (méthode), plus souvent exprimé par
+   les femmes (2,5 fois plus que les hommes), par les personnes vivant
+   seules ou avec des enfants (respectivement 1,9 et 1,6 fois plus que les
+   couples sans enfant), par celles appartenant aux ménages les plus
+   modestes (1,4 fois plus que les ménages médians) et par les personnes
+   de moins de 45 ans (entre 1,4 et 1,6 fois plus suivant la classe d'âge
+   par rapport aux 45-55 ans).
+
+   Les ménages ont majoritairement pu compter sur leurs proches. Près des
+   trois quarts des personnes ayant eu besoin d'aide ont sollicité leur
+   entourage pour obtenir cette aide. Parmi elles, 94 % l'ont obtenue.
+
+   La solidité de cette solidarité ressort encore à l'automne 2021 : 92 %
+   des personnes de 18 ans ou plus pensent pouvoir compter sur quelqu'un,
+   de manière certaine ou probable, pour recevoir du soutien moral, 86 %
+   pensent pouvoir compter sur leurs proches pour une aide matérielle non
+   financière et 73 % pour une aide financière.
+
+Des liens maintenus avec les proches grâce aux contacts à distance pendant
+les périodes de confinement
+
+   Les périodes de confinement, limitant voire interdisant les rencontres,
+   ont amené à adapter les relations avec ses proches. Durant ces
+   périodes, les liens familiaux se sont resserrés via d'autres moyens que
+   les rencontres en échangeant par exemple par téléphone, messagerie
+   (mail, SMS), visioconférence ou courrier. Ainsi, pendant les périodes
+   de confinement, un tiers des personnes de 18 ans ou plus ont échangé
+   tous les jours avec leur famille (en dehors des personnes vivant avec
+   elles), contre un peu plus du quart avant la crise sanitaire et après
+   juillet 2021 (figure 2). Les femmes, déjà plus nombreuses que les
+   hommes à communiquer quotidiennement avec leur famille avant la
+   pandémie (35 %, contre 19 % des hommes), l'ont également été pendant
+   les périodes de confinement (respectivement 44 % et 23 %).
+   Cette intensification des contacts familiaux à distance ne s'observe
+   plus après les confinements, les rencontres étant à nouveau possibles.
+   Entre juillet et octobre 2021, la part des personnes déclarant
+   communiquer quotidiennement avec leur famille est à des niveaux proches
+   de ceux observés avant la crise, respectivement 33 % pour les femmes et
+   18 % pour les hommes. La part des personnes ayant quotidiennement
+   rencontré leur famille entre juillet et octobre 2021 est également
+   comparable à celle observée avant la crise sanitaire (respectivement
+   10 % pour les femmes et autour de 5-6 % pour les hommes).
+
+tableauFigure 2 - Communications ou rencontres quotidiennes avec la famille
+ou l'entourage selon la période
+
+   en %
+
+   CAPTION: Figure 2 - Communications ou rencontres quotidiennes avec la
+   famille ou l'entourage selon la période (en %) - Lecture : pendant les
+   périodes de confinement, 44 % des femmes de 18 ans ou plus ont
+   communiqué quotidiennement avec leur famille (en dehors des personnes
+   vivant dans leur ménage).
+
+   Communications quotidiennes Rencontres quotidiennes
+   Avant la crise sanitaire Pendant les périodes de confinement Entre
+   juillet et octobre 2021 Avant la crise sanitaire Pendant les périodes
+   de confinement Entre juillet et octobre 2021
+   Avec la famille (en dehors des personnes vivant dans le ménage)
+   Femmes 35,0 44,0 33,0 10,2 /// 10,1
+   Hommes 19,0 23,0 18,0 6,5 /// 5,3
+   Ensemble 27,5 34,3 26,3 8,5 /// 7,9
+   Avec l'entourage (amis, voisins, etc.)
+   Femmes 17,5 21,4 15,0 9,4 /// 7,5
+   Hommes 17,7 15,5 13,9 9,0 /// 8,1
+   Ensemble 17,5 18,6 14,5 9,2 /// 7,8
+     * /// : absence de résultat due à la nature des choses.
+     * Lecture : pendant les périodes de confinement, 44 % des femmes de
+       18 ans ou plus ont communiqué quotidiennement avec leur famille (en
+       dehors des personnes vivant dans leur ménage).
+     * Champ : France métropolitaine, personnes âgées de 18 ans ou plus
+       résidant en logement ordinaire.
+     * Source : Insee, enquête Camme d'octobre 2021.
+
+   À l'inverse, les échanges quotidiens avec l'entourage (hors famille)
+   ont peu évolué pendant les périodes de confinement : 18 % des personnes
+   de 18 ans ou plus échangeaient quotidiennement avant la crise
+   sanitaire ; ils étaient 19 % à le faire pendant les périodes de
+   confinement. Les femmes ont été un peu plus nombreuses que les hommes à
+   communiquer quotidiennement avec leurs amis ou leurs voisins pendant le
+   confinement (21 % contre 16 %). Femmes et hommes ont ensuite un peu
+   espacé ces contacts au profit des rencontres. Ainsi, la part de celles
+   et ceux en contact quotidien à distance avec leurs amis ou leurs
+   voisins diminue à l'été 2021 (15 % pour les femmes et 14 % pour les
+   hommes). Si la part des hommes ayant quotidiennement passé du temps
+   avec leur entourage (hors famille) a peu évolué (passant de 9 % avant
+   la crise sanitaire à 8 % entre juillet et octobre 2021), les femmes
+   ont, quant à elles, moins fréquemment rencontré leur entourage (hors
+   famille) chaque jour (un peu moins de 8 % entre juillet et octobre
+   2021, contre un peu plus de 9 % avant la crise sanitaire).
+
+   Pour les personnes qui avaient des rencontres plus rares avec leurs
+   amis et voisins avant mars 2020, la fréquence de ces échanges a
+   diminué : chez les hommes comme chez les femmes, la part des personnes
+   ayant rencontré moins d'une fois par mois leur entourage (hors famille)
+   a augmenté, passant respectivement de 6 % à 12 % pour les hommes et de
+   8 % à 12 % pour les femmes.
+   Publication rédigée par :Marie Clerc, Amandine Nougaret (Insee)
+   Publication rédigée par :Marie Clerc, Amandine Nougaret (Insee)
+
+Sources
+
+   Afin de suivre l'opinion des ménages habitant en France métropolitaine
+   sur leur environnement économique et sur leur situation personnelle,
+   l'Insee réalise une enquête mensuelle de conjoncture auprès des
+   ménages (Camme).
+
+   En octobre 2021, le questionnaire a été complété de questions sur les
+   relations sociales ou les sentiments vécus avant la crise sanitaire
+   liée à la pandémie de Covid-19, pendant les périodes de confinement, ou
+   encore depuis juillet 2021. 1 576 personnes de 18 ans ou plus ont
+   répondu à l'enquête en France métropolitaine.
+
+Méthodes
+
+   L'analyse toutes choses égales par ailleurs, fondée sur une régression,
+   est une méthode qui vise à démêler l'effet des différentes variables
+   affectant un phénomène. Par exemple, elle permet de mesurer l'effet du
+   genre sur le sentiment d'abandon, à niveau d'âge ou de configuration
+   familiale donnés, en tenant compte du fait que les plus âgés sont plus
+   souvent des femmes.
+
+Définitions
+
+   Les ménages les plus modestes correspondent aux 20 % des ménages ayant
+   le revenu corrigé du nombre d'unités de consommation le plus faible (ou
+   premier cinquième) et les ménages les plus aisés correspondent à ceux
+   ayant les 20 % des revenus les plus élevés. Les ménages médians
+   correspondent aux ménages dont le revenu corrigé est situé entre 40 et
+   60 % sur la distribution des revenus (soit le troisième cinquième).
+   Les revenus mensuels renseignés dans l'enquête Camme sont déclarés
+   spontanément par l'enquêté lors de la collecte. Les précisions
+   suivantes peuvent être apportées par l'enquêteur : « Prendre en compte
+   tous les types de revenus : salaires, pensions de retraite, allocations
+   chômage, prestations familiales, etc. Il faut indiquer le montant avant
+   prélèvement de l'impôt à la source ». Ces données déclaratives
+   correspondraient davantage à un revenu primaire ou à un salaire, plutôt
+   qu'au revenu disponible mesuré habituellement.
+   Pour comparer les revenus de ménages de compositions différentes, le
+   revenu est divisé par le nombre d'unités de consommation (UC) : 1 UC
+   pour le premier adulte du ménage, 0,5 UC pour les autres personnes de
+   14 ans ou plus, 0,3 UC pour les enfants de moins de 14 ans.
+
+   Les ménages les plus modestes correspondent aux 20 % des ménages ayant
+   le revenu corrigé du nombre d'unités de consommation le plus faible (ou
+   premier cinquième) et les ménages les plus aisés correspondent à ceux
+   ayant les 20 % des revenus les plus élevés. Les ménages médians
+   correspondent aux ménages dont le revenu corrigé est situé entre 40 et
+   60 % sur la distribution des revenus (soit le troisième cinquième).
+   Les revenus mensuels renseignés dans l'enquête Camme sont déclarés
+   spontanément par l'enquêté lors de la collecte. Les précisions
+   suivantes peuvent être apportées par l'enquêteur : « Prendre en compte
+   tous les types de revenus : salaires, pensions de retraite, allocations
+   chômage, prestations familiales, etc. Il faut indiquer le montant avant
+   prélèvement de l'impôt à la source ». Ces données déclaratives
+   correspondraient davantage à un revenu primaire ou à un salaire, plutôt
+   qu'au revenu disponible mesuré habituellement.
+   Pour comparer les revenus de ménages de compositions différentes, le
+   revenu est divisé par le nombre d'unités de consommation (UC) : 1 UC
+   pour le premier adulte du ménage, 0,5 UC pour les autres personnes de
+   14 ans ou plus, 0,3 UC pour les enfants de moins de 14 ans.
+
+Pour en savoir plus
+
+   Retrouvez plus de données en téléchargement sur www.insee.fr
+
+   Fiche « Relations sociales », in France, Portrait social, coll.
+   « Insee Références », édition 2020.
+
+   Gleizes F., Grobon S., Legleye S., « 3 % des individus isolés de leur
+   famille et de leur entourage : un cumul de difficultés socioéconomiques
+   et de mal-être », Insee Première n° 1770, septembre 2019.
+
+   [ancienLogoInsee.svg]
+   Institut national de la statistique et des études économiques
+   88 avenue Verdier, 92541 Montrouge Cedex
+   Direction de la publication : Fabrice Lenglart
+
+     * Nos sites partenaires
+
+     * Système Statistique Européen
+     * Réseau Quetelet
+     * Centre d'Accès Sécurisé Distant aux données (CASD)
+     * site data.gouv
+     * Services Publics +
+
+Abonnez-vous
+
+   Avis de parution
+
+Nous suivre
+
+Contact
+
+   Aide et contact
+     * Statistiques et études
+     * Définitions, méthodes et qualité
+          + Définitions
+          + Sources statistiques et indicateurs
+          + La qualité dans le Service statistique public (SSP)
+          + Nomenclatures
+          + Géographie administrative et d'étude
+          + Modèles, méthodes et outils statistiques
+          + Courrier des statistiques
+          + Offre de données ouvertes
+     * Services
+          + Réviser une pension, un loyer, bail ou contrat
+          + Consulter les indices et séries chronologiques
+          + Sirene
+          + Découvrir, apprendre, enseigner
+          + Répondre à une enquête de l'Insee
+          + S'informer sur l'actualité de notre diffusion
+          + Gérer les répertoires des personnes physiques
+          + Bibliothèque de l'Insee Alain Desrosières
+          + Commander une prestation, acheter une publication
+          + Nous suivre
+          + Aide et contacts
+          + Espace presse
+     * L'Insee et la statistique publique
+          + L'Insee
+          + Les activités de l'Insee
+          + La statistique publique
+          + La construction de la statistique européenne
+          + Mesure de la qualité de service
+          + Services Publics+ : un service public plus proche, plus
+            simple, plus efficace
+
+     * Système Statistique Européen
+     * Réseau Quetelet
+     * Centre d'Accès Sécurisé Distant aux données (CASD)
+     * site data.gouv
+     * Services Publics +
+
+     * Mentions légales et crédits
+     * Conditions d'utilisation de nos données
+     * Accessibilité : partiellement conforme
+     * Accès sourds et malentendants
+     * Sécurité
+     * Plan du site
+
+   Haut de page
