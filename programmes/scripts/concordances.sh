@@ -18,8 +18,6 @@ CheminFichierTexte=$1
 TailleFenetre=$2
 MotCible=$3
 
-printf "%s\t%s\t%s\n" "Contexte Gauche" "Mot Cible" "Contexte Droit"
-
 LignesOccurrences=$(egrep "${MotCible}" "${CheminFichierTexte}")
 
 while read -r line; do

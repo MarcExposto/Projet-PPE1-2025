@@ -12,7 +12,7 @@ mkdir -p "${CheminRacineProjet}/tableaux"
 # Générer le tableau anglais
 FichierUrls="../URLs/en.txt"
 Langue="en"
-MotCible="lockdowns\?"
+MotCible="lockdowns?"
 ${CheminRacineProjet}/programmes/pipeline.sh "${FichierUrls}" "${Langue}" "${MotCible}" >"${CheminRacineProjet}/tableaux/tableau_urls_${Langue}.tsv"
 
 Titre="Tableau récapitulatif pour les URLs séléctionnées pour l'anglais"
@@ -23,7 +23,7 @@ printf "${Tableau}" | awk -f ${CheminRacineProjet}/programmes/awk/formater_page.
 # Générer le tableau français
 FichierUrls="../URLs/fr.txt"
 Langue="fr"
-MotCible="confinements\?"
+MotCible="confinements?"
 ${CheminRacineProjet}/programmes/pipeline.sh "${FichierUrls}" "${Langue}" "${MotCible}" >"${CheminRacineProjet}/tableaux/tableau_urls_${Langue}.tsv"
 
 Titre="Tableau récapitulatif pour les URLs séléctionnées pour le français"

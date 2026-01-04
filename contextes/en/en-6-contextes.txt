@@ -1,0 +1,151 @@
+   Logo
+
+     * Home
+     * Solutions for Higher Education
+          + LockDown Browser
+          + Respondus Monitor
+          + Respondus 4
+          + StudyMate Campus
+          + Test Bank Network
+     * Solutions for K-12
+          + LockDown Browser
+          + StudyMate Campus
+          + Respondus 4.0
+     * Partnerships
+          + SDK Licensing
+--
+     * Admin Login
+
+   Solutions for Higher Ed
+
+     * LockDown Browser
+     * Respondus Monitor
+     * StudyMate Campus
+     * Respondus 4
+     * Test Bank Network
+
+LockDown Browser
+     __________________________________________________________________
+
+Prevent cheating during online exams
+
+     * Overview
+     * Pricing + Free Trial
+     * Resources
+
+   LockDown Browser^® is a custom browser that locks down the testing
+   environment within a learning management system. Used at over 2000
+   higher educational institutions, LockDown Browser is the "gold
+   standard" for securing online exams in classrooms or proctored
+   environments.
+   [lockdown-icon-2@3x.png]
+
+   Locks down student computers to prevent cheating during exams
+
+   Locks down student computers to prevent cheating during exams
+
+   LockDown Browser's name says it all: it "locks down" the browser on a
+   computer or tablet. Students are unable to copy, print, access other
+   applications, or visit other websites during an online exam. LockDown
+   Browser also blocks hundreds of common and advanced methods of digital
+   cheating, such as the use of Virtual Machines, remote desktops,
+   screensharing, instant messaging, screen recording, keystroke
+   combinations, launching applications with timers/alerts, browser cache
+--
+   Integrates seamlessly with Learning Management Systems
+
+   Integrates seamlessly with Learning Management Systems
+
+   LockDown Browser integrates seamlessly with Blackboard, Brightspace,
+   Canvas, Moodle, Sakai and Schoology. Over 2,000 institutions use
+   LockDown Browser with their LMS, making it one of the leading
+   third-party tools for learning systems.
+   [licensing-icon@3x.png]
+
+   Annual licensing allows unlimited use at your institution
+
+   Annual licensing allows unlimited use at your institution
+
+   LockDown Browser offers transparent pricing and a free 2-month trial.
+   Annual licensing provides unlimited use of LockDown Browser at your
+   institution.
+   See pricing or start a free trial
+
+How LockDown Browser Works
+
+     * Assessments are displayed full-screen and cannot be minimized
+     * Browser menu and toolbar options are removed, except for Back,
+       Forward, Refresh and Stop
+--
+     * Right-click menu options, function keys, keyboard shortcuts and
+       task switching are disabled
+     * An assessment cannot be exited until the student submits it for
+       grading
+     * Assessments that are set up for use with LockDown Browser cannot be
+       accessed with other browsers
+
+LockDown Browser Overview Video
+
+   Watch a brief introductory video that explains how LockDown Browser
+   works from the student perspective
+   Watch the Overview Video
+
+LockDown Browser by the Numbers...
+
+   LDB Numbers 2
+
+   [webcam-solid.png]
+
+Respondus Monitor for Non-Proctored Exams
+
+   Annual licensing of LockDown Browser includes 200 free seats of
+   Respondus Monitor,
+   a fully automated online proctoring solution that adds webcam
+   technology to LockDown Browser.
+   Learn More about Respondus Monitor.
+
+Learn More about LockDown Browser
+
+Taking on ChatGPT with a Quiz
+
+   Using LockDown Browser with essay questions.
+
+LockDown Browser^® vs. "Locked Browser" Extensions
+
+   Here's how LockDown Browser compares to a locked browser extension.
+
+10 Reasons to use LockDown Browser
+
+   Learn some of the key benefits of using LockDown Browser in proctored
+   labs.
+
+Accessibility + LockDown Browser
+
+   Everyone should be able to access LockDown Browser in a seamless way.
+   We're committed to making that a reality.
+
+Attend a free webinar
+
+   See in-depth demos, hear from users, and more.
+   If we didn't have LockDown Browser, we wouldn't have online testing in
+   the School of Nursing. It's as simple as that.
+
+   Anita Kinser Maradiaga
+   Riverside City College
+--
+     * Privacy
+     * Legal
+
+     * Respondus for Higher Ed
+     * LockDown Browser
+     * Respondus Monitor
+     * Respondus 4
+     * StudyMate Campus
+     * Test Bank Network
+
+     * Respondus for K-12
+     * LockDown Browser
+     * Respondus 4
+     * StudyMate Campus
+
+     * Partnerships

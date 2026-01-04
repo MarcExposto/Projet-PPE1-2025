@@ -34,7 +34,7 @@ mkdir -p \
   "${CheminRacineProjet}/dumps-tokenises/${Langue}" \
   "${CheminRacineProjet}/bigrammes/${Langue}" \
   "${CheminRacineProjet}/contextes/${Langue}" \
-  "${CheminRacineProjet}/concordances/${Langue}" \
+  "${CheminRacineProjet}/concordances/" \
   "${CheminRacineProjet}/coocurrents" \
   "${CheminRacineProjet}/tableaux" \
   "${CheminRacineProjet}/images"
@@ -64,6 +64,10 @@ tokenizer() {
 
 # Taille de la fenêtre contextuelle pour le concordancier
 TailleFenetre=5
+
+# Entête du concordancier
+CheminFichierConcordances="${CheminRacineProjet}/concordances/concordancier_${Langue}.tsv"
+printf "%s\t%s\t%s\n" "Contexte Gauche" "Mot Cible" "Contexte Droit" >"${CheminFichierConcordances}"
 
 # Génération du tableau (tsv)
 id=1
@@ -129,8 +133,9 @@ while read -r line; do
   CheminFichierContextes="${CheminRacineProjet}/contextes/${Langue}/${Langue}-${id}-contextes.txt"
   egrep -C 4 -i "${MotCible}" "${CheminFichierTexte}" >"${CheminFichierContextes}"
 
-  CheminFichierConcordances="${CheminRacineProjet}/concordances/${Langue}/${Langue}-${id}-concordances.tsv"
-  concordances "${CheminFichierTexte}" "${TailleFenetre}" "${MotCible}" >"${CheminFichierConcordances}"
+  # Ajout des concordances obtenues pour l'url courante dans le concordancier tsv
+  Concordancier_url_courante=$(concordances "${CheminFichierTexte}" "${TailleFenetre}" "${MotCible}")
+  printf "${Concordancier_url_courante}" >>"${CheminFichierConcordances}"
 
   printf "${id}\t<a href=${Url}>${Url}</a>\t${Robots}\t${CodeHTTP}\t${Encodage}\t<a href=${CheminFichierAspiration}>Lien page brute</a>\t<a href=${CheminFichierTexte}>Lien dump</a>\t${NbMots}\t${NbOccurrences}\t<a href=${CheminFichierConcordances}>Lien Concordancier</a>\n"
 

@@ -1,0 +1,239 @@
+            simple, plus efficace
+
+    1. Accueil
+    2. Statistiques et études
+    3. Conditions de vie pendant le confinement : des écarts selon le
+       niveau de vie et la catégorie socioprofessionnelle
+
+Insee Focus Conditions de vie pendant le confinement : des écarts selon le
+niveau de vie et la catégorie socioprofessionnelle
+
+   Valérie Albouy, Stéphane Legleye (département des ressources et des
+   conditions de vie des ménages, Insee)
+
+   Le confinement sanitaire lié à l'épidémie de Covid-19 a duré près de
+   deux mois, du 17 mars au 11 mai 2020, et a profondément modifié les
+   conditions de vie. Un tiers des personnes en emploi a subi une
+   restriction d'activité susceptible de réduire le revenu du travail,
+   dont 27 % une période de chômage technique ou partiel. 34 % des
+--
+   enfant de moins de 14 ans ont eu des difficultés à assurer leur suivi
+   scolaire.
+
+   20 % des personnes disent que la situation financière de leur ménage
+   s'est dégradée. Les conséquences négatives du confinement ont été plus
+   fréquentes pour les personnes aux revenus modestes, qui ont aussi perçu
+   cette période comme plus pénible et pour les femmes. Celles-ci ont,
+   plus que les hommes, réduit leur activité professionnelle et consacré
+   du temps à leurs enfants mais aussi cumulé quotidiennement plus de
+--
+    4. Les femmes ont assuré une grande part de la prise en charge des
+       enfants
+    5. La situation financière des plus modestes s'est plus souvent
+       dégradée
+    6. Les personnes seules jugent le confinement plus pénible
+
+Davantage de restrictions d'activité professionnelle pour les ouvriers
+
+   Le confinement lié à l'épidémie de Covid-19 a eu de fortes conséquences
+   sur l'activité professionnelle (sources). Parmi les personnes en
+   emploi, 27 % déclarent avoir subi une période de chômage technique ou
+   partiel et 1 % avoir vu leur contrat de travail non renouvelé. En
+   outre, 8 % déclarent un arrêt de travail ou une autorisation spéciale
+--
+     * Source : Insee, enquête Camme, mai 2020.
+
+Davantage de télétravail pour les cadres
+
+   Le confinement a aussi eu des conséquences importantes sur les
+   modalités de travail. Si 35 % des personnes en emploi ont continué à se
+   rendre sur leur lieu de travail, 34 % ont télétravaillé.
+
+   Le fait d'avoir télétravaillé est très lié à la catégorie sociale :
+   58 % des cadres et professions intermédiaires ont télétravaillé, contre
+   20 % des employés et 2 % des ouvriers. Ceci s'est traduit par des
+   conditions de travail très différentes selon le niveau de vie : 21 %
+   des personnes les plus modestes (1<r> quintile de niveau de vie) ont
+   télétravaillé pendant le confinement contre 53 % des plus aisés
+   (dernier quintile). À l'inverse, les personnes les plus modestes ont
+   davantage continué à aller travailler sur site (figure 2). Ce fut en
+   particulier le cas des ouvriers (53 %), devant les employés (41 %),
+   agriculteurs, chefs d'entreprise et indépendants (40 %), les cadres et
+--
+     * Graphique
+     * Tableau
+
+   Affichage de l'onglet contenant le tableau ou de l'onglet contenant le
+   phique -Figure 3 - Perception du confinement comme pément comme pénible
+    et difficultés de suivi scolaire selon le niveau de vie]
+
+tableauFigure 3 - Perception du confinement comme pénible et difficultés de
+suivi scolaire selon le niveau de vie
+
+   en %
+
+   CAPTION: Figure 3 - Perception du confinement comme pénible et
+   difficultés de suivi scolaire selon le niveau de vie (en %)
+
+                 Pénible¹ Difficultés de suivi scolaire²
+   1<r> quintile 37       49
+--
+    3 quintile   24       36
+    4 quintile   26       20
+    5 quintile   17       25
+     * 1. Note supérieure ou égale à 7 à la question « À quel point la
+       période de confinement vous a paru pénible (sur une échelle de
+       0, pas du tout pénible, à 10, extrêmement pénible) ? ».
+     * 2. Parmi les ménages ayant des enfants de 14 ans ou moins.
+     * Champ : France métropolitaine, personnes de 15 ans ou plus.
+     * Source : Insee, enquête Camme, mai 2020.
+
+graphiqueFigure 3 - Perception du confinement comme pénible et difficultés de
+suivi scolaire selon le niveau de vie
+
+     * 1. Note supérieure ou égale à 7 à la question « À quel point la
+       période de confinement vous a paru pénible (sur une échelle de
+       0, pas du tout pénible, à 10, extrêmement pénible) ? ».
+     * 2. Parmi les ménages ayant des enfants de 14 ans ou moins.
+     * Champ : France métropolitaine, personnes de 15 ans ou plus.
+     * Source : Insee, enquête Camme, mai 2020.
+
+La situation financière des plus modestes s'est plus souvent dégradée
+
+   20 % des personnes estiment que la situation financière de leur foyer
+   s'est dégradée durant le confinement, 72 % qu'elle n'a pas changé et
+   7 % qu'elle s'est améliorée. Les personnes les plus modestes
+   (1<r> quintile de niveau de vie) déclarent plus souvent que leur
+   situation financière s'est dégradée pendant la période : 30 % contre
+   11 % pour celles du dernier quintile (figure 4). Parmi les personnes en
+--
+     * Tableau
+
+   Affichage de l'onglet contenant le tableau ou de l'onglet contenant le
+   phique -Figure 4 - Perception d'une situation finsituation financière d
+   égradée durant le confinement selon le niveau de vie]
+
+tableauFigure 4 - Perception d'une situation financière dégradée durant le
+confinement selon le niveau de vie
+
+   en %
+
+   CAPTION: Figure 4 - Perception d'une situation financière dégradée
+   durant le confinement selon le niveau de vie (en %)
+
+                 Situation financière dégradée
+   1<r> quintile 30
+    2 quintile   21
+--
+     * Champ : France métropolitaine, personnes de 15 ans ou plus.
+     * Source : Insee, enquête Camme, mai 2020.
+
+graphiqueFigure 4 - Perception d'une situation financière dégradée durant le
+confinement selon le niveau de vie
+
+     * Champ : France métropolitaine, personnes de 15 ans ou plus.
+     * Source : Insee, enquête Camme, mai 2020.
+
+Les personnes seules jugent le confinement plus pénible
+
+   Lorsque l'on demande aux répondants à quel point la période de
+   confinement leur a paru pénible (sur une échelle de 0, pas du tout
+   pénible, à 10, extrêmement pénible), la moyenne s'établit à 4,7. Le
+   confinement ne semble donc pas avoir été très pénible pour la
+   population dans son ensemble. 27 % donnent une note supérieure ou égale
+   à 7 et 35 % une note inférieure ou égale à 3.
+
+   Le fait de déclarer avoir trouvé le confinement pénible (note
+   supérieure ou égale à 7) est plus fréquent parmi les personnes
+   seules (31 %), les familles monoparentales (29 %) ou les ménages
+   regroupant plusieurs familles ou générations (« ménages complexes »,
+   30 %) que parmi les couples avec enfants (24 %) ou sans enfant (24 %).
+   Vivre en couple semble avoir limité la pénibilité perçue du
+   confinement.
+
+   Les retraités ont plus mal vécu la période (30 % jugent le confinement
+   pénible), que les personnes en emploi (25 %) et les chômeurs (24 %).
+   Les écarts sont marqués selon le niveau de vie : 37 % des personnes les
+   plus modestes (1<r> quintile) jugent le confinement pénible contre 17 %
+   pour les plus aisées (dernier quintile, figure 3).
+
+   Pour les personnes en emploi, avoir subi une restriction d'activité
+   augmente nettement l'impression que le confinement a été pénible : 29 %
+   des personnes concernées jugent qu'il a été pénible contre 23 % parmi
+   les autres.
+
+   Les femmes expriment globalement un sentiment de pénibilité légèrement
+   plus marqué que les hommes (4,8 en moyenne contre 4,5). Cet écart de
+   perception entre les sexes s'accentue nettement lorsque des enfants
+   étaient présents durant le confinement (5,0 pour les femmes contre 4,4
+   pour les hommes), en particulier pour les personnes en emploi ayant des
+   enfants (5,1 contre 4,3).
+
+Sources
+--
+   Afin de suivre l'opinion des ménages sur leur environnement économique
+   et sur leur situation personnelle, l'Insee réalise une enquête
+   mensuelle de conjoncture auprès des ménages (Camme). Le questionnaire a
+   été adapté afin d'interroger les Français de métropole sur leurs
+   conditions de vie durant le confinement au travers de vingt questions
+   administrées du 27 avril au 16 mai 2020. Cette période de collecte a eu
+   lieu durant la dernière semaine du confinement (déclaré du 16 mars au
+   11 mai 2020) et celle qui suit immédiatement. Il s'agit donc d'une
+   période propice à une interrogation rétrospective sur l'ensemble du
+   confinement. Plus de 1 600 personnes de 15 ans ou plus y ont répondu.
+
+Définitions
+
+   Dans cette étude, sont considérés comme restriction d'activité
+--
+   d'absence pour garde d'enfant, non renouvellement du contrat. Les jours
+   de carence (un dans la fonction publique, trois dans le secteur privé)
+   ont été suspendus par la loi d'urgence du 23 mars 2020 pour faire face
+   à l'épidémie de Covid-19 ; les arrêts maladie n'ont donc pratiquement
+   pas impacté les revenus durant le confinement.
+
+   Le niveau de vie d'une personne dans un ménage dépend de la composition
+   de celui-ci. Pour le calculer, on divise le revenu total du ménage par
+   son nombre d'unités de consommation : 1 pour le premier adulte du
+--
+   Afin de suivre l'opinion des ménages sur leur environnement économique
+   et sur leur situation personnelle, l'Insee réalise une enquête
+   mensuelle de conjoncture auprès des ménages (Camme). Le questionnaire a
+   été adapté afin d'interroger les Français de métropole sur leurs
+   conditions de vie durant le confinement au travers de vingt questions
+   administrées du 27 avril au 16 mai 2020. Cette période de collecte a eu
+   lieu durant la dernière semaine du confinement (déclaré du 16 mars au
+   11 mai 2020) et celle qui suit immédiatement. Il s'agit donc d'une
+   période propice à une interrogation rétrospective sur l'ensemble du
+   confinement. Plus de 1 600 personnes de 15 ans ou plus y ont répondu.
+
+   Dans cette étude, sont considérés comme restriction d'activité
+   susceptible de réduire les revenus du travail les événements suivants :
+   chômage technique ou partiel, arrêt de travail ou autorisation spéciale
+   d'absence pour garde d'enfant, non renouvellement du contrat. Les jours
+   de carence (un dans la fonction publique, trois dans le secteur privé)
+   ont été suspendus par la loi d'urgence du 23 mars 2020 pour faire face
+   à l'épidémie de Covid-19 ; les arrêts maladie n'ont donc pratiquement
+   pas impacté les revenus durant le confinement.
+
+   Le niveau de vie d'une personne dans un ménage dépend de la composition
+   de celui-ci. Pour le calculer, on divise le revenu total du ménage par
+   son nombre d'unités de consommation : 1 pour le premier adulte du
+--
+
+Pour en savoir plus
+
+   Bigot R., Chateau M., Hoibian S., « Ouvrir dans un nouvel ongletLe
+   confinement amplifie l'aspiration à ralentir son rythme de vie », Note
+   de synthèse du Crédoc n° 30, mai 2020.
+
+   Note d'éclairage enquête Emploi confinement, mai 2020.
+
+   Ouvrir dans un nouvel ongletBaromètre Covid Ipsos.
+
+   Ouvrir dans un nouvel ongletEnquête Coconel COronavirus et
+   CONfinement : Enquête Longitudinale.
+
+   [ancienLogoInsee.svg]
+   Institut national de la statistique et des études économiques
+   88 avenue Verdier, 92541 Montrouge Cedex

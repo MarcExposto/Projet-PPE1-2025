@@ -15,6 +15,9 @@
    (BUTTON) France
    France Monde Politique Économie Société
      * Article
+       Incendie à Crans-Montana : une victime française confirmée, 23
+       blessés et huit disparus
+     * Article
        Candidate LFI à la mairie de Paris, Sophia Chikirou sera jugée pour
        escroquerie
      * Article
@@ -46,9 +49,6 @@
      * Article
        Épiphanie : des galettes XXL de plus d'un mètre de diamètre
        préparées pour l'Élysée
-     * Article
-       Meurthe-et-Moselle : les passagers d'un TER Strasbourg-Paris
-       évacués après un dégagement de fumée
 
    (BUTTON) Précédent (BUTTON) Suivant
    France
@@ -87,7 +87,7 @@ Elle refuse que son employeur vienne chez elle, il lui interdit le
 télétravail : la Cour de cassation a tranché
      *
 
-Craignez-vous de voir un jour disparaître les agences bancaires ?
+Pouvoir d'achat : le taux d'épargne des Français atteint des niveaux records
 
    Pendant le confinement lié au Covid-19, qui démarrait le 17 mars 2020,
    de nouvelles habitudes de vie quotidienne ont émergé. Si certaines ont
@@ -145,6 +145,9 @@ Des habitudes encore ancrées dans notre quotidien ?
    (BUTTON) Partager
 
    Vos réactions doivent respecter nos CGU.
+     * 14:45
+       France - Incendie à Crans-Montana : une victime française
+       confirmée, 23 blessés et huit disparus
      * 14:42
        Monde - A Madrid, des milliers de personnes dénonçent l'"agression
        impérialiste" au Venezuela
@@ -153,10 +156,6 @@ Des habitudes encore ancrées dans notre quotidien ?
      * 14:24
        France - Candidate LFI à la mairie de Paris, Sophia Chikirou sera
        jugée pour escroquerie
-     * 14:07
-       Monde - Arrestation de Nicolás Maduro au Venezuela : Dominique de
-       Villepin dénonce l'intervention américaine et critique la réaction
-       d'Emmanuel Macron
      * 09:20
        Auto - Vélo électrique : une autonomie fragile en hiver
 
@@ -166,8 +165,8 @@ Vidéos
 
    Tous publics
 
-Le ministre des Affaires étrangères annonce que 23 Français sont soignés dans
-des hôpitaux et 8 sont portés disparus
+Incendie à Crans-Montana: un ancien employé du bar pointe de nombreuses
+négligences
 
    4 janvier 2026 - BFMTV
    Toute l'actu en vidéos

@@ -55,7 +55,7 @@ Mitigation Potential for South Asia
           Volume 22, Issue 4, April 2022
           17 March 2022
 
-   Reach: 9818
+   Reach: 9821
    Empty
      *  Print
      * Email
@@ -1375,58 +1375,64 @@ REFERENCES
 
 Other readers also read ...
 
-   A Technical Overview on Beta-Attenuation Method for the Monitoring of
-   Particulate Matter in Ambient Air
-   A Technical Overview on Beta-Attenuation Method for the Monitoring of
-   Particulate Matter in Ambient Air
+   Assessing the Filtration Effectiveness of a Portable Ultraviolet Air
+   Cleaner on Airborne SARS-CoV-2 Laden Droplets in a Patient Room: A
+   Numerical Study
+   Assessing the Filtration Effectiveness of a Portable Ultraviolet Air
+   Cleaner on Airborne SARS-CoV-2 Laden Droplets in a Patient Room: A
+   Numerical Study
 
    Read more: ...
-   Volatile Organic Compounds and Carbonyls Pollution in Mexico City and
-   an Urban Industrialized Area of Central Mexico
-   Volatile Organic Compounds and Carbonyls Pollution in Mexico City and
-   an Urban Industrialized Area of Central Mexico
+   Assessment of Reductions in Emission-driven Air Pollution during the
+   Beijing Olympic Games, Shanghai World Expo, Guangzhou Asian Games and
+   Wuhan COVID-19 Lockdown
+   Assessment of Reductions in Emission-driven Air Pollution during the
+   Beijing Olympic Games, Shanghai World Expo, Guangzhou Asian Games and
+   Wuhan COVID-19 Lockdown
 
    Read more: ...
-   Probable Relationship between COVID-19, Pollutants and Meteorology: A
-   Case Study at Santiago, Chile
-   Probable Relationship between COVID-19, Pollutants and Meteorology: A
-   Case Study at Santiago, Chile
+   Variability and Source Characterization of Regional PM of Two Urban
+   Areas Dominated by Biomass Burning and Anthropogenic Emission
+   Variability and Source Characterization of Regional PM of Two Urban
+   Areas Dominated by Biomass Burning and Anthropogenic Emission
 
    Read more: ...
-   Physicochemical Characteristics of Particulate Matter Emitted from the
-   Oxygenated Fuel/Diesel Blend Engine
-   Physicochemical Characteristics of Particulate Matter Emitted from the
-   Oxygenated Fuel/Diesel Blend Engine
+   Improving Filtration Efficacy of Medical Face Masks
+   Improving Filtration Efficacy of Medical Face Masks
 
    Read more: ...
-   Long-term Characterization of Urban PM10 in Hungary
-   Long-term Characterization of Urban PM10 in Hungary
+   Design and Optimization of Cross-corrugated Triangular Ducts Towards
+   Reducing CO2 Emission and Improving Energy Efficiency
+   Design and Optimization of Cross-corrugated Triangular Ducts Towards
+   Reducing CO2 Emission and Improving Energy Efficiency
 
    Read more: ...
-   Comparing the Change in Air Quality during the COVID-19 Lockdown
-   between Dry and Wet Seasons in Nepal
-   Comparing the Change in Air Quality during the COVID-19 Lockdown
-   between Dry and Wet Seasons in Nepal
+   Influences of a Quasi-stationary Front on Particulate Matter in the
+   Low-latitude Plateau Region in China
+   Influences of a Quasi-stationary Front on Particulate Matter in the
+   Low-latitude Plateau Region in China
 
    Read more: ...
-   Review of Comprehensive Measurements of Speciated NOy and its
-   Chemistry: Need for Quantifying the Role of Heterogeneous Processes of
-   HNO3 and HONO
-   Review of Comprehensive Measurements of Speciated NOy and its
-   Chemistry: Need for Quantifying the Role of Heterogeneous Processes of
-   HNO3 and HONO
+   Quantitative Performance Analysis of Respiratory Facemasks Using
+   Atmospheric and Laboratory Generated Aerosols Following with Gamma
+   Sterilization
+   Quantitative Performance Analysis of Respiratory Facemasks Using
+   Atmospheric and Laboratory Generated Aerosols Following with Gamma
+   Sterilization
 
    Read more: ...
-   Filtration Efficiency of Air Conditioner Filters and Face Masks to
-   Limit Exposure to Aerosolized Algal Toxins
-   Filtration Efficiency of Air Conditioner Filters and Face Masks to
-   Limit Exposure to Aerosolized Algal Toxins
+   Isothermal Evaporation Rate of Deposited Liquid Aerosols and the
+   SARS-CoV-2 Coronavirus Survival
+   Isothermal Evaporation Rate of Deposited Liquid Aerosols and the
+   SARS-CoV-2 Coronavirus Survival
 
    Read more: ...
-   Suppression Efficiency for Dust from an Iron Ore Pile Using a
-   Conventional Sprinkler and a Water Mist Generator
-   Suppression Efficiency for Dust from an Iron Ore Pile Using a
-   Conventional Sprinkler and a Water Mist Generator
+   Understanding Air Quality Changes after Implementation of Mitigation
+   Measures during a Pandemic: A Scoping Review of Literature in the
+   United States
+   Understanding Air Quality Changes after Implementation of Mitigation
+   Measures during a Pandemic: A Scoping Review of Literature in the
+   United States
 
    Read more: ...
 
@@ -1469,19 +1475,21 @@ Other readers also read ...
      * Most Read
      * In Press
 
-     * Simultaneous Measurements of Carbonaceous Aerosol in Three Major
-       Cities in the Beijing-Tianjin-Hebei Region, China (Volume 22, Issue
-       8, August 2022)
-     * Effects of Lockdown due to the COVID-19 Pandemic on Air Quality at
-       Latin America's Largest Open-pit Coal Mine (Volume 21, Issue 8,
-       August 2021)
-     * Isothermal Evaporation Rate of Deposited Liquid Aerosols and the
-       SARS-CoV-2 Coronavirus Survival (Volume 21, Issue 3, March 2021)
-     * Respiratory Protective Equipment Reconsiderations in the Age of
-       SARS-CoV-2 (Volume 22, Issue 2, February 2022)
-     * Mixture Aerosols Filtration on Filters with Wide Fibre Diameter
-       Distribution - Comparison with Theoretical and Empirical Models (
-       Volume 22, Issue 6, June 2022)
+     * Simulation of SARS-CoV-2 Aerosol Emissions in the Infected
+       Population and Resulting Airborne Exposures in Different Indoor
+       Scenarios (Volume 21, Issue 2, February 2021)
+     * Ventilation Strategy for Proper IAQ in Existing Nurseries Buildings
+       - Lesson Learned from the Research during COVID-19 Pandemic (Volume
+       22, Issue 3, March 2022)
+     * Chemical Composition Characteristics and Source Apportionment of
+       PM2.5 in Ceramic Industrial Base during Winter (Volume 22, Issue 5,
+       May 2022)
+     * Indoor and Ambient Air Pollution in Chennai, India during COVID-19
+       Lockdown: An Affordable Sensors Study (Volume 22, Issue 1, January
+       2022)
+     * Aerosol Opto-physical Properties: Temporal Variation, Aerosol Type
+       Discrimination and Source Identification (Volume 22, Issue 10,
+       October 2022)
 
 You may also like
 
@@ -1501,17 +1509,17 @@ You may also like
 Research Categories
 
      * Optical/Radiative Properties and Remote Sensing
-     * Bioaerosols
-     * Indoor Air Quality
-     * Diesel Engine Emission
-     * Air Pollution Modeling
-     * Physical and Chemical Characteristics of Aerosols
      * Air Pollution and Health Effects
-     * Urban Air Quality
      * Nanoparticles
-     * CO2 Capture, Storage and Emission
-     * Aerosol Physics and Instrumentation
+     * Indoor Air Quality
+     * Air Pollution Modeling
+     * Control Techniques and Strategy
+     * Diesel Engine Emission
+     * Bioaerosols
+     * Physical and Chemical Characteristics of Aerosols
      * Aerosol and Atmospheric Chemistry
+     * Others
+     * Urban Air Quality
 
 Research Regions
 
