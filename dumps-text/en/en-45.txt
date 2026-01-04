@@ -55,7 +55,7 @@ Mitigation Potential for South Asia
           Volume 22, Issue 4, April 2022
           17 March 2022
 
-   Reach: 9832
+   Reach: 9834
    Empty
      *  Print
      * Email
@@ -1375,58 +1375,60 @@ REFERENCES
 
 Other readers also read ...
 
-   Polycyclic Aromatic Hydrocarbons in Atmospheric PM2.5 during Winter
-   Haze in Huang-gang, Central China: Characteristics, Sources and Health
-   Risk Assessment
-   Polycyclic Aromatic Hydrocarbons in Atmospheric PM2.5 during Winter
-   Haze in Huang-gang, Central China: Characteristics, Sources and Health
-   Risk Assessment
+   Effect of Double Masking with Silk or Cotton Over-masks on the Source
+   Control Capabilities of a Surgical Mask
+   Effect of Double Masking with Silk or Cotton Over-masks on the Source
+   Control Capabilities of a Surgical Mask
 
    Read more: ...
-   Numerical Simulation of Condensation of Natural Fog Aerosol under
-   Acoustic Wave Action
-   Numerical Simulation of Condensation of Natural Fog Aerosol under
-   Acoustic Wave Action
+   Mixture Aerosols Filtration on Filters with Wide Fibre Diameter
+   Distribution - Comparison with Theoretical and Empirical Models
+   Mixture Aerosols Filtration on Filters with Wide Fibre Diameter
+   Distribution - Comparison with Theoretical and Empirical Models
 
    Read more: ...
-   A Technical Overview on Beta-Attenuation Method for the Monitoring of
-   Particulate Matter in Ambient Air
-   A Technical Overview on Beta-Attenuation Method for the Monitoring of
-   Particulate Matter in Ambient Air
+   A Simple Method for Aerosol Transport Efficiency Tests in Sampling
+   Tubes
+   A Simple Method for Aerosol Transport Efficiency Tests in Sampling
+   Tubes
 
    Read more: ...
-   Seasonal Characteristics, Sources and Pollution Pathways of PM10 at
-   High Altitudes Himalayas of India
-   Seasonal Characteristics, Sources and Pollution Pathways of PM10 at
-   High Altitudes Himalayas of India
+   Airborne Transmission of the SARS-CoV-2 Delta Variant and the
+   SARS-CoV-2 Omicron Variant
+   Airborne Transmission of the SARS-CoV-2 Delta Variant and the
+   SARS-CoV-2 Omicron Variant
 
    Read more: ...
-   Estimation of the Visibility in Seoul, South Korea, Based on
-   Particulate Matter and Weather Data, Using Machine-learning Algorithm
-   Estimation of the Visibility in Seoul, South Korea, Based on
-   Particulate Matter and Weather Data, Using Machine-learning Algorithm
+   Recent Decreasing Trends in Surface PM2.5 over East Asia in the
+   Winter-spring Season: Different Responses to Emissions and Meteorology
+   between Upwind and Downwind Regions
+   Recent Decreasing Trends in Surface PM2.5 over East Asia in the
+   Winter-spring Season: Different Responses to Emissions and Meteorology
+   between Upwind and Downwind Regions
 
    Read more: ...
-   Assessment of Machine Learning Algorithms in Short-term Forecasting of
-   PM10 and PM2.5 Concentrations in Selected Polish Agglomerations
+   Probable Relationship between COVID-19, Pollutants and Meteorology: A
+   Case Study at Santiago, Chile
+   Probable Relationship between COVID-19, Pollutants and Meteorology: A
+   Case Study at Santiago, Chile
 
    Read more: ...
-   Airborne Transmission Risk in Urban Buses: A Computational Fluid
-   Dynamics Study
-   Airborne Transmission Risk in Urban Buses: A Computational Fluid
-   Dynamics Study
+   Experimental Investigation of Simultaneous Removal of SO2 and NOx Using
+   a Heteropoly Compound
+   Experimental Investigation of Simultaneous Removal of SO2 and NOx Using
+   a Heteropoly Compound
 
    Read more: ...
-   Health Benefits Due to Reduction in Respirable Particulates during
-   COVID-19 Lockdown in India
-   Health Benefits Due to Reduction in Respirable Particulates during
-   COVID-19 Lockdown in India
+   Air Quality, Atmospheric Variables and Spread of COVID-19 in Delhi
+   (India): An Analysis
+   Air Quality, Atmospheric Variables and Spread of COVID-19 in Delhi
+   (India): An Analysis
 
    Read more: ...
-   Use of Portable Air Purification Systems to Eliminate Aerosol Particles
-   from Patient Rooms
-   Use of Portable Air Purification Systems to Eliminate Aerosol Particles
-   from Patient Rooms
+   Influence of Different Catalytic Metals on the Formation of PCDD/Fs
+   during Co-combustion of Sewage Sludge and Coal
+   Influence of Different Catalytic Metals on the Formation of PCDD/Fs
+   during Co-combustion of Sewage Sludge and Coal
 
    Read more: ...
 
@@ -1442,7 +1444,7 @@ Other readers also read ...
    Email Address *
    ____________________
    (BUTTON) Subscribe
-   Email ____________________
+   Last Name ____________________
 
    Aerosol and Air Quality Research is an Open Access Journal
    8.3
@@ -1469,20 +1471,21 @@ Other readers also read ...
      * Most Read
      * In Press
 
-     * Assessment of the Contribution of Local and Regional Biomass
-       Burning on PM2.5 in New York/New Jersey Metropolitan Area (Volume
-       22, Issue 9, September 2022)
-     * Performance Evaluation of a Virtual Impactor with an Additional
-       Pretreatment Structure for Particle Separation (Volume 21, Issue 4,
-       April 2021)
-     * Dependence on Humidity and Aerosol Composition of the Gas-particle
-       Partitioning of Weakly and Moderately Polar VOCs (Volume 21, Issue
-       11, November 2021)
-     * Influences of a Quasi-stationary Front on Particulate Matter in the
-       Low-latitude Plateau Region in China (Volume 21, Issue 1, January
+     * Impact of COVID-19 Pandemic on Air Pollution in Poland Based on
+       Surface Measurements and Satellite Data (Volume 21, Issue 7, July
        2021)
-     * Efficacy Assessment of Newly-designed Filtering Facemasks during
-       the SARS-CoV-2 Pandemic (Volume 21, Issue 3, March 2021)
+     * A Successful Heat Wave Prevention in Ahmedabad Calls for Segregated
+       Health Record: Highlights from Existing Heat Action Plan (Volume
+       22, Issue 12, December 2022)
+     * Impacts of COVID-19 on Air Quality over China: Links with
+       Meteorological Factors and Energy Consumption (Volume 21, Issue 10,
+       October 2021)
+     * Levels, Chemical Compositions, and Sources of PM2.5 of Rural and
+       Urban Area under the Impact of Wheat Harvest (Volume 21, Issue 6,
+       June 2021)
+     * Ventilation Strategy for Proper IAQ in Existing Nurseries Buildings
+       - Lesson Learned from the Research during COVID-19 Pandemic (Volume
+       22, Issue 3, March 2022)
 
 You may also like
 
@@ -1501,18 +1504,18 @@ You may also like
 
 Research Categories
 
-     * Low-Cost Sensors
-     * Others
-     * Aerosol Physics and Instrumentation
-     * CO2 Capture, Storage and Emission
-     * Aerosol and Atmospheric Chemistry
-     * Bioaerosols
-     * Physical and Chemical Characteristics of Aerosols
-     * Air Toxics
-     * Nanoparticles
-     * Diesel Engine Emission
+     * Indoor Air Quality
      * Air Pollution and Health Effects
+     * Control Techniques and Strategy
      * Urban Air Quality
+     * CO2 Capture, Storage and Emission
+     * Physical and Chemical Characteristics of Aerosols
+     * Bioaerosols
+     * Nanoparticles
+     * Aerosol Physics and Instrumentation
+     * Diesel Engine Emission
+     * Optical/Radiative Properties and Remote Sensing
+     * Air Toxics
 
 Research Regions
 

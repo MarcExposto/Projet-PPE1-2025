@@ -154,5 +154,5 @@ coocurrents "${CheminRacineProjet}/bigrammes/${Langue}" "${MotCible}" "${CheminF
 # Génération du nuage de mots
 CheminNuageMots="${CheminRacineProjet}/images/${Langue}.png"
 cat ${CheminRacineProjet}/contextes/fr/* >>tmp.txt
-wordcloud_cli --text tmp.txt --imagefile ${CheminNuageMots} --stopwords stopwords
+wordcloud_cli --text tmp.txt --imagefile "${CheminNuageMots}" --stopwords stopwords
 rm tmp.txt

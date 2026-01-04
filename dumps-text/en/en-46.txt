@@ -721,10 +721,10 @@ Most Popular
        By Intelligencer Staff
     2. The Wildest Things Trump Said About the Venezuela Attack
        By Margaret Hartmann
-    3. What Zohran Mamdani Has Done Since Becoming Mayor
-       By Nia Prater and Chas Danner
-    4. Trump's Venezuela Coup Sets a Destabilizing Precedent
+    3. Trump's Venezuela Coup Sets a Destabilizing Precedent
        By Jonah Shepp
+    4. What Zohran Mamdani Has Done Since Becoming Mayor
+       By Nia Prater and Chas Danner
     5. Eric Adams Exited Gracie Mansion in the Most Eric Adams Way
        Possible
        By Matt Stieb
@@ -860,18 +860,18 @@ Most Popular
    the city politic
    [ld+json]
    the city politic
-   The New Mayor's Power Brokers
-   By Matt Stieb and Nia Prater
-   Even as Zohran Mamdani expands his circle, a tight-knit group has his
-   ear.
-   12/29/2025
-   the city politic
-   [ld+json]
-   the city politic
    The Making of Mayor Mamdani
    By David Freedlander
    He is a brilliant political talent with dizzying ambitions to change
    the city. Is he ready for the actual job, though?
+   12/29/2025
+   the city politic
+   [ld+json]
+   the city politic
+   The New Mayor's Power Brokers
+   By Matt Stieb and Nia Prater
+   Even as Zohran Mamdani expands his circle, a tight-knit group has his
+   ear.
    12/28/2025
    early and often
    [ld+json]

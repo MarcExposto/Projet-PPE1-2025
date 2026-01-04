@@ -709,18 +709,6 @@ long-term dataset
    76. Wang, P., Chen, K., Zhu, S., Wang, P., Zhang, H. (2020). Severe air
        pollution events not avoided by reduced anthropogenic activities
 --
-   Dynamics Study
-
-   Read more: ...
-   Health Benefits Due to Reduction in Respirable Particulates during
-   COVID-19 Lockdown in India
-   Health Benefits Due to Reduction in Respirable Particulates during
-   COVID-19 Lockdown in India
-
-   Read more: ...
-   Use of Portable Air Purification Systems to Eliminate Aerosol Particles
-   from Patient Rooms
---
      * PM2.5 in Sri Lanka: Trend Analysis, Low-cost Sensor Correlations
        and Spatial Distribution
      * A Meteorology Based Particulate Matter Prediction Model for
