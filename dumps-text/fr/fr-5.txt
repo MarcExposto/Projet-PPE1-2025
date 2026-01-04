@@ -4,8 +4,8 @@
 
      Aller au contenu
 
-   Aide AccÃ¨s sourds et malentendants
-   ThÃ¨mes
+   Aide Accès sourds et malentendants
+   Thèmes
    Recherche
    accueil accueil
    English
@@ -15,118 +15,118 @@
      * Blog
      * Presse
      * Aide
-     * AccÃ¨s sourds et malentendants
+     * Accès sourds et malentendants
      * English
 
    Veuillez-patienter... ____________________ (BUTTON) Lancer la recherche
-   sur le site ThÃ¨mes
+   sur le site Thèmes
      *
-     * Statistiques et Ã©tudes
-       Cherchez vos statistiques parâ¦
-          + ThÃ¨mes
-               o Ãconomie - conjoncture - comptes nationaux
-               o DÃ©mographie
+     * Statistiques et études
+       Cherchez vos statistiques par...
+          + Thèmes
+               o Économie - conjoncture - comptes nationaux
+               o Démographie
                o Entreprises
-               o Plus de thÃ¨mesâ¦
-          + Niveaux gÃ©ographiques
+               o Plus de thèmes...
+          + Niveaux géographiques
                o France
-               o Toutes les rÃ©gions ou tous les dÃ©partements
+               o Toutes les régions ou tous les départements
                o Toutes les communes
-               o Plus de niveaux gÃ©ographiquesâ¦
-          + CatÃ©gories
-               o DonnÃ©es
+               o Plus de niveaux géographiques...
+          + Catégories
+               o Données
                o Publications
-               o Plus de catÃ©goriesâ¦
+               o Plus de catégories...
           + Collections
-               o Insee PremiÃ¨re
+               o Insee Première
                o Notes et points de conjoncture
-               o Plus de collectionsâ¦
-     * DÃ©finitions, mÃ©thodes et qualitÃ©
-          + DÃ©finitions
-               o Toutes les dÃ©finitions des concepts
+               o Plus de collections...
+     * Définitions, méthodes et qualité
+          + Définitions
+               o Toutes les définitions des concepts
           + Sources statistiques et indicateurs
                o Liste des sources statistiques
                o Liste des indicateurs
-               o Documentation complÃ©mentaire sur le recensement
-          + La qualitÃ© dans le Service statistique public (SSP)
-               o Le cadre de rÃ©fÃ©rence
+               o Documentation complémentaire sur le recensement
+          + La qualité dans le Service statistique public (SSP)
+               o Le cadre de référence
                o La gouvernance
-               o La politique et la stratÃ©gie qualitÃ© du SSP
-               o Les engagements europÃ©ens
+               o La politique et la stratégie qualité du SSP
+               o Les engagements européens
           + Nomenclatures
-               o Nomenclature dâactivitÃ©s franÃ§aise
-               o Nomenclature agrÃ©gÃ©e - NA, 2008
-               o Classification des produits franÃ§aise
-               o Classification des fonctions de consommation des mÃ©nages
-               o CatÃ©gories juridiques
-               o Nomenclatures des professions et catÃ©gories
+               o Nomenclature d'activités française
+               o Nomenclature agrégée - NA, 2008
+               o Classification des produits française
+               o Classification des fonctions de consommation des ménages
+               o Catégories juridiques
+               o Nomenclatures des professions et catégories
                  socioprofessionnelles
-          + GÃ©ographie administrative et d'Ã©tude
-               o Recherche sur une zone gÃ©ographique
-               o TÃ©lÃ©chargement de fichiers
+          + Géographie administrative et d'étude
+               o Recherche sur une zone géographique
+               o Téléchargement de fichiers
                o Historique des communes
-          + ModÃ¨les, mÃ©thodes et outils statistiques
-               o Les modÃ¨les statistiques
+          + Modèles, méthodes et outils statistiques
+               o Les modèles statistiques
                o Les outils statistiques
-               o MÃ©thodologie statistique
+               o Méthodologie statistique
           + Courrier des statistiques
-          + Offre de donnÃ©es ouvertes
-               o Le catalogue des donnÃ©es de l'Insee
+          + Offre de données ouvertes
+               o Le catalogue des données de l'Insee
                o Le catalogue des API de l'Insee
-               o L'offre de donnÃ©es au travers de nos produits de
+               o L'offre de données au travers de nos produits de
                  diffusion
-               o Les formats de mise Ã  disposition des donnÃ©es
-               o Nos donnÃ©es disponibles sur d'autres plateformes
+               o Les formats de mise à disposition des données
+               o Nos données disponibles sur d'autres plateformes
      * Services
-          + RÃ©viser une pension, un loyer, bail ou contrat
-               o RÃ©viser une pension alimentaire
-               o RÃ©viser un loyer d'habitation
-               o RÃ©viser un bail commercial ou professionnel
+          + Réviser une pension, un loyer, bail ou contrat
+               o Réviser une pension alimentaire
+               o Réviser un loyer d'habitation
+               o Réviser un bail commercial ou professionnel
                o Indexer un contrat
                o Convertisseur franc-euro
-          + Consulter les indices et sÃ©ries chronologiques
-               o ActualitÃ©s des indices et sÃ©ries chronologiques
-               o AccÃ¨s des sÃ©ries et indices chronologiques par thÃ¨me
-               o Recherche par identifiant ou par mot-clÃ©
+          + Consulter les indices et séries chronologiques
+               o Actualités des indices et séries chronologiques
+               o Accès des séries et indices chronologiques par thème
+               o Recherche par identifiant ou par mot-clé
                o Service web SDMX
                o Tables de passage
           + Sirene
-               o Obtenir un avis de situation au rÃ©pertoire Sirene
+               o Obtenir un avis de situation au répertoire Sirene
                o Demander la modification de son statut de diffusion
                o Demander la modification du code APE
-               o Immatriculation, cessation ou modification des donnÃ©es au
-                 rÃ©pertoire Sirene
-               o Obtenir sa catÃ©gorie d'entreprise
-               o Consulter et tÃ©lÃ©charger la base Sirene
-               o Identifiant unique des intervenants sur les marchÃ©s
+               o Immatriculation, cessation ou modification des données au
+                 répertoire Sirene
+               o Obtenir sa catégorie d'entreprise
+               o Consulter et télécharger la base Sirene
+               o Identifiant unique des intervenants sur les marchés
                  financiers (LEI)
-               o RÃ©ponses Ã  vos questions sur le rÃ©pertoire Sirene
-          + DÃ©couvrir, apprendre, enseigner
+               o Réponses à vos questions sur le répertoire Sirene
+          + Découvrir, apprendre, enseigner
                o Pour commencer...
-               o Visualiser les donnÃ©es
-               o La CompÃ©tition europÃ©enne de statistiques
+               o Visualiser les données
+               o La Compétition européenne de statistiques
                o Pour approfondir...
-          + RÃ©pondre Ã  une enquÃªte de l'Insee
-               o EnquÃªtes auprÃ¨s des particuliers
-               o EnquÃªtes auprÃ¨s des entreprises
-               o Vrai ou faux enquÃªteur de lâInsee, fraude, malveillance :
-                 comment vÃ©rifier ?
-          + Sâinformer sur lâactualitÃ© de notre diffusion
-               o Agenda de diffusion des indicateurs Ã©conomiques
-               o DerniÃ¨res publications de lâInsee
-               o DerniÃ¨res publications des Services statistiques
-                 ministÃ©riels
-               o ÃvÃ¨nements annoncÃ©s Ã  la Une du site
-               o ThÃ¨mes d'actualitÃ©
-          + GÃ©rer les rÃ©pertoires des personnes physiques
-               o Recueil des donnÃ©es d'Ã©tat civil
-               o Le RÃ©pertoire Ã©lectoral unique
-               o DÃ©matÃ©rialisation des Ã©changes de donnÃ©es
-               o Nombre de dÃ©cÃ¨s quotidiens par dÃ©partement
-               o Fichiers des personnes dÃ©cÃ©dÃ©es depuis 1970
-          + BibliothÃ¨que de lâInsee Alain DesrosiÃ¨res
+          + Répondre à une enquête de l'Insee
+               o Enquêtes auprès des particuliers
+               o Enquêtes auprès des entreprises
+               o Vrai ou faux enquêteur de l'Insee, fraude, malveillance :
+                 comment vérifier ?
+          + S'informer sur l'actualité de notre diffusion
+               o Agenda de diffusion des indicateurs économiques
+               o Dernières publications de l'Insee
+               o Dernières publications des Services statistiques
+                 ministériels
+               o Évènements annoncés à la Une du site
+               o Thèmes d'actualité
+          + Gérer les répertoires des personnes physiques
+               o Recueil des données d'état civil
+               o Le Répertoire électoral unique
+               o Dématérialisation des échanges de données
+               o Nombre de décès quotidiens par département
+               o Fichiers des personnes décédées depuis 1970
+          + Bibliothèque de l'Insee Alain Desrosières
                o Portail documentaire et catalogue
-               o La BibliothÃ¨que numÃ©rique de la statistique publique
+               o La Bibliothèque numérique de la statistique publique
           + Commander une prestation, acheter une publication
                o Diffusion sur mesure
                o Acheter nos publications
@@ -135,464 +135,464 @@
                o Abonnements aux lettres d'information et aux avis
                  de parution
                o Abonnement aux flux RSS
-               o L'Insee sur les mÃ©dias sociaux
+               o L'Insee sur les médias sociaux
                o Insee Mobile
           + Aide et contacts
-               o RÃ©ponses Ã  vos questions
-               o Obtenir des informations par tÃ©lÃ©phone
+               o Réponses à vos questions
+               o Obtenir des informations par téléphone
           + Espace presse
-               o ÃvÃ©nements presse
+               o Événements presse
                o Calendrier des publications
-               o CommuniquÃ©s de presse nationaux
-               o CommuniquÃ©s de presse rÃ©gionaux
+               o Communiqués de presse nationaux
+               o Communiqués de presse régionaux
                o Nominations
      * L'Insee et la statistique publique
           + L'Insee
-               o ConnaÃ®tre l'Insee
-               o Travailler Ã  l'Insee
-               o ÃvÃ©nements et colloques
+               o Connaître l'Insee
+               o Travailler à l'Insee
+               o Événements et colloques
                o Un peu d'histoire
-               o Rapports d'activitÃ©
-          + Les activitÃ©s de l'Insee
-               o Suivre lâÃ©conomie franÃ§aise
-               o ConnaÃ®tre les entreprises
-               o Observer l'Ã©volution de la sociÃ©tÃ©
-               o RÃ©aliser le recensement de la population
-               o DÃ©crire et analyser les rÃ©gions et les territoires
-               o GÃ©rer des grands rÃ©pertoires
+               o Rapports d'activité
+          + Les activités de l'Insee
+               o Suivre l'économie française
+               o Connaître les entreprises
+               o Observer l'évolution de la société
+               o Réaliser le recensement de la population
+               o Décrire et analyser les régions et les territoires
+               o Gérer des grands répertoires
                o Diffuser et valoriser ses productions
-               o Perfectionner ses mÃ©thodes et Ã©valuer la qualitÃ©
-               o Contribuer Ã  la construction de la statistique europÃ©enne
+               o Perfectionner ses méthodes et évaluer la qualité
+               o Contribuer à la construction de la statistique européenne
                  et internationale
           + La statistique publique
                o Cadre juridique et institutionnel
                o Le service statistique public
                o Secret statistique
-               o Protection des donnÃ©es personnelles
-               o RÃ¨gles de diffusion du SSP
-               o AccÃ¨s aux documents administratifs
-          + La construction de la statistique europÃ©enne
-               o Les producteurs de statistiques europÃ©ennes en France
+               o Protection des données personnelles
+               o Règles de diffusion du SSP
+               o Accès aux documents administratifs
+          + La construction de la statistique européenne
+               o Les producteurs de statistiques européennes en France
                o Textes juridiques de la gouvernance
-                 statistique europÃ©enne
-               o Les rÃ¨glements cadres et sectoriels
-          + Mesure de la qualitÃ© de service
-               o Les indicateurs de qualitÃ© du programme Transparence
-               o RÃ©sultats des enquÃªtes de satisfaction
+                 statistique européenne
+               o Les règlements cadres et sectoriels
+          + Mesure de la qualité de service
+               o Les indicateurs de qualité du programme Transparence
+               o Résultats des enquêtes de satisfaction
           + Services Publics+ : un service public plus proche, plus
             simple, plus efficace
 
     1. Accueil
-    2. Statistiques et Ã©tudes
-    3. Conditions de vie pendant le confinement : des Ã©carts selon le
-       niveau de vie et la catÃ©gorie socioprofessionnelle
+    2. Statistiques et études
+    3. Conditions de vie pendant le confinement : des écarts selon le
+       niveau de vie et la catégorie socioprofessionnelle
 
-Insee Focus Conditions de vie pendant le confinement : des Ã©carts selon le
-niveau de vie et la catÃ©gorie socioprofessionnelle
+Insee Focus Conditions de vie pendant le confinement : des écarts selon le
+niveau de vie et la catégorie socioprofessionnelle
 
-   ValÃ©rie Albouy, StÃ©phane Legleye (dÃ©partement des ressources et des
-   conditions de vie des mÃ©nages, Insee)
+   Valérie Albouy, Stéphane Legleye (département des ressources et des
+   conditions de vie des ménages, Insee)
 
-   Le confinement sanitaire liÃ© Ã  lâÃ©pidÃ©mie de Covid-19 a durÃ© prÃ¨s de
-   deux mois, du 17 mars au 11 mai 2020, et a profondÃ©ment modifiÃ© les
+   Le confinement sanitaire lié à l'épidémie de Covid-19 a duré près de
+   deux mois, du 17 mars au 11 mai 2020, et a profondément modifié les
    conditions de vie. Un tiers des personnes en emploi a subi une
-   restriction dâactivitÃ© susceptible de rÃ©duire le revenu du travail,
-   dont 27 % une pÃ©riode de chÃ´mage technique ou partiel. 34 % des
-   personnes en emploi ont tÃ©lÃ©travaillÃ© tandis que 35 % ont continuÃ© Ã  se
+   restriction d'activité susceptible de réduire le revenu du travail,
+   dont 27 % une période de chômage technique ou partiel. 34 % des
+   personnes en emploi ont télétravaillé tandis que 35 % ont continué à se
    rendre sur leur lieu de travail. Par ailleurs, 35 % des parents avec un
-   enfant de moins de 14 ans ont eu des difficultÃ©s Ã  assurer leur suivi
+   enfant de moins de 14 ans ont eu des difficultés à assurer leur suivi
    scolaire.
 
-   20 % des personnes disent que la situation financiÃ¨re de leur mÃ©nage
-   sâest dÃ©gradÃ©e. Les consÃ©quences nÃ©gatives du confinement ont Ã©tÃ© plus
-   frÃ©quentes pour les personnes aux revenus modestes, qui ont aussi perÃ§u
-   cette pÃ©riode comme plus pÃ©nible et pour les femmes. Celles-ci ont,
-   plus que les hommes, rÃ©duit leur activitÃ© professionnelle et consacrÃ©
-   du temps Ã  leurs enfants mais aussi cumulÃ© quotidiennement plus de
+   20 % des personnes disent que la situation financière de leur ménage
+   s'est dégradée. Les conséquences négatives du confinement ont été plus
+   fréquentes pour les personnes aux revenus modestes, qui ont aussi perçu
+   cette période comme plus pénible et pour les femmes. Celles-ci ont,
+   plus que les hommes, réduit leur activité professionnelle et consacré
+   du temps à leurs enfants mais aussi cumulé quotidiennement plus de
    4 heures de travail et plus de 4 heures avec leurs enfants.
    Insee Focus
    N^o 197
    Paru le :Paru le19/06/2020
    Imprimer
-   DÃ©couvrir la collection
-   DonnÃ©es
+   Découvrir la collection
+   Données
    (xlsx, 16 Ko)
-   ValÃ©rie Albouy, StÃ©phane Legleye (dÃ©partement des ressources et des
-   conditions de vie des mÃ©nages, Insee)
+   Valérie Albouy, Stéphane Legleye (département des ressources et des
+   conditions de vie des ménages, Insee)
    Insee Focus N^o 197- Juin 2020
 
      * Consulter
      * Documentation
 
    Consultation de la publication ou de la documentation qui lui est
-   associÃ©e [Consulter____]
+   associée [Consulter____]
    Sommaire
-    1. Davantage de restrictions dâactivitÃ© professionnelle pour les
+    1. Davantage de restrictions d'activité professionnelle pour les
        ouvriers
-    2. Davantage de tÃ©lÃ©travail pour les cadres
-    3. Peu de sorties hors du logement, un temps passÃ© sur Ã©cran important
-    4. Les femmes ont assurÃ© une grande part de la prise en charge des
+    2. Davantage de télétravail pour les cadres
+    3. Peu de sorties hors du logement, un temps passé sur écran important
+    4. Les femmes ont assuré une grande part de la prise en charge des
        enfants
-    5. La situation financiÃ¨re des plus modestes sâest plus souvent
-       dÃ©gradÃ©e
-    6. Les personnes seules jugent le confinement plus pÃ©nible
+    5. La situation financière des plus modestes s'est plus souvent
+       dégradée
+    6. Les personnes seules jugent le confinement plus pénible
 
-Davantage de restrictions dâactivitÃ© professionnelle pour les ouvriers
+Davantage de restrictions d'activité professionnelle pour les ouvriers
 
-   Le confinement liÃ© Ã  lâÃ©pidÃ©mie de Covid-19 a eu de fortes consÃ©quences
-   sur lâactivitÃ© professionnelle (sources). Parmi les personnes en
-   emploi, 27 % dÃ©clarent avoir subi une pÃ©riode de chÃ´mage technique ou
-   partiel et 1 % avoir vu leur contrat de travail non renouvelÃ©. En
-   outre, 8 % dÃ©clarent un arrÃªt de travail ou une autorisation spÃ©ciale
-   dâabsence pour garde dâenfant. Enfin, 20 % des personnes ont dÃ» poser
-   des congÃ©s obligatoires sur la pÃ©riode.
+   Le confinement lié à l'épidémie de Covid-19 a eu de fortes conséquences
+   sur l'activité professionnelle (sources). Parmi les personnes en
+   emploi, 27 % déclarent avoir subi une période de chômage technique ou
+   partiel et 1 % avoir vu leur contrat de travail non renouvelé. En
+   outre, 8 % déclarent un arrêt de travail ou une autorisation spéciale
+   d'absence pour garde d'enfant. Enfin, 20 % des personnes ont dû poser
+   des congés obligatoires sur la période.
 
-   Trois situations sont des restrictions dâactivitÃ© susceptibles de
-   diminuer les revenus : le chÃ´mage technique ou partiel ; lâarrÃªt de
-   travail pour maladie ou garde dâenfant et le non-renouvellement de
-   contrat. Les ouvriers ont Ã©tÃ© les plus concernÃ©s par lâune au moins de
+   Trois situations sont des restrictions d'activité susceptibles de
+   diminuer les revenus : le chômage technique ou partiel ; l'arrêt de
+   travail pour maladie ou garde d'enfant et le non-renouvellement de
+   contrat. Les ouvriers ont été les plus concernés par l'une au moins de
    ces restrictions (43 %), devant les cadres et professions
-   intermÃ©diaires (34 %) ou les employÃ©s (32 %).
+   intermédiaires (34 %) ou les employés (32 %).
 
-   Les personnes en emploi aux revenus modestes ont Ã©tÃ© les plus
-   touchÃ©es : 37 % des personnes dont le niveau de vie se situe parmi les
-   40 % les plus modestes ont Ã©tÃ© concernÃ©es par au moins une de ces
-   restrictions, contre 27 % parmi les 20 % les plus aisÃ©es (figure 1).
-   Les familles monoparentales ont Ã©tÃ© plus souvent concernÃ©es par les
-   restrictions dâactivitÃ© liÃ©es Ã  la garde dâenfant (27 % contre 16 %
+   Les personnes en emploi aux revenus modestes ont été les plus
+   touchées : 37 % des personnes dont le niveau de vie se situe parmi les
+   40 % les plus modestes ont été concernées par au moins une de ces
+   restrictions, contre 27 % parmi les 20 % les plus aisées (figure 1).
+   Les familles monoparentales ont été plus souvent concernées par les
+   restrictions d'activité liées à la garde d'enfant (27 % contre 16 %
    pour le reste de la population).
      * Graphique
      * Tableau
 
-   Affichage de lâonglet contenant le tableau ou de lâonglet contenant le
-   graphique[Graphique -Figure 1 - Restriction d'activitÃ©, dont chÃ´mage part
-   iel, selon le niveau de vivie]
+   Affichage de l'onglet contenant le tableau ou de l'onglet contenant le
+   graphique[Graphique -Figure 1 - Restriction d'activité, dont chômage pa
+   rtiel, selon le niveau de vie]
 
-tableauFigure 1 - Restriction d'activitÃ©, dont chÃ´mage partiel, selon le
+tableauFigure 1 - Restriction d'activité, dont chômage partiel, selon le
 niveau de vie
 
    en %
 
-   CAPTION: Figure 1 - Restriction d'activitÃ©, dont chÃ´mage partiel, selon
+   CAPTION: Figure 1 - Restriction d'activité, dont chômage partiel, selon
    le niveau de vie (en %)
 
-                Restriction d'activitÃ©* dont chÃ´mage partiel
-   1áµÊ³ quintile 35                      30
-   2áµ quintile  39                      35
-   3áµ quintile  33                      25
-   4áµ quintile  31                      26
-   5áµ quintile  27                      21
-     * * ChÃ´mage technique ou partiel, arrÃªt de travail ou autorisation
-       spÃ©ciale dâabsence, non renouvellement de contrat.
-     * Champ : France mÃ©tropolitaine, personnes en emploi de 15 ans ou
+                 Restriction d'activité* dont chômage partiel
+   1<r> quintile 35                      30
+    2 quintile   39                      35
+    3 quintile   33                      25
+    4 quintile   31                      26
+    5 quintile   27                      21
+     * * Chômage technique ou partiel, arrêt de travail ou autorisation
+       spéciale d'absence, non renouvellement de contrat.
+     * Champ : France métropolitaine, personnes en emploi de 15 ans ou
        plus.
-     * Source : Insee, enquÃªte Camme, mai 2020.
+     * Source : Insee, enquête Camme, mai 2020.
 
-graphiqueFigure 1 - Restriction d'activitÃ©, dont chÃ´mage partiel, selon le
+graphiqueFigure 1 - Restriction d'activité, dont chômage partiel, selon le
 niveau de vie
 
-     * * ChÃ´mage technique ou partiel, arrÃªt de travail ou autorisation
-       spÃ©ciale dâabsence, non renouvellement de contrat.
-     * Champ : France mÃ©tropolitaine, personnes en emploi de 15 ans ou
+     * * Chômage technique ou partiel, arrêt de travail ou autorisation
+       spéciale d'absence, non renouvellement de contrat.
+     * Champ : France métropolitaine, personnes en emploi de 15 ans ou
        plus.
-     * Source : Insee, enquÃªte Camme, mai 2020.
+     * Source : Insee, enquête Camme, mai 2020.
 
-Davantage de tÃ©lÃ©travail pour les cadres
+Davantage de télétravail pour les cadres
 
-   Le confinement a aussi eu des consÃ©quences importantes sur les
-   modalitÃ©s de travail. Si 35 % des personnes en emploi ont continuÃ© Ã  se
-   rendre sur leur lieu de travail, 34 % ont tÃ©lÃ©travaillÃ©.
+   Le confinement a aussi eu des conséquences importantes sur les
+   modalités de travail. Si 35 % des personnes en emploi ont continué à se
+   rendre sur leur lieu de travail, 34 % ont télétravaillé.
 
-   Le fait dâavoir tÃ©lÃ©travaillÃ© est trÃ¨s liÃ© Ã  la catÃ©gorie sociale :
-   58 % des cadres et professions intermÃ©diaires ont tÃ©lÃ©travaillÃ©, contre
-   20 % des employÃ©s et 2 % des ouvriers. Ceci sâest traduit par des
-   conditions de travail trÃ¨s diffÃ©rentes selon le niveau de vie : 21 %
-   des personnes les plus modestes (1áµÊ³ quintile de niveau de vie) ont
-   tÃ©lÃ©travaillÃ© pendant le confinement contre 53 % des plus aisÃ©s
-   (dernier quintile). Ã lâinverse, les personnes les plus modestes ont
-   davantage continuÃ© Ã  aller travailler sur site (figure 2). Ce fut en
-   particulier le cas des ouvriers (53 %), devant les employÃ©s (41 %),
-   agriculteurs, chefs dâentreprise et indÃ©pendants (40 %), les cadres et
-   professions intermÃ©diaires Ã©tant nettement en retrait (21 %).
+   Le fait d'avoir télétravaillé est très lié à la catégorie sociale :
+   58 % des cadres et professions intermédiaires ont télétravaillé, contre
+   20 % des employés et 2 % des ouvriers. Ceci s'est traduit par des
+   conditions de travail très différentes selon le niveau de vie : 21 %
+   des personnes les plus modestes (1<r> quintile de niveau de vie) ont
+   télétravaillé pendant le confinement contre 53 % des plus aisés
+   (dernier quintile). À l'inverse, les personnes les plus modestes ont
+   davantage continué à aller travailler sur site (figure 2). Ce fut en
+   particulier le cas des ouvriers (53 %), devant les employés (41 %),
+   agriculteurs, chefs d'entreprise et indépendants (40 %), les cadres et
+   professions intermédiaires étant nettement en retrait (21 %).
      * Graphique
      * Tableau
 
-   Affichage de lâonglet contenant le tableau ou de lâonglet contenant le
-   phique -Figuaphique -Figure 2 - Travail sur site et tÃ©lÃ©travail selon l
+   Affichage de l'onglet contenant le tableau ou de l'onglet contenant le
+   phique -Figuaphique -Figure 2 - Travail sur site et télétravail selon l
    e niveau de vie]
 
-tableauFigure 2 - Travail sur site et tÃ©lÃ©travail selon le niveau de vie
+tableauFigure 2 - Travail sur site et télétravail selon le niveau de vie
 
    en %
 
-   CAPTION: Figure 2 - Travail sur site et tÃ©lÃ©travail selon le niveau de
+   CAPTION: Figure 2 - Travail sur site et télétravail selon le niveau de
    vie (en %)
 
-                Travail sur site TÃ©lÃ©travail
-   1áµÊ³ quintile 37               21
-   2áµ quintile  44               18
-   3áµ quintile  32               33
-   4áµ quintile  37               40
-   5áµ quintile  26               53
-     * Champ : France mÃ©tropolitaine, personnes en emploi de 15 ans ou
+                 Travail sur site Télétravail
+   1<r> quintile 37               21
+    2 quintile   44               18
+    3 quintile   32               33
+    4 quintile   37               40
+    5 quintile   26               53
+     * Champ : France métropolitaine, personnes en emploi de 15 ans ou
        plus.
-     * Source : Insee, enquÃªte Camme, mai 2020.
+     * Source : Insee, enquête Camme, mai 2020.
 
-graphiqueFigure 2 - Travail sur site et tÃ©lÃ©travail selon le niveau de vie
+graphiqueFigure 2 - Travail sur site et télétravail selon le niveau de vie
 
-     * Champ : France mÃ©tropolitaine, personnes en emploi de 15 ans ou
+     * Champ : France métropolitaine, personnes en emploi de 15 ans ou
        plus.
-     * Source : Insee, enquÃªte Camme, mai 2020.
+     * Source : Insee, enquête Camme, mai 2020.
 
-Peu de sorties hors du logement, un temps passÃ© sur Ã©cran important
+Peu de sorties hors du logement, un temps passé sur écran important
 
    Logiquement compte tenu des consignes sanitaires, les sorties hors du
-   logement ont Ã©tÃ© rares : plus des deux tiers des personnes sont sorties
-   en moyenne moins dâune fois par jour. 23 % sont sorties moins
-   dâune fois par semaine, 32 % 1 Ã  2 fois par semaine, 14 % 3 Ã  5 fois
+   logement ont été rares : plus des deux tiers des personnes sont sorties
+   en moyenne moins d'une fois par jour. 23 % sont sorties moins
+   d'une fois par semaine, 32 % 1 à 2 fois par semaine, 14 % 3 à 5 fois
    par semaine, 20 % une fois par jour ; seules 6 % sont sorties 2 fois
-   par jour et 4 % plus de 3 fois par jour. La quasi-totalitÃ© (97 %) des
+   par jour et 4 % plus de 3 fois par jour. La quasi-totalité (97 %) des
    personnes qui sont sorties plus de deux fois par jour sont celles qui
-   ont continuÃ© Ã  se rendre sur leur lieu de travail.
+   ont continué à se rendre sur leur lieu de travail.
 
-   Le temps passÃ© sur Ã©cran a Ã©tÃ© important : 30 % des personnes ont passÃ©
-   en moyenne plus de 4 heures par jour sur Ã©cran hors rÃ©seaux sociaux,
-   36 % entre 2 et 4 heures. Le temps passÃ© sur les rÃ©seaux sociaux est
-   nettement plus rÃ©duit : 32 % ne les ont jamais consultÃ©s, 34 % y ont
-   consacrÃ© moins dâune heure par jour, 14 % plus de 2 heures.
+   Le temps passé sur écran a été important : 30 % des personnes ont passé
+   en moyenne plus de 4 heures par jour sur écran hors réseaux sociaux,
+   36 % entre 2 et 4 heures. Le temps passé sur les réseaux sociaux est
+   nettement plus réduit : 32 % ne les ont jamais consultés, 34 % y ont
+   consacré moins d'une heure par jour, 14 % plus de 2 heures.
 
-Les femmes ont assurÃ© une grande part de la prise en charge des enfants
+Les femmes ont assuré une grande part de la prise en charge des enfants
 
-   La prise en charge des enfants a Ã©tÃ© davantage assurÃ©e par les femmes :
-   globalement, 83 % des femmes vivant avec des enfants y ont consacrÃ©
+   La prise en charge des enfants a été davantage assurée par les femmes :
+   globalement, 83 % des femmes vivant avec des enfants y ont consacré
    plus de 4 heures par jour (57 % des hommes) et 6 % entre 2 et 4 heures
-   par jour (19 % des hommes). Parmi les personnes en emploi, les mÃ¨res
-   ont deux fois plus souvent que les pÃ¨res renoncÃ© Ã  travailler pour
-   garder leurs enfants (21 % contre 12 %). De faÃ§on encore plus marquÃ©e,
-   parmi les personnes en emploi qui nâont pas Ã©tÃ© en autorisation
-   spÃ©ciale dâabsence pour garde dâenfant, 80 % des femmes passaient plus
-   de 4 heures quotidiennement auprÃ¨s des enfants (contre 52 % des hommes)
-   et 45 % assuraient une Â« double journÃ©e Â» professionnelle et
+   par jour (19 % des hommes). Parmi les personnes en emploi, les mères
+   ont deux fois plus souvent que les pères renoncé à travailler pour
+   garder leurs enfants (21 % contre 12 %). De façon encore plus marquée,
+   parmi les personnes en emploi qui n'ont pas été en autorisation
+   spéciale d'absence pour garde d'enfant, 80 % des femmes passaient plus
+   de 4 heures quotidiennement auprès des enfants (contre 52 % des hommes)
+   et 45 % assuraient une « double journée » professionnelle et
    domestique, cumulant quotidiennement plus de 4 heures de travail et
-   4 heures auprÃ¨s des enfants, contre 29 % des hommes.
+   4 heures auprès des enfants, contre 29 % des hommes.
 
-   35 % des personnes ayant des enfants ont eu des difficultÃ©s pour
-   assurer leur suivi scolaire. Cette difficultÃ© est trÃ¨s corrÃ©lÃ©e au
-   niveau de vie et touche nettement plus les plus modestes : la moitiÃ©
-   des personnes du 1áµÊ³ quintile de niveau de vie contre un quart de
-   celles du 5áµ quintile (figure 3). Elle est plus souvent ressentie par
+   35 % des personnes ayant des enfants ont eu des difficultés pour
+   assurer leur suivi scolaire. Cette difficulté est très corrélée au
+   niveau de vie et touche nettement plus les plus modestes : la moitié
+   des personnes du 1<r> quintile de niveau de vie contre un quart de
+   celles du 5 quintile (figure 3). Elle est plus souvent ressentie par
    les femmes (41 % contre 28 % des hommes), notamment en emploi (38 % des
-   femmes en emploi rapportent cette difficultÃ© contre 29 % des hommes),
+   femmes en emploi rapportent cette difficulté contre 29 % des hommes),
    et les familles monoparentales (48 % contre 34 % pour les autres types
-   de mÃ©nages).
+   de ménages).
      * Graphique
      * Tableau
 
-   Affichage de lâonglet contenant le tableau ou de lâonglet contenant le
-   phique -Figure 3 - Perception du confinement comme pÃ©ment comme pÃ©nible
-    et difficultÃ©s de suivi scolaire selon le niveau de vie]
+   Affichage de l'onglet contenant le tableau ou de l'onglet contenant le
+   phique -Figure 3 - Perception du confinement comme pément comme pénible
+    et difficultés de suivi scolaire selon le niveau de vie]
 
-tableauFigure 3 - Perception du confinement comme pÃ©nible et difficultÃ©s de
+tableauFigure 3 - Perception du confinement comme pénible et difficultés de
 suivi scolaire selon le niveau de vie
 
    en %
 
-   CAPTION: Figure 3 - Perception du confinement comme pÃ©nible et
-   difficultÃ©s de suivi scolaire selon le niveau de vie (en %)
+   CAPTION: Figure 3 - Perception du confinement comme pénible et
+   difficultés de suivi scolaire selon le niveau de vie (en %)
 
-                PÃ©nibleÂ¹ DifficultÃ©s de suivi scolaireÂ²
-   1áµÊ³ quintile 37       49
-   2áµ quintile  30       34
-   3áµ quintile  24       36
-   4áµ quintile  26       20
-   5áµ quintile  17       25
-     * 1. Note supÃ©rieure ou Ã©gale Ã  7 Ã  la question Â« Ã quel point la
-       pÃ©riode de confinement vous a paru pÃ©nible (sur une Ã©chelle de
-       0, pas du tout pÃ©nible, Ã  10, extrÃªmement pÃ©nible) ? Â».
-     * 2. Parmi les mÃ©nages ayant des enfants de 14 ans ou moins.
-     * Champ : France mÃ©tropolitaine, personnes de 15 ans ou plus.
-     * Source : Insee, enquÃªte Camme, mai 2020.
+                 Pénible¹ Difficultés de suivi scolaire²
+   1<r> quintile 37       49
+    2 quintile   30       34
+    3 quintile   24       36
+    4 quintile   26       20
+    5 quintile   17       25
+     * 1. Note supérieure ou égale à 7 à la question « À quel point la
+       période de confinement vous a paru pénible (sur une échelle de
+       0, pas du tout pénible, à 10, extrêmement pénible) ? ».
+     * 2. Parmi les ménages ayant des enfants de 14 ans ou moins.
+     * Champ : France métropolitaine, personnes de 15 ans ou plus.
+     * Source : Insee, enquête Camme, mai 2020.
 
-graphiqueFigure 3 - Perception du confinement comme pÃ©nible et difficultÃ©s de
+graphiqueFigure 3 - Perception du confinement comme pénible et difficultés de
 suivi scolaire selon le niveau de vie
 
-     * 1. Note supÃ©rieure ou Ã©gale Ã  7 Ã  la question Â« Ã quel point la
-       pÃ©riode de confinement vous a paru pÃ©nible (sur une Ã©chelle de
-       0, pas du tout pÃ©nible, Ã  10, extrÃªmement pÃ©nible) ? Â».
-     * 2. Parmi les mÃ©nages ayant des enfants de 14 ans ou moins.
-     * Champ : France mÃ©tropolitaine, personnes de 15 ans ou plus.
-     * Source : Insee, enquÃªte Camme, mai 2020.
+     * 1. Note supérieure ou égale à 7 à la question « À quel point la
+       période de confinement vous a paru pénible (sur une échelle de
+       0, pas du tout pénible, à 10, extrêmement pénible) ? ».
+     * 2. Parmi les ménages ayant des enfants de 14 ans ou moins.
+     * Champ : France métropolitaine, personnes de 15 ans ou plus.
+     * Source : Insee, enquête Camme, mai 2020.
 
-La situation financiÃ¨re des plus modestes sâest plus souvent dÃ©gradÃ©e
+La situation financière des plus modestes s'est plus souvent dégradée
 
-   20 % des personnes estiment que la situation financiÃ¨re de leur foyer
-   sâest dÃ©gradÃ©e durant le confinement, 72 % quâelle nâa pas changÃ© et
-   7 % quâelle sâest amÃ©liorÃ©e. Les personnes les plus modestes
-   (1áµÊ³ quintile de niveau de vie) dÃ©clarent plus souvent que leur
-   situation financiÃ¨re sâest dÃ©gradÃ©e pendant la pÃ©riode : 30 % contre
+   20 % des personnes estiment que la situation financière de leur foyer
+   s'est dégradée durant le confinement, 72 % qu'elle n'a pas changé et
+   7 % qu'elle s'est améliorée. Les personnes les plus modestes
+   (1<r> quintile de niveau de vie) déclarent plus souvent que leur
+   situation financière s'est dégradée pendant la période : 30 % contre
    11 % pour celles du dernier quintile (figure 4). Parmi les personnes en
-   emploi, les indÃ©pendants ont deux fois plus souvent rapportÃ© une
-   dÃ©gradation de leur revenu que les salariÃ©s (42 % contre 22 %).
+   emploi, les indépendants ont deux fois plus souvent rapporté une
+   dégradation de leur revenu que les salariés (42 % contre 22 %).
      * Graphique
      * Tableau
 
-   Affichage de lâonglet contenant le tableau ou de lâonglet contenant le
-   phique -Figure 4 - Perception d'une situation finaituation financiÃ¨re d
-   Ã©gradÃ©e durant le confinement selon le niveau de vie]
+   Affichage de l'onglet contenant le tableau ou de l'onglet contenant le
+   phique -Figure 4 - Perception d'une situation finsituation financière d
+   égradée durant le confinement selon le niveau de vie]
 
-tableauFigure 4 - Perception d'une situation financiÃ¨re dÃ©gradÃ©e durant le
+tableauFigure 4 - Perception d'une situation financière dégradée durant le
 confinement selon le niveau de vie
 
    en %
 
-   CAPTION: Figure 4 - Perception d'une situation financiÃ¨re dÃ©gradÃ©e
+   CAPTION: Figure 4 - Perception d'une situation financière dégradée
    durant le confinement selon le niveau de vie (en %)
 
-                Situation financiÃ¨re dÃ©gradÃ©e
-   1áµÊ³ quintile 30
-   2áµ quintile  21
-   3áµ quintile  23
-   4áµ quintile  15
-   5áµ quintile  11
-     * Champ : France mÃ©tropolitaine, personnes de 15 ans ou plus.
-     * Source : Insee, enquÃªte Camme, mai 2020.
+                 Situation financière dégradée
+   1<r> quintile 30
+    2 quintile   21
+    3 quintile   23
+    4 quintile   15
+    5 quintile   11
+     * Champ : France métropolitaine, personnes de 15 ans ou plus.
+     * Source : Insee, enquête Camme, mai 2020.
 
-graphiqueFigure 4 - Perception d'une situation financiÃ¨re dÃ©gradÃ©e durant le
+graphiqueFigure 4 - Perception d'une situation financière dégradée durant le
 confinement selon le niveau de vie
 
-     * Champ : France mÃ©tropolitaine, personnes de 15 ans ou plus.
-     * Source : Insee, enquÃªte Camme, mai 2020.
+     * Champ : France métropolitaine, personnes de 15 ans ou plus.
+     * Source : Insee, enquête Camme, mai 2020.
 
-Les personnes seules jugent le confinement plus pÃ©nible
+Les personnes seules jugent le confinement plus pénible
 
-   Lorsque lâon demande aux rÃ©pondants Ã  quel point la pÃ©riode de
-   confinement leur a paru pÃ©nible (sur une Ã©chelle de 0, pas du tout
-   pÃ©nible, Ã  10, extrÃªmement pÃ©nible), la moyenne sâÃ©tablit Ã  4,7. Le
-   confinement ne semble donc pas avoir Ã©tÃ© trÃ¨s pÃ©nible pour la
-   population dans son ensemble. 27 % donnent une note supÃ©rieure ou Ã©gale
-   Ã  7 et 35 % une note infÃ©rieure ou Ã©gale Ã  3.
+   Lorsque l'on demande aux répondants à quel point la période de
+   confinement leur a paru pénible (sur une échelle de 0, pas du tout
+   pénible, à 10, extrêmement pénible), la moyenne s'établit à 4,7. Le
+   confinement ne semble donc pas avoir été très pénible pour la
+   population dans son ensemble. 27 % donnent une note supérieure ou égale
+   à 7 et 35 % une note inférieure ou égale à 3.
 
-   Le fait de dÃ©clarer avoir trouvÃ© le confinement pÃ©nible (note
-   supÃ©rieure ou Ã©gale Ã  7) est plus frÃ©quent parmi les personnes
-   seules (31 %), les familles monoparentales (29 %) ou les mÃ©nages
-   regroupant plusieurs familles ou gÃ©nÃ©rations (Â« mÃ©nages complexes Â»,
+   Le fait de déclarer avoir trouvé le confinement pénible (note
+   supérieure ou égale à 7) est plus fréquent parmi les personnes
+   seules (31 %), les familles monoparentales (29 %) ou les ménages
+   regroupant plusieurs familles ou générations (« ménages complexes »,
    30 %) que parmi les couples avec enfants (24 %) ou sans enfant (24 %).
-   Vivre en couple semble avoir limitÃ© la pÃ©nibilitÃ© perÃ§ue du
+   Vivre en couple semble avoir limité la pénibilité perçue du
    confinement.
 
-   Les retraitÃ©s ont plus mal vÃ©cu la pÃ©riode (30 % jugent le confinement
-   pÃ©nible), que les personnes en emploi (25 %) et les chÃ´meurs (24 %).
-   Les Ã©carts sont marquÃ©s selon le niveau de vie : 37 % des personnes les
-   plus modestes (1áµÊ³ quintile) jugent le confinement pÃ©nible contre 17 %
-   pour les plus aisÃ©es (dernier quintile, figure 3).
+   Les retraités ont plus mal vécu la période (30 % jugent le confinement
+   pénible), que les personnes en emploi (25 %) et les chômeurs (24 %).
+   Les écarts sont marqués selon le niveau de vie : 37 % des personnes les
+   plus modestes (1<r> quintile) jugent le confinement pénible contre 17 %
+   pour les plus aisées (dernier quintile, figure 3).
 
-   Pour les personnes en emploi, avoir subi une restriction dâactivitÃ©
-   augmente nettement lâimpression que le confinement a Ã©tÃ© pÃ©nible : 29 %
-   des personnes concernÃ©es jugent quâil a Ã©tÃ© pÃ©nible contre 23 % parmi
+   Pour les personnes en emploi, avoir subi une restriction d'activité
+   augmente nettement l'impression que le confinement a été pénible : 29 %
+   des personnes concernées jugent qu'il a été pénible contre 23 % parmi
    les autres.
 
-   Les femmes expriment globalement un sentiment de pÃ©nibilitÃ© lÃ©gÃ¨rement
-   plus marquÃ© que les hommes (4,8 en moyenne contre 4,5). Cet Ã©cart de
-   perception entre les sexes sâaccentue nettement lorsque des enfants
-   Ã©taient prÃ©sents durant le confinement (5,0 pour les femmes contre 4,4
+   Les femmes expriment globalement un sentiment de pénibilité légèrement
+   plus marqué que les hommes (4,8 en moyenne contre 4,5). Cet écart de
+   perception entre les sexes s'accentue nettement lorsque des enfants
+   étaient présents durant le confinement (5,0 pour les femmes contre 4,4
    pour les hommes), en particulier pour les personnes en emploi ayant des
    enfants (5,1 contre 4,3).
 
 Sources
 
-   Afin de suivre l'opinion des mÃ©nages sur leur environnement Ã©conomique
-   et sur leur situation personnelle, lâInsee rÃ©alise une enquÃªte
-   mensuelle de conjoncture auprÃ¨s des mÃ©nages (Camme). Le questionnaire a
-   Ã©tÃ© adaptÃ© afin dâinterroger les FranÃ§ais de mÃ©tropole sur leurs
+   Afin de suivre l'opinion des ménages sur leur environnement économique
+   et sur leur situation personnelle, l'Insee réalise une enquête
+   mensuelle de conjoncture auprès des ménages (Camme). Le questionnaire a
+   été adapté afin d'interroger les Français de métropole sur leurs
    conditions de vie durant le confinement au travers de vingt questions
-   administrÃ©es du 27 avril au 16 mai 2020. Cette pÃ©riode de collecte a eu
-   lieu durant la derniÃ¨re semaine du confinement (dÃ©clarÃ© du 16 mars au
-   11 mai 2020) et celle qui suit immÃ©diatement. Il sâagit donc dâune
-   pÃ©riode propice Ã  une interrogation rÃ©trospective sur lâensemble du
-   confinement. Plus de 1 600 personnes de 15 ans ou plus y ont rÃ©pondu.
+   administrées du 27 avril au 16 mai 2020. Cette période de collecte a eu
+   lieu durant la dernière semaine du confinement (déclaré du 16 mars au
+   11 mai 2020) et celle qui suit immédiatement. Il s'agit donc d'une
+   période propice à une interrogation rétrospective sur l'ensemble du
+   confinement. Plus de 1 600 personnes de 15 ans ou plus y ont répondu.
 
-DÃ©finitions
+Définitions
 
-   Dans cette Ã©tude, sont considÃ©rÃ©s comme restriction dâactivitÃ©
-   susceptible de rÃ©duire les revenus du travail les Ã©vÃ©nements suivants :
-   chÃ´mage technique ou partiel, arrÃªt de travail ou autorisation spÃ©ciale
-   dâabsence pour garde dâenfant, non renouvellement du contrat. Les jours
-   de carence (un dans la fonction publique, trois dans le secteur privÃ©)
-   ont Ã©tÃ© suspendus par la loi d'urgence du 23 mars 2020 pour faire face
-   Ã  l'Ã©pidÃ©mie de Covid-19 ; les arrÃªts maladie nâont donc pratiquement
-   pas impactÃ© les revenus durant le confinement.
+   Dans cette étude, sont considérés comme restriction d'activité
+   susceptible de réduire les revenus du travail les événements suivants :
+   chômage technique ou partiel, arrêt de travail ou autorisation spéciale
+   d'absence pour garde d'enfant, non renouvellement du contrat. Les jours
+   de carence (un dans la fonction publique, trois dans le secteur privé)
+   ont été suspendus par la loi d'urgence du 23 mars 2020 pour faire face
+   à l'épidémie de Covid-19 ; les arrêts maladie n'ont donc pratiquement
+   pas impacté les revenus durant le confinement.
 
-   Le niveau de vie dâune personne dans un mÃ©nage dÃ©pend de la composition
-   de celui-ci. Pour le calculer, on divise le revenu total du mÃ©nage par
-   son nombre dâunitÃ©s de consommation : 1 pour le premier adulte du
-   mÃ©nage, puis 0,5 par personne Ã¢gÃ©e de 14 ans ou plus supplÃ©mentaire et
+   Le niveau de vie d'une personne dans un ménage dépend de la composition
+   de celui-ci. Pour le calculer, on divise le revenu total du ménage par
+   son nombre d'unités de consommation : 1 pour le premier adulte du
+   ménage, puis 0,5 par personne âgée de 14 ans ou plus supplémentaire et
    0,3 pour chaque enfant de moins de 14 ans.
 
-   Si lâon ordonne la distribution des niveaux de vie, les quintiles sont
+   Si l'on ordonne la distribution des niveaux de vie, les quintiles sont
    les valeurs qui partagent cette distribution en 5 sous-populations
-   dâeffectifs Ã©gaux. Le premier quintile est par exemple le niveau de vie
-   au-dessous duquel se situent 20 % des individus. Par commoditÃ© de
-   langage, on appelle ici 1áµÊ³ quintile les 20 % des personnes au niveau
-   de vie sous le 1áµÊ³ quintile, 2áµ quintile celles au niveau de vie
-   compris entre le 1áµÊ³ et le 2áµ, etc.
+   d'effectifs égaux. Le premier quintile est par exemple le niveau de vie
+   au-dessous duquel se situent 20 % des individus. Par commodité de
+   langage, on appelle ici 1<r> quintile les 20 % des personnes au niveau
+   de vie sous le 1<r> quintile, 2 quintile celles au niveau de vie
+   compris entre le 1<r> et le 2, etc.
 
-   Afin de suivre l'opinion des mÃ©nages sur leur environnement Ã©conomique
-   et sur leur situation personnelle, lâInsee rÃ©alise une enquÃªte
-   mensuelle de conjoncture auprÃ¨s des mÃ©nages (Camme). Le questionnaire a
-   Ã©tÃ© adaptÃ© afin dâinterroger les FranÃ§ais de mÃ©tropole sur leurs
+   Afin de suivre l'opinion des ménages sur leur environnement économique
+   et sur leur situation personnelle, l'Insee réalise une enquête
+   mensuelle de conjoncture auprès des ménages (Camme). Le questionnaire a
+   été adapté afin d'interroger les Français de métropole sur leurs
    conditions de vie durant le confinement au travers de vingt questions
-   administrÃ©es du 27 avril au 16 mai 2020. Cette pÃ©riode de collecte a eu
-   lieu durant la derniÃ¨re semaine du confinement (dÃ©clarÃ© du 16 mars au
-   11 mai 2020) et celle qui suit immÃ©diatement. Il sâagit donc dâune
-   pÃ©riode propice Ã  une interrogation rÃ©trospective sur lâensemble du
-   confinement. Plus de 1 600 personnes de 15 ans ou plus y ont rÃ©pondu.
+   administrées du 27 avril au 16 mai 2020. Cette période de collecte a eu
+   lieu durant la dernière semaine du confinement (déclaré du 16 mars au
+   11 mai 2020) et celle qui suit immédiatement. Il s'agit donc d'une
+   période propice à une interrogation rétrospective sur l'ensemble du
+   confinement. Plus de 1 600 personnes de 15 ans ou plus y ont répondu.
 
-   Dans cette Ã©tude, sont considÃ©rÃ©s comme restriction dâactivitÃ©
-   susceptible de rÃ©duire les revenus du travail les Ã©vÃ©nements suivants :
-   chÃ´mage technique ou partiel, arrÃªt de travail ou autorisation spÃ©ciale
-   dâabsence pour garde dâenfant, non renouvellement du contrat. Les jours
-   de carence (un dans la fonction publique, trois dans le secteur privÃ©)
-   ont Ã©tÃ© suspendus par la loi d'urgence du 23 mars 2020 pour faire face
-   Ã  l'Ã©pidÃ©mie de Covid-19 ; les arrÃªts maladie nâont donc pratiquement
-   pas impactÃ© les revenus durant le confinement.
+   Dans cette étude, sont considérés comme restriction d'activité
+   susceptible de réduire les revenus du travail les événements suivants :
+   chômage technique ou partiel, arrêt de travail ou autorisation spéciale
+   d'absence pour garde d'enfant, non renouvellement du contrat. Les jours
+   de carence (un dans la fonction publique, trois dans le secteur privé)
+   ont été suspendus par la loi d'urgence du 23 mars 2020 pour faire face
+   à l'épidémie de Covid-19 ; les arrêts maladie n'ont donc pratiquement
+   pas impacté les revenus durant le confinement.
 
-   Le niveau de vie dâune personne dans un mÃ©nage dÃ©pend de la composition
-   de celui-ci. Pour le calculer, on divise le revenu total du mÃ©nage par
-   son nombre dâunitÃ©s de consommation : 1 pour le premier adulte du
-   mÃ©nage, puis 0,5 par personne Ã¢gÃ©e de 14 ans ou plus supplÃ©mentaire et
+   Le niveau de vie d'une personne dans un ménage dépend de la composition
+   de celui-ci. Pour le calculer, on divise le revenu total du ménage par
+   son nombre d'unités de consommation : 1 pour le premier adulte du
+   ménage, puis 0,5 par personne âgée de 14 ans ou plus supplémentaire et
    0,3 pour chaque enfant de moins de 14 ans.
 
-   Si lâon ordonne la distribution des niveaux de vie, les quintiles sont
+   Si l'on ordonne la distribution des niveaux de vie, les quintiles sont
    les valeurs qui partagent cette distribution en 5 sous-populations
-   dâeffectifs Ã©gaux. Le premier quintile est par exemple le niveau de vie
-   au-dessous duquel se situent 20 % des individus. Par commoditÃ© de
-   langage, on appelle ici 1áµÊ³ quintile les 20 % des personnes au niveau
-   de vie sous le 1áµÊ³ quintile, 2áµ quintile celles au niveau de vie
-   compris entre le 1áµÊ³ et le 2áµ, etc.
+   d'effectifs égaux. Le premier quintile est par exemple le niveau de vie
+   au-dessous duquel se situent 20 % des individus. Par commodité de
+   langage, on appelle ici 1<r> quintile les 20 % des personnes au niveau
+   de vie sous le 1<r> quintile, 2 quintile celles au niveau de vie
+   compris entre le 1<r> et le 2, etc.
 
 Pour en savoir plus
 
-   Bigot R., Chateau M., Hoibian S., Â« Ouvrir dans un nouvel ongletLe
-   confinement amplifie lâaspiration Ã  ralentir son rythme de vie Â», Note
-   de synthÃ¨se du CrÃ©doc nÂ° 30, mai 2020.
+   Bigot R., Chateau M., Hoibian S., « Ouvrir dans un nouvel ongletLe
+   confinement amplifie l'aspiration à ralentir son rythme de vie », Note
+   de synthèse du Crédoc n° 30, mai 2020.
 
-   Note dâÃ©clairage enquÃªte Emploi confinement, mai 2020.
+   Note d'éclairage enquête Emploi confinement, mai 2020.
 
-   Ouvrir dans un nouvel ongletBaromÃ¨tre Covid Ipsos.
+   Ouvrir dans un nouvel ongletBaromètre Covid Ipsos.
 
-   Ouvrir dans un nouvel ongletEnquÃªte Coconel COronavirus et
-   CONfinement : EnquÃªte Longitudinale.
+   Ouvrir dans un nouvel ongletEnquête Coconel COronavirus et
+   CONfinement : Enquête Longitudinale.
 
    [ancienLogoInsee.svg]
-   Institut national de la statistique et des Ã©tudes Ã©conomiques
+   Institut national de la statistique et des études économiques
    88 avenue Verdier, 92541 Montrouge Cedex
    Direction de la publication : Fabrice Lenglart
 
      * Nos sites partenaires
 
-     * SystÃ¨me Statistique EuropÃ©en
-     * RÃ©seau Quetelet
-     * Centre d'AccÃ¨s SÃ©curisÃ© Distant aux donnÃ©es (CASD)
+     * Système Statistique Européen
+     * Réseau Quetelet
+     * Centre d'Accès Sécurisé Distant aux données (CASD)
      * site data.gouv
      * Services Publics +
 
@@ -605,49 +605,49 @@ Nous suivre
 Contact
 
    Aide et contact
-     * Statistiques et Ã©tudes
-     * DÃ©finitions, mÃ©thodes et qualitÃ©
-          + DÃ©finitions
+     * Statistiques et études
+     * Définitions, méthodes et qualité
+          + Définitions
           + Sources statistiques et indicateurs
-          + La qualitÃ© dans le Service statistique public (SSP)
+          + La qualité dans le Service statistique public (SSP)
           + Nomenclatures
-          + GÃ©ographie administrative et d'Ã©tude
-          + ModÃ¨les, mÃ©thodes et outils statistiques
+          + Géographie administrative et d'étude
+          + Modèles, méthodes et outils statistiques
           + Courrier des statistiques
-          + Offre de donnÃ©es ouvertes
+          + Offre de données ouvertes
      * Services
-          + RÃ©viser une pension, un loyer, bail ou contrat
-          + Consulter les indices et sÃ©ries chronologiques
+          + Réviser une pension, un loyer, bail ou contrat
+          + Consulter les indices et séries chronologiques
           + Sirene
-          + DÃ©couvrir, apprendre, enseigner
-          + RÃ©pondre Ã  une enquÃªte de l'Insee
-          + Sâinformer sur lâactualitÃ© de notre diffusion
-          + GÃ©rer les rÃ©pertoires des personnes physiques
-          + BibliothÃ¨que de lâInsee Alain DesrosiÃ¨res
+          + Découvrir, apprendre, enseigner
+          + Répondre à une enquête de l'Insee
+          + S'informer sur l'actualité de notre diffusion
+          + Gérer les répertoires des personnes physiques
+          + Bibliothèque de l'Insee Alain Desrosières
           + Commander une prestation, acheter une publication
           + Nous suivre
           + Aide et contacts
           + Espace presse
      * L'Insee et la statistique publique
           + L'Insee
-          + Les activitÃ©s de l'Insee
+          + Les activités de l'Insee
           + La statistique publique
-          + La construction de la statistique europÃ©enne
-          + Mesure de la qualitÃ© de service
+          + La construction de la statistique européenne
+          + Mesure de la qualité de service
           + Services Publics+ : un service public plus proche, plus
             simple, plus efficace
 
-     * SystÃ¨me Statistique EuropÃ©en
-     * RÃ©seau Quetelet
-     * Centre d'AccÃ¨s SÃ©curisÃ© Distant aux donnÃ©es (CASD)
+     * Système Statistique Européen
+     * Réseau Quetelet
+     * Centre d'Accès Sécurisé Distant aux données (CASD)
      * site data.gouv
      * Services Publics +
 
-     * Mentions lÃ©gales et crÃ©dits
-     * Conditions d'utilisation de nos donnÃ©es
-     * AccessibilitÃ© : partiellement conforme
-     * AccÃ¨s sourds et malentendants
-     * SÃ©curitÃ©
+     * Mentions légales et crédits
+     * Conditions d'utilisation de nos données
+     * Accessibilité : partiellement conforme
+     * Accès sourds et malentendants
+     * Sécurité
      * Plan du site
 
    Haut de page

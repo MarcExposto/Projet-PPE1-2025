@@ -114,7 +114,7 @@ Improved Communication and Coordination
 
 Seamless Integration with Other Security Measures
 
-   Lockdown systems work in harmony with a schoolâs broader security
+   Lockdown systems work in harmony with a school's broader security
    infrastructure, creating a multi-layered defense mechanism. By
    integrating with video surveillance, alarm systems, access control,
    emergency lighting, and AI-driven analytics, these systems provide
@@ -128,7 +128,7 @@ Compliance with Safety Regulations
    advanced lockdown system enhances compliance with safety standards and
    reduces liability risks.
 
-   One key regulation is Alyssaâs Law, which requires public K-12 schools
+   One key regulation is Alyssa's Law, which requires public K-12 schools
    in certain states, including New York, to consider installing silent
 --
    efforts underway to make it a federal law.
@@ -146,7 +146,7 @@ Peace of Mind for Parents and Educators
    At Digital Provisions, we specialize in designing and implementing
    state-of-the-art security solutions tailored to your unique needs. Our
    Lockdown Solution provides rapid response capabilities, securing your
-   facility at the push of a button. Ready to enhance your schoolâs
+   facility at the push of a button. Ready to enhance your school's
    security? Get a free on-site security assessment today and discover how
    our lockdown solutions can keep your students safe!
 

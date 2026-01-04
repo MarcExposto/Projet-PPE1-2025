@@ -1,5 +1,5 @@
-   #EurÃªkoi Â» Flux EurÃªkoi Â» Flux des commentaires EurÃªkoi Â» Histoire :
-   Avons-nous dÃ©jÃ  connu des pÃ©riodes de confinement en France ? Flux des
+   #Eurêkoi » Flux Eurêkoi » Flux des commentaires Eurêkoi » Histoire :
+   Avons-nous déjà connu des périodes de confinement en France ? Flux des
    commentaires JSON oEmbed (JSON) oEmbed (XML)
 
    Aller au contenu pricipale
@@ -7,177 +7,177 @@
    (BUTTON) Ouvrir/fermer le menu
 
      * Accueil
-     * Explorer nos rÃ©ponses (BUTTON) sous menu
+     * Explorer nos réponses (BUTTON) sous menu
           + Arts
-          + Ãconomie/finance
+          + Économie/finance
           + Enseignement/Formation
-          + Ãducation aux mÃ©dias et Ã  lâinformation (EMI)
+          + Éducation aux médias et à l'information (EMI)
           + Environnement
           + Histoire
-          + Humains et sociÃ©tÃ©
-          + Langues et littÃ©rature
+          + Humains et société
+          + Langues et littérature
           + Philosophie/Psychologie
-          + SantÃ©
+          + Santé
           + Sciences
           + Techniques/technologies
           + Vie pratique/loisirs
      * Explorer nos conseils
      * Tester nos quiz
-     * DÃ©couvrir EurÃªkoi (BUTTON) sous menu
+     * Découvrir Eurêkoi (BUTTON) sous menu
           + Qui sommes-nous ?
-          + Lâapplication EurÃªkoi
-          + La newsletter EurÃªkoi
-          + Nos rÃ©seaux sociaux
+          + L'application Eurêkoi
+          + La newsletter Eurêkoi
+          + Nos réseaux sociaux
           + La presse parle de nous !
           + Professionnels
      * Aide (BUTTON) sous menu
-          + Charte dâEurÃªkoi
-          + Comment Ã§a marche ?
-          + AccessibilitÃ©
+          + Charte d'Eurêkoi
+          + Comment ça marche ?
+          + Accessibilité
           + Une remarque ? Contactez-nous !
 
-   Accueil Â» Histoire Â» Histoire : Avons-nous dÃ©jÃ  connu des pÃ©riodes de
+   Accueil » Histoire » Histoire : Avons-nous déjà connu des périodes de
    confinement en France ?
 
-Histoire : Avons-nous dÃ©jÃ  connu des pÃ©riodes de confinement en France ?
+Histoire : Avons-nous déjà connu des périodes de confinement en France ?
 
-   Ãtiquettes:19Ã¨me siÃ¨cle (1800-1899)20Ã¨me siÃ¨cle (1900-1999)21Ã¨me siÃ¨cle
+   Étiquettes:19ème siècle (1800-1899)20ème siècle (1900-1999)21ème siècle
    (2000-)
-   BibliothÃ¨que publique d'information (Paris)
-   ThÃ¨me : Histoire
-   Ãtiquettes : 19Ã¨me siÃ¨cle (1800-1899), 20Ã¨me siÃ¨cle (1900-1999), 21Ã¨me
-   siÃ¨cle (2000-)
+   Bibliothèque publique d'information (Paris)
+   Thème : Histoire
+   Étiquettes : 19ème siècle (1800-1899), 20ème siècle (1900-1999), 21ème
+   siècle (2000-)
    image_pdf image_print
 
-   BibliothÃ¨que publique dâinformation â notre rÃ©ponse du 02/02/2020.
-   volets fermÃ©s Â© RiskPlayWin de Pixabay
+   Bibliothèque publique d'information - notre réponse du 02/02/2020.
+   volets fermés © RiskPlayWin de Pixabay
 
-   Â« Si les Ã©pidÃ©mies existent depuis que lâhomme sâest sÃ©dentarisÃ© (la
-   premiÃ¨re Ã  Ãªtre dÃ©crite est nommÃ© Â« peste dâAthÃ¨nes Â» et remonte Ã  lâan
-   428 avant J.-C.), il faut attendre le XIVe siÃ¨cle pour que soit
-   imaginÃ©e la mÃ©thode de la quarantaine.
-   Avant cela, la stratÃ©gie consistait Ã  prendre la fuite et Ã  espÃ©rer
-   Ã©chapper Ã  lâÃ©pidÃ©mie. Â»
-   Depuis 600 ans, Â« la quarantaine nâest absolument pas une solution Â»,
+   « Si les épidémies existent depuis que l'homme s'est sédentarisé (la
+   première à être décrite est nommé « peste d'Athènes » et remonte à l'an
+   428 avant J.-C.), il faut attendre le XIVe siècle pour que soit
+   imaginée la méthode de la quarantaine.
+   Avant cela, la stratégie consistait à prendre la fuite et à espérer
+   échapper à l'épidémie. »
+   Depuis 600 ans, « la quarantaine n'est absolument pas une solution »,
    par Pierre Ropert, France Culture, le 04/03/2020.
 
-   Un article du Parisien, le 17 mars 2020  revient sur certains Ã©pisodes
-   de confinement qui ont dÃ©jÃ  eu lieu en France et dans le monde :
-   Coronavirus : le confinement du pays, une premiÃ¨re dans lâhistoire de
-   France ?, par SÃ©bastien Nieto, Le Parisien, le 17/03/2020.
+   Un article du Parisien, le 17 mars 2020  revient sur certains épisodes
+   de confinement qui ont déjà eu lieu en France et dans le monde :
+   Coronavirus : le confinement du pays, une première dans l'histoire de
+   France ?, par Sébastien Nieto, Le Parisien, le 17/03/2020.
    Extrait :
-   Â« Si aucune mesure de confinement nâa jamais Ã©tÃ© prise par les
-   autoritÃ©s franÃ§aises Ã  longueur de journÃ©e, le couvre-feu (interdiction
-   de sortir la nuit) a dÃ©jÃ  Ã©tÃ© utilisÃ© pour lâensemble du pays occupÃ©
-   par lâAllemagne nazie lors de la Seconde Guerre mondiale.
-   (â¦) Au Moyen-Ãge, une ordonnance royale, signÃ©e Philippe V Le Long,
-   excluait les personnes ayant la lÃ¨pre, les accusant dâun grand complot
-   pour Â« faire pÃ©rir Â» les ChrÃ©tiens. La sentence allait alors jusquâÃ 
-   lâexÃ©cution des malades ou leur emprisonnement. Un tout autre temps.
-   Au cours de lâhistoire de France et dâEurope, la mise en quarantaine ou
-   le Â« cordon sanitaire Â», imposÃ© par lâarmÃ©e Ã  une frontiÃ¨re par
-   exemple, a Ã©tÃ© utilisÃ©e de faÃ§on Ã©pisodique.
-   Plus rÃ©cemment, le dernier exemple date de 1955 en Bretagne.  Une
-   Ã©pidÃ©mie de variole, maladie aujourdâhui Ã©radiquÃ©e, touchait alors la
-   ville de Vannes (Morbihan). Â»
+   « Si aucune mesure de confinement n'a jamais été prise par les
+   autorités françaises à longueur de journée, le couvre-feu (interdiction
+   de sortir la nuit) a déjà été utilisé pour l'ensemble du pays occupé
+   par l'Allemagne nazie lors de la Seconde Guerre mondiale.
+   (...) Au Moyen-Âge, une ordonnance royale, signée Philippe V Le Long,
+   excluait les personnes ayant la lèpre, les accusant d'un grand complot
+   pour « faire périr » les Chrétiens. La sentence allait alors jusqu'à
+   l'exécution des malades ou leur emprisonnement. Un tout autre temps.
+   Au cours de l'histoire de France et d'Europe, la mise en quarantaine ou
+   le « cordon sanitaire », imposé par l'armée à une frontière par
+   exemple, a été utilisée de façon épisodique.
+   Plus récemment, le dernier exemple date de 1955 en Bretagne.  Une
+   épidémie de variole, maladie aujourd'hui éradiquée, touchait alors la
+   ville de Vannes (Morbihan). »
      __________________________________________________________________
 
    Le site de France 3 Centre Val de Loire propose un dossier : Histoire
-   et confinement : les prisonniers cÃ©lÃ¨bres de la forteresse royale de
+   et confinement : les prisonniers célèbres de la forteresse royale de
    Chinon
-   Direction Chinon, oÃ¹ ont Ã©tÃ© enfermÃ©s un comte dâAnjou, une reine
-   dâAngleterre et un grand maÃ®tre des Templiers.
-   Toulon et Marseille ont Ã©galement connu de multiples Ã©pidÃ©mies dâoÃ¹ la
-   crÃ©ation de Bureaux de SantÃ© Ã  Marseille et Toulon :
-   1720-1721 : la peste ravage Toulon : consÃ©quences dÃ©mographiques et
-   Ã©conomiques par Michel VergÃ©-Franceschi, Annales de Bretagne et des
-   Pays de lâOuest, p57-71, 2007.
+   Direction Chinon, où ont été enfermés un comte d'Anjou, une reine
+   d'Angleterre et un grand maître des Templiers.
+   Toulon et Marseille ont également connu de multiples épidémies d'où la
+   création de Bureaux de Santé à Marseille et Toulon :
+   1720-1721 : la peste ravage Toulon : conséquences démographiques et
+   économiques par Michel Vergé-Franceschi, Annales de Bretagne et des
+   Pays de l'Ouest, p57-71, 2007.
    Extrait :
-   Â« Toulon connaÃ®t les Ã©pidÃ©mies depuis toujours : 1348, 1581, 1587,
-   1664. DâoÃ¹ la crÃ©ation de Bureaux de SantÃ© Ã  Marseille et Toulon, ce
-   dernier dÃ¨s 1576. Celui-ci instaura Ã  Lagoubran â Ã  lâouest de
-   Toulon â, un lazaret qui devait permettre de faire accoster les bateaux
-   dans un abri jusquâÃ  la fin de leur mise Â« en quarantaine Â» ; nÃ©anmoins
-   ce lazaret fut plus un mouroir quâun Ã©tablissement de soin. Â»
+   « Toulon connaît les épidémies depuis toujours : 1348, 1581, 1587,
+   1664. D'où la création de Bureaux de Santé à Marseille et Toulon, ce
+   dernier dès 1576. Celui-ci instaura à Lagoubran - à l'ouest de
+   Toulon -, un lazaret qui devait permettre de faire accoster les bateaux
+   dans un abri jusqu'à la fin de leur mise « en quarantaine » ; néanmoins
+   ce lazaret fut plus un mouroir qu'un établissement de soin. »
      __________________________________________________________________
 
-   La Provence malade de la peste : la grande Ã©pidÃ©mie de 1720 :
-   sâenfermer francearchives.fr, le 18/08/2021
+   La Provence malade de la peste : la grande épidémie de 1720 :
+   s'enfermer francearchives.fr, le 18/08/2021
    Extrait :
-   Â« Devant la menace, les communautÃ©s sâenferment : BrovÃ¨s mure certaines
-   avenues et Ã©tablit des guÃ©rites pour les sentinelles, Toulon, prÃ©venu
-   le 11 juillet dâune possible Ã©pidÃ©mie Ã  Marseille, refoule
-   immÃ©diatement les barques arrivant de la ville et les chasse grÃ¢ce aux
-   vaisseaux de guerre prÃ©sents dans la rade. Des lignes de surveillance
-   sont Ã©tablies vers CarcÃ¨s et Le Cannet, des personnes suspectes sont
-   aussitÃ´t mises en quarantaine et FrÃ©jus rompt tout commerce avec
+   « Devant la menace, les communautés s'enferment : Brovès mure certaines
+   avenues et établit des guérites pour les sentinelles, Toulon, prévenu
+   le 11 juillet d'une possible épidémie à Marseille, refoule
+   immédiatement les barques arrivant de la ville et les chasse grâce aux
+   vaisseaux de guerre présents dans la rade. Des lignes de surveillance
+   sont établies vers Carcès et Le Cannet, des personnes suspectes sont
+   aussitôt mises en quarantaine et Fréjus rompt tout commerce avec
    Vidauban.
-   Ã Aix, sont organisÃ©es une stricte surveillance aux portes de la ville
-   et une garde bourgeoise pour contrÃ´ler les entrÃ©es et les
-   sorties, comme dans la vallÃ©e du Queyras, au lieu apellÃ© le Pont de la
-   ChanallÃ¨te.
-   Dans le Languedoc, les consuls de Roquebrun ordonnent que des barriÃ¨res
-   soient installÃ©es autour de la ville pour empÃªcher les vagabonds, qui
-   pourraient apporter la maladie, dây entrer ; Ã  Saint-Pons de ThomiÃ¨res,
-   les brÃ¨ches des remparts sont rÃ©parÃ©es, les portes murÃ©es ou fermÃ©es Ã 
-   clef et personne ne peut entrer dans la ville, mÃªme pas le grand
-   vicaire de lâÃ©vÃªque qui, malgrÃ© ses menaces et ses priÃ¨res, se voit
-   obligÃ© de loger Ã  lâextÃ©rieur de lâenceinte dans un bÃ¢timent dÃ©diÃ© Ã  la
-   quarantaine, comme Ã  Cannes dans la chapelle Saint-Cassien oÃ¹ sont
+   À Aix, sont organisées une stricte surveillance aux portes de la ville
+   et une garde bourgeoise pour contrôler les entrées et les
+   sorties, comme dans la vallée du Queyras, au lieu apellé le Pont de la
+   Chanallète.
+   Dans le Languedoc, les consuls de Roquebrun ordonnent que des barrières
+   soient installées autour de la ville pour empêcher les vagabonds, qui
+   pourraient apporter la maladie, d'y entrer ; à Saint-Pons de Thomières,
+   les brèches des remparts sont réparées, les portes murées ou fermées à
+   clef et personne ne peut entrer dans la ville, même pas le grand
+   vicaire de l'évêque qui, malgré ses menaces et ses prières, se voit
+   obligé de loger à l'extérieur de l'enceinte dans un bâtiment dédié à la
+   quarantaine, comme à Cannes dans la chapelle Saint-Cassien où sont
    recueillis des voyageurs venant de Marseille et des marchands
-   retournant de la foire de Beaucaire. Â»
+   retournant de la foire de Beaucaire. »
    France Archives est le portail national des archives
      __________________________________________________________________
 
-Ã (rÃ©) Ã©couter, sur le thÃ¨me du confinement :
+À (ré) écouter, sur le thème du confinement :
 
-   Sur RTL, Jean-Baptiste Giraud, dans lâÃ©mission Questions au saut du lit
-   rÃ©pond Ã  cette question : Quand la quarantaine est-elle apparue dans
-   lâHistoire ?
-   Â« Au XIVe siÃ¨cle, les lÃ©preux avaient interdiction de sâapprocher des
-   villes. Mais les premiÃ¨res vÃ©ritables mesures de quarantaine sont
+   Sur RTL, Jean-Baptiste Giraud, dans l'émission Questions au saut du lit
+   répond à cette question : Quand la quarantaine est-elle apparue dans
+   l'Histoire ?
+   « Au XIVe siècle, les lépreux avaient interdiction de s'approcher des
+   villes. Mais les premières véritables mesures de quarantaine sont
    apparues en 1377 dans les actuelles Croatie et Italie, afin de contrer
-   une Ã©pidÃ©mie de peste. Â»
+   une épidémie de peste. »
      __________________________________________________________________
 
-   Depuis 600 ans, Â« la quarantaine nâest absolument pas une solution Â»
-   par Pierre Ropert, Ã©mission Savoirs, sur France Culture, le
+   Depuis 600 ans, « la quarantaine n'est absolument pas une solution »
+   par Pierre Ropert, émission Savoirs, sur France Culture, le
    04/03/2020 :
    Extrait :
-   Â« Une mÃ©thode vieille de 600 ans
-   MalgrÃ© six siÃ¨cles dâexistence au compteur, la mÃ©thode nâa pas toujours
-   fait ses preuves. Â« La quarantaine nâest absolument pas une solution.
-   Le problÃ¨me, câest que trÃ¨s souvent, comme câest le cas aujourdâhui, il
-   nây a pas de moyen prÃ©ventif, il nây a pas de traitement. Les autoritÃ©s
-   ne savent pas comment rÃ©agir, alors pour avoir lâimpression de faire
-   quelque chose, on organise des quarantaines. Mettre des clÃ´tures, câest
-   encore ce quâil y a de plus facileÂ« , regrette Patrick Zylberman. Â»
+   « Une méthode vieille de 600 ans
+   Malgré six siècles d'existence au compteur, la méthode n'a pas toujours
+   fait ses preuves. « La quarantaine n'est absolument pas une solution.
+   Le problème, c'est que très souvent, comme c'est le cas aujourd'hui, il
+   n'y a pas de moyen préventif, il n'y a pas de traitement. Les autorités
+   ne savent pas comment réagir, alors pour avoir l'impression de faire
+   quelque chose, on organise des quarantaines. Mettre des clôtures, c'est
+   encore ce qu'il y a de plus facile« , regrette Patrick Zylberman. »
      __________________________________________________________________
 
-   Le contrÃ´le sanitaire est un contrÃ´le social Â» : le confinement Ã 
-   travers lâHistoire par Augustin Bordet, radioparleur.net, le
+   Le contrôle sanitaire est un contrôle social » : le confinement à
+   travers l'Histoire par Augustin Bordet, radioparleur.net, le
    01/04/2020.
-   Pour CÃ©lia Miralles-Buil, post-doctorante Ã  lâuniversitÃ© de Lisbonne et
-   membre du Quarantine Studies Network, Â« il est difficile de dater les
-   premiÃ¨res fois oÃ¹ lâon a mis des personnes en isolement. On pense tout
-   de suite aux lÃ©proseries, dÃ©veloppÃ©es au Moyen-Ãge mais dÃ©jÃ  existantes
-   dans lâEmpire romain .(â¦)
-   La premiÃ¨re quarantaine prÃ©ventive a Ã©tÃ© mise en place en 1377 dans le
-   port de Raguse, aujourdâhui Dubrovnik, Ã  lâoccasion dâune Ã©pidÃ©mie de
-   peste. Le premier lazaret, un lieu spÃ©cialement conÃ§u pour mettre en
-   quarantaine, a lui Ã©tÃ© construit Ã  Venise en 1423, sur lâÃ®le de Santa
-   Maria di Nazareth. Cette structure permettait dâaccueillir les
-   voyageurÂ·ses suspectÃ©Â·es de peste. De nombreuses villes
-   mÃ©diterranÃ©ennes lâont rapidement adoptÃ©e par la suite Â».
+   Pour Célia Miralles-Buil, post-doctorante à l'université de Lisbonne et
+   membre du Quarantine Studies Network, « il est difficile de dater les
+   premières fois où l'on a mis des personnes en isolement. On pense tout
+   de suite aux léproseries, développées au Moyen-Âge mais déjà existantes
+   dans l'Empire romain .(...)
+   La première quarantaine préventive a été mise en place en 1377 dans le
+   port de Raguse, aujourd'hui Dubrovnik, à l'occasion d'une épidémie de
+   peste. Le premier lazaret, un lieu spécialement conçu pour mettre en
+   quarantaine, a lui été construit à Venise en 1423, sur l'île de Santa
+   Maria di Nazareth. Cette structure permettait d'accueillir les
+   voyageur·ses suspecté·es de peste. De nombreuses villes
+   méditerranéennes l'ont rapidement adoptée par la suite ».
      __________________________________________________________________
 
-   EurÃªkoi â BibliothÃ¨que publique dâinformation
+   Eurêkoi - Bibliothèque publique d'information
      __________________________________________________________________
 
-Laisser un commentaire Annuler la rÃ©ponse
+Laisser un commentaire Annuler la réponse
 
-   Votre adresse e-mail ne sera pas publiÃ©e. Les champs obligatoires sont
-   indiquÃ©s avec *
+   Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont
+   indiqués avec *
 
    Nom * ______________________________
 
@@ -200,63 +200,63 @@ Laisser un commentaire Annuler la rÃ©ponse
 
    Laisser un commentaire
 
-   EurÃªkoi (logo) EurÃªkoi (logo)
+   Eurêkoi (logo) Eurêkoi (logo)
 
    Site sous licence CC-BY-NC-SA
 
    Aide
-     * Comment Ã§a marche ?
+     * Comment ça marche ?
      * Plan du site
-     * Charte EurÃªkoi
-     * AccessibilitÃ©
+     * Charte Eurêkoi
+     * Accessibilité
      * Contact
      * Professionnels
 
-   EurÃªkoi
+   Eurêkoi
      * Qui sommes-nous ?
-     * Annuaire du rÃ©seau
-     * Mentions lÃ©gales
-     * Politique de confidentialitÃ©
+     * Annuaire du réseau
+     * Mentions légales
+     * Politique de confidentialité
 
    Services
      * Posez votre question
-     * Explorez nos rÃ©ponses
-          + Ãducation aux mÃ©dias et Ã  lâinformation (EMI)
+     * Explorez nos réponses
+          + Éducation aux médias et à l'information (EMI)
      * Explorez nos conseils
-     * Lâapplication EurÃªkoi
+     * L'application Eurêkoi
      * Inscription newsletter
-     * Nos rÃ©seaux sociaux
+     * Nos réseaux sociaux
 
-   2022 copyright BibliothÃ¨que publique d'information
+   2022 copyright Bibliothèque publique d'information
 
-   EurÃªkoi (logo) EurÃªkoi (logo)
+   Eurêkoi (logo) Eurêkoi (logo)
 
    Site sous licence CC-BY-NC-SA
 
    Aide
-     * Comment Ã§a marche ?
+     * Comment ça marche ?
      * Plan du site
-     * Charte EurÃªkoi
-     * AccessibilitÃ©
+     * Charte Eurêkoi
+     * Accessibilité
      * Contact
      * Professionnels
 
-   EurÃªkoi
+   Eurêkoi
      * Qui sommes-nous ?
-     * Annuaire du rÃ©seau
-     * Mentions lÃ©gales
-     * Politique de confidentialitÃ©
+     * Annuaire du réseau
+     * Mentions légales
+     * Politique de confidentialité
 
    Services
      * Posez votre question
-     * Explorez nos rÃ©ponses
-          + Ãducation aux mÃ©dias et Ã  lâinformation (EMI)
+     * Explorez nos réponses
+          + Éducation aux médias et à l'information (EMI)
      * Explorez nos conseils
-     * Lâapplication EurÃªkoi
+     * L'application Eurêkoi
      * Inscription newsletter
-     * Nos rÃ©seaux sociaux
+     * Nos réseaux sociaux
 
-   2022 copyright BibliothÃ¨que publique d'information
+   2022 copyright Bibliothèque publique d'information
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M4ZTQBB
 

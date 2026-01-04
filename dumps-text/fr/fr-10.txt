@@ -1,7 +1,7 @@
-    #Salle de presse de l'Inserm Â» Flux oEmbed (JSON) oEmbed (XML)
+    #Salle de presse de l'Inserm » Flux oEmbed (JSON) oEmbed (XML)
 
 Salle de presse de l'Inserm - Salle de presse de l'Institut national de la
-santÃ© et de la recherche mÃ©dicale
+santé et de la recherche médicale
 
      * fr
      * en
@@ -13,22 +13,22 @@ santÃ© et de la recherche mÃ©dicale
 
    Rechercher
      * Service Presse
-     * ActualitÃ©s
-          + CommuniquÃ©s / Dossiers
-          + BrÃ¨ves
-          + Câest dans lâair
-     * Canal DÃ©tox
+     * Actualités
+          + Communiqués / Dossiers
+          + Brèves
+          + C'est dans l'air
+     * Canal Détox
      * Ressources / publications
 
    Menu
 
    close
      * Service Presse
-     * ActualitÃ©s
-          + CommuniquÃ©s / Dossiers
-          + BrÃ¨ves
-          + Câest dans lâair
-     * Canal DÃ©tox
+     * Actualités
+          + Communiqués / Dossiers
+          + Brèves
+          + C'est dans l'air
+     * Canal Détox
      * Ressources / publications
 
    Rechercher
@@ -40,116 +40,117 @@ santÃ© et de la recherche mÃ©dicale
      * Youtube
      * Instagram
 
-   Canal DÃ©tox
+   Canal Détox
      * Accueil
-     * > Canal DÃ©tox
+     * > Canal Détox
 
 Un confinement inutile, vraiment?
 
-   Lâimpatience monte alors que le confinement se prolonge et certains
-   commencent Ã  sâinterroger : est-il vraiment utile ? Nây aurait-il pas
-   de solutions alternatives plus efficaces ? LâInserm revient sur les
-   questions autour du confinement. CommenÃ§ons par le rappeler : oui le
-   confinement est utile. Pourquoi ? Parce quâil permet de diminuer le
-   nombre de [â¦]
+   L'impatience monte alors que le confinement se prolonge et certains
+   commencent à s'interroger : est-il vraiment utile ? N'y aurait-il pas
+   de solutions alternatives plus efficaces ? L'Inserm revient sur les
+   questions autour du confinement. Commençons par le rappeler : oui le
+   confinement est utile. Pourquoi ? Parce qu'il permet de diminuer le
+   nombre de [...]
    #Covid-19
 
    Le 10 Avr 2020 | Par Inserm (Salle de presse)
 
-   Covid-19, Stay home!Â©Chris Barbalis on Unsplash
-   Lâimpatience monte alors que le confinement se prolonge et certains
-   commencent Ã  sâinterroger : est-il vraiment utile ? Nây aurait-il pas
-   de solutions alternatives plus efficaces ? LâInserm revient sur les
+   Covid-19, Stay home!©Chris Barbalis on Unsplash
+   L'impatience monte alors que le confinement se prolonge et certains
+   commencent à s'interroger : est-il vraiment utile ? N'y aurait-il pas
+   de solutions alternatives plus efficaces ? L'Inserm revient sur les
    questions autour du confinement.
-   CommenÃ§ons par le rappeler : oui le confinement est utile. Pourquoi ?
-   Parce quâil permet de diminuer le nombre de contacts entre personnes
-   infectÃ©es et personnes saines susceptibles de contracter la maladie.
-   Sans lui, chaque personne infectÃ©e en contamine en moyenne au moins
-   deux autres. Lâobjectif du confinement est de descendre en dessous
-   dâune personne contaminÃ©e par personne infectÃ©e, une limitation
-   nÃ©cessaire pour casser la dynamique de transmission du virus.
-   Lâaplatissement de la courbe des nouvelles infections est indispensable
-   pour Ã©viter une surcharge des systÃ¨mes de santÃ©, et surtout des soins
-   intensifs, et diminuer autant que possible la mortalitÃ©.
-   Sâil est utile, le confinement est une mesure qui demande du temps pour
-   montrer ses premiers rÃ©sultats positifs. Cependant, en lâabsence de
-   mÃ©dicaments efficaces contre lâinfection et/ou de vaccins capables de
-   la prÃ©venir ou de Â« booster Â» le systÃ¨me immunitaire, il nâexiste pas
-   dâautre solution que le confinement pour permettre une telle rÃ©duction
-   de la mortalitÃ©.
-   On observe dâailleurs aujourdâhui dans de nombreux pays, dont lâEspagne
-   et lâItalie, que le confinement permet â aprÃ¨s une pÃ©riode plus ou
-   moins longue en fonction de lâintensitÃ© de lâÃ©pidÃ©mie au moment oÃ¹ les
-   mesures sont mises en place â, dâaplatir la courbe de progression et de
+   Commençons par le rappeler : oui le confinement est utile. Pourquoi ?
+   Parce qu'il permet de diminuer le nombre de contacts entre personnes
+   infectées et personnes saines susceptibles de contracter la maladie.
+   Sans lui, chaque personne infectée en contamine en moyenne au moins
+   deux autres. L'objectif du confinement est de descendre en dessous
+   d'une personne contaminée par personne infectée, une limitation
+   nécessaire pour casser la dynamique de transmission du virus.
+   L'aplatissement de la courbe des nouvelles infections est indispensable
+   pour éviter une surcharge des systèmes de santé, et surtout des soins
+   intensifs, et diminuer autant que possible la mortalité.
+   S'il est utile, le confinement est une mesure qui demande du temps pour
+   montrer ses premiers résultats positifs. Cependant, en l'absence de
+   médicaments efficaces contre l'infection et/ou de vaccins capables de
+   la prévenir ou de « booster » le système immunitaire, il n'existe pas
+   d'autre solution que le confinement pour permettre une telle réduction
+   de la mortalité.
+   On observe d'ailleurs aujourd'hui dans de nombreux pays, dont l'Espagne
+   et l'Italie, que le confinement permet - après une période plus ou
+   moins longue en fonction de l'intensité de l'épidémie au moment où les
+   mesures sont mises en place -, d'aplatir la courbe de progression et de
    diminuer le nombre journalier de nouvelles infections. Le confinement
    laisse par ailleurs du temps aux pouvoirs publics pour programmer
-   lâadaptation des infrastructures (TGV pour transporter les malades,
-   rÃ©assignation de certains services hospitaliers, dÃ©ploiement des
-   testsâ¦) et la prÃ©paration dâun plan de gestion Ã©pidÃ©mique sur le long
+   l'adaptation des infrastructures (TGV pour transporter les malades,
+   réassignation de certains services hospitaliers, déploiement des
+   tests...) et la préparation d'un plan de gestion épidémique sur le long
    terme.
 
-Si le confinement Ã©tait interrompu en France aujourdâhui, on verrait trÃ¨s
-probablement les infections repartir Ã  la hausse, avec une deuxiÃ¨me vague
-pandÃ©mique, des services de soins intensifs encore plus surchargÃ©s et une
-mortalitÃ© accrue.
+Si le confinement était interrompu en France aujourd'hui, on verrait très
+probablement les infections repartir à la hausse, avec une deuxième vague
+pandémique, des services de soins intensifs encore plus surchargés et une
+mortalité accrue.
 
-   Quelles sont alors les perspectives concernant le confinement ? Ã quel
+   Quelles sont alors les perspectives concernant le confinement ? À quel
    moment pourra-t-on en envisager la fin ? Avant toute chose, il est
-   nÃ©cessaire que la courbe des nouvelles infections se soit non seulement
-   stabilisÃ©e, mais aussi inversÃ©e, et que les services dâurgence soient
-   retournÃ©s Ã  un mode de fonctionnement normal. Câest seulement Ã  partir
-   de ce moment-lÃ  que la mise en Åuvre du dÃ©confinement pourra Ãªtre
-   envisagÃ©e. Rien nâempÃªche cependant en amont de le planifier. Il est
-   vraisemblable que la stratÃ©gie adoptÃ©e soit celle dâun dÃ©confinement
-   progressif. Un exemple pratique de ce qui pourrait se passer est donnÃ©
-   par la stratÃ©gie annoncÃ©e par lâAutriche, avec sans doute des
-   adaptations spÃ©cifiques Ã  la France.
-   Texte rÃ©alisÃ© en collaboration avec Marie-Paul Kieny, chercheuse
-   Inserm, virologue et ancienne directrice adjointe de lâOMS.
+   nécessaire que la courbe des nouvelles infections se soit non seulement
+   stabilisée, mais aussi inversée, et que les services d'urgence soient
+   retournés à un mode de fonctionnement normal. C'est seulement à partir
+   de ce moment-là que la mise en oeuvre du déconfinement pourra être
+   envisagée. Rien n'empêche cependant en amont de le planifier. Il est
+   vraisemblable que la stratégie adoptée soit celle d'un déconfinement
+   progressif. Un exemple pratique de ce qui pourrait se passer est donné
+   par la stratégie annoncée par l'Autriche, avec sans doute des
+   adaptations spécifiques à la France.
+   Texte réalisé en collaboration avec Marie-Paul Kieny, chercheuse
+   Inserm, virologue et ancienne directrice adjointe de l'OMS.
 
-   PubliÃ© le 21 DÃ©c 2018
+   Publié le 21 Déc 2018
 
-Une cure dÃ©tox pour Ãªtre au topâ¦vraiment ?
+Une cure détox pour être au top...vraiment ?
 
-   Notre organisme produit ses propres dÃ©chets, surtout lors des pÃ©riodes
-   de fÃªtes oÃ¹ il carbure Ã  plein rÃ©gime. Et puis, il y a les substances
-   Ã©trangÃ¨res qui viennent de notre environnement : pesticides, mÃ©taux
-   lourds et autres composÃ©s plastiques. Mais pas de panique. Si lâon en
-   croit les mÃ©dias et les magazines, une bonne cure [â¦]
+   Notre organisme produit ses propres déchets, surtout lors des périodes
+   de fêtes où il carbure à plein régime. Et puis, il y a les substances
+   étrangères qui viennent de notre environnement : pesticides, métaux
+   lourds et autres composés plastiques. Mais pas de panique. Si l'on en
+   croit les médias et les magazines, une bonne cure [...]
      * #Nutrition
 
-   PubliÃ© le 30 Sep 2024
+   Publié le 30 Sep 2024
 
 Le soutien-gorge mis en cause dans le cancer du sein, vraiment ?
 
-   Câest une rumeur qui court depuis une vingtaine dâannÃ©es et qui revient
-   rÃ©guliÃ¨rement sur le devant de la scÃ¨ne : le port de soutien-gorge
-   augmenterait le risque de dÃ©velopper un cancer du sein. Si les Ã©tudes
-   sÃ©rieuses sur le sujet sont rares, il est nÃ©anmoins possible dâaffirmer
-   que ce nâest pas le cas. A lâoccasion dâOctobre Rose et du lancement de
-   la nouvelle sÃ©rie Canal DÃ©tox sur la santÃ© des femmes, on revient sur
-   cette idÃ©e reÃ§ue, dont il semble encore difficile de se dÃ©barrasser.
-     * #SantÃ© des femmes
+   C'est une rumeur qui court depuis une vingtaine d'années et qui revient
+   régulièrement sur le devant de la scène : le port de soutien-gorge
+   augmenterait le risque de développer un cancer du sein. Si les études
+   sérieuses sur le sujet sont rares, il est néanmoins possible d'affirmer
+   que ce n'est pas le cas. A l'occasion d'Octobre Rose et du lancement de
+   la nouvelle série Canal Détox sur la santé des femmes, on revient sur
+   cette idée reçue, dont il semble encore difficile de se débarrasser.
+     * #Santé des femmes
 
-   PubliÃ© le 14 Mar 2022
+   Publié le 14 Mar 2022
 
-Des comprimÃ©s dâiode pour se protÃ©ger des radiations, vraiment ?
+Des comprimés d'iode pour se protéger des radiations, vraiment ?
 
      Depuis quelques jours, on ne compte plus les articles de presse qui
-   dÃ©crivent une ruÃ©e des consommateurs dans les pharmacies, pour acquÃ©rir
-   des comprimÃ©s dâiode (iodure de potassium). Dans le contexte de la
+   décrivent une ruée des consommateurs dans les pharmacies, pour acquérir
+   des comprimés d'iode (iodure de potassium). Dans le contexte de la
    guerre en Ukraine, certains pensent en effet que la prise de ces
-   comprimÃ©s pourrait les protÃ©ger des effets biologiques et cliniques [â¦]
+   comprimés pourrait les protéger des effets biologiques et cliniques
+   [...]
      * #Cancer
 
-   Salle de presse de l'Inserm Institut national de la santÃ© et de la
-   recherche mÃ©dicale
-     * Mentions lÃ©gales
-     * AccessibilitÃ© (non conforme)
+   Salle de presse de l'Inserm Institut national de la santé et de la
+   recherche médicale
+     * Mentions légales
+     * Accessibilité (non conforme)
 
 Contacts
 
-   Envoyez un message ou posez vos questions au service presse de lâInserm
+   Envoyez un message ou posez vos questions au service presse de l'Inserm
    :
    presse-web@inserm.fr
 
@@ -158,11 +159,11 @@ Suivez-nous
    RSS Twitter Facebook Youtube Instagram
 
      * Service Presse
-     * ActualitÃ©s
-          + CommuniquÃ©s / Dossiers
-          + BrÃ¨ves
-          + Câest dans lâair
-     * Canal DÃ©tox
+     * Actualités
+          + Communiqués / Dossiers
+          + Brèves
+          + C'est dans l'air
+     * Canal Détox
      * Ressources / publications
 
    Rechercher

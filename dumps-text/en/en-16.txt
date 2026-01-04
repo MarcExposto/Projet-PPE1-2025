@@ -31,26 +31,26 @@ School Lockdown Procedures: Best Practice, Safety Tips and Implementation
 Guidance
 
    Lockdown and intruder situations are becoming more common in schools.
-   At Little Green Button, weâre seeing an increase in demand for
+   At Little Green Button, we're seeing an increase in demand for
    solutions to deal with these emergencies. This is in line with recent
    reports that 88% of schools are investing in security measures to
    prevent crime in and around their premises.
 
    While the risk of an incident involving an intruder looking to cause
-   harm in any school is very low, itâs still vital that every school in
+   harm in any school is very low, it's still vital that every school in
    the UK has a clear, well-practised lockdown procedure in place and has
    the tools to implement it swiftly and safely.
 
-   With the Terrorism (Protection of Premises) Bill, known as Martynâs
+   With the Terrorism (Protection of Premises) Bill, known as Martyn's
    Law, due to come into force in 2027, schools will be expected to place
    even more focus on emergency planning, risk awareness and response.
-   While schools arenât considered to be among the highest-risk venues,
-   the principles of this new legislation already align with Ofstedâs
+   While schools aren't considered to be among the highest-risk venues,
+   the principles of this new legislation already align with Ofsted's
    expectations for safeguarding and site security.
 
-   In this guide, weâll explore the practical steps schools can take to
+   In this guide, we'll explore the practical steps schools can take to
    put an effective lockdown procedure in place. From assessing your site
-   for vulnerabilities to choosing the right alert system, weâll guide you
+   for vulnerabilities to choosing the right alert system, we'll guide you
    through the key considerations for keeping pupils, staff and visitors
    safe during a lockdown or invacuation situation.
 
@@ -58,7 +58,7 @@ Guidance
      * What is a school lockdown and why should you have a lockdown
        procedure?
      * What does Ofsted say about lockdown procedures?
-     * Martynâs Law: How it relates to schools
+     * Martyn's Law: How it relates to schools
      * How to create a lockdown procedure
      * Why a lockdown alert system should be part of your lockdown
        procedure
@@ -68,7 +68,7 @@ What is a school lockdown and why should you have a lockdown procedure?
 
    A school lockdown, often referred to as a school security lockdown in
    government documents, is when there is a threat to pupils, staff and
-   visitors that means itâs safer for them to remain in a school building,
+   visitors that means it's safer for them to remain in a school building,
    and are therefore directed to stay there and shelter as far away from
    the threat as possible.
 
@@ -77,7 +77,7 @@ What is a school lockdown and why should you have a lockdown procedure?
      * When a violent or abusive parent/carer is causing trouble
      * When a threat has been made against the school
 
-   You may have also heard of the term âinvacuationâ. A lockdown is
+   You may have also heard of the term `invacuation'. A lockdown is
    similar to an invacuation, but they are used in different
    circumstances. While a lockdown is used when there is the risk of
    immediate harm to pupils, staff or visitors, an invacuation is used
@@ -103,7 +103,7 @@ What does Ofsted say about lockdown procedures?
    middle. an empty classroom with large windows and a circular desk in
    the middle.
 
-   Ofstedâs guidance on lockdown procedures is vague, and many unions such
+   Ofsted's guidance on lockdown procedures is vague, and many unions such
    as NASUWT argue that there should be much more advice available to
    headteachers.
 
@@ -123,21 +123,21 @@ What does Ofsted say about lockdown procedures?
    to protect students and staff.
 
    Currently, many schools rely on their fire alarm system, which can
-   often produce visual-only alarms. But we think this is dangerous â fire
-   alarms signal evacuation, whereas in a lockdown situation itâs crucial
+   often produce visual-only alarms. But we think this is dangerous - fire
+   alarms signal evacuation, whereas in a lockdown situation it's crucial
    that staff and pupils stay put.
 
-Martynâs Law: How it relates to schools
+Martyn's Law: How it relates to schools
 
    The Terrorism (Protection of Premises) Bill, more commonly known as
-   Martynâs Law, was created in memory of Martyn Hett, one of the victims
+   Martyn's Law, was created in memory of Martyn Hett, one of the victims
    of the 2017 Manchester Arena attack. This legislation is due to come
    into force in 2027 and will place new duties on publicly accessible
    venues to consider the threat of terrorism and put appropriate
    protective measures in place.
 
    While most schools are not considered high-risk venues under the
-   current classification of the bill, the core principles of Martynâs Law
+   current classification of the bill, the core principles of Martyn's Law
    still apply. These include:
      * Risk awareness: Understanding potential threats and being able to
        recognise suspicious behaviour or activity.
@@ -148,16 +148,16 @@ Martynâs Law: How it relates to schools
 
    Ofsted has already started to align with these principles in its
    inspection framework. Having a school lockdown procedure is a clear way
-   to demonstrate that your school takes its duty of care seriously â and
-   helps ensure youâre prepared for a range of incidents, not just
+   to demonstrate that your school takes its duty of care seriously - and
+   helps ensure you're prepared for a range of incidents, not just
    terrorism.
 
 How to create a lockdown procedure
 
-   If your school doesnât yet have a formal lockdown plan in place, now is
+   If your school doesn't yet have a formal lockdown plan in place, now is
    the time to act.
 
-   Weâve spoken to some of our customers in the education sector and
+   We've spoken to some of our customers in the education sector and
    interpreted NASUWT guidance to come up with these guidelines for
    creating a lockdown procedure.
 
@@ -177,35 +177,35 @@ How to create a lockdown procedure
    dispersed across the site.
 
    NASUWT recommends carrying out a vulnerability assessment of your
-   schoolâs buildings and grounds using a traffic light system. It can be
+   school's buildings and grounds using a traffic light system. It can be
    useful to put yourself in the position of the attacker while you do
    this.
 
-   Using a plan of your schoolâs grounds, walk around the school and
+   Using a plan of your school's grounds, walk around the school and
    consider how an attacker might carry out an attack, and where the
    easiest places to gain access are. Highlight areas of the school in
-   red, amber or green depending on how vulnerable they are to attack â
+   red, amber or green depending on how vulnerable they are to attack -
    with red being the most vulnerable.
 
 2. Do a space assessment
 
-   Hopefully, once youâve assessed each area, youâll have some highlighted
+   Hopefully, once you've assessed each area, you'll have some highlighted
    in green. These areas should be the most likely to provide protection,
    or are difficult to find.
 
    Do a space assessment in each area, allowing around half a metre
    squared per person to calculate how many people you can fit in the
-   area. If you donât have enough space in the green areas, you may have
+   area. If you don't have enough space in the green areas, you may have
    to consider using some of the safer amber ones too.
 
    You should consider the following things when deciding on the areas to
    be used:
      * Try to move people short distances, as longer routes can lead to
        panic
-     * The routes to safe areas also need to be safe, so donât take people
+     * The routes to safe areas also need to be safe, so don't take people
        outside to move back inside to a safe area
      * People should be kept informed every few minutes when they are
-       sheltering in these areas â this is where an alert system like
+       sheltering in these areas - this is where an alert system like
        Little Green Button can be useful
      * Ideally, there should be toilets and water facilities nearby
      * NASUWT suggests that classes that know and work together are best
@@ -214,7 +214,7 @@ How to create a lockdown procedure
 3. Write your lockdown procedure
 
    Now you know where you can safely accommodate people during a lockdown,
-   itâs time to write your lockdown procedure.
+   it's time to write your lockdown procedure.
 
    Your procedure should be simple enough to follow under stress and
    flexible enough to work during different parts of the school day, such
@@ -227,7 +227,7 @@ Time
 
    Time is of the essence in a lockdown situation. Just like in a fire,
    the sooner people are made aware of the incident, the faster they can
-   respond. Thatâs why schools should consider using a dedicated lockdown
+   respond. That's why schools should consider using a dedicated lockdown
    alert system that is clearly distinguishable from the fire alarm to
    avoid confusion.
 
@@ -277,8 +277,8 @@ Simplicity
 
 4. Regular practise and drills
 
-   Thereâs no specific legal requirement to conduct lockdown drills in
-   schools, but itâs considered best practice by both Ofsted and
+   There's no specific legal requirement to conduct lockdown drills in
+   schools, but it's considered best practice by both Ofsted and
    government safeguarding guidance.
 
    Drills should be held at least once a year, and after any significant
@@ -324,20 +324,20 @@ How Little Green Button can help
      * Use the system in drills to reinforce best practice and ensure
        staff are confident in what to do
 
-   âWe have seen a significant increase in demand for lockdown and
+   "We have seen a significant increase in demand for lockdown and
    intruder protection following a rise in abusive incidents against
-   staff,â says Alex Jay, Little Green Button CEO.
+   staff," says Alex Jay, Little Green Button CEO.
 
-   âNearly 40% of teachers have been the victim of an abusive incident in
-   the last 12 months according to teacherâs union NASUWT, and Little
+   "Nearly 40% of teachers have been the victim of an abusive incident in
+   the last 12 months according to teacher's union NASUWT, and Little
    Green Button is there to support them and help mitigate the risk and
-   improve safety outcomes.â
+   improve safety outcomes."
 
-   Whether youâre responding to Martynâs Law, preparing for Ofsted, or
-   simply doing whatâs right for your pupils and staff, having a clear
+   Whether you're responding to Martyn's Law, preparing for Ofsted, or
+   simply doing what's right for your pupils and staff, having a clear
    lockdown procedure and alert system in place is essential.
 
-   Want to see how Little Green Button could support your schoolâs
+   Want to see how Little Green Button could support your school's
    lockdown planning?
    Get in touch with our team today to arrange a demo or start a free
    trial.
@@ -354,12 +354,10 @@ Find out how Little Green Button can support your safety setup
      * FAQ
      * Contact
 
-   Â© Copyright 2022 | Little Green Button Ltd | Company reg no. 11668338 |
+   © Copyright 2022 | Little Green Button Ltd | Company reg no. 11668338 |
    Terms of Service | Privacy Policy | Carbon Reduction Plan | Modern
    Slavery Statement | Website design by Finch Design Company and Example
    Marketing & Web Design
    Trustpilot
-   ï
-   î
-   ï
-   î£
+
+    £

@@ -10,7 +10,7 @@ Lockdown has forced people to live for longer in unsuitable housing
 --
 
    According to the latest housing report from the Resolution Foundation,
-   which used Understanding Societyâs COVID-19 data, â age, income and
+   which used Understanding Society's COVID-19 data, - age, income and
    ethnicity affected the quality of homes that people have been occupying
    during lockdown.
 
@@ -38,11 +38,11 @@ Key findings
    and relationship status, the well-being gap between renters and owners
    has widened over the lockdown period.
 
-   The researchers said in the report, âDecent living conditions are not
-   just a ânice to haveâ: they have a profound influence on outcomes
+   The researchers said in the report, "Decent living conditions are not
+   just a `nice to have': they have a profound influence on outcomes
    including well-being, an effect this note shows has been amplified
    during the lockdown period. Moreover, the inequalities in living
    conditions we document here are far from natural. Instead, they are the
    product of long-run housing trends such as tenure change, lack of
-   building and insufficient regulation of privately rented homes.â
+   building and insufficient regulation of privately rented homes."
 

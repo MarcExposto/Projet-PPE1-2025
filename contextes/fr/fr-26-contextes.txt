@@ -1,77 +1,77 @@
-       quelques jours le dÃ©veloppement de tests PCR ;
-     * une Ã©volution par vagues successives dont le dÃ©veloppement est
-       corrÃ©lÃ© Ã  :
+       quelques jours le développement de tests PCR ;
+     * une évolution par vagues successives dont le développement est
+       corrélé à :
           + des mesures de distanciation, le port de masques, des
             confinements, des couvre-feux,
-          + lâarrivÃ©e rÃ©guliÃ¨re de nouveaux variants,
-          + le dÃ©veloppement trÃ¨s rapide de vaccins.
+          + l'arrivée régulière de nouveaux variants,
+          + le développement très rapide de vaccins.
 
-   Ce premier chapitre historique sera suivi d'un second article centrÃ©
+   Ce premier chapitre historique sera suivi d'un second article centré
 --
-   mars, 949 cas sont confirmÃ©s, 45 malades sont en rÃ©animation et 11
-   dÃ©cÃ¨s sont survenus. La semaine suivante, la hausse est foudroyante :
-   5 433 nouveaux cas, 240 patients en rÃ©animation et 150 dÃ©cÃ¨s.
+   mars, 949 cas sont confirmés, 45 malades sont en réanimation et 11
+   décès sont survenus. La semaine suivante, la hausse est foudroyante :
+   5 433 nouveaux cas, 240 patients en réanimation et 150 décès.
 
-   Le confinement le plus sÃ©vÃ¨re qu'ait connu la France est instaurÃ© le 17
-   mars 2020. Un mois plus tard, 32 300 malades sont hospitalisÃ©s dont
-   plus de 7 000 en rÃ©animation. Il faudra un mois pour que son effet
-   porte ses fruits, pour que le nombre dâhospitalisÃ©s, tant en mÃ©decine
-   quâen rÃ©animation, diminue. Câest seulement dÃ©but juin que les chiffres
+   Le confinement le plus sévère qu'ait connu la France est instauré le 17
+   mars 2020. Un mois plus tard, 32 300 malades sont hospitalisés dont
+   plus de 7 000 en réanimation. Il faudra un mois pour que son effet
+   porte ses fruits, pour que le nombre d'hospitalisés, tant en médecine
+   qu'en réanimation, diminue. C'est seulement début juin que les chiffres
 --
-   fÃ©vrier alors que 10 000 cas Ã©taient rÃ©pertoriÃ©s dans tout le pays,
-   puis plus de 80 000 la deuxiÃ¨me quinzaine de fÃ©vrier. UltÃ©rieurement,
-   la progression de lâÃ©pidÃ©mie est censÃ©e Ãªtre contrÃ´lÃ©e en Chine, mais
-   les autoritÃ©s ne communiquent plus de chiffres crÃ©dibles. Les mesures
-   sÃ©vÃ¨res de confinement sont maintenues et le seront jusquâau 7 dÃ©cembre
+   février alors que 10 000 cas étaient répertoriés dans tout le pays,
+   puis plus de 80 000 la deuxième quinzaine de février. Ultérieurement,
+   la progression de l'épidémie est censée être contrôlée en Chine, mais
+   les autorités ne communiquent plus de chiffres crédibles. Les mesures
+   sévères de confinement sont maintenues et le seront jusqu'au 7 décembre
    2022.
 
-   Reine de la polÃ©mique, la France sâÃ©meut du retard de la dÃ©cision du
-   confinement et de la trÃ¨s grande valse-hÃ©sitation, qui va se prolonger
-   plusieurs semaines, sur lâusage impÃ©ratif et gÃ©nÃ©ralisÃ© des masques :
-   Â« Il ne sert Ã  rien de se dÃ©placer avec un masque sanitaire, [â¦] les
-   masques de protection ne sont utiles que pour les personnes dÃ©jÃ 
-   malades - ils servent Ã  Ã©viter la contamination Â» (Le Monde, 12 mars
+   Reine de la polémique, la France s'émeut du retard de la décision du
+   confinement et de la très grande valse-hésitation, qui va se prolonger
+   plusieurs semaines, sur l'usage impératif et généralisé des masques :
+   « Il ne sert à rien de se déplacer avec un masque sanitaire, [...] les
+   masques de protection ne sont utiles que pour les personnes déjà
+   malades - ils servent à éviter la contamination » (Le Monde, 12 mars
 --
 
-   La gestion des masques ne sera vraiment rÃ©glÃ©e que trois mois plus
+   La gestion des masques ne sera vraiment réglée que trois mois plus
    tard.
 
-Le dÃ©confinement et la deuxiÃ¨me vague
+Le déconfinement et la deuxième vague
 
-   Dans un premier temps, câest le confinement surtout et les mesures de
-   distanciation, qui coÃ¯ncident avec la rÃ©gression de lâÃ©pidÃ©mie. Si elle
-   nâa durÃ© en rÃ©alitÃ© que 6 semaines, elle a plutÃ´t ressemblÃ© Ã  un
+   Dans un premier temps, c'est le confinement surtout et les mesures de
+   distanciation, qui coïncident avec la régression de l'épidémie. Si elle
+   n'a duré en réalité que 6 semaines, elle a plutôt ressemblé à un
    tsunami.
 
-   Ce nâest que le 11 mai 2020, aprÃ¨s 55 jours de mise sous cloche du
-   pays, que des mesures de dÃ©confinement prudentes, dans la crainte dâune
-   deuxiÃ¨me vague, sont prises [4].
+   Ce n'est que le 11 mai 2020, après 55 jours de mise sous cloche du
+   pays, que des mesures de déconfinement prudentes, dans la crainte d'une
+   deuxième vague, sont prises [4].
 
-   En l'absence d'un rebond de l'Ã©pidÃ©mie, le retour progressif Ã  la
-   normale se fait Ã  partir du 15 juin. Pas pour longtemps, car dÃ¨s le 15
+   En l'absence d'un rebond de l'épidémie, le retour progressif à la
+   normale se fait à partir du 15 juin. Pas pour longtemps, car dès le 15
 --
-   rÃ©animation sont occupÃ©s par des malades de la Covid-19.
+   réanimation sont occupés par des malades de la Covid-19.
 
-   Câest la deuxiÃ¨me vague. Elle va durer 12 semaines Ã  partir de
-   septembre 2020. Un couvre-feu instaurÃ© le 15 octobre, redevient vite un
-   vrai confinement qui va durer jusquâau 15 dÃ©cembre [4], date Ã  laquelle
-   la deuxiÃ¨me vague est rÃ©putÃ©e en voie dâachÃ¨vement. Le confinement
-   national est levÃ©, un couvre-feu est mis en place entre 20 h et 6 h, Ã 
-   l'exception de la soirÃ©e du 24 dÃ©cembre. Le soir du Nouvel An se fera
-   quant Ã  lui sous couvre-feu.
+   C'est la deuxième vague. Elle va durer 12 semaines à partir de
+   septembre 2020. Un couvre-feu instauré le 15 octobre, redevient vite un
+   vrai confinement qui va durer jusqu'au 15 décembre [4], date à laquelle
+   la deuxième vague est réputée en voie d'achèvement. Le confinement
+   national est levé, un couvre-feu est mis en place entre 20 h et 6 h, à
+   l'exception de la soirée du 24 décembre. Le soir du Nouvel An se fera
+   quant à lui sous couvre-feu.
 
-   Ce deuxiÃ¨me confinement nâa toutefois pas permis de faire suffisamment
-   chuter ni les contaminations, ni la pression sur le systÃ¨me
-   hospitalier. Le nombre de nouveaux cas ne sâabaisse quâÃ  10 000/j dÃ©but
-   dÃ©cembre, avant de repartir Ã  la hausse. Le nombre dâhospitalisations
+   Ce deuxième confinement n'a toutefois pas permis de faire suffisamment
+   chuter ni les contaminations, ni la pression sur le système
+   hospitalier. Le nombre de nouveaux cas ne s'abaisse qu'à 10 000/j début
+   décembre, avant de repartir à la hausse. Le nombre d'hospitalisations
    ne descend pas en dessous de 25 000.
 --
-   donnÃ©es permettent des comparaisons dans le temps.
+   données permettent des comparaisons dans le temps.
 
    Le cas de la Chine est particulier car une partie importante des
-   donnÃ©es chiffrÃ©es est occultÃ©e. Au 29 novembre 2022 (avant la levÃ©e des
+   données chiffrées est occultée. Au 29 novembre 2022 (avant la levée des
    mesures de confinement), l'affichage est de 100 millions de cas
-   confirmÃ©s (seulement 7 % de la population), dâun peu moins de 120 000
-   dÃ©cÃ¨s, et de 3,5 milliards de doses de vaccins administrÃ©es. Depuis la
-   levÃ©e des restrictions dÃ©but dÃ©cembre 2022, il nâexiste aucune
+   confirmés (seulement 7 % de la population), d'un peu moins de 120 000
+   décès, et de 3,5 milliards de doses de vaccins administrées. Depuis la
+   levée des restrictions début décembre 2022, il n'existe aucune
    statistique globale sur la Chine : on croit savoir que le 18 janvier,

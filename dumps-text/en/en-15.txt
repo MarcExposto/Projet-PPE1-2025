@@ -46,7 +46,7 @@ Evacuation Procedures
 
 Lockdown Procedures
 
-   ââTemporary security measures to stay safe inside
+   Temporary security measures to stay safe inside
 
 Shelter-in-Place (SIP) Procedures
 
@@ -74,19 +74,19 @@ Fire
 
 Hazardous Materials Spill or Release
 
-   Follow your labâs emergency response procedures
+   Follow your lab's emergency response procedures
 
 Maintenance Emergency (Power Failure, Flooding, Gas Leak)
 
-   For all maintenance or facility-related emergenciesâ
+   For all maintenance or facility-related emergencies
 
 Severe Weather (Tornado or Thunderstorm)
 
-   Be ready to act quickly if a weather warning is issuedâ
+   Be ready to act quickly if a weather warning is issued
 
 Closures and Dismissals
 
-   Check the current OPM Operating Statusâ
+   Check the current OPM Operating Status
 
 Guidance for Individuals with Disabilities
 
@@ -100,8 +100,8 @@ Lockdown Procedures
 
    Page Content
 
-   ââLockdown is a temporary sheltering technique used to protect
-   employees from a security threat outside the facility.â
+   Lockdown is a temporary sheltering technique used to protect employees
+   from a security threat outside the facility.
      * Stay calm and follow the instructions of law enforcement if
        provided.
      * Lock doors and close window shades.
@@ -114,7 +114,6 @@ Lockdown Procedures
    Image Caption
    PublishingPageContentNotice
 
-   ââ
    PublishingPageContent Image Rotator
    PublishingPageContent2
    PublishingPageContent3

@@ -4,19 +4,19 @@
 
 What is a Soft Lockdown?
 
-Written by The ALICE TrainingÂ® Editorial Team
+Written by The ALICE Training® Editorial Team
 
 Learn about our Editorial Process
 --
    crucial.
 
    Effective school safety requires comprehensive planning, clear
-   protocols, and effective safety measures. In this blog, weâll explore
-   the different types of lockdowns commonly used in schoolsâsoft
-   lockdowns, hard lockdowns, and code red lockdownsâalong with their
-   purposes and implementation guidelines. Additionally, weâll discuss
+   protocols, and effective safety measures. In this blog, we'll explore
+   the different types of lockdowns commonly used in schools--soft
+   lockdowns, hard lockdowns, and code red lockdowns--along with their
+   purposes and implementation guidelines. Additionally, we'll discuss
    common school safety issues and provide solutions, highlighting ALICE
-   TrainingÂ® and Preparation & Response Training as proactive approaches
+   Training® and Preparation & Response Training as proactive approaches
    to enhancing school safety.
 
 What is a Soft Lockdown?
@@ -58,7 +58,7 @@ Soft Lockdown vs. Hard Lockdown: Key Differences
      * Hard Lockdown: For immediate internal threats, students and staff
        secure themselves in hidden, locked areas.
 
-   ALICE TrainingÂ® from Navigate360 provides options-based response
+   ALICE Training® from Navigate360 provides options-based response
    training to enhance lockdown procedures, empowering teachers and
    students with proactive strategies such as evacuation or barricading,
    depending on the situation.
@@ -76,17 +76,17 @@ Should You Use Color Codes in Emergencies?
 
    Schools sometimes use color codes like code red, code yellow, or code
    blue in school to designate different types of lockdowns or
-   emergencies. However, ALICE TrainingÂ® does not recommend using color
+   emergencies. However, ALICE Training® does not recommend using color
    systems for emergency alerts. It is preferable for everyone involved to
    communicate specific, descriptive information. For example, describing
    the location and appearance of an intruder helps everyone respond more
 --
 
-3. Enhancing Emergency Response Through ALICE TrainingÂ®
+3. Enhancing Emergency Response Through ALICE Training®
 
    Active shooter incidents are among the most serious threats schools may
    face, necessitating specialized training. Traditional lockdowns are not
-   sufficient in the face of an active shooter. ALICE TrainingÂ® (Alert,
+   sufficient in the face of an active shooter. ALICE Training® (Alert,
    Lockdown, Inform, Counter, Evacuate) offers a modern, trauma-informed
    approach to active shooter preparedness. Rather than relying solely on
    traditional lockdowns, ALICE provides options to evacuate, barricade,

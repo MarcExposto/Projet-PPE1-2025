@@ -10,7 +10,7 @@ etf
 button
 english
 button
-Ã
+×
 select
 site
 language
@@ -18,10 +18,10 @@ language
 afrikaans
 automated
 *
-ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+b"lgarski
 automated
 *
-ÄeÅ¡tina
+cestina
 automated
 *
 dansk
@@ -30,12 +30,12 @@ automated
 deutsch
 automated
 *
-ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+ellynika
 automated
 *
 english
 *
-espaÃ±ol
+español
 automated
 *
 eesti
@@ -44,7 +44,7 @@ automated
 suomi
 automated
 *
-franÃ§ais
+français
 automated
 *
 gaeilge
@@ -59,10 +59,10 @@ automated
 italiano
 automated
 *
-lietuviÅ³
+lietuviu
 automated
 *
-latvieÅ¡u
+latviesu
 automated
 *
 malti
@@ -74,16 +74,16 @@ automated
 polski
 automated
 *
-portuguÃªs
+português
 automated
 *
-romÃ¢nÄ
+româna
 automated
 *
-slovenÄina
+slovencina
 automated
 *
-slovenÅ¡Äina
+slovenscina
 automated
 *
 svenska
@@ -135,7 +135,6 @@ innovative
 teaching
 and
 learning
-â
 cnl
 o
 policy
@@ -143,7 +142,6 @@ analysis
 and
 progress
 monitoring
-â
 torino
 process
 o
@@ -173,14 +171,12 @@ migration
 o
 vocational
 excellence
-â
 ene
 +
 eu
 projects
 o
 darya
-â
 dialogue
 and
 action
@@ -230,7 +226,7 @@ o
 western
 balkans
 and
-tÃ¼rkiye
+türkiye
 +
 countries
 o
@@ -287,7 +283,7 @@ tunisia
 o
 turkmenistan
 o
-tÃ¼rkiye
+türkiye
 o
 ukraine
 o
@@ -432,8 +428,8 @@ publications
 current
 preventing
 a
-âlockdown
-generationâ
+`lockdown
+generation
 in
 europe
 and
@@ -441,8 +437,8 @@ central
 asia
 preventing
 a
-âlockdown
-generationâ
+`lockdown
+generation
 in
 europe
 and
@@ -450,8 +446,8 @@ central
 asia
 preventing
 a
-âlockdown
-generationâ
+`lockdown
+generation
 in
 europe
 and
@@ -591,7 +587,8 @@ situation
 the
 united
 nations
-childrenâs
+children
+s
 fund
 unicef
 and
@@ -696,7 +693,8 @@ the
 report
 captures
 young
-peopleâs
+people
+s
 hopes
 and
 fears
@@ -779,7 +777,7 @@ montenegro
 north
 macedonia
 serbia
-tÃ¼rkiye
+türkiye
 armenia
 azerbaijan
 belarus
@@ -852,7 +850,7 @@ since
 1994
 
 
-Â©
+©
 2026
 etf
 all

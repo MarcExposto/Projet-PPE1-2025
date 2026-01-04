@@ -7,22 +7,22 @@
 
    [ ] English
      * English
-     * FranÃ§ais
+     * Français
      * Deutsch
      * Italiano
-     * EspaÃ±ol
-     * PortuguÃªs
+     * Español
+     * Português
      * Polski
-     * PÑÑÑÐºÐ¸Ð¹
-     * TÃ¼rkÃ§e
-     * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+     * Pusskij
+     * Türkçe
+     * Ellynika'
      * Magyar
-     * ÙØ§Ø±Ø³Û
-     * Ø§ÙØ¹Ø±Ø¨ÙØ©
+     * f+a+r+s+
+     * a+l+e+r+b+y+tm
      * Shqip
-     * RomÃ¢nÄ
-     * á¥áá áá£áá
-     * Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸
+     * Româna
+     * ¥ £
+     * b"lgarski
      * Srpski
      * BHS
 
@@ -37,29 +37,27 @@
        Trending
           + War in Ukraine
           + Donald Trump
-          + NicolÃ¡s Maduro
+          + Nicolás Maduro
           + Venezuela
           + France
           + New Year
          ______________________________________________________________
 
        Latest stories
+   Spanish PM Pedro Sanchez and Brazilian President Lula da Silva in
+       Madrid
+       World News
+       Spain and five Latin American countries reject the US attack
+   Samsung OLED AI Bot
+       Tech News
+       CES 2026: All the latest tech we may see from the global event
    Power failure in Berlin
        Germany
        45,000 homes without power in Berlin after Left-wing extremists
        attack
-   Latest news bulletin | January 4th, 2026 â Evening
+   Latest news bulletin | January 4th, 2026 - Evening
        Top News Stories Today
-       Latest news bulletin | January 4th, 2026 â Evening
-   People walk during a memorial procession in Crans-Montana, Swiss Alps,
-       Switzerland, Sunday, Jan. 4, 2026
-       No Comment
-       Crans-Montana residents take part in silent march for fire victims
-   Federal law enforcement personnel stand watch outside the Metropolitan
-       Detention Center in NYC as they await the arrival of captured
-       Nicolas Maduro on Saturday, 3 Jan 2026
-       USA
-       Maduro wishes US agents 'good night' and 'Happy New Year'
+       Latest news bulletin | January 4th, 2026 - Evening
      * Europe
        Categories
           + Europe News
@@ -87,8 +85,8 @@
             beyond, every morning. Stay ahead with the key news and
             insights that matter in Europe today.
           + The Ring
-            The Ring is Euronewsâ weekly political showdown, where
-            Europeâs toughest debates meet their boldest voices. In each
+            The Ring is Euronews' weekly political showdown, where
+            Europe's toughest debates meet their boldest voices. In each
             episode, two political heavyweights from across the EU face
             off to propose a diversity of opinions and spark conversations
             around the most important issues of EU affairs and the wider
@@ -240,7 +238,7 @@
             series and live debate - find out why Water Matters, from
             Euronews.
           + Climate Now
-            We give you the latest climate facts from the worldâs leading
+            We give you the latest climate facts from the world's leading
             source, analyse the trends and explain how our planet is
             changing. We meet the experts on the front line of climate
             change who explore new strategies to mitigate and adapt.
@@ -266,7 +264,7 @@
      * Azerbaijan
      * Discover Algeria
      * Young Inventors Prize 2025
-     * Discover TÃ¼rkiye
+     * Discover Türkiye
      * Discover Sharjah
      * Golf Travel Tales
      * From Qatar
@@ -281,7 +279,7 @@
      * Better Connected
      * Powering Progress
      * Experience Brazil
-     * Italy â Heritage & Horizons
+     * Italy - Heritage & Horizons
      * Poland Untold
      * Saadiyat Cultural District
      * Invest in Costa Rica
@@ -312,22 +310,22 @@
 
    [ ] English
      * English
-     * FranÃ§ais
+     * Français
      * Deutsch
      * Italiano
-     * EspaÃ±ol
-     * PortuguÃªs
+     * Español
+     * Português
      * Polski
-     * PÑÑÑÐºÐ¸Ð¹
-     * TÃ¼rkÃ§e
-     * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+     * Pusskij
+     * Türkçe
+     * Ellynika'
      * Magyar
-     * ÙØ§Ø±Ø³Û
-     * Ø§ÙØ¹Ø±Ø¨ÙØ©
+     * f+a+r+s+
+     * a+l+e+r+b+y+tm
      * Shqip
-     * RomÃ¢nÄ
-     * á¥áá áá£áá
-     * Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸
+     * Româna
+     * ¥ £
+     * b"lgarski
      * Srpski
      * BHS
 
@@ -336,7 +334,7 @@
    Trending
      * War in Ukraine
      * Donald Trump
-     * NicolÃ¡s Maduro
+     * Nicolás Maduro
      * Venezuela
      * France
      * New Year
@@ -344,27 +342,25 @@
 
    Latest stories
 
+   Spanish PM Pedro Sanchez and Brazilian President Lula da Silva in
+   Madrid
+   World News
+   Spain and five Latin American countries reject the US attack
+     __________________________________________________________________
+
+   Samsung OLED AI Bot
+   Tech News
+   CES 2026: All the latest tech we may see from the global event
+     __________________________________________________________________
+
    Power failure in Berlin
    Germany
    45,000 homes without power in Berlin after Left-wing extremists attack
      __________________________________________________________________
 
-   Latest news bulletin | January 4th, 2026 â Evening
+   Latest news bulletin | January 4th, 2026 - Evening
    Top News Stories Today
-   Latest news bulletin | January 4th, 2026 â Evening
-     __________________________________________________________________
-
-   People walk during a memorial procession in Crans-Montana, Swiss Alps,
-   Switzerland, Sunday, Jan. 4, 2026
-   No Comment
-   Crans-Montana residents take part in silent march for fire victims
-     __________________________________________________________________
-
-   Federal law enforcement personnel stand watch outside the Metropolitan
-   Detention Center in NYC as they await the arrival of captured Nicolas
-   Maduro on Saturday, 3 Jan 2026
-   USA
-   Maduro wishes US agents 'good night' and 'Happy New Year'
+   Latest news bulletin | January 4th, 2026 - Evening
    Europe
    [ ]
    Categories
@@ -393,7 +389,7 @@
        every morning. Stay ahead with the key news and insights that
        matter in Europe today.
      * The Ring
-       The Ring is Euronewsâ weekly political showdown, where Europeâs
+       The Ring is Euronews' weekly political showdown, where Europe's
        toughest debates meet their boldest voices. In each episode, two
        political heavyweights from across the EU face off to propose a
        diversity of opinions and spark conversations around the most
@@ -556,7 +552,7 @@
        reports, an animated explainer series and live debate - find out
        why Water Matters, from Euronews.
      * Climate Now
-       We give you the latest climate facts from the worldâs leading
+       We give you the latest climate facts from the world's leading
        source, analyse the trends and explain how our planet is changing.
        We meet the experts on the front line of climate change who explore
        new strategies to mitigate and adapt.
@@ -585,7 +581,7 @@
      * Azerbaijan
      * Discover Algeria
      * Young Inventors Prize 2025
-     * Discover TÃ¼rkiye
+     * Discover Türkiye
      * Discover Sharjah
      * Golf Travel Tales
      * From Qatar
@@ -600,7 +596,7 @@
      * Better Connected
      * Powering Progress
      * Experience Brazil
-     * Italy â Heritage & Horizons
+     * Italy - Heritage & Horizons
      * Poland Untold
      * Saadiyat Cultural District
      * Invest in Costa Rica
@@ -642,7 +638,7 @@ confinement
    Copyright Michael Probst/Copyright 2020 The Associated Press. All
    rights reserved
    By Alasdair Sandford & Euronews&nbspwith AP, AFP
-   Published on 02/04/2020 - 11:56 GMT+2 â¢Updated 03/04/2020 - 7:13 GMT+2
+   Published on 02/04/2020 - 11:56 GMT+2 o Updated 03/04/2020 - 7:13 GMT+2
    Share Comments
    Share Close Button
    facebook Facebook facebook twitter Twitter twitter flipboard Flipboard
@@ -705,7 +701,7 @@ Unemployment soars
    The number of people out of work has risen far more sharply than
    happened during the financial crisis of 2008, Spanish media say.
 
-   The European Union has designed a new programme to raise up to â¬100
+   The European Union has designed a new programme to raise up to EUR100
    billion to tackle surging unemployment brought on by the pandemic.
 
    The aim of the scheme, called SURE, is to provide financial assistance
@@ -721,7 +717,7 @@ Also around Europe:
 
      * In Greece, authorities placed an entire refugee camp under
        quarantine Thursday after discovering that a third of the 63
-       contacts of an infected woman tested positive for the virus â and
+       contacts of an infected woman tested positive for the virus -- and
        none showed symptoms.
      * In the UK, another 569 people died of coronavirus, bringing the
        total number of deaths to 2,921. As on Wednesday, it is the biggest
@@ -810,15 +806,14 @@ response
 
 Top stories
 
+   Spanish PM Pedro Sanchez and Brazilian President Lula da Silva in
+   Madrid
+
+Spain and five Latin American countries reject the US attack
+
    Maduro in handcuffs, walked down DEA NYPD carpet
 
-Captured Venezuelan leader NicolÃ¡s Maduro arrives in New York
-
-   In this picture taken on Saturday, June 20, 2015 a Typhoon FGR4
-   aircraft, Royal Air Force, performs during an air show in Bucharest,
-   Romania.
-
-UK and French warplanes strike suspected IS weapons facility in Syria
+Captured Venezuelan leader Nicolás Maduro arrives in New York
 
    Flowers and messages for the victims of Crans-Montana, Switzerland
 
@@ -828,11 +823,11 @@ Hundreds march in silence to honour Crans-Montana fire victims
 
 45,000 homes without power in Berlin after Left-wing extremists attack
 
-   In this photo provided by the North Korean government, its leader Kim
-   Jong Un visits a major munitions factory at an undisclosed place in
-   North Korea Saturday, Jan. 3, 2026.
+   In this picture taken on Saturday, June 20, 2015 a Typhoon FGR4
+   aircraft, Royal Air Force, performs during an air show in Bucharest,
+   Romania.
 
-North Korea launches ballistic missiles into sea in new weapons test
+UK and French warplanes strike suspected IS weapons facility in Syria
 
    ADVERTISEMENT
    ADVERTISEMENT
@@ -849,11 +844,11 @@ First four victims identified in Swiss Alps bar fire that killed 40
 
    3
 
-Ryanair is cutting these destinations in 2026 - hereâs why
+Ryanair is cutting these destinations in 2026 - here's why
 
    4
 
-Captured Venezuelan leader NicolÃ¡s Maduro arrives in New York
+Captured Venezuelan leader Nicolás Maduro arrives in New York
 
    5
 
@@ -868,16 +863,16 @@ Fiddler crabs are hoovering up and breaking down microplastics - study
    Browse today's tags
      * War in Ukraine
      * Donald Trump
-     * NicolÃ¡s Maduro
+     * Nicolás Maduro
      * Venezuela
      * France
      * New Year
      * temperature
      * Hanoi
+     * autonomous vehicles
+     * extremism
      * Ballistic missile
      * Africanews
-     * African Football
-     * Islamic State Jihadist Group
 
    Euronews logo
 
@@ -929,6 +924,6 @@ Fiddler crabs are hoovering up and breaking down microplastics - study
 
    Newsletters
 
-   Copyright Â© euronews 2026
+   Copyright © euronews 2026
 
    Facebook

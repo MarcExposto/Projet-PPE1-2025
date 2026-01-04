@@ -46,7 +46,7 @@ Contents
        (BUTTON) Toggle History subsection
           + 2.1 Medieval
           + 2.2 Modern history
-               o 2.2.1 International conventions 1852â1927
+               o 2.2.1 International conventions 1852-1927
      * 3 Signals and flags
      * 4 Ethical and practical considerations
        (BUTTON) Toggle Ethical and practical considerations subsection
@@ -60,7 +60,7 @@ Contents
           + 5.2 Canada
           + 5.3 Hong Kong
           + 5.4 United Kingdom
-               o 5.4.1 British maritime quarantine rules 1711â1896
+               o 5.4.1 British maritime quarantine rules 1711-1896
           + 5.5 United States
                o 5.5.1 Federal rules
                o 5.5.2 US quarantine facilities
@@ -71,13 +71,13 @@ Contents
        (BUTTON) Toggle Notable quarantines subsection
           + 6.1 Eyam village, 1665 (plague)
           + 6.2 Convict ship Surry, Sydney Harbour, 1814 (typhoid)
-          + 6.3 'Typhoid Mary' (US), 1907â1910 and 1915â1938
+          + 6.3 'Typhoid Mary' (US), 1907-1910 and 1915-1938
           + 6.4 East Samoa, 1918 (flu pandemic)
-          + 6.5 Gruinard Island, 1942â1990 (anthrax)
-          + 6.6 Apollo series space explorers, 1969â1971
+          + 6.5 Gruinard Island, 1942-1990 (anthrax)
+          + 6.6 Apollo series space explorers, 1969-1971
           + 6.7 Yugoslavia, 1972 (smallpox)
           + 6.8 Case of Kaci Hickox' return to US, 2014 (Ebola)
-          + 6.9 COVID-19 pandemic, 2020â2023
+          + 6.9 COVID-19 pandemic, 2020-2023
                o 6.9.1 Hubei
                o 6.9.2 Italy
                o 6.9.3 Rest of Europe
@@ -96,88 +96,88 @@ Contents
 Quarantine
 
    [ ] 82 languages
-     * Ø§ÙØ¹Ø±Ø¨ÙØ©
-     * AzÉrbaycanca
-     * à¦¬à¦¾à¦à¦²à¦¾
-     * ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ
-     * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+     * a+l+e+r+b+y+tm
+     * Az@rbaycanca
+     * ¬¾²¾
+     * Belaruskaya
+     * B"lgarski
      * Bosanski
-     * CatalÃ 
-     * Ð§ÓÐ²Ð°ÑÐ»Ð°
-     * ÄeÅ¡tina
+     * Català
+     * CHvashla
+     * Cestina
      * Cymraeg
      * Dagbanli
      * Dansk
      * Deutsch
      * Eesti
-     * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
-     * EspaÃ±ol
+     * Ellynika'
+     * Español
      * Esperanto
      * Euskara
-     * ÙØ§Ø±Ø³Û
-     * FranÃ§ais
+     * f+a+r+s+
+     * Français
      * Gaeilge
      * Galego
-     * íêµ­ì´
-     * ÕÕ¡ÕµÕ¥ÖÕ¥Õ¶
-     * à¤¹à¤¿à¤¨à¥à¤¦à¥
+     * ­´
+     * ¡µ¥¥¶
+     * ¹¿¨¦
      * Hrvatski
      * Bahasa Indonesia
      * Interlingua
      * Italiano
-     * ×¢××¨××ª
-     * á¥áá áá£áá
-     * ÒÐ°Ð·Ð°ÒÑÐ°
+     * E+B+R+J+T+
+     * ¥ £
+     * azasha
      * Kiswahili
-     * KreyÃ²l ayisyen
-     * KurdÃ®
-     * ÐÑÑÐ³ÑÐ·ÑÐ°
+     * Kreyòl ayisyen
+     * Kurdî
+     * Kyrgyzcha
      * Latina
-     * LatvieÅ¡u
-     * LÃ«tzebuergesch
-     * LietuviÅ³
+     * Latviesu
+     * Lëtzebuergesch
+     * Lietuviu
      * Magyar
-     * ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸
-     * à´®à´²à´¯à´¾à´³à´
-     * à¤®à¤°à¤¾à¤ à¥
-     * ááá áááá£á á
+     * Makedonski
+     * ®²¯¾³
+     * ®°¾
+     *  £
      * Bahasa Melayu
-     * ÐÐ¾Ð½Ð³Ð¾Ð»
+     * Mongol
      * Nederlands
      * Nedersaksies
-     * æ¥æ¬èª
-     * Norsk bokmÃ¥l
+     * ¥¬
+     * Norsk bokmål
      * Norsk nynorsk
      * Occitan
-     * OÊ»zbekcha / ÑÐ·Ð±ÐµÐºÑÐ°
+     * O;Szbekcha / v%zbekcha
      * Papiamentu
      * Polski
-     * PortuguÃªs
-     * RomÃ¢nÄ
-     * Ð ÑÑÑÐºÐ¸Ð¹
+     * Português
+     * Româna
+     * Russkij
      * Sardu
      * Shqip
-     * à·à·à¶à·à¶½
+     * ½
      * Simple English
-     * Ø³ÙÚÙ
-     * SlovenÄina
-     * SlovenÅ¡Äina
-     * Ú©ÙØ±Ø¯Û
-     * Ð¡ÑÐ¿ÑÐºÐ¸ / srpski
-     * Srpskohrvatski / ÑÑÐ¿ÑÐºÐ¾ÑÑÐ²Ð°ÑÑÐºÐ¸
+     * s+n+y+
+     * Slovencina
+     * Slovenscina
+     * ©w+r+d+
+     * Srpski / srpski
+     * Srpskohrvatski / srpskohrvatski
      * Suomi
      * Svenska
-     * à®¤à®®à®¿à®´à¯
+     * ¤®¿´
      * Taqbaylit
-     * à¹à¸à¸¢
-     * TÃ¼rkÃ§e
-     * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
-     * Ø§Ø±Ø¯Ù
+     * ¢
+     * Türkçe
+     * Ukrayins'ka
+     * a+r+d+w+
      * Vahcuengh
-     * Tiáº¿ng Viá»t
-     * å´è¯­
-     * ç²µèª
-     * ä¸­æ
+     * Tie>'ng Vie>-.t
+     * ´­
+     * µ
+     * ­
 
    Edit links
 
@@ -346,7 +346,7 @@ Medieval
    example of Venice, and in 1476 the old leper hospital of Marseille was
    converted into a plague hospital. The great lazaret of Marseille,
    perhaps the most complete of its kind, was founded in 1526 on the
-   island of PomÃ¨gues. The practise at all the Mediterranean lazarets did
+   island of Pomègues. The practise at all the Mediterranean lazarets did
    not differ from the English procedure in the Levantine and North
    African trade. On the arrival of cholera in 1831 some new lazarets were
    set up at western ports; notably, a very extensive establishment near
@@ -395,16 +395,16 @@ Modern history
    the Quarantine Administration, in Istanbul. These two institutions set
    up permanent quarantines throughout the eastern Mediterranean, based on
    the western Mediterranean quarantine model.^[31] For example, at the
-   port of Ä°zmir, all ships and their cargo would be inspected and those
+   port of Izmir, all ships and their cargo would be inspected and those
    suspected of carrying the plague would be towed to separate docks and
    their personnel housed in separate buildings for a determined period of
    time. In Thessaly, along the Greek-Turkish border, all travellers
-   entering and exiting the Ottoman Empire would be quarantined for 9â15
+   entering and exiting the Ottoman Empire would be quarantined for 9-15
    days. Upon appearance of the plague, the quarantine stations would be
    militarised and the Ottoman army would be involved in border control
    and disease monitoring.^[32]
 
-International conventions 1852â1927
+International conventions 1852-1927
 
    [edit]
 
@@ -496,7 +496,7 @@ International conventions 1852â1927
    In the 20th and 21st centuries, people suspected of carrying infectious
    diseases have been quarantined, as in the cases of Andrew Speaker
    (multi-drug-resistant tuberculosis, 2007) and Kaci Hickox (Ebola,
-   2014). During the 1957â58 influenza pandemic and the 1968 flu pandemic,
+   2014). During the 1957-58 influenza pandemic and the 1968 flu pandemic,
    several countries implemented measures to control spread of the
    disease. In addition, the World Health Organization applied a global
    influenza surveillance network.^[44]
@@ -515,9 +515,9 @@ International conventions 1852â1927
    difficulty of enforcement, and counterproductive as they slowed down
    aid efforts.^[48]
 
-   The People's Republic of China has employed mass quarantines â firstly
+   The People's Republic of China has employed mass quarantines - firstly
    of the city of Wuhan and subsequently of all of the Hubei province
-   (population 55.5 million) â in the COVID-19 pandemic. After a few
+   (population 55.5 million) - in the COVID-19 pandemic. After a few
    weeks, the Italian government imposed lockdowns for the entire country
    (more than 60 million people) in an attempt to stop the spread of the
    disease there. India quarantined itself from the world for a period of
@@ -548,7 +548,7 @@ Signals and flags
    the victims (cholera ships also used a yellow flag).^[16] The plain
    yellow flag ("Quebec" or Q in international maritime signal flags)
    probably derives its letter symbol for its initial use in quarantine,
-   but this flag in modern times indicates the oppositeâa ship that
+   but this flag in modern times indicates the opposite--a ship that
    'requests free pratique', i.e. that declares itself free of
    quarantinable disease, and requests boarding and routine port
    inspection.^[53]
@@ -653,7 +653,7 @@ Short-term quarantines, e.g. for decontamination
    workers quarantined" describes a brief quarantine that lasted until
    people could be showered in a decontamination tent.^[63]
 
-   The FebruaryâMarch 2003 issue of HazMat Magazine suggests that people
+   The February-March 2003 issue of HazMat Magazine suggests that people
    be "locked in a room until proper decon could be performed", in the
    event of "suspect anthrax".^[citation needed]
 
@@ -708,7 +708,7 @@ Australia
    Australia is especially important because of its proximity to
    South-East Asia and the Pacific, which have many pests and diseases not
    present in Australia. For this reason, the region from Cairns to
-   Broomeâincluding the Torres Straitâis the focus for quarantine
+   Broome--including the Torres Strait--is the focus for quarantine
    activities that protect all Australians.^[69] As Australia has been
    geographically isolated from other major continents for millions of
    years, there is an endemically unique ecosystem free of several severe
@@ -790,7 +790,7 @@ United Kingdom
    quarantine if they have documentation showing they are up to date on
    their appropriate vaccinations.^[72]
 
-British maritime quarantine rules 1711â1896
+British maritime quarantine rules 1711-1896
 
    [edit]
    Quarantine Act 1710
@@ -832,14 +832,14 @@ British maritime quarantine rules 1711â1896
    England during that period, the restrictions on traffic became more
    stringent, and in 1788 a very strict Quarantine and Customs Act 1788
    (28 Geo. 3. c. 34) was passed, with provisions affecting cargoes in
-   particular. The act was revised in 1801 and 1805, and in 1823â24 an
+   particular. The act was revised in 1801 and 1805, and in 1823-24 an
    elaborate inquiry was followed by an act of Parliament^[which?] making
    quarantine only at discretion of the privy council, which recognised
    yellow fever or other highly infectious diseases as calling for
    quarantine, along with plague. The threat of cholera in 1831 was the
    last occasion in England of the use of quarantine restrictions. Cholera
    affected every country in Europe, despite all efforts to keep it out.
-   When cholera returned to England in 1849, 1853 and 1865â66, no attempt
+   When cholera returned to England in 1849, 1853 and 1865-66, no attempt
    was made to seal the ports. In 1847 the privy council ordered all
    arrivals with a clean bill of health from the Black Sea and the Levant
    to be admitted, provided there had been no case of plague during the
@@ -993,7 +993,7 @@ US quarantine facilities
    responsible for quarantining potentially infected travellers entering
    through any ports of entry in its assigned region. These facilities are
    fairly small; each one is operated by a few staff members and capable
-   of accommodating 1â2 travellers for a short observation period.^[82]
+   of accommodating 1-2 travellers for a short observation period.^[82]
    Cost estimates for setting up a temporary larger facility, capable of
    accommodating 100 to 200 travellers for several weeks, have been
    published by the Airport Cooperative Research Program (ACRP) in 2008 of
@@ -1007,7 +1007,7 @@ US quarantine of imported goods
    contagious disease is identified and can be traced back to a certain
    shipment or product. All imports will also be quarantined if the
    disease appears in other countries.^[citation needed] According to
-   Title 42 U.S.C. Â§Â§264 and 266 Archived 24 September 2015 at the Wayback
+   Title 42 U.S.C. §§264 and 266 Archived 24 September 2015 at the Wayback
    Machine, these statutes provide the Secretary of Health and Human
    Services peacetime and wartime authority to control the movement of
    people into and within the United States to prevent the spread of
@@ -1053,7 +1053,7 @@ History of quarantine laws in the US
    there.^[86]^[87]
 
    Mary Mallon was quarantined in 1907 under the Greater New York Charter,
-   Sections 1169â1170,^[88] which permitted the New York City Board of
+   Sections 1169-1170,^[88] which permitted the New York City Board of
    Health to "remove to a proper place...any person sick with any
    contagious, pestilential or infectious disease."^[89]
 
@@ -1124,7 +1124,7 @@ Convict ship Surry, Sydney Harbour, 1814 (typhoid)
    was the first site in Australia to be used for quarantine
    purposes.^[96]
 
-'Typhoid Mary' (US), 1907â1910 and 1915â1938
+'Typhoid Mary' (US), 1907-1910 and 1915-1938
 
    [edit]
 
@@ -1150,7 +1150,7 @@ East Samoa, 1918 (flu pandemic)
    rekindled Samoan anti-colonial sentiments that led to its eventual
    independence.^[98]
 
-Gruinard Island, 1942â1990 (anthrax)
+Gruinard Island, 1942-1990 (anthrax)
 
    [edit]
 
@@ -1160,7 +1160,7 @@ Gruinard Island, 1942â1990 (anthrax)
    quarantine was lifted in 1990,^[99] when the island was declared safe,
    and a flock of sheep was released onto the island.
 
-Apollo series space explorers, 1969â1971
+Apollo series space explorers, 1969-1971
 
    [edit]
 
@@ -1196,11 +1196,11 @@ Case of Kaci Hickox' return to US, 2014 (Ebola)
    restrict her movements, saying she posed no threat as long as she
    wasn't demonstrating any symptoms of Ebola. Hickox said health care
    professionals like those at the U.S. Centers for Disease Control and
-   Prevention â not politicians like New Jersey Gov. Chris Christie and
-   Maine Gov. Paul LePage â should be in charge of making decisions that
+   Prevention - not politicians like New Jersey Gov. Chris Christie and
+   Maine Gov. Paul LePage - should be in charge of making decisions that
    are grounded in science, not fear."^[102]
 
-COVID-19 pandemic, 2020â2023
+COVID-19 pandemic, 2020-2023
 
    [edit]
 
@@ -1215,7 +1215,7 @@ COVID-19 pandemic, 2020â2023
 
    On 26 March 2020, 1.7 billion people worldwide were under some form of
    lockdown,^[104] which increased to 2.6 billion people two days
-   laterâaround a third of the world's population.^[105]^[106]
+   later--around a third of the world's population.^[105]^[106]
 
 Hubei
 
@@ -1332,7 +1332,7 @@ Self-quarantine
 
    [edit]
 
-   Further information: Isolation (health care) Â§ Self-isolation
+   Further information: Isolation (health care) § Self-isolation
 
    Self-quarantine (or self-isolation) is a popular term that emerged
    during the COVID-19 pandemic, which spread to most countries in 2020.
@@ -1364,24 +1364,24 @@ See also
 
    [edit]
 
-     * Biosecurity â Preventive measures designed to reduce the risk of
+     * Biosecurity - Preventive measures designed to reduce the risk of
        infectious disease transmission
-     * Epidemiology â Study of health and disease within a population
-     * Extra-Terrestrial Exposure Law â Regulations adopted by NASA to
+     * Epidemiology - Study of health and disease within a population
+     * Extra-Terrestrial Exposure Law - Regulations adopted by NASA to
        guard the Earth against any harmful contamination
-     * Infection control â Medical discipline for preventing nosocomial or
+     * Infection control - Medical discipline for preventing nosocomial or
        healthcare-associated infectionPages displaying short descriptions
        of redirect targets
-     * Isolation (health care) â Measure taken to prevent contagious
+     * Isolation (health care) - Measure taken to prevent contagious
        diseases from being spread
-     * Lazaretto â Quarantine station for maritime travelers
-     * Lytton Quarantine Station â Heritage-listed former quarantine
+     * Lazaretto - Quarantine station for maritime travelers
+     * Lytton Quarantine Station - Heritage-listed former quarantine
        station in Brisbane, Queensland, Australia
-     * Pest house â Building used for persons afflicted with communicable
+     * Pest house - Building used for persons afflicted with communicable
        diseases
-     * Protective sequestration â Public health term
+     * Protective sequestration - Public health term
      * Quaranup, a former quarantine station in Albany, Western Australia
-     * Social distancing â Infection control technique by keeping a
+     * Social distancing - Infection control technique by keeping a
        distance from each other
 
 Notes
@@ -1401,11 +1401,11 @@ References
 
     1. ^ von Csefalvay C (2023), "Modeling the control of infectious
        disease", Computational Modeling of Infectious Disease, Elsevier,
-       pp. 173â215, doi:10.1016/b978-0-32-395389-4.00015-3,
+       pp. 173-215, doi:10.1016/b978-0-32-395389-4.00015-3,
        ISBN 978-0-323-95389-4, retrieved 2 March 2023
-    2. ^ ^a ^b The Journal of Sociologic Medicine â Volume 17
+    2. ^ ^a ^b The Journal of Sociologic Medicine - Volume 17
     3. ^ Ronald Eccles, Olaf Weber, eds. (2009). Common cold
-       (Online-Ausg. ed.). Basel: BirkhÃ¤user. pp. 210.
+       (Online-Ausg. ed.). Basel: Birkhäuser. pp. 210.
        ISBN 978-3-7643-9894-1.
     4. ^ ^a ^b Mayer J (4 September 2018). "The Origin Of The Word
        'Quarantine'". Retrieved 17 March 2020.
@@ -1416,10 +1416,10 @@ References
        Prevention, Quarantine and Isolation, accessed 5 February 2020
     8. ^ Rothstein MA (2015). "From SARS to Ebola: Legal and Ethical
        Considerations for Modern Quarantine". Indiana Health Law Review.
-       12: 227â280. doi:10.18060/18963.
+       12: 227-280. doi:10.18060/18963.
     9. ^ Arthur Saniotis (2012). "Islamic Medicine and Evolutionary
        Medicine: A Comparative Analysis". Journal of the Islamic Medical
-       Association of North America. 44 (1): 44â1â8780.
+       Association of North America. 44 (1): 44-1-8780.
        doi:10.5915/44-1-8780. PMC 3708639. PMID 23864992. "Islamic
        medicine heralded a disciplinary model which included quarantine,
        hospitals and systematic clinical training."
@@ -1427,16 +1427,16 @@ References
        Hadith of the Plague". In Brief. Columbia University News.
    11. ^ Roy J. Shephard. An Illustrated History of Health and Fitness,
        from Pre-History to our Post-Modern World. Springer. p. 279.
-   12. ^ "Ibn Sina â Ancient Hero of Modern Pandemics". 31 May 2022.
+   12. ^ "Ibn Sina - Ancient Hero of Modern Pandemics". 31 May 2022.
    13. ^ Dabashi H. "What can Avicenna teach us in time of Coronavirus?".
        www.aljazeera.com.
-   14. ^ Dunlop D, Colin G, ÅehsuvaroÇ§lu BN (24 April 2012). "BÄ«mÄristÄn".
+   14. ^ Dunlop D, Colin G, Sehsuvaroglu BN (24 April 2012). "Bimaristan".
        In Bearman P, Bianquis T, Bosworth C, van Donzel E, Heinrichs W
        (eds.). Encyclopaedia of Islam, Second Edition.
        doi:10.1163/1573-3912_islam_COM_0123.
    15. ^ "Plague and Contagion". 24 August 2020.
    16. ^ ^a ^b ^c ^d ^e ^f Sehdev, Paul S. (2002). "The Origin of
-       Quarantine". Clinical Infectious Diseases. 35 (9): 1071â1072.
+       Quarantine". Clinical Infectious Diseases. 35 (9): 1071-1072.
        doi:10.1086/344062. PMID 12398064.
    17. ^ "Croatia's Dubrovnik, Home to Ancient Quarantine Facilities". The
        New York Times. Associated Press. 24 March 2020. Retrieved 1 April
@@ -1448,12 +1448,12 @@ References
        February 2025.
    20. ^ Gall GE, Lautenschlager S, Bagheri HC (6 June 2016). "Quarantine
        as a public health measure against an emerging infectious disease:
-       syphilis in Zurich at the dawn of the modern era (1496â1585)". GMS
+       syphilis in Zurich at the dawn of the modern era (1496-1585)". GMS
        Hygiene and Infection Control. 11: Doc13. doi:10.3205/dgkh000273.
        ISSN 2196-5226. PMC 4899769. PMID 27303653.
    21. ^ Tognotti E (February 2013). "Lessons from the history of
        quarantine, from plague to influenza A". Emerging Infectious
-       Diseases. 19 (2): 254â259. doi:10.3201/eid1902.120312.
+       Diseases. 19 (2): 254-259. doi:10.3201/eid1902.120312.
        ISSN 1080-6059. PMC 3559034. PMID 23343512.
    22. ^ Drews K (2013). "A Brief History of Quarantine". The Virginia
        Tech Undergraduate Historical Review. 2.
@@ -1467,7 +1467,7 @@ References
    25. ^ The Disastrous Cordon Sanitaire Used on Honolulu's Chinatown in
        1900 www.slate.com, accessed 3 February 2020
    26. ^ Mark Skubik, "Public Health Politics and the San Francisco Plague
-       Epidemic of 1900â1904," Doctoral Thesis, San Jose State University,
+       Epidemic of 1900-1904," Doctoral Thesis, San Jose State University,
        2002 www.skubik.com, accessed 5 February 2020
    27. ^ ^a ^b Peter Oliver Okin, "The Yellow Flag of Quarantine: An
        Analysis of the Historical and Prospective Impacts of Socio-Legal
@@ -1475,39 +1475,39 @@ References
        South Florida, January 2012; p. 232, scholarcommons.usf.edu,
        accessed 5 February 2020
    28. ^ Tomes N (2010). ""Destroyer and Teacher": Managing the Masses
-       During the 1918â1919 Influenza Pandemic". Public Health Reports.
-       125 (Suppl 3): 48â62. doi:10.1177/00333549101250S308. PMC 2862334.
+       During the 1918-1919 Influenza Pandemic". Public Health Reports.
+       125 (Suppl 3): 48-62. doi:10.1177/00333549101250S308. PMC 2862334.
        PMID 20568568.
    29. ^ Martini M, Gazzaniga V, Bragazzi NL, Barberis I (2 April 2019).
        "The Spanish Influenza Pandemic: a lesson from the history 100
        years after 1918". Journal of Preventive Medicine and Hygiene. 60
-       (1): E64 â E67. doi:10.15167/2421-4248/jpmh2019.60.1.1205.
+       (1): E64 - E67. doi:10.15167/2421-4248/jpmh2019.60.1.1205.
        PMC 6477554. PMID 31041413.
    30. ^ Maier D (1979). "Nineteenth-Century Asante Medical Practices".
-       Comparative Studies in Society and History. 21 (1): 63â81.
+       Comparative Studies in Society and History. 21 (1): 63-81.
        doi:10.1017/S0010417500012652. JSTOR 178452. PMID 11614369.
        S2CID 19587869.
    31. ^ Hamed-Troyansky V (2021). "Ottoman and Egyptian Quarantines and
-       European Debates on Plague in the 1830sâ1840s". Past and Present
-       (253): 235â270. doi:10.1093/pastj/gtaa017.
+       European Debates on Plague in the 1830s-1840s". Past and Present
+       (253): 235-270. doi:10.1093/pastj/gtaa017.
    32. ^ Andrew Robarts. Nukhet Varlik (ed.). Plague and Contagion in the
-       Islamic Mediterranean. Arc Humanities Press. pp. 236â7.
+       Islamic Mediterranean. Arc Humanities Press. pp. 236-7.
    33. ^ Text of the 1903 convention British Foreign and Commonwealth
        Office, www.fco.gov.uk Archived 26 September 2012 at the Wayback
        Machine, accessed 5 February 2020
-   34. ^ Text in League of Nations Treaty Series, vol. 4, pp. 282â413.
-   35. ^ Text in League of Nations Treaty Series, vol. 78, pp. 230â349.
-   36. ^ Text in League of Nations Treaty Series, vol. 5, pp. 394â441.
-   37. ^ Text in League of Nations Treaty Series, vol. 38, pp. 10â55.
-   38. ^ Text in League of Nations Treaty Series, vol. 37, pp. 318â339.
-   39. ^ Text in League of Nations Treaty Series, vo. 34, pp. 302â313.
-   40. ^ Text in League of Nations Treaty Series, vol. 18, pp. 104â119.
-   41. ^ Text in League of Nations Treaty Series, vol. 49, pp. 286â314.
-   42. ^ Text in League of Nations Treaty Series, vol. 58, pp. 144â177.
-   43. ^ Text in League of Nations Treaty Series, vol. 63, pp. 322â361.
+   34. ^ Text in League of Nations Treaty Series, vol. 4, pp. 282-413.
+   35. ^ Text in League of Nations Treaty Series, vol. 78, pp. 230-349.
+   36. ^ Text in League of Nations Treaty Series, vol. 5, pp. 394-441.
+   37. ^ Text in League of Nations Treaty Series, vol. 38, pp. 10-55.
+   38. ^ Text in League of Nations Treaty Series, vol. 37, pp. 318-339.
+   39. ^ Text in League of Nations Treaty Series, vo. 34, pp. 302-313.
+   40. ^ Text in League of Nations Treaty Series, vol. 18, pp. 104-119.
+   41. ^ Text in League of Nations Treaty Series, vol. 49, pp. 286-314.
+   42. ^ Text in League of Nations Treaty Series, vol. 58, pp. 144-177.
+   43. ^ Text in League of Nations Treaty Series, vol. 63, pp. 322-361.
    44. ^ Tognotti E (February 2013). "Lessons from the History of
        Quarantine, from Plague to Influenza A". Emerging Infectious
-       Diseases. 19 (2): 254â259. doi:10.3201/eid1902.120312. PMC 3559034.
+       Diseases. 19 (2): 254-259. doi:10.3201/eid1902.120312. PMC 3559034.
        PMID 23343512.
    45. ^ Review: Surat Plague of 1994 Re-examined archived from
        www.tm.mahidol.ac.th, accessed 22 November 2020
@@ -1529,7 +1529,7 @@ References
    51. ^ "COVID-19 Information for Travel". U.S. Centers for Disease
        Control and Prevention (CDC). 11 February 2020. Retrieved 25
        February 2020.
-   52. ^ "Coronavirus Disease 2019 (COVID-19)âTransmission". U.S. Centers
+   52. ^ "Coronavirus Disease 2019 (COVID-19)--Transmission". U.S. Centers
        for Disease Control and Prevention (CDC). 17 March 2020. Retrieved
        29 March 2020.
    53. ^ Quarantine Flag history flagspot.net, accessed 2 February 2020
@@ -1548,7 +1548,7 @@ References
        1985. www.unhcr.org, accessed 5 February 2020
    58. ^ Todrys KW, Howe E, Amon JJ (2013). "Failing Siracusa:
        Governments' obligations to find the least restrictive options for
-       tuberculosis control". Public Health Action. 3 (1): 7â10.
+       tuberculosis control". Public Health Action. 3 (1): 7-10.
        doi:10.5588/pha.12.0094. PMC 4463097. PMID 26392987.
    59. ^ M. Pabst Battin, Leslie P. Francis, Jay A. Jacobson, The Patient
        as Victim and Vector: Ethics and Infectious Disease, Oxford
@@ -1556,7 +1556,7 @@ References
    60. ^ Brooks SK, Webster RK, Smith LE, Woodland L, Wessely S, Greenberg
        N, Rubin GJ (2020). "The psychological impact of quarantine and how
        to reduce it: Rapid review of the evidence". The Lancet. 395
-       (10227): 912â920. doi:10.1016/S0140-6736(20)30460-8. PMC 7158942.
+       (10227): 912-920. doi:10.1016/S0140-6736(20)30460-8. PMC 7158942.
        PMID 32112714.
    61. ^ Spinelli M, Lionetti F, Pastore M, Fasolo M (3 July 2020).
        "Parents' Stress and Children's Psychological Problems in Families
@@ -1564,7 +1564,7 @@ References
        1713. doi:10.3389/fpsyg.2020.01713. PMC 7350926. PMID 32719646.
    62. ^ Banerjee D, Rai M (September 2020). "Social isolation in
        Covid-19: The impact of loneliness". The International Journal of
-       Social Psychiatry. 66 (6): 525â527. doi:10.1177/0020764020922269.
+       Social Psychiatry. 66 (6): 525-527. doi:10.1177/0020764020922269.
        PMC 7405628. PMID 32349580.
    63. ^ "Kelly Nankervis: Anthrax scare temporarily closes Midland Daily
        News". Midland Daily News. 26 April 2005. Archived from the
@@ -1572,7 +1572,7 @@ References
        www.ourmidland.com
    64. ^ Tognotti E (2013). "Lessons from the history of quarantine, from
        plague to influenza A." Emerging Infectious Diseases. 19 (2):
-       254â259. doi:10.3201/eid1902.120312. PMC 3559034. PMID 23343512.
+       254-259. doi:10.3201/eid1902.120312. PMC 3559034. PMID 23343512.
    65. ^ Qureshi A (2016). Ebola Virus Disease: From Origin to Outbreak.
        London: Academic Press. p. 62. ISBN 978-0-12-804230-4.
    66. ^ Downey A, Brown L, Calonge N (14 July 2020), "Implementing
@@ -1601,10 +1601,10 @@ References
    73. ^ Stuart A (1710). Quarantine Act 1710 [9 Ann. Chapter II A.D.
        1710]. The Statutes at Large : from Magna Charta, to the End of the
        Last Parliament, 1761. Vol. IV. London, Great Britain: Mark
-       Baskett, Henry Woodfall, and William Strahan. pp. 420â421.
-       OCLC 228755149 â via Internet Archive.
+       Baskett, Henry Woodfall, and William Strahan. pp. 420-421.
+       OCLC 228755149 - via Internet Archive.
    74. ^ ^a ^b ^c ^d Booker J (2016). "Maritime Quarantine: The British
-       Experience, c.1650â1900". The History of Medicine in Context.
+       Experience, c.1650-1900". The History of Medicine in Context.
        Routledge. ISBN 978-1-351-91984-5. Retrieved 6 February 2020.
    75. ^ Legal Authorities for Isolation and Quarantine 8 October 2014,
        Centers for Disease Control and Prevention, accessed 6 February
@@ -1619,7 +1619,7 @@ References
        Communicable Diseases". cdc.gov. bottom of page, in "Executive
        Orders" paragraph. 31 July 2014. Retrieved 4 March 2020.
    80. ^ Specific Laws and Regulations Governing the Control of
-       Communicable Diseases â Final Rule for Control of Communicable
+       Communicable Diseases - Final Rule for Control of Communicable
        Diseases: Interstate and Foreign www.cdc.gov, accessed 4 March 2020
    81. ^ Quarantine Station Contact List, Map, and Fact Sheets (CDC)
    82. ^ ^a ^b ^c Stambaugh H, Sensenig D, Casagrande R, Flagg S, Gerrity
@@ -1633,12 +1633,12 @@ References
    84. ^ "Contagious Disease Control, The Lazaretto". City of
        Philadelphia. Archived from the original on 8 May 2008. Retrieved
        21 November 2007.
-   85. ^ "G. William Beardslee, "The 1832 Cholera Epidemic â Part 2: 19th
+   85. ^ "G. William Beardslee, "The 1832 Cholera Epidemic - Part 2: 19th
        Century Responses to Cholerae Vibrio."". Archived from the original
        on 18 May 2015. Retrieved 6 March 2019.
    86. ^ Yew E (June 1980). "Medical inspection of immigrants at Ellis
        Island, 1891-1924". Bulletin of the New York Academy of Medicine.
-       56 (5): 488â510. PMC 1805119. PMID 6991041.
+       56 (5): 488-510. PMC 1805119. PMID 6991041.
    87. ^ Birn AE (1997). "Six Seconds Per Eyelid: the medical inspection
        of immigrants at Ellis Island, 1892-1914". DYNAMIS. Acta Hisp. Med.
        Sci. Hist. 17: 289. PMID 11623552.
@@ -1653,14 +1653,14 @@ References
        exposure. Even during the SARS epidemic in 2003, officials relied
        mostly on voluntary isolation and quarantine. And the last
        large-scale quarantine in the U.S. took place during the Spanish
-       flu epidemic of 1918â19. ..."
+       flu epidemic of 1918-19. ..."
    91. ^ "Public Health Service Act, 1944". Public Health Reports. 109
        (4): 468. 1994. PMC 1403520. PMID 8041843.
    92. ^ U.S. evacuees 'relieved' about quarantine on military base 1
        February 2020, AMY TAXIN abcnews.go.com, accessed 6 February 2020
    93. ^ Western Australian Quarantine and Inspection Service Archived
        from www.agric.wa.gov.au, accessed 1 February 2020
-   94. ^ Clifford JG (1989). Eyam Plague, 1665â1666. J.G. Clifford.
+   94. ^ Clifford JG (1989). Eyam Plague, 1665-1666. J.G. Clifford.
        OCLC 57354126.
    95. ^ "List of plague victims". Archived from the original on 11 March
        2012.
@@ -1678,13 +1678,13 @@ References
        Report". Huffington Post. Reuters. 8 November 2014.
    102. ^ Maine nurse to remain advocate against Ebola quarantines 9
        November 2014, CBSNews, accessed 28 January 2020
-   103. ^ GrÃ©pin KA (4 October 2024). "The adoption of international
+   103. ^ Grépin KA (4 October 2024). "The adoption of international
        travel measures during the first year of the COVID-19 pandemic: a
        descriptive analysis". Globalization and Health. 20 (1) 72.
        doi:10.1186/s12992-024-01071-7. PMC 11451053. PMID 39367505.
    104. ^ Jones S, Kassam A (26 March 2020). "Spain defends response to
        coronavirus as global cases exceed 500,000". The Guardian.
-   105. ^ "A third of the global population is on coronavirus lockdown â
+   105. ^ "A third of the global population is on coronavirus lockdown --
        here's our constantly updated list of countries and restrictions".
        Business Insider. 28 March 2020.
    106. ^ "How to Lock Down 2.6 Billion People Without Killing the
@@ -1722,12 +1722,12 @@ References
        25 March 2020 www.npr.org, accessed 23 April 2020
    116. ^ "Italy extends lockdown until May 3rd despite pressure from
        business". The Local.it. 10 April 2020. Retrieved 11 April 2020.
-   117. ^ Coronavirus, Fase 2: dal 4 maggio sÃ¬ a incontri con familiari.
+   117. ^ Coronavirus, Fase 2: dal 4 maggio sì a incontri con familiari.
        Il 18 riapriranno i negozi, il primo giugno bar, ristoranti,
        parrucchieri e centri estetici, 26 April 2020 la Repubblica,
        accessed 16 May 2020
    118. ^ Coronavirus, il nuovo decreto del 26 aprile: ecco il calendario
-       di quello che si potrÃ  fare nella "fase 2", 27 April 2020 Corriere
+       di quello che si potrà fare nella "fase 2", 27 April 2020 Corriere
        Della Sera, accessed 16 May 2020
    119. ^ Anger as Italy slowly emerges from long Covid-19 lockdown 4 May
        2020, www.theguardian.com, accessed 16 May 2020
@@ -1778,7 +1778,7 @@ Sources
 
    Wikisource  This article incorporates text from a publication now in
    the public domain:
-   Chisholm H, ed. (1911). "Quarantine". EncyclopÃ¦dia Britannica
+   Chisholm H, ed. (1911). "Quarantine". Encyclopædia Britannica
    (11th ed.). Cambridge University Press.
 
 Further reading
@@ -1793,11 +1793,11 @@ Further reading
 
      Rothstein MA (2015). "From SARS to Ebola: Legal and Ethical
    Considerations for Modern Quarantine". Indiana Health Law Review. 12:
-   227â280. doi:10.18060/18963.
+   227-280. doi:10.18060/18963.
 
      Frati P (2000). "Quarantine, trade and health policies in
    Ragusa-Dubrovnik until the age of George Armmenius-Baglivi". Medicina
-   Nei Secoli. 12 (1): 103â27. PMID 11624707.
+   Nei Secoli. 12 (1): 103-27. PMID 11624707.
 
 External links
 
@@ -1813,10 +1813,10 @@ External links
      *
 
    Ayliffe, Graham A. J., Mary P. English (2003). Hospital infection, From
-   Miasmas to MRSA (PDF). Cambridge University Press. â Hardback ISBN 0
+   Miasmas to MRSA (PDF). Cambridge University Press. - Hardback ISBN 0
    521 81935 0; paperback ISBN 0 521 53178 0
 
-     Emerging Infectious Diseases â Contents, Volume 11, Number 2 Archived
+     Emerging Infectious Diseases - Contents, Volume 11, Number 2 Archived
    1 February 2020 at the Wayback Machine, February 2005
 
      Quarantine for SARS, Taiwan Archived 1 February 2020 at the Wayback
@@ -1922,7 +1922,7 @@ External links
      * Safe sex
      * Sanitation
           + Emergency
-          + Fecalâoral transmission
+          + Fecal-oral transmission
           + Open defecation
           + Sanitary sewer
           + Waterborne diseases
@@ -1956,7 +1956,7 @@ External links
    Biological and
    epidemiological statistics
 
-     * Caseâcontrol study
+     * Case-control study
      * Randomized controlled trial
      * Relative risk
      * Statistical hypothesis testing
@@ -2008,7 +2008,7 @@ External links
      * Health communication
      * Health psychology
      * Positive deviance
-     * PRECEDEâPROCEED model
+     * PRECEDE-PROCEED model
      * Social cognitive theory
      * Social norms approach
      * Theory of planned behavior
@@ -2084,7 +2084,7 @@ External links
 
    Other
      * NARA
-     * Ä°slÃ¢m Ansiklopedisi
+     * Islâm Ansiklopedisi
      * Yale LUX
 
    Retrieved from
@@ -2128,14 +2128,14 @@ External links
        Module:Annotated link
      * Wikipedia articles incorporating a citation from the 1911
        Encyclopaedia Britannica with Wikisource reference
-     * Wikipedia articles incorporating text from the 1911 EncyclopÃ¦dia
+     * Wikipedia articles incorporating text from the 1911 Encyclopædia
        Britannica
      * Commons category link from Wikidata
 
      * This page was last edited on 29 December 2025, at 22:19 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        4.0 License; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. WikipediaÂ® is a
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
        registered trademark of the Wikimedia Foundation, Inc., a
        non-profit organization.
 

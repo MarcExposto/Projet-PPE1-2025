@@ -121,7 +121,7 @@
 
      South America
 
-     Worldâs Table
+     World's Table
 
      Culture & Experiences
 
@@ -315,50 +315,50 @@ The BBC is in multiple languages
 Read the BBC In your own language
 
    Oduu Afaan Oromootiin
-   Amharic áá á á áá­á
-   Arabic Ø¹Ø±Ø¨Ù
-   Azeri AZÆRBAYCAN
-   Bangla à¦¬à¦¾à¦à¦²à¦¾
-   Burmese áá¼ááºáá¬
-   Chinese ä¸­æç½
-   Dari Ø¯Ø±Û
+   Amharic zEna beemarNa
+   Arabic e+r+b+y+
+   Azeri AZRBAYCAN
+   Bangla ¬¾²¾
+   Burmese ¼º¬
+   Chinese ­
+   Dari d+r+
    French AFRIQUE
    Hausa HAUSA
-   Hindi à¤¹à¤¿à¤¨à¥à¤¦à¥
+   Hindi ¹¿¨¦
    Gaelic NAIDHEACHDAN
-   Gujarati àªà«àªàª°àª¾àª¤à«àª®àª¾àª àª¸àª®àª¾àªàª¾àª°
-   Igbo AKá»¤Ká» NâIGBO
+   Gujarati °¾¤®¾ ¸®¾¾°
+   Igbo AKU-.KO-. N'IGBO
    Indonesian INDONESIA
-   Japanese æ¥æ¬èª
+   Japanese ¥¬
    Kinyarwanda GAHUZA
    Kirundi KIRUNDI
-   Korean íêµ­ì´
-   Kyrgyz ÐÑÑÐ³ÑÐ·
-   Marathi à¤®à¤°à¤¾à¤ à¥
-   Nepali à¤¨à¥à¤ªà¤¾à¤²à¥
+   Korean ­´
+   Kyrgyz Kyrgyz
+   Marathi ®°¾
+   Nepali ¨ª¾²
    Noticias para hispanoparlantes
-   Pashto Ù¾ÚØªÙ
-   Persian ÙØ§Ø±Ø³Û
+   Pashto p+t+w+
+   Persian f+a+r+s+
    Pidgin
    Polish PO POLSKU
    Portuguese BRASIL
-   Punjabi à¨ªà©°à¨à¨¾à¨¬à© à¨à¨¼à¨¬à¨°à¨¾à¨
-   Russian ÐÐ Ð Ð£Ð¡Ð¡ÐÐÐ
+   Punjabi ª°¾¬ ¼¬°¾
+   Russian NA RUSSKOM
    Serbian NA SRPSKOM
-   Sinhala à·à·à¶à·à¶½
+   Sinhala ½
    Somali SOMALI
    Swahili HABARI KWA KISWAHILI
-   Tamil à®¤à®®à®¿à®´à®¿à®²à¯ à®à¯à®¯à¯à®¤à®¿à®à®³à¯
-   Telugu à°¤à±à°²à±à°à± à°µà°¾à°°à±à°¤à°²à±
-   Thai à¸à¹à¸²à¸§à¸ à¸²à¸©à¸²à¹à¸à¸¢
-   Tigrinya áá á¥áµáá­á
-   Turkish TÃRKÃE
-   Ukrainian Ð£ÐÐ ÐÐÐÐ¡Ð¬ÐA
-   Urdu Ø§Ø±Ø¯Ù
+   Tamil ¤®¿´¿² ¯¤¿³
+   Telugu ¤² µ¾°¤²
+   Thai ²§ ²©²¢
+   Tigrinya zEna btgrNa
+   Turkish TÜRKÇE
+   Ukrainian UKRAYINS'KA
+   Urdu a+r+d+w+
    Uzbek O'ZBEK
-   Vietnamese TIáº¾NG VIá»T
+   Vietnamese TIE>'NG VIE>-.T
    Welsh NEWYDDION
-   Yoruba ÃRÃYÃN NÃ YORÃBÃ
+   Yoruba ÌRÒYÌN NÍ YORÙBÁ
 
    Follow BBC on:
    (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)

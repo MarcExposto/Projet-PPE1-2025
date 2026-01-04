@@ -12,8 +12,8 @@
 COVID-19 lockdowns
 
    [ ] 17 languages
-     * Ø§ÙØ¹Ø±Ø¨ÙØ©
-     * AzÉrbaycanca
+     * a+l+e+r+b+y+tm
+     * Az@rbaycanca
 --
    Appearance
    (BUTTON) move to sidebar (BUTTON) hide
@@ -147,7 +147,7 @@ Voluntary versus mandatory restrictions
    making up nearly 90% of the fall in consumer traffic as people feared
    the virus itself.^[37] Similarly, a National Bureau of Economic
    Research study found stay-at-home orders increased staying at home by
-   just 5â10%.^[38] Another study from Yale University found that most
+   just 5-10%.^[38] Another study from Yale University found that most
 --
 
    Some research has also found that an "advisory" approach is not
@@ -251,8 +251,8 @@ Related to economic impacts
    contraction.^[89] They agreed that lockdowns should continue until the
    threat of resurgence has declined, even when considering only the
    economic impact.^[90] There was a general agreement, at least in some
-   economic circles, that "severe lockdowns â including closing
-   non-essential businesses and strict limitations on people's movement â
+   economic circles, that "severe lockdowns -- including closing
+   non-essential businesses and strict limitations on people's movement --
    are likely to be better for the economy in the medium term than less
    aggressive measures".^[91]
 
@@ -389,7 +389,7 @@ Table of pandemic lockdowns
        2021.
    26. ^ Preceded by some measures on the regional level, no "Stay at home
        order".^[231]
-   27. ^ Lockdown was started in Freiburg, Baden-WÃ¼rttemberg and Bavaria
+   27. ^ Lockdown was started in Freiburg, Baden-Württemberg and Bavaria
        on 20 March 2020. Two days later, it was expanded to the whole of
        Germany^[277]
    28. ^ A national stay-at-home order was officially declared on 27 March
@@ -437,7 +437,7 @@ Table of pandemic lockdowns
    The pandemic resulted in the largest number of shutdowns worldwide at
    the same time in history.^[533] By 26 March, 1.7 billion people
    worldwide were under some form of lockdown,^[534] which increased to
-   3.9 billion people by the first week of April â more than half of the
+   3.9 billion people by the first week of April - more than half of the
    world's population.^[535]^[536] Lockdowns affected 93% of workers
    worldwide. 30% lived in nations with complete workplace closures, save
    for critical businesses, and 42% in countries with partial closures.
@@ -528,9 +528,9 @@ See also
        the spread of COVID-19". European Journal of Clinical
        Investigation. 51 (4) e13484. doi:10.1111/eci.13484. PMC 7883103.
        PMID 33400268.
-    8. ^ ^a ^b BjÃ¸rnskov C (29 March 2021). "Did Lockdown Work? An
+    8. ^ ^a ^b Bjørnskov C (29 March 2021). "Did Lockdown Work? An
        Economist's Cross-Country Comparison". CESifo Economic Studies. 67
-       (3): 318â331. doi:10.1093/cesifo/ifab003. PMC 8083719.
+       (3): 318-331. doi:10.1093/cesifo/ifab003. PMC 8083719.
     9. ^ Sharma M, Mindermann S, Rogers-Smith C, Leech G, Snodin B, Ahuja
        J, Sandbrink JB, Teperowski Monrad J, Altman G, Dhaliwal G,
 --
@@ -542,7 +542,7 @@ See also
        Journal of Travel Medicine. 27 (3) taaa037.
        doi:10.1093/jtm/taaa037. PMC 7184469. PMID 32181488.
    15. ^ Adam D (2 April 2020). "Special report: The simulations driving
-       the world's response to COVID-19". Nature. 580 (7803): 316â318.
+       the world's response to COVID-19". Nature. 580 (7803): 316-318.
        Bibcode:2020Natur.580..316A. doi:10.1038/d41586-020-01003-6.
        PMID 32242115. S2CID 256820433.
    16. ^ ^a ^b Ngonghala CN, Iboi EA, Gumel AB (1 November 2020). "Could
@@ -563,18 +563,18 @@ See also
        Stevenson M (28 September 2020). "The probability of the 6-week
        lockdown in Victoria (commencing 9 July 2020) achieving elimination
        of community transmission of SARS-CoV-2". The Medical Journal of
-       Australia. 213 (8): 349â351.e1. doi:10.5694/mja2.50786.
+       Australia. 213 (8): 349-351.e1. doi:10.5694/mja2.50786.
        hdl:11343/276363. PMC 8446958. PMID 32981108. S2CID 222170291.
    20. ^ Davies NG, Barnard RC, Jarvis CI, Russell TW, Semple MG, Jit M,
        Edmunds WJ (23 December 2020). "Association of tiered restrictions
        and a second lockdown with COVID-19 deaths and hospital admissions
        in England: a modelling study". The Lancet Infectious Diseases. 21
-       (4): 482â492. doi:10.1016/S1473-3099(20)30984-1. ISSN 1473-3099.
+       (4): 482-492. doi:10.1016/S1473-3099(20)30984-1. ISSN 1473-3099.
        PMC 7758181. PMID 33357518.
    21. ^ Pierron D, Pereda-Loth V, Mantel M, Moranges M, Bignon E, Alva O,
 --
        "Effect of non-pharmaceutical interventions to contain COVID-19 in
-       China". Nature. 585 (7825): 410â413. Bibcode:2020Natur.585..410L.
+       China". Nature. 585 (7825): 410-413. Bibcode:2020Natur.585..410L.
        doi:10.1038/s41586-020-2293-x. ISSN 1476-4687. PMC 7116778.
        PMID 32365354.
    23. ^ Conyon MJ, He L, Thomsen S (1 June 2020). "Lockdowns and COVID-19
@@ -587,7 +587,7 @@ See also
        analysis". SSM - Population Health. 18 101083.
        doi:10.1016/j.ssmph.2022.101083. ISSN 2352-8273. PMC 8968210.
        PMID 35386859.
-   29. ^ Born B, Dietrich AM, MÃ¼ller GJ (8 April 2021). "The lockdown
+   29. ^ Born B, Dietrich AM, Müller GJ (8 April 2021). "The lockdown
        effect: A counterfactual for Sweden". PLOS ONE. 16 (4) e0249732.
        Bibcode:2021PLoSO..1649732B. doi:10.1371/journal.pone.0249732.
        ISSN 1932-6203. PMC 8031244. PMID 33831093.
@@ -599,7 +599,7 @@ See also
 --
        non-pharmaceutical interventions on the growth rate of new COVID-19
        cases: evidence from Kazakhstan and Kyrgyzstan". Policy Design and
-       Practice. 7 (4): 468â487. doi:10.1080/25741292.2024.2393494.
+       Practice. 7 (4): 468-487. doi:10.1080/25741292.2024.2393494.
        ISSN 2574-1292.
    34. ^ Klein A. "Covid-19: Lockdown not enough to stop Australia's delta
        variant crisis". New Scientist. Archived from the original on 17
@@ -654,9 +654,9 @@ See also
        Times Magazine.
    69. ^ Martin van Staden (2020). "Constitutional rights and their
        limitations: A critical appraisal of the COVID-19 lockdown in South
-       Africa". African Human Rights Law Journal. 20 (2): 1â28.
+       Africa". African Human Rights Law Journal. 20 (2): 1-28.
        doi:10.17159/1996-2096/2020/v20n2a6.
-   70. ^ Lundgren M, Klamberg M, SundstrÃ¶m K, Dahlqvist J (2020).
+   70. ^ Lundgren M, Klamberg M, Sundström K, Dahlqvist J (2020).
        "Emergency Powers in Response to COVID-19: Policy Diffusion,
 --
        from the original on 13 July 2020.
@@ -666,7 +666,7 @@ See also
        New Zealand during the COVID-19 lockdown: A cross-sectional study".
        PLOS ONE. 15 (11) e0241658. Bibcode:2020PLoSO..1541658E.
        doi:10.1371/journal.pone.0241658. PMC 7641386. PMID 33147259.
-   77. ^ Ozamiz-Etxebarria N, Idoiaga Mondragon N, Dosil SantamarÃ­a M,
+   77. ^ Ozamiz-Etxebarria N, Idoiaga Mondragon N, Dosil Santamaría M,
        Picaza Gorrotxategi M (June 2020). "Psychological symptoms during
        the two stages of lockdown in response to the COVID-19 outbreak: an
        investigation in a sample of citizens in Northern Spain". Frontiers
@@ -675,7 +675,7 @@ See also
    78. ^ Lashley MA, Acevedo M, Cotner S, Lortie CJ (2020). "How the
 --
        psychosocial, and physical health: A scoping review and interactive
-       evidence map". Journal of Child Health Care. 29 (3): 589â603.
+       evidence map". Journal of Child Health Care. 29 (3): 589-603.
        doi:10.1177/13674935241238794. PMC 12368300. PMID 38503453.
    81. ^ ^a ^b ^c Rajmil L, Hjern A, Boran P, Gunnlaugsson G, Kraus de
        Camargo O, Raman S (2021). "Impact of lockdown and school closure
@@ -712,7 +712,7 @@ See also
        /update 14". GardaWorld. 27 April 2020. Retrieved 11 May 2020.
    101. ^ ^a ^b "Argentina Orders 'Exceptional' Lockdown in Bid to Contain
        Virus". Bloomberg.com. 20 March 2020. Retrieved 20 March 2020.
-   102. ^ "AMBA moves from 'isolation' to 'distancing'; FernÃ¡ndez talks up
+   102. ^ "AMBA moves from 'isolation' to 'distancing'; Fernández talks up
        vaccine hopes". Buenos Aires Times (Perfil). 6 November 2020.
    103. ^ ^a ^b "Buenos Aires Times | Argentina enters strict nine-day
        lockdown as Covid cases soar". www.batimes.com.ar.
@@ -897,7 +897,7 @@ See also
        News. 11 August 2021.
    174. ^ "ACT to enter lockdown for 7 days from 5:00pm as one new case of
        COVID-19 recorded". ABC News. 12 August 2021.
-   175. ^ "The COVID-19 lockdown has ended in the ACT â here's what you
+   175. ^ "The COVID-19 lockdown has ended in the ACT -- here's what you
        can and can't do". ABC News. 15 October 2021.
    176. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n ^o "Regional NSW in
        COVID-19 lockdown, joins the rest of the state". ABC News. 14
@@ -933,7 +933,7 @@ See also
        The Straits Times. 23 March 2020. Retrieved 23 March 2020.
    190. ^ "Australia's biggest state to ease coronavirus lockdown from May
        15". Reuters. 10 May 2020 uk.reuters.com, accessed 31 October 2020
-   191. ^ ^a ^b red Oa (16 March 2020). "AusgangsbeschrÃ¤nkungen: Was nun
+   191. ^ ^a ^b red Oa (16 March 2020). "Ausgangsbeschränkungen: Was nun
        erlaubt ist und was nicht". news.ORF.at (in German). Retrieved 20
        March 2020.
    192. ^ AFP (20 March 2020). "Austria extends confinement measures until
@@ -949,8 +949,8 @@ See also
        2021.
    197. ^ "Austria to go into full lockdown as Covid surges". 19 November
        2021.
-   198. ^ ^a ^b "AzÉrbaycan RespublikasÄ±nÄ±n ÉrazisindÉ xÃ¼susi karantin
-       rejiminin mÃ¼ddÉtinin uzadÄ±lmasÄ± barÉdÉ" [On the Extension of the
+   198. ^ ^a ^b "Az@rbaycan Respublikasinin @razisind@ xüsusi karantin
+       rejiminin müdd@tinin uzadilmasi bar@d@" [On the Extension of the
        Special Quarantine Regime on the Territory of the Republic of
        Azerbaijan] (in Azerbaijani). Cabinet of Azerbaijan. 17 July 2020.
        Retrieved 17 July 2020.
@@ -968,7 +968,7 @@ See also
        Dhaka Tribune. 3 August 2021.
    205. ^ ^a ^b ^c "Curfew extended". nationnews.com. 11 April 2020.
        Retrieved 23 April 2020.
-   206. ^ "Belgium enters lockdown over coronavirus crisis â in pictures".
+   206. ^ "Belgium enters lockdown over coronavirus crisis - in pictures".
        The Guardian. 18 March 2020. Retrieved 20 March 2020.
    207. ^ Brzozowski A (24 April 2020). "Belgian government to relax
        lockdown measures in three phases, starting 4 May".
@@ -988,16 +988,16 @@ See also
        www.xinhuanet.com, accessed 6 November 2020
    214. ^ "Under siege: island braces for 24-hour lockdown".
        royalgazette.com. 2 April 2020. Retrieved 23 April 2020.
-   215. ^ "Bolivia amplÃ­a un mes mÃ¡s la cuarentena ante el aumento de
+   215. ^ "Bolivia amplía un mes más la cuarentena ante el aumento de
        casos de COVID-19". www.efe.com.
    216. ^ ^a ^b Ngatane N (31 March 2020). "Botswana declares state of
        emergency, lockdown in wake of COVID-19 cases". Eyewitness News.
        Retrieved 3 April 2020.
-   217. ^ ^a ^b "Casos de pacientes com coronavÃ­rus sobe para 197 em SC e
+   217. ^ ^a ^b "Casos de pacientes com coronavírus sobe para 197 em SC e
        governo prorroga quarentena | Santa Catarina | G1". G1.globo.com.
        18 March 2020. Retrieved 1 April 2020.
 --
-       ÐºÐ¾Ð½ÑÐµÑÑÐ¸". btvnovinite.bg (in Bulgarian). 11 May 2020. Retrieved 8
+       koncerti". btvnovinite.bg (in Bulgarian). 11 May 2020. Retrieved 8
        October 2020.
    223. ^ "Bulgaria Closes Schools, Restricts Travel Over Coronavirus".
        usnews.com. 13 March 2020. Retrieved 26 August 2020.
@@ -1011,8 +1011,8 @@ See also
        2020.
 --
        mediapool.bg. 17 March 2021. Retrieved 22 March 2021.
-   232. ^ Bozukova, Martina (18 March 2021). "ÐÑÐ»Ð³Ð°ÑÐ¸Ñ Ð²Ð»Ð¸Ð·Ð° Ð² 10-Ð´Ð½ÐµÐ²ÐµÐ½
-       Ð»Ð¾ÐºÐ´Ð°ÑÐ½ Ð¾Ñ Ð¿Ð¾Ð½ÐµÐ´ÐµÐ»Ð½Ð¸Ðº" (in Bulgarian). mediapool.bg. Retrieved 22
+   232. ^ Bozukova, Martina (18 March 2021). "B"lgariya vliza v 10-dneven
+       lokdaun ot ponedelnik" (in Bulgarian). mediapool.bg. Retrieved 22
        March 2021.
    233. ^ Voun D. "Phnom Penh, Takmao lockdown extended for another week".
        Phnom Penh Post. Retrieved 26 April 2021.
@@ -1038,7 +1038,7 @@ See also
        2020. Retrieved 6 January 2021.
    244. ^ Gamba L (21 March 2020). "Colombia announces lockdown as
        coronavirus cases surge". aa.com.tr. Retrieved 7 April 2020.
-   245. ^ "Gobierno amplÃ­a aislamiento obligatorio hasta el 1 de julio".
+   245. ^ "Gobierno amplía aislamiento obligatorio hasta el 1 de julio".
        El Espectador. 28 May 2020.
    246. ^ ^a ^b "COVID-19: Lagos, Brazzaville lockdown begins".
        Africanews. 1 April 2020. Retrieved 3 April 2020.
@@ -1046,7 +1046,7 @@ See also
        contagion.Closed beaches and quarantine nationwide". Ministry of
        Health. 23 March 2020. Retrieved 23 March 2020.
    248. ^ Costa Rica begins easing some coronavirus measures Alejandro
-       ZÃºÃ±iga 27 April 2020 ticotimes.net, accessed 31 October 2020
+       Zúñiga 27 April 2020 ticotimes.net, accessed 31 October 2020
    249. ^ Simmonds L (18 March 2020). "Croatia COVID-19 Lockdown: Bars,
        Restaurants etc to Close Midnight March 18, 2020". Total Croatia
        News. Retrieved 7 April 2020.
@@ -1077,7 +1077,7 @@ See also
    261. ^ ^a ^b "Ecuador shrimp, tuna processors endure despite lockdown,
        curfew". undercurrentnews.com. 25 March 2020. Retrieved 30 March
        2020.
-   262. ^ ^a ^b "El Salvador bans mass gatherings as virus spreads â as it
+   262. ^ ^a ^b "El Salvador bans mass gatherings as virus spreads - as it
        happened". The Guardian. Reuters. 12 March 2020.
    263. ^ ^a ^b "Eritrea enforces 21-day lockdown to contain spread of
        COVID-19". Xinhua News Agency. 2 April 2020. Retrieved 4 April
@@ -1135,11 +1135,11 @@ See also
        coronavirus spread". qz.com. 28 March 2020. Retrieved 30 March
        2020.
    288. ^ Nyabor J (5 April 2020). "We'll decide on extension of lockdown
-       this week â Akufo-Addo". Citi Newsroom. Retrieved 7 April 2020.
+       this week - Akufo-Addo". Citi Newsroom. Retrieved 7 April 2020.
    289. ^ "Greece imposes lockdown after coronavirus infections jump".
        Greece. 22 March 2020. Retrieved 23 March 2020.
    290. ^ Kathimerini (23 April 2020). "Greece extends lockdown until May
-       4|ÎÎÎÎÎÎ". kathimerini.gr (in Greek). Retrieved 30 April 2020.
+       4|ELLADA". kathimerini.gr (in Greek). Retrieved 30 April 2020.
    291. ^ "Greece tightens COVID-19 lockdown, shuts primary schools".
        Reuters. Retrieved 10 December 2020.
    292. ^ "Greece lifts some COVID-19 restrictions to relieve lockdown
@@ -1156,9 +1156,9 @@ See also
        covid19.gov.gg.
    298. ^ "Absolute Curfew for the entire country". COVID-19 Honduras (in
 --
-       restringe circulaciÃ³n a un dÃ­gito por dÃ­a" [Curfew has been
+       restringe circulación a un dígito por día" [Curfew has been
        extended to 17 May and circulation restricted to one digit per day]
-       (in Spanish). SecretarÃ­a de Seguridad. 3 May 2020. Retrieved 3 May
+       (in Spanish). Secretaría de Seguridad. 3 May 2020. Retrieved 3 May
        2020.
    300. ^ ^a ^b "Hungary PM imposes lockdown, sees coronavirus peak by
        July". Reuters. 27 March 2020. Retrieved 27 March 2020.
@@ -1176,7 +1176,7 @@ See also
    306. ^ "Complete lockdown in Haryana from May 3 for 7 days". Business
        Today. 2 May 2021.
    307. ^ "Maharashtra enters into 'lockdown-like' restrictions on public
-       movement over next 15 days â See photos". 14 April 2021.
+       movement over next 15 days - See photos". 14 April 2021.
    308. ^ "Covid-19: Maharashtra extends lockdown till June 15, but allows
        certain relaxations". 31 May 2021.
    309. ^ "Odisha govt announces a 14-day lockdown from 5th to 19th May.
@@ -1220,7 +1220,7 @@ See also
      ^ "Israelis brace for unpopular second Covid lockdown". Retrieved 18
    September 2020.
 
-     ^ Israeli Experts Plan to Ease Lockdown Within Week Save for 14 âRedâ
+     ^ Israeli Experts Plan to Ease Lockdown Within Week Save for 14 `Red'
    Towns www.haaretz.com, accessed 31 October 2020
 
      ^ "Israel enters 3rd lockdown; commercial activity shuts down,
@@ -1232,7 +1232,7 @@ See also
      ^ Legorano ES (9 March 2020). "As Virus Spreads, Italy Locks Down
    Country". Wall Street Journal. ISSN 0099-9660. Retrieved 20 March 2020.
 --
-   infections falls again â as it happened". The Guardian. 19 May 2020.
+   infections falls again - as it happened". The Guardian. 19 May 2020.
    Retrieved 22 May 2020.
 
      ^ ^a ^b "Covid: Italy latest European country to order Christmas
@@ -1242,7 +1242,7 @@ See also
    arancioni" (in Italian). Retrieved 27 March 2021.
 
      ^ ^a ^b ^c ^d Dpcm, lockdown in Lombardia, Piemonte, Calabria e Valle
-   dâAosta. Ecco le regioni in zona rossa e arancione e cosa si puÃ² fare 4
+   d'Aosta. Ecco le regioni in zona rossa e arancione e cosa si può fare 4
    November 2020 Corriere della Sera, accessed 6 November 2020
 
      ^ ^a ^b ^c ^d Calabria, Lombardy, Piedmont, Val d'Aosta declared
@@ -1287,8 +1287,8 @@ See also
      ^ "Libya: GNA authorities extend lockdown until June 27 /update 8".
    GardaWorld.
 
-     ^ "Karantinas kol kas â pusei mÄnesio: kÄ nuo pirmadienio uÅ¾draudÄ
-   VyriausybÄ?". 15min.lt (in Lithuanian). Retrieved 24 March 2020.
+     ^ "Karantinas kol kas - pusei menesio: ka nuo pirmadienio uzdraude
+   Vyriausybe?". 15min.lt (in Lithuanian). Retrieved 24 March 2020.
 
      ^ ^[citation needed]
 
@@ -1339,7 +1339,7 @@ See also
    2020. Retrieved 25 March 2020.
 --
 
-     ^ "URGENT. Le Maroc dÃ©clare l'Ã©tat d'urgence sanitaire". H24info (in
+     ^ "URGENT. Le Maroc déclare l'état d'urgence sanitaire". H24info (in
    French). Retrieved 20 March 2020.
 
      ^ Eljechtimi A (18 May 2020). "Morocco extends coronavirus lockdown
@@ -1409,7 +1409,7 @@ See also
    major cities to curb coronaviruss". Al Jazeera. Retrieved 30 March
    2020.
 
-     ^ "Son dakika haberi: KKTC'de sokaÄa Ã§Ä±kma yasaÄÄ± kararÄ± alÄ±ndÄ±". 30
+     ^ "Son dakika haberi: KKTC'de sokaga çikma yasagi karari alindi". 30
    March 2020. Retrieved 1 April 2020.
 
      ^ The four phases of Cyprus' lockdown exit roadmap
@@ -1448,10 +1448,10 @@ See also
    Covid-19". Hindustan Times. 8 May 2021.
 
      ^ "Ejecutivo decreta cuarentena total de manera indefinida | La
-   Prensa PanamÃ¡". www.prensa.com. 25 March 2020.
+   Prensa Panamá". www.prensa.com. 25 March 2020.
 
      ^ "Decreto Ejecutivo 644 del 29 de mayo de 2020" (PDF). Gaceta
-   Oficial de PanamÃ¡. 29 May 2020.
+   Oficial de Panamá. 29 May 2020.
 
      ^ ^a ^b "Papua New Guinea in lockdown: what it means for you and your
    business". businessadvantagepng.com. 25 March 2020. Retrieved 30 March
@@ -1522,8 +1522,8 @@ See also
      ^ Qatar to lift lockdown in four phases from June 15 8 June 2020
    www.reuters.com, accessed 6 November 2020
 
-     ^ "Klaus Iohannis anunÈÄ carantinÄ totalÄ Ã®n RomÃ¢nia: Tot ce era pÃ¢nÄ
-   acum recomandare, devine obligatoriu. MÄsurile, Ã®n vigoare de mÃ¢ine".
+     ^ "Klaus Iohannis anunta carantina totala în România: Tot ce era pâna
+   acum recomandare, devine obligatoriu. Masurile, în vigoare de mâine".
 --
      ^ "Romania: Government to extend COVID-19 state of emergency by 30
    days from week of April 13 /update 5". GardaWorld. 6 April 2020.
@@ -1594,7 +1594,7 @@ See also
      ^ Ramaphosa C. "South Africa's coronavirus lockdown extended by 2
    weeks". BusinessTechSA. Retrieved 16 April 2020.
 
-     ^ "Pedro SÃ¡nchez anuncia el estado de alarma para frenar el
+     ^ "Pedro Sánchez anuncia el estado de alarma para frenar el
    coronavirus 24 horas antes de aprobarlo". ELMUNDO (in Spanish). 13
    March 2020. Retrieved 20 March 2020.
 
@@ -1607,13 +1607,13 @@ See also
      ^ "Spain Extends Lockdown as Virus Cases Rise Again in Europe".
    Retrieved 10 June 2020.
 
-     ^ "Sri Lanka enters lockdown as Covid overwhelms hospitals â latest
+     ^ "Sri Lanka enters lockdown as Covid overwhelms hospitals - latest
    updates". TRT World.
 
      ^ "Sri Lanka to end Covid-19 lockdown on October 1 - Times of India".
    The Times of India. 29 September 2021.
 
-     ^ "Verordnung 2 Ã¼ber Massnahmen zur BekÃ¤mpfung des Coronavirus
+     ^ "Verordnung 2 über Massnahmen zur Bekämpfung des Coronavirus
    (COVID-19)" (PDF). 17 March 2020. Archived from the original (PDF) on
 --
 
@@ -1641,7 +1641,7 @@ See also
      ^ "Tunisia extends lockdown by two weeks, releases prisoners". Al
    Jazeera. 1 April 2020. Retrieved 8 April 2020.
 
-     ^ ^a ^b "Turkey to impose four-day lockdown". HÃ¼rriyet. 20 April
+     ^ ^a ^b "Turkey to impose four-day lockdown". Hürriyet. 20 April
    2020. Retrieved 23 April 2020.
 
      ^ ^a ^b "Turkey to enter full lockdown April 29 to May 17".
@@ -1697,7 +1697,7 @@ See also
      ^ "Covid: Most of Wales' coronavirus rules to end Saturday".
    www.bbc.co.uk. 6 August 2021.
 
-     ^ "Stay local â Wales takes first steps out of lockdown". GOV.WALES.
+     ^ "Stay local - Wales takes first steps out of lockdown". GOV.WALES.
    12 March 2021.
 
      ^ ^a ^b ^c ^d "Coronavirus: Businesses 'devastated' by New Year's Eve
@@ -1732,9 +1732,9 @@ See also
    Connecticut. Retrieved 21 March 2020.
 
      ^ ^a ^b Perper R, Al-Arshani S, Secon H (27 March 2020). "Nearly a
-   third of Americans are now under orders to stay home â here's a running
-   list of coronavirus lockdowns in US states and cities". Business
-   Insider. Retrieved 10 April 2020.
+   third of Americans are now under orders to stay home -- here's a
+   running list of coronavirus lockdowns in US states and cities".
+   Business Insider. Retrieved 10 April 2020.
 
      ^ Petrella D, St Clair S, Johnson S, Pratt G (20 March 2020). "Gov.
    J.B. Pritzker issues order requiring residents to 'stay at home'
@@ -1779,8 +1779,8 @@ See also
 
 --
 
-     ^ "Báº¯c Giang cÃ¡ch ly xÃ£ há»i thÃªm huyá»n Láº¡ng Giang, Lá»¥c Nam vÃ  YÃªn
-   DÅ©ng". Bacgiang (in Vietnamese).
+     ^ "Ba('c Giang cách ly xã ho>-.i thêm huye>-.n La-.ng Giang, Lu-.c
+   Nam và Yên Dung". Bacgiang (in Vietnamese).
 
      ^ "Zimbabwe Begins Lockdown to Fight COVID19". voanews.com. 30 March
    2020. Retrieved 30 March 2020.
@@ -1812,10 +1812,10 @@ See also
    lockdown?". Daily Express. Archived from the original on 20 April 2020.
    Retrieved 21 April 2020.
 
-     ^ "A third of the global population is on coronavirus lockdownâhere's
-   our constantly updated list of countries and restrictions". Financial
-   Times. Archived from the original on 25 April 2020. Retrieved 26 April
-   2020.
+     ^ "A third of the global population is on coronavirus
+   lockdown--here's our constantly updated list of countries and
+   restrictions". Financial Times. Archived from the original on 25 April
+   2020. Retrieved 26 April 2020.
 
      ^ "About 90% of Americans have been ordered to stay at home. This map
    shows which cities and states are under lockdown". Business Insider. 2
@@ -1859,11 +1859,11 @@ See also
    24 October 2021. Archived from the original on 20 February 2023.
    Retrieved 19 April 2022.
 
-     ^ "JustiÃ§a nega pedido do MP para obrigar governo e prefeitura de Boa
+     ^ "Justiça nega pedido do MP para obrigar governo e prefeitura de Boa
    Vista a decretar 'lockdown'". O Globo (in Portuguese). 3 June 2020.
    Archived from the original on 12 June 2020. Retrieved 21 June 2020.
 
-     ^ "Palavras do Governador â NÃ£o vamos adotar o lockdown". Tribunal
+     ^ "Palavras do Governador - Não vamos adotar o lockdown". Tribunal
    Popular (in Portuguese). Archived from the original on 12 July 2021.
    Retrieved 30 June 2020.
 
@@ -1889,7 +1889,7 @@ See also
      * timeline
           + 2020
 --
-                    # JulyâDecember
+                    # July-December
                o 2021
                o 2022
           + London

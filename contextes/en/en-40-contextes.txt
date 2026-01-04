@@ -42,7 +42,7 @@ But lockdown a week earlier could have saved thousands of lives
    would have equated to 48% fewer deaths in the first wave.
 
    But the report does not suggest the overall death toll for the pandemic
-   â 227,000 in the UK by the time it was declared over in 2023 â would
+   - 227,000 in the UK by the time it was declared over in 2023 - would
    have been reduced by an earlier lockdown.
 
    That is very difficult to tell, as it depends on a variety of other
@@ -89,7 +89,7 @@ Lockdowns left 'lasting scars'
 
    The four nations then differed in their strategy for exiting the first
    national lockdown, with Scotland, Wales and Northern Ireland adopting a
-   more cautious approach â but this was undermined by no restrictions on
+   more cautious approach - but this was undermined by no restrictions on
    travel from England, where many restrictions had been eased.
 
    The report finds that in Autumn 2020, Holyrood was the only government

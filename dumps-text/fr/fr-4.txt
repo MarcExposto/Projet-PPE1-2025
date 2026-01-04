@@ -1,13 +1,13 @@
    #oEmbed (JSON) oEmbed (XML) JSON
 
-     * AccÃ¨s direct au contenu
-     * AccÃ¨s direct au menu principal
-     * AccÃ¨s direct au formulaire de recherche
+     * Accès direct au contenu
+     * Accès direct au menu principal
+     * Accès direct au formulaire de recherche
 
-   Retour Ã  lâaccueil â RÃ©publique franÃ§aise
-   RÃ©publique franÃ§aise
+   Retour à l'accueil - République française
+   République française
    Logo Inserm Header
-   Retour Ã  l'accueil (logo Inserm)
+   Retour à l'accueil (logo Inserm)
 
      * English
 
@@ -15,231 +15,231 @@
    Rechercher ____________________ (BUTTON) Lancer la recherche
 
    (BUTTON) Menu Fermer
-     * ConnaÃ®tre
-       lâInserm
-       ConnaÃ®tre lâInserm
-          + LâInstitut
-               o LâInserm en un coup dâÅil
+     * Connaître
+       l'Inserm
+       Connaître l'Inserm
+          + L'Institut
+               o L'Inserm en un coup d'oeil
                o Missions
                o Organigramme
                o Infrastructures de recherche
-               o Documents stratÃ©giques
+               o Documents stratégiques
                o Prix Inserm
-          + Notre Ã©cosystÃ¨me
+          + Notre écosystème
                o Partenariats de recherche
-               o LâInserm et les associations
-               o CoopÃ©ration en Europe et Ã  lâinternational
+               o L'Inserm et les associations
+               o Coopération en Europe et à l'international
                o France 2030
-               o Programme Investissements dâAvenir (PIA)
+               o Programme Investissements d'Avenir (PIA)
           + Nos programmes
                o Programmes de recherche
-               o Programme AtipâAvenir
-               o Ãcole de lâInserm Liliane Bettencourt
+               o Programme Atip-Avenir
+               o École de l'Inserm Liliane Bettencourt
      * La recherche
-       Ã  lâInserm
-       La recherche Ã  lâInserm
-          + Du laboratoire jusquâau patient
+       à l'Inserm
+       La recherche à l'Inserm
+          + Du laboratoire jusqu'au patient
                o Le continuum de la recherche
                o La recherche fondamentale
                o La recherche clinique
-               o La recherche en santÃ© publique
+               o La recherche en santé publique
                o La recherche technologique
-               o Valorisation et transfert des dÃ©couvertes
+               o Valorisation et transfert des découvertes
                o La recherche participative
           + Une recherche responsable
                o Nos bonnes pratiques
                o La science ouverte
-               o LâÃ©thique Ã  lâInserm
-               o Les modÃ¨les animaux
-               o La transition Ã©cologique et sociÃ©tale
+               o L'éthique à l'Inserm
+               o Les modèles animaux
+               o La transition écologique et sociétale
           + Portraits et reportages
                o Portraits de chercheuses et de chercheurs
                o Reportages en labo
      * Information
-       en santÃ©
-       Information en santÃ©
+       en santé
+       Information en santé
           + Pour tout public
-               o Dossiers thÃ©matiques
-               o Câest quoi ? Les mots de la science
-               o Magazine de lâInserm
-               o Podcast Â« Les Volontaires Â»
-               o Expositions et ressources pÃ©dagogiques
-          + Pour public avancÃ©
+               o Dossiers thématiques
+               o C'est quoi ? Les mots de la science
+               o Magazine de l'Inserm
+               o Podcast « Les Volontaires »
+               o Expositions et ressources pédagogiques
+          + Pour public avancé
                o Expertises collectives
-               o Rapports thÃ©matiques
-               o Revue mÃ©decine/sciences
-     * ActualitÃ©s & Ã©vÃ¨nements
-       ActualitÃ©s & Ã©vÃ¨nements
-          + Nos actualitÃ©s
+               o Rapports thématiques
+               o Revue médecine/sciences
+     * Actualités & évènements
+       Actualités & évènements
+          + Nos actualités
                o Actu science
                o Actu institutionnelle
-               o Toutes les actualitÃ©s
-          + Nos Ã©vÃ¨nements
-               o ÃvÃ¨nÃ©ments
+               o Toutes les actualités
+          + Nos évènements
+               o Évènéments
      * Faire un don
      *
           + English
      *
 
     1. Accueil
-    2. ActualitÃ©
+    2. Actualité
     3. Science
-    4. Les effets nÃ©gatifs du premier confinement sur lâhygiÃ¨ne de vie des
-       FranÃ§ais
+    4. Les effets négatifs du premier confinement sur l'hygiène de vie des
+       Français
 
-Les effets nÃ©gatifs du premier confinement sur lâhygiÃ¨ne de vie des FranÃ§ais
+Les effets négatifs du premier confinement sur l'hygiène de vie des Français
 
-     * PubliÃ© le : 26/11/2020
+     * Publié le : 26/11/2020
      * Temps de lecture : 5 min
-     * ActualitÃ©, Science
+     * Actualité, Science
 
-   ImposÃ© pour lutter contre la premiÃ¨re vague de lâÃ©pidÃ©mie de Covid-19,
-   le confinement que nous avons vÃ©cu au printemps a induit des
-   changements de comportements nÃ©gatifs chez une majoritÃ© de FranÃ§ais :
-   80% des 4 005 participants Ã  une cohorte de personnes reprÃ©sentatives
-   de la population adulte ont fait moins dâexercice ou moins bien mangÃ©,
-   avec un risque pour leur santÃ©. Ces changements nÃ©gatifs seraient en
-   partie liÃ©s Ã  la peur de lâÃ©pidÃ©mie.
+   Imposé pour lutter contre la première vague de l'épidémie de Covid-19,
+   le confinement que nous avons vécu au printemps a induit des
+   changements de comportements négatifs chez une majorité de Français :
+   80% des 4 005 participants à une cohorte de personnes représentatives
+   de la population adulte ont fait moins d'exercice ou moins bien mangé,
+   avec un risque pour leur santé. Ces changements négatifs seraient en
+   partie liés à la peur de l'épidémie.
 
-   Alors que les FranÃ§ais vivent leur deuxiÃ¨me Ã©pisode de confinement, que
+   Alors que les Français vivent leur deuxième épisode de confinement, que
    savons-nous sur les changements de comportements induits par le
-   premier ? Comment les FranÃ§ais ont-ils rÃ©agi face Ã  cette situation ?
-   Quelle Ã©tait leur perception de lâÃ©pidÃ©mie au printemps ? Pour rÃ©pondre
-   Ã  ces questions, Aymery Constant* et Jocelyn Raude**, maÃ®tres de
-   confÃ©rences Ã  lâÃcole des hautes Ã©tudes en santÃ© publique Ã  Rennes, ont
-   interrogÃ© 4 005 personnes reprÃ©sentatives de la population adulte
-   franÃ§aise, via une sociÃ©tÃ© spÃ©cialisÃ©e.
+   premier ? Comment les Français ont-ils réagi face à cette situation ?
+   Quelle était leur perception de l'épidémie au printemps ? Pour répondre
+   à ces questions, Aymery Constant* et Jocelyn Raude**, maîtres de
+   conférences à l'École des hautes études en santé publique à Rennes, ont
+   interrogé 4 005 personnes représentatives de la population adulte
+   française, via une société spécialisée.
 
-   Les participants Ã  lâÃ©tude ont rÃ©pondu Ã  un questionnaire diffusÃ© entre
-   la troisiÃ¨me et la quatriÃ¨me semaine de confinement, du 8 au 20 avril
-   dernier. Les questions portaient sur lâÃ©volution de leurs habitudes
-   depuis la mi-mars (dÃ©but du confinement), pour cinq comportements
-   associÃ©s Ã  lâhygiÃ¨ne de vie : temps passÃ© devant les Ã©crans,
-   grignotage, consommation de fruits et lÃ©gumes, exercice physique et
-   marche. En parallÃ¨le, les participants Ã©taient interrogÃ©s sur leur
-   perception de lâÃ©pidÃ©mie. Les questions portaient sur leur sentiment de
-   vulnÃ©rabilitÃ© (Â« Suis-je susceptible dâÃªtre contaminÃ© ? Â»), leur
-   perception de la sÃ©vÃ©ritÃ© de la maladie, leur peur face Ã  lâÃ©pidÃ©mie
-   (Â« Est-ce que lâinfection me fait peur, est-ce que jây pense
-   souvent ? Â») et enfin leur confiance envers les mesures prises par le
-   gouvernement (Â« Me paraissent-elles efficaces pour contenir
-   lâÃ©pidÃ©mie ? Les gestes barriÃ¨res sont-ils utiles ? Â»).
+   Les participants à l'étude ont répondu à un questionnaire diffusé entre
+   la troisième et la quatrième semaine de confinement, du 8 au 20 avril
+   dernier. Les questions portaient sur l'évolution de leurs habitudes
+   depuis la mi-mars (début du confinement), pour cinq comportements
+   associés à l'hygiène de vie : temps passé devant les écrans,
+   grignotage, consommation de fruits et légumes, exercice physique et
+   marche. En parallèle, les participants étaient interrogés sur leur
+   perception de l'épidémie. Les questions portaient sur leur sentiment de
+   vulnérabilité (« Suis-je susceptible d'être contaminé ? »), leur
+   perception de la sévérité de la maladie, leur peur face à l'épidémie
+   (« Est-ce que l'infection me fait peur, est-ce que j'y pense
+   souvent ? ») et enfin leur confiance envers les mesures prises par le
+   gouvernement (« Me paraissent-elles efficaces pour contenir
+   l'épidémie ? Les gestes barrières sont-ils utiles ? »).
 
-   La cohorte Ã©tait composÃ©e Ã  55% de femmes. Par ailleurs, 42% des
-   personnes Ã©taient en activitÃ© et 22% retraitÃ©es. Trois quarts des
-   individus vivaient en ville dans des surfaces supÃ©rieures Ã  80 m2 et Ã 
-   plusieurs dans la mÃªme habitation. Environ 66% avaient un jardin et/ou
-   une terrasse. Enfin, 60% buvaient occasionnellement ou rÃ©guliÃ¨rement de
-   lâalcool, un quart fumait et 4 % Ã©taient obÃ¨ses.
+   La cohorte était composée à 55% de femmes. Par ailleurs, 42% des
+   personnes étaient en activité et 22% retraitées. Trois quarts des
+   individus vivaient en ville dans des surfaces supérieures à 80 m2 et à
+   plusieurs dans la même habitation. Environ 66% avaient un jardin et/ou
+   une terrasse. Enfin, 60% buvaient occasionnellement ou régulièrement de
+   l'alcool, un quart fumait et 4 % étaient obèses.
 
-Plus dâÃ©cran et moins dâactivitÃ© physique
+Plus d'écran et moins d'activité physique
 
-   Plus de 8 personnes sur 10 ont dÃ©clarÃ© au moins un changement nÃ©gatif
-   depuis le dÃ©but confinement alors que seulement 4 sur 10 ont dÃ©clarÃ© un
-   changement positif. ConcrÃ¨tement 60% marchaient moins quâavant, 59%
-   passaient plus de temps devant les Ã©crans et 45% faisaient moins
-   dâexercice en intÃ©rieur. Parmi les profils Ã  risque, on trouve les
-   hommes, les personnes exposÃ©es Ã  des problÃ¨mes financiers du fait de
-   lâÃ©pidÃ©mie, les personnes ayant un jardin ou une terrasse (qui incite
-   moins Ã  sortir pour prendre lâair) ou vivant en ville, ainsi que les
-   personnes obÃ¨ses. Mais ces comportements nÃ©gatifs Ã©taient surtout
-   associÃ©s, dâaprÃ¨s les questionnaires, Ã  la peur de lâÃ©pidÃ©mie et au
-   sentiment de vulnÃ©rabilitÃ©. Â« Les personnes qui avaient ces sentiments
-   osaient moins sortir car elles craignaient dâÃªtre infectÃ©es et de
-   tomber malade. La peur est paralysante et peut entraÃ®ner un repli, des
-   dÃ©cisions dÃ©fensives ou un isolement, ce qui sâest traduit ici par une
-   moins bonne hygiÃ¨ne de vie Â», explique Aymery Constant.
+   Plus de 8 personnes sur 10 ont déclaré au moins un changement négatif
+   depuis le début confinement alors que seulement 4 sur 10 ont déclaré un
+   changement positif. Concrètement 60% marchaient moins qu'avant, 59%
+   passaient plus de temps devant les écrans et 45% faisaient moins
+   d'exercice en intérieur. Parmi les profils à risque, on trouve les
+   hommes, les personnes exposées à des problèmes financiers du fait de
+   l'épidémie, les personnes ayant un jardin ou une terrasse (qui incite
+   moins à sortir pour prendre l'air) ou vivant en ville, ainsi que les
+   personnes obèses. Mais ces comportements négatifs étaient surtout
+   associés, d'après les questionnaires, à la peur de l'épidémie et au
+   sentiment de vulnérabilité. « Les personnes qui avaient ces sentiments
+   osaient moins sortir car elles craignaient d'être infectées et de
+   tomber malade. La peur est paralysante et peut entraîner un repli, des
+   décisions défensives ou un isolement, ce qui s'est traduit ici par une
+   moins bonne hygiène de vie », explique Aymery Constant.
 
-   Cependant, certains participants ont aussi dÃ©clarÃ© des changements
-   positifs intervenus pendant cette pÃ©riode : 18% ont rÃ©duit leur
-   grignotage, 13% ont augmentÃ© leur consommation de fruits et lÃ©gumes et
-   11% leur pratique du sport Ã  la maison. Ces Ã©volutions Ã©taient quant Ã 
-   elles davantage associÃ©es Ã  un bon niveau de confiance envers les
-   mesures gouvernementales, incitant probablement Ã  lâadoption de mesures
-   positives pour se maintenir en bonne santÃ©, lutter contre le surpoids
-   ou la prise de poids, des facteurs de gravitÃ© de la Covid-19. Â« Ces
+   Cependant, certains participants ont aussi déclaré des changements
+   positifs intervenus pendant cette période : 18% ont réduit leur
+   grignotage, 13% ont augmenté leur consommation de fruits et légumes et
+   11% leur pratique du sport à la maison. Ces évolutions étaient quant à
+   elles davantage associées à un bon niveau de confiance envers les
+   mesures gouvernementales, incitant probablement à l'adoption de mesures
+   positives pour se maintenir en bonne santé, lutter contre le surpoids
+   ou la prise de poids, des facteurs de gravité de la Covid-19. « Ces
    personnes reconnaissaient que la Covid-19 est une maladie grave mais se
-   sentaient dans une situation de contrÃ´le du danger. Elles ne se sont
-   pas laissÃ© envahir par la peur ou lâanxiÃ©tÃ©, suppose Aymery Constant.
+   sentaient dans une situation de contrôle du danger. Elles ne se sont
+   pas laissé envahir par la peur ou l'anxiété, suppose Aymery Constant.
    Il faut toutefois noter que des changements positifs pouvaient
-   coexister avec des changements nÃ©gatifs, ce qui incite Ã  interprÃ©ter
-   ces rÃ©sultats avec prudence. Â»
+   coexister avec des changements négatifs, ce qui incite à interpréter
+   ces résultats avec prudence. »
 
-   Par ailleurs, sur le plan de lâalcool et du tabac, 15% des participants
-   se sont mis Ã  boire plus et 21% Ã  boire moins, tandis que 22% ont fumÃ©
-   davantage et 17% ont rÃ©duit leur tabagisme, sans que les auteurs aient
-   pu associer de profil significatif Ã  ces changements.
+   Par ailleurs, sur le plan de l'alcool et du tabac, 15% des participants
+   se sont mis à boire plus et 21% à boire moins, tandis que 22% ont fumé
+   davantage et 17% ont réduit leur tabagisme, sans que les auteurs aient
+   pu associer de profil significatif à ces changements.
 
-Sortir courir ou acheter des fruits et des lÃ©gumes
+Sortir courir ou acheter des fruits et des légumes
 
-   Â« Lors du confinement, le gouvernement laisse la possibilitÃ© Ã  chacun
-   de sortir une heure par jour pour effectuer une activitÃ© physique. Il
-   Ã©tait donc possible ce printemps dâadopter une hygiÃ¨ne de vie correcte.
-   Mais on voit Ã  travers cette Ã©tude que le sentiment de peur Ã©tait
-   important, certainement en raison des messages anxiogÃ¨nes qui visaient
-   Ã  expliquer la nÃ©cessitÃ© du confinement. Ces messages Ã©taient lÃ©gitimes
+   « Lors du confinement, le gouvernement laisse la possibilité à chacun
+   de sortir une heure par jour pour effectuer une activité physique. Il
+   était donc possible ce printemps d'adopter une hygiène de vie correcte.
+   Mais on voit à travers cette étude que le sentiment de peur était
+   important, certainement en raison des messages anxiogènes qui visaient
+   à expliquer la nécessité du confinement. Ces messages étaient légitimes
    du fait de la situation, mais ils ont probablement eu un impact plus ou
-   moins paralysant sur une partie de la population, avec un effet nÃ©gatif
-   secondaire sur lâhygiÃ¨ne de vie et donc, Ã  plus long terme, sur la
-   santÃ© mentale et physique, estime le chercheur. Les messages doivent
-   favoriser la confiance dans la prÃ©vention Ã  lâÃ©chelle individuelle,
-   pour que chacun adhÃ¨re aux mesures barriÃ¨res et continue Ã  vivre le
+   moins paralysant sur une partie de la population, avec un effet négatif
+   secondaire sur l'hygiène de vie et donc, à plus long terme, sur la
+   santé mentale et physique, estime le chercheur. Les messages doivent
+   favoriser la confiance dans la prévention à l'échelle individuelle,
+   pour que chacun adhère aux mesures barrières et continue à vivre le
    plus normalement possible par ailleurs. Il faut encourager
-   lâutilisation des attestations pour aller marcher, courir ou acheter
-   des fruits et lÃ©gumes frais Â», ajoute-il.
+   l'utilisation des attestations pour aller marcher, courir ou acheter
+   des fruits et légumes frais », ajoute-il.
 
-   Une autre enquÃªte a Ã©tÃ© lancÃ©e en juin-juillet pour suivre lâÃ©volution
-   de ces comportements, avec les mÃªmes questionnaires et les mÃªmes
-   participants. Les rÃ©sultats ne sont pas encore disponibles. Â« Face Ã 
-   une situation inÃ©dite, les peurs se cristallisent et les changements
-   peuvent Ãªtre brutaux. Puis il y a un phÃ©nomÃ¨ne dâhabituation naturel
-   qui modifie de nouveau les comportements. Câest ce que lâon devrait
-   retrouver dans cette seconde enquÃªte Â», prÃ©voit Aymery Constant. Ce
-   phÃ©nomÃ¨ne dâhabituation pourrait en outre contribuer Ã  rÃ©duire les
-   changements dâhabitude lors du deuxiÃ¨me confinement, mais cela reste
-   Ã©videmment Ã  vÃ©rifier.
+   Une autre enquête a été lancée en juin-juillet pour suivre l'évolution
+   de ces comportements, avec les mêmes questionnaires et les mêmes
+   participants. Les résultats ne sont pas encore disponibles. « Face à
+   une situation inédite, les peurs se cristallisent et les changements
+   peuvent être brutaux. Puis il y a un phénomène d'habituation naturel
+   qui modifie de nouveau les comportements. C'est ce que l'on devrait
+   retrouver dans cette seconde enquête », prévoit Aymery Constant. Ce
+   phénomène d'habituation pourrait en outre contribuer à réduire les
+   changements d'habitude lors du deuxième confinement, mais cela reste
+   évidemment à vérifier.
 
    Notes :
-   *unitÃ© 1241 Inserm/INRAE/UniversitÃ© de Rennes 1, Institut NuMeCan
-   **unitÃ© 1207 Inserm/IRD/Aix-Marseille universitÃ©
+   *unité 1241 Inserm/INRAE/Université de Rennes 1, Institut NuMeCan
+   **unité 1207 Inserm/IRD/Aix-Marseille université
 
    Source : A. Constant et coll. Socio-Cognitive Factors Associated With
    Lifestyle Changes in Response to the COVID-19 Epidemic in the General
    Population : Results From a Cross-Sectional Study in France. Front
    Psychol. du 29 septembre 2020. DOI : 10.3389/fpsyg.2020.579460
 
-Nos dÃ©lÃ©gations rÃ©gionales
+Nos délégations régionales
 
-     * Auvergne RhÃ´ne-Alpes
+     * Auvergne Rhône-Alpes
      * Est
      * Grand Ouest
-     * Ãle-de-France Centre Est
-     * Ãle-de-France Centre Nord
-     * Ãle-de-France Sud
+     * Île-de-France Centre Est
+     * Île-de-France Centre Nord
+     * Île-de-France Sud
      * Nord-Ouest
      * Nouvelle-Aquitaine
-     * Occitanie MÃ©diterranÃ©e
-     * Occitanie PyrÃ©nÃ©es
+     * Occitanie Méditerranée
+     * Occitanie Pyrénées
      * PACA et en Corse
 
 Newsletter
 
-     * Sâabonner Ã  la newsletter
+     * S'abonner à la newsletter
 
-AccÃ¨s direct
+Accès direct
 
      * Volontaire pour des tests
-     * Faire un don Ã  lâInserm
+     * Faire un don à l'Inserm
 
 Autres sites Inserm
 
      * Professionnels de la recherche
      * Ressources Humaines
-     * MarchÃ©s publics
-     * Ãvaluation
+     * Marchés publics
+     * Évaluation
      * Orphanet
 
-AssociÃ©s Ã  lâInserm
+Associés à l'Inserm
 
      * ANRS | MIE
      * Inserm Transfert
@@ -253,13 +253,13 @@ AssociÃ©s Ã  lâInserm
      *
      *
 
-     * Questions frÃ©quentes
+     * Questions fréquentes
      * Nous contacter
      * Plan du site
-     * Mentions lÃ©gales
-     * AccessibilitÃ© (partiellement conforme)
-     * DonnÃ©es personnelles
-     * ParamÃ©trer les cookies
-     * Â© Inserm 2026
+     * Mentions légales
+     * Accessibilité (partiellement conforme)
+     * Données personnelles
+     * Paramétrer les cookies
+     * © Inserm 2026
 
    (BUTTON) Retour en haut de page

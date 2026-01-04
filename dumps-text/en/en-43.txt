@@ -30,7 +30,7 @@
 lockdown
 
    American
-   (BUTTON) [lok-doun] / ËlÉkËdaÊn /
+   (BUTTON) [lok-doun] / |lA.kdaUn /
 
 noun
 
@@ -42,22 +42,22 @@ noun
     2. a security measure taken during an emergency to prevent people from
        leaving or entering a building or other location: The governor
        implemented a statewide lockdown to slow the spread of the
-       virusâresidents may not leave their homes for nonessential
+       virus--residents may not leave their homes for nonessential
        activities.
 
      The school remains under lockdown due to police activity in the
      area.
      The governor implemented a statewide lockdown to slow the spread of
-     the virusâresidents may not leave their homes for nonessential
+     the virus--residents may not leave their homes for nonessential
      activities.
      The army base was on lockdown after a report of shots fired.
     3. a freeze or pause.
 
-     Banks arenât lending during this credit lockdown.
+     Banks aren't lending during this credit lockdown.
      __________________________________________________________________
 
    lockdown British
-   / ËlÉkËdÉÊn /
+   / |lA.kd@Un /
 
 noun
 
@@ -67,8 +67,8 @@ noun
 
      many schools remained under lockdown yesterday
 
-   "Collins English Dictionary â Complete & Unabridged" 2012 Digital
-   Edition Â© William Collins Sons & Co. Ltd. 1979, 1986 Â© HarperCollins
+   "Collins English Dictionary -- Complete & Unabridged" 2012 Digital
+   Edition © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins
    Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
      __________________________________________________________________
 
@@ -76,7 +76,7 @@ Etymology
 
 Origin of lockdown
 
-   First recorded in 1970â75; lock ^1 + -down, probably extracted from
+   First recorded in 1970-75; lock ^1 + -down, probably extracted from
    nouns formed from phrasal verbs, such as crackdown, shutdown, etc.
 
 Example Sentences
@@ -102,9 +102,9 @@ Example Sentences
 
      From BBC
 
-     People have said, âThis is a commentary on AI. This is a commentary
+     People have said, "This is a commentary on AI. This is a commentary
      on divisive politics. This is a commentary on the pandemic
-     lockdown.â
+     lockdown."
 
      From The Wall Street Journal
 
@@ -114,9 +114,9 @@ Example Sentences
      From BBC
 
    Definitions and idiom definitions from Dictionary.com Unabridged, based
-   on the Random House Unabridged Dictionary, Â© Random House, Inc. 2023
+   on the Random House Unabridged Dictionary, © Random House, Inc. 2023
 
-   Idioms from The American HeritageÂ® Idioms Dictionary copyright Â© 2002,
+   Idioms from The American Heritage® Idioms Dictionary copyright © 2002,
    2001, 1995 by Houghton Mifflin Harcourt Publishing Company. Published
    by Houghton Mifflin Harcourt Publishing Company.
    Word of the Day
@@ -156,6 +156,6 @@ Example Sentences
 
    Math games and learning resources for kids
 
-   Â© 2026 Dictionary Media Group, Inc., a division of IXL Learning
+   © 2026 Dictionary Media Group, Inc., a division of IXL Learning
    (BUTTON) Opt out of sale of personal data and targeted advertising
    Quantcast

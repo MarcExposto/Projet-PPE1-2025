@@ -43,7 +43,7 @@
    Subscribe Give A Gift
    saved
 
-   Find this story in your accountâs âSaved for Laterâ section.
+   Find this story in your account's `Saved for Later' section.
    Comment
 
    (BUTTON) Menu Menu Close Close
@@ -68,7 +68,7 @@
 
    saved
 
-   Find this story in your accountâs âSaved for Laterâ section.
+   Find this story in your account's `Saved for Later' section.
    Comment
    (BUTTON) Search ____________________
 
@@ -84,7 +84,7 @@ A key lesson of the pandemic.
 
    Save this article to read it later.
 
-   Find this story in your accountâs âSaved for Laterâ section.
+   Find this story in your account's `Saved for Later' section.
    Comment
 
    [edccb014e8bd3e1bd0b95d2e4b5ea0af10-Covid-Lockdown-06-10-006.rhorizonta
@@ -98,37 +98,37 @@ A key lesson of the pandemic.
    June 10, 2020, in Williamsburg. Photo: JOHN TAGGART/The New York
    Times/REDUX
 
-   This article was featured in One Great Story, New Yorkâs reading
+   This article was featured in One Great Story, New York's reading
    recommendation newsletter. Sign up here to get it nightly.
 
    On April 8, 2020, the Chinese government lifted its lockdown of Wuhan.
-   It had lasted 76 days â two and a half months during which no one was
+   It had lasted 76 days -- two and a half months during which no one was
    allowed to leave this industrial city of 11 million people, or even
    leave their homes. Until the Chinese government deployed this tactic, a
    strict batten-down-the-hatches approach had never been used before to
    combat a pandemic. Yes, for centuries infected people had been
    quarantined in their homes, where they would either recover or die. But
    that was very different from locking down an entire city; the World
-   Health Organization called it âunprecedented in public health history.â
+   Health Organization called it "unprecedented in public health history."
 
    The word the citizens of Wuhan used to describe their situation was
-   fengcheng â âsealed city.â But the English-language media was soon
-   using the word lockdown instead â and reacting with horror. âThat the
+   fengcheng -- "sealed city." But the English-language media was soon
+   using the word lockdown instead -- and reacting with horror. "That the
    Chinese government can lock millions of people into cities with almost
    no advance notice should not be considered anything other than
-   terrifying,â a China human rights expert told The Guardian. Lawrence O.
+   terrifying," a China human rights expert told The Guardian. Lawrence O.
    Gostin, a professor of global health law at Georgetown University, told
-   the Washington Post that âthese kinds of lockdowns are very rare and
-   never effective.â
+   the Washington Post that "these kinds of lockdowns are very rare and
+   never effective."
 
-   The Chinese government, however, was committed to this âzero-COVIDâ
+   The Chinese government, however, was committed to this "zero-COVID"
    strategy, as it was called. In mid-March 2020, by which time some 50
    million people had been forced into lockdowns, China recorded its first
-   day since January with no domestic transmissions â which it offered as
+   day since January with no domestic transmissions -- which it offered as
    proof that its approach was working.  For their part, Chinese citizens
    viewed being confined to their homes as their patriotic duty.
 
-   For the next two years, harsh lockdowns remained Chinaâs default
+   For the next two years, harsh lockdowns remained China's default
    response whenever there was an outbreak anywhere in the country. But by
    March 2022, when the government decided to lock down much of Shanghai
    after a rise in cases in that city, there was no more talk of
@@ -136,17 +136,17 @@ A key lesson of the pandemic.
    writing bitter denunciations on social media, and, in some cases,
    committing suicide. When a fire broke out in an apartment building,
    residents died because the police had locked their doors from the
-   outside. And when the Chinese government finally abandoned lockdowns â
+   outside. And when the Chinese government finally abandoned lockdowns --
    an implicit admission that they had not been successful in eliminating
-   the pandemic â there was a wave of COVID-19 cases as bad as anywhere in
-   the world. (To be fair, this was partly because China did such a poor
-   job of vaccinating its citizens.)
+   the pandemic -- there was a wave of COVID-19 cases as bad as anywhere
+   in the world. (To be fair, this was partly because China did such a
+   poor job of vaccinating its citizens.)
 
    One of the great mysteries of the pandemic is why so many countries
-   followed Chinaâs example. In the U.S. and the U.K. especially,
+   followed China's example. In the U.S. and the U.K. especially,
    lockdowns went from being regarded as something that only an
-   authoritarian government would attempt to an example of âfollowing the
-   science.â But there was never any science behind lockdowns â not a
+   authoritarian government would attempt to an example of "following the
+   science." But there was never any science behind lockdowns -- not a
    single study had ever been undertaken to measure their efficacy in
    stopping a pandemic. When you got right down to it, lockdowns were
    little more than a giant experiment.
@@ -158,30 +158,30 @@ A key lesson of the pandemic.
    March 25, 2020, in Chicago. Photo: Taylor Glascock/The New York
    Times/REDUX
 
-   Despite the lack of scientific evidence, lockdowns didnât come out of
-   nowhere, at least not in the U.S. They had been discussed â and argued
-   over â by scientists since 2005, when (as the story goes) President
-   George W. Bush read John M. Barryâs book The Great Influenza, about the
-   1918 pandemic. âThis happens every hundred years,â Bush is supposed to
-   have said after finishing the book. âWe need a national strategy.â
+   Despite the lack of scientific evidence, lockdowns didn't come out of
+   nowhere, at least not in the U.S. They had been discussed -- and argued
+   over -- by scientists since 2005, when (as the story goes) President
+   George W. Bush read John M. Barry's book The Great Influenza, about the
+   1918 pandemic. "This happens every hundred years," Bush is supposed to
+   have said after finishing the book. "We need a national strategy."
 
    In fact, there were people thinking about pandemic mitigation long
-   before Bush read Barryâs book. The leader of this ad hoc group was D.A.
+   before Bush read Barry's book. The leader of this ad hoc group was D.A.
    Henderson, perhaps the most renowned epidemiologist of the 20th century
-   â the man who, decades earlier, had led the team that eradicated
+   -- the man who, decades earlier, had led the team that eradicated
    smallpox. Richard Preston, the author of The Hot Zone, would later
-   describe this feat as âarguably the greatest life-saving achievement in
-   the history of medicine.â
+   describe this feat as "arguably the greatest life-saving achievement in
+   the history of medicine."
 
    By the time Bush began pushing his administration to come up with a
    pandemic plan, Henderson was 78 years old. Ten years earlier, he had
    sat in on a series of top-secret briefings where he listened to a
    Russian defector describe how he had led a team that was trying to
    adapt the smallpox virus for bioweapons. Henderson became so concerned
-   that he started a small center focused on biodefense â which meant, in
+   that he started a small center focused on biodefense -- which meant, in
    effect, defending against a pandemic. He and his colleagues at the
    center had spent years trying to persuade government officials to take
-   pandemics seriously â without much success. When the Bush
+   pandemics seriously -- without much success. When the Bush
    administration began debating what its pandemic strategy should
    include, it was only natural that Henderson be involved.
 
@@ -191,52 +191,52 @@ A key lesson of the pandemic.
    high-school student from Albuquerque (aided by her scientist father),
    that purported to show that keeping people away from one another was as
    effective as a vaccine. (This story is told, overexcitedly, in Michael
-   Lewisâs book The Premonition.)
+   Lewis's book The Premonition.)
 
-   Henderson vehemently disagreed. For one thing, he didnât trust computer
+   Henderson vehemently disagreed. For one thing, he didn't trust computer
    models, which churned out estimates based on hypotheticals. Just as
-   important, they couldnât possibly anticipate the complexity of human
-   behavior. âThere is simply too little experience to predict how a
+   important, they couldn't possibly anticipate the complexity of human
+   behavior. "There is simply too little experience to predict how a
    21st-century population would respond, for example, to the closure of
    all schools for periods of many weeks to months, or the cancellation of
-   all gatherings of more than 1,000 people,â he said.
+   all gatherings of more than 1,000 people," he said.
 
    In addition, he felt that the worst thing officials could do was
    overreact, which could create a panic. In 2006, as the debate inside
    the Bush administration was nearing its conclusion, he co-authored a
    paper in a final effort to change the minds of those devising the
-   strategy. The paper concluded: âExperience has shown that communities
+   strategy. The paper concluded: "Experience has shown that communities
    faced with epidemics or other adverse events respond best and with the
    least anxiety when the normal social functioning of the community is
    least disrupted. Strong political and public health leadership to
    provide reassurance and to ensure that needed medical care services are
    provided are critical elements. If either is seen as less than optimal,
-   a manageable epidemic could move towards catastrophe.â
+   a manageable epidemic could move towards catastrophe."
 
-   The Bush teamâs final document, published by the CDC in February 2007,
+   The Bush team's final document, published by the CDC in February 2007,
    stopped short of mandating lockdowns but came as close as its authors
-   dared, calling for the use of âsocial distancing measures to reduce
-   contact between adults in the community and workplace.â One of the
+   dared, calling for the use of "social distancing measures to reduce
+   contact between adults in the community and workplace." One of the
    leaders of the effort, a government scientist named Richard Hatchett,
-   would later tell Lewis what he really believed: âOne thing thatâs
+   would later tell Lewis what he really believed: "One thing that's
    inarguably true is that if you got everyone and locked each of them in
-   their own room and didnât let them talk to anyone, you would not have
-   any disease.â
+   their own room and didn't let them talk to anyone, you would not have
+   any disease."
 
    Which is true as far as it goes. There were other questions, though,
    that were at least as relevant. Could the kinds of lockdowns that are
    achievable in the real world, where hundreds of millions of people
-   canât live in isolation chambers, be an effective tool against a
+   can't live in isolation chambers, be an effective tool against a
    pandemic? Did the virus truly go away during a lockdown or simply hide,
    waiting to reemerge when it ended? And finally, did the many social,
    economic, and medical downsides make them, in the aggregate, not worth
    whatever short-term benefits they might yield?
 
    Henderson, who died in 2016, never stopped making the latter case.
-   âD.A. kept saying, âLook, you have to be practical about this,ââ says
-   his former deputy, Tara OâToole. ââAnd you have to be humble about what
+   "D.A. kept saying, `Look, you have to be practical about this,'" says
+   his former deputy, Tara O'Toole. "`And you have to be humble about what
    public health can actually do, especially over sustained periods.
-   Society is complicated, and you donât get to control it.ââ
+   Society is complicated, and you don't get to control it.'"
 
    As the United States gains more and more distance from the COVID
    pandemic, the perspective on what worked, and what did not, becomes not
@@ -252,9 +252,9 @@ A key lesson of the pandemic.
    lockdowns. While it is reasonable to think of that policy (in all its
    many forms, across different sectors of society and the 50 states) as
    an on-the-fly experiment, doing so demands that we come to a conclusion
-   about the results. For all kinds of reasons, including the countryâs
-   deep political divisions, the complexity of the problem, and COVIDâs
-   dire human toll, that has been slow to happen. But itâs time to be
+   about the results. For all kinds of reasons, including the country's
+   deep political divisions, the complexity of the problem, and COVID's
+   dire human toll, that has been slow to happen. But it's time to be
    clear about the fact that lockdowns for any purpose other than keeping
    hospitals from being overrun in the short-term were a mistake that
    should not be repeated. While this is not a definitive accounting of
@@ -267,14 +267,14 @@ A key lesson of the pandemic.
 
    After China came Italy, the second country to be hit hard by the
    coronavirus. The Italian government responded with a lockdown almost as
-   tough as Chinaâs. By the time it was lifted, in early June, 34,000
+   tough as China's. By the time it was lifted, in early June, 34,000
    Italians had died of COVID-19, up from 630 when the lockdown was first
    imposed.
 
    Those were frightening numbers. But when Neil Ferguson saw what had
    transpired in Italy, he saw an opportunity. For Ferguson, the head of
    the infectious disease department at Imperial College London, the
-   Italian governmentâs decision to follow Chinaâs example meant that
+   Italian government's decision to follow China's example meant that
    lockdowns were suddenly a real-world policy option in Western
    democratic societies, not just in an authoritarian country like China.
    As a disease modeler, he believed the same thing Richard Hatchett
@@ -286,25 +286,25 @@ A key lesson of the pandemic.
    derived from computer models, of possible deaths from a newly emerged
    virus. As soon as he learned of the outbreak in Wuhan, he and several
    colleagues began modeling the coronavirus. On March 17, Ferguson laid
-   out the teamâs findings at a press conference. Their model predicted
+   out the team's findings at a press conference. Their model predicted
    that, without serious countermeasures, a staggering 81 percent of the
    population in the U.S. and Britain would become infected, and that
    510,000 people in Britain and 2.2 million Americans would die of COVID
-   by late 2020. In addition, the authors wrote, âWe predict critical care
+   by late 2020. In addition, the authors wrote, "We predict critical care
    bed capacity would be exceeded as early as the second week in April,
    with an eventual peak in ICU or critical bed care demand that is over
-   30 times greater than the maximum supply in both countries.â
+   30 times greater than the maximum supply in both countries."
 
-   For Ferguson, the purpose of the report wasnât just to release their
+   For Ferguson, the purpose of the report wasn't just to release their
    shocking estimates; it was also to push the American and British
-   governments to commit to lockdowns for the long haul. â[T]his type of
-   intensive intervention package,â the authors wrote, âwill need to be
+   governments to commit to lockdowns for the long haul. "[T]his type of
+   intensive intervention package," the authors wrote, "will need to be
    maintained until a vaccine becomes available (potentially 18 months or
-   more) â given that we predict that transmission will quickly rebound if
-   interventions are relaxed.â
+   more) -- given that we predict that transmission will quickly rebound
+   if interventions are relaxed."
    It worked. In the U.K., Prime Minister Boris Johnson had initially
    planned to keep the country open. Instead, he ordered a lockdown within
-   a week of Fergusonâs press conference. (Shortly after Johnson imposed
+   a week of Ferguson's press conference. (Shortly after Johnson imposed
    the lockdown, Ferguson was visited twice by his mistress. For obvious
    reasons, this caused a furor when it was discovered. Ferguson was the
    first, though hardly the last, Establishment bigwig to ignore the
@@ -312,19 +312,19 @@ A key lesson of the pandemic.
 
    As for President Donald Trump, he never used the word lockdown, but he
    was worried enough to  call for the country to adopt social distancing
-   as a mitigation strategy. Schools, restaurants, businesses â they all
+   as a mitigation strategy. Schools, restaurants, businesses -- they all
    closed. White-collar employees who were able to work from home did so.
    More than once, Trump mentioned that 2.2 million lives were at stake,
-   referring to Fergusonâs estimate. Trumpâs order wound up lasting six
+   referring to Ferguson's estimate. Trump's order wound up lasting six
    weeks.
 
-   Most governors issued their own âstay-at-homeâ orders, usually stricter
-   than Trumpâs. Even Governor Ron DeSantis in Florida â who would soon
-   become an outspoken opponent of mainstream mitigation measures â
+   Most governors issued their own "stay-at-home" orders, usually stricter
+   than Trump's. Even Governor Ron DeSantis in Florida -- who would soon
+   become an outspoken opponent of mainstream mitigation measures --
    reluctantly went along for a brief period. But there were important
    questions that no one advocating for lockdowns addressed, maybe because
-   in the urgency of the moment the questions didnât occur to them. How
-   long would they last? And even if lockdowns did slow the virusâs
+   in the urgency of the moment the questions didn't occur to them. How
+   long would they last? And even if lockdowns did slow the virus's
    progression, what would happen when they were lifted?
 
    Regardless, in the space of two months, lockdowns had gone from being
@@ -334,120 +334,120 @@ A key lesson of the pandemic.
    [ld+json]
    July 5, 2020, in Melbourne. Photo: Asanka Ratnayake/Getty Images
 
-   When state public health officials explained to the countryâs governors
-   why lockdowns were necessary, they talked primarily about âbendingâ or
-   âflattening the curve.â And when governors then explained the strategy
-   to their constituents, they used the same rationale. âIf we change our
-   behaviors,â said California governor Gavin Newsom in announcing his
-   stateâs lockdown on March 19, âwe can truly bend the curve to reduce
-   the need to surge.â The day after Newsom, then-Governor Andrew Cuomo
+   When state public health officials explained to the country's governors
+   why lockdowns were necessary, they talked primarily about "bending" or
+   "flattening the curve." And when governors then explained the strategy
+   to their constituents, they used the same rationale. "If we change our
+   behaviors," said California governor Gavin Newsom in announcing his
+   state's lockdown on March 19, "we can truly bend the curve to reduce
+   the need to surge." The day after Newsom, then-Governor Andrew Cuomo
    announced a lockdown plan for New York. He called it his PAUSE program
-   â Policies Assure Uniform Safety for Everyone â but really, it was the
-   same thing.
+   -- Policies Assure Uniform Safety for Everyone -- but really, it was
+   the same thing.
 
-   What did flattening the curve mean? Hereâs what it didnât mean: It did
+   What did flattening the curve mean? Here's what it didn't mean: It did
    not mean that if people stayed in their homes, COVID-19 would fade away
    (even if that idea was often suggested in non-expert contexts). Rather,
    flattening the curve meant delaying the virus spread to prevent
    hospitals from becoming overwhelmed with COVID patients. During their
    early press conferences, many governors would display a chart showing a
-   sharp increase in the estimated rate of COVID-19 infections. Thatâs
+   sharp increase in the estimated rate of COVID-19 infections. That's
    what would happen without lockdowns, they explained. Then they would
    display a second chart showing a more gradual upturn once lockdowns and
    other mitigation measures took effect. Simply put, flattening the curve
    was about helping hospitals manage the crisis rather than ending the
    crisis. Even those who later criticized lockdowns largely agreed on
-   this point. As David Nabarro, the World Health Organizationâs COVID-19
-   envoy (and an eventual lockdown critic), put it, âThe only time we
+   this point. As David Nabarro, the World Health Organization's COVID-19
+   envoy (and an eventual lockdown critic), put it, "The only time we
    believe a lockdown is justified is to buy you time to reorganize,
    regroup, rebalance your resources, protect your health workers who are
-   exhausted, but by and large weâd rather not do it.â
+   exhausted, but by and large we'd rather not do it."
 
    In many blue states, however, that rationale was forgotten over time,
    and many people remained confined to their homes or apartments not just
-   for a few weeks but for a year or more â even after the vaccine became
-   available. And many of the countryâs biggest cities continually
-   reimposed lockdowns whenever there was an uptick in COVID cases â not
+   for a few weeks but for a year or more -- even after the vaccine became
+   available. And many of the country's biggest cities continually
+   reimposed lockdowns whenever there was an uptick in COVID cases -- not
    just telling people to shelter in place, but also closing small
    businesses and restaurants, outlawing sports events and social
    gatherings, and shutting down in-school learning.
 
    Which naturally leads to the obvious question: Did lockdowns help keep
-   Americans alive? Studies were mixed â in their findings, their
+   Americans alive? Studies were mixed -- in their findings, their
    methodology, even their definition of lockdown. For instance, in August
    2020, eClinicalMedicine, an offshoot of the prestigious British medical
-   journal The Lancet, printed a study that concluded that âfull lockdowns
+   journal The Lancet, printed a study that concluded that "full lockdowns
    and wide-spread COVID-19 testing were not associated with reductions in
-   the number of critical cases or overall mortality.â In March 2021,
-   Christian BjÃ¸rnskov, an economist at Aarhus University in Denmark,
+   the number of critical cases or overall mortality." In March 2021,
+   Christian Bjørnskov, an economist at Aarhus University in Denmark,
    compared weekly mortality rates in 24 European countries that used
-   mitigation measures with varying degrees of severity. â[T]he findings
+   mitigation measures with varying degrees of severity. "[T]he findings
    in this paper suggest that more severe lockdown policies have not been
-   associated with lower mortality,â the economist wrote. âIn other
-   words,â he added, âthe lockdowns have not worked as intended.â
+   associated with lower mortality," the economist wrote. "In other
+   words," he added, "the lockdowns have not worked as intended."
 
    Michael Osterholm, the prominent epidemiologist at the University of
-   Minnesota, also doesnât think lockdowns did any good. âThere is
-   actually no role for lockdowns,â he says. âLook at what happened in
+   Minnesota, also doesn't think lockdowns did any good. "There is
+   actually no role for lockdowns," he says. "Look at what happened in
    China. They locked down for years, and when they finally relaxed that
-   effort, they had a million deaths in two weeks.â As for flattening the
-   curve, âthatâs not a real lockdown,â Osterholm says. âYouâre just
-   reducing contact for a few weeks to help the hospitals.â
+   effort, they had a million deaths in two weeks." As for flattening the
+   curve, "that's not a real lockdown," Osterholm says. "You're just
+   reducing contact for a few weeks to help the hospitals."
 
    Dr. Anthony Fauci was probably the best-known defender of lockdowns as
    a life-saving measure. But the policy continues to have many defenders
    within the public health establishment. Howard Markel, a doctor and
    medical historian at the University of Michigan, believes they
-   succeeded. âThe amount of lives saved was just incredible,â he says.
+   succeeded. "The amount of lives saved was just incredible," he says.
    Markel pointed to an August 2023 study by the Royal Society of London
-   that concluded that âstay-at-home orders, physical distancing, and
+   that concluded that "stay-at-home orders, physical distancing, and
    restrictions on gathering size were repeatedly found to be associated
    with significant reduction in SARS-CoV-2 transmission, with more
-   stringent measures having greater effects.â
+   stringent measures having greater effects."
 
    Still, the weight of the evidence seems to be with those who say that
    lockdowns did not save many lives. By our count, there are at least 50
    studies that come to the same conclusion. After The Big Fail went to
    press, The Lancet published a study comparing the COVID infection rate
-   and death rate in the 50 states. It concluded that âSARS-CoV-2
+   and death rate in the 50 states. It concluded that "SARS-CoV-2
    infections and COVID-19 deaths disproportionately clustered in U.S.
    states with lower mean years of education, higher poverty rates,
-   limited access to quality health care, and less interpersonal trust â
-   the trust that people report having in one another.â These sociological
+   limited access to quality health care, and less interpersonal trust --
+   the trust that people report having in one another." These sociological
    factors appear to have made a bigger difference than lockdowns (which
-   were âassociated with a statistically significant and meaningfully
+   were "associated with a statistically significant and meaningfully
    large reduction in the cumulative infection rate, but not the
-   cumulative death rateâ).
+   cumulative death rate").
 
    In all of this discussion, however, there is a crucial fact that tends
-   to be forgotten: COVID wasnât the only thing people died from in 2020
+   to be forgotten: COVID wasn't the only thing people died from in 2020
    and 2021. Cancer victims went undiagnosed because doctors were spending
    all their time on COVID patients. Critical surgeries were put on hold.
    There was a dramatic rise in deaths due to alcohol and drug abuse.
    According to the CDC, one in five high-school students had suicidal
    thoughts during the pandemic. Domestic violence rose. One New York
    emergency-room doctor recalls that after the steady stream of COVID
-   patients during March and April of 2020, âour ER was basically empty.â
-   He added, âNobody was coming in because they were afraid of getting
-   COVID â or they believed we were only handling COVID patients.â
+   patients during March and April of 2020, "our ER was basically empty."
+   He added, "Nobody was coming in because they were afraid of getting
+   COVID -- or they believed we were only handling COVID patients."
 
    So in attempting to gauge the value of lockdowns, the most appropriate
    way is to look not just at COVID deaths but at all deaths during the
-   pandemic years. Thatâs known as the âexcess deathsâ â a measure of how
+   pandemic years. That's known as the "excess deaths" -- a measure of how
    many more people died than in a normal year. One authoritative
    accounting was compiled by The Spectator using data gathered by the
-   OECD. It showed that during the first two years of the pandemic â 2020
-   and 2021 â the U.S. had 19 percent more deaths than it normally saw in
-   two yearsâ time. For the U.K., there was a 10 percent rise. And for
-   Sweden â one of the few countries that had refused to lock down its
-   society â it was just 4 percent. An analysis by Bloomberg found broadly
-   similar results. In other words, for all the criticism Sweden
-   shouldered from the worldâs public health officials for refusing to
+   OECD. It showed that during the first two years of the pandemic -- 2020
+   and 2021 -- the U.S. had 19 percent more deaths than it normally saw in
+   two years' time. For the U.K., there was a 10 percent rise. And for
+   Sweden -- one of the few countries that had refused to lock down its
+   society -- it was just 4 percent. An analysis by Bloomberg found
+   broadly similar results. In other words, for all the criticism Sweden
+   shouldered from the world's public health officials for refusing to
    institute lockdowns, it wound up seeing a lower overall death rate
    during the pandemic than most peer nations that shut down schools and
    public gatherings. It is not unreasonable to conclude from the
    available data that the lockdowns led to more overall deaths in the
-   U.S. than a policy that resembled Swedenâs would have.
+   U.S. than a policy that resembled Sweden's would have.
    [ld+json]
    March 20, 2020, in Los Angeles. Photo: AGUSTIN PAULLIER/AFP via Getty
    Images
@@ -455,7 +455,7 @@ A key lesson of the pandemic.
    There were other negative consequences too. In the U.S., lockdowns
    forced hundreds of thousands of small business closures. They
    exacerbated inequality, as Amazon warehouse workers and meatpackers
-   showed up to crowded workplaces while the âZoom classâ locked down at
+   showed up to crowded workplaces while the "Zoom class" locked down at
    home. Worst of all, though, it had a devastating effect on children
    whose schools were closed as part of a lockdown. During the first weeks
    of the pandemic it probably made sense to close schools given how
@@ -466,47 +466,47 @@ A key lesson of the pandemic.
    school. Well-to-do parents moved their children to private schools,
    many of which reopened their classrooms. But most big-city
    public-school systems continued to rely on remote learning well into
-   the 2020â2021 school year. It was a tragic policy choice.
+   the 2020-2021 school year. It was a tragic policy choice.
 
    In ProPublica and The New Yorker, the journalist Alec MacGillis vividly
    described the consequences in Baltimore. With no classrooms to go to,
    thousands of students abandoned school. The school system made free
    laptops available, but few students took the trouble to get one.
-   Teachers gave up trying to prod those who didnât log onto their remote
+   Teachers gave up trying to prod those who didn't log onto their remote
    classes. Plus, teachers had kids of their own to take care of, which
    made it difficult to teach.
 
    The anti-lockdown scientist Jay Bhattacharya of Stanford University
    recalls a photograph in the San Jose Mercury News during the early
    months of the pandemic. It showed two children, 7 or 8 years old,
-   sitting with Google Chromebooks outside a Taco Bell. âThey were on the
+   sitting with Google Chromebooks outside a Taco Bell. "They were on the
    sidewalk doing schoolwork because that was the only place they could
-   get free Wi-Fi,â Bhattacharya said. âTheir parents werenât there
+   get free Wi-Fi," Bhattacharya said. "Their parents weren't there
    because they had to go to work. I mean, that should have ended the
    lockdown right then and there. It should have at least ended school
-   closures.â
+   closures."
 
-   Public schools have an importance that goes beyond education. Itâs
+   Public schools have an importance that goes beyond education. It's
    where many of the rituals of childhood and young adulthood take place.
    For children who live in unstable homes, school offers some stability.
    Public schools serve free breakfast and lunch to disadvantaged kids.
-   And theyâre a place where parents know their children are safe when
-   theyâre at work. One consequence of lockdowns was that millions of
-   children had to fend for themselves because their parents couldnât
+   And they're a place where parents know their children are safe when
+   they're at work. One consequence of lockdowns was that millions of
+   children had to fend for themselves because their parents couldn't
    afford to quit their jobs to take care of them.
 
    One child psychiatrist, who works with underprivileged autistic kids,
    began the pandemic believing in the importance of lockdowns and other
    mitigation measures. But over time, she changed her mind.
 
-   âWhat really drove me was my clinical experience,â she said. âWhat
+   "What really drove me was my clinical experience," she said. "What
    happens to a child when every single support is removed from them?
-   Whatâs the impact on the family and the siblings? What I was seeing was
+   What's the impact on the family and the siblings? What I was seeing was
    complete regression. It was devastating, and the downsides of lockdowns
    and school closings were not being openly discussed in the mainstream
-   media. I was horrified. Why arenât we talking about this?â She
-   described the situation she saw as 2022 wore on as a âsickening
-   mental-health crisis.â
+   media. I was horrified. Why aren't we talking about this?" She
+   described the situation she saw as 2022 wore on as a "sickening
+   mental-health crisis."
 
    The science also weighed heavily in favor of opening schools. By
    mid-summer 2020, when cities were trying to decide whether to reopen
@@ -515,15 +515,15 @@ A key lesson of the pandemic.
    died from mass shootings in a typical year. Emily Oster, a Brown
    University economist, conducted a survey of about 200,000 children who
    were back in classrooms. The infection rate, she discovered, was 0.13
-   percent among students and 0.24 percent among teachers â an astonishing
-   low number. Oster then set up what she called the National COVID-19
-   School Response Dashboard, which eventually tracked 12 million kids in
-   both public and private schools and continued to collect infection-rate
-   data over the next nine months. Not once did the student rate hit one
-   percent during any two-week span.
+   percent among students and 0.24 percent among teachers -- an
+   astonishing low number. Oster then set up what she called the National
+   COVID-19 School Response Dashboard, which eventually tracked 12 million
+   kids in both public and private schools and continued to collect
+   infection-rate data over the next nine months. Not once did the student
+   rate hit one percent during any two-week span.
 
-   âWe do not want to be cavalier or put people at risk,â Oster wrote in
-   The Atlantic. âBut by not opening, we are putting people at risk, too.â
+   "We do not want to be cavalier or put people at risk," Oster wrote in
+   The Atlantic. "But by not opening, we are putting people at risk, too."
    [ld+json]
    March 15, 2020, in Manhattan. Photo: VICTOR J. BLUE/The New York
    Times/REDUX
@@ -533,19 +533,20 @@ A key lesson of the pandemic.
    schools stayed open, was no higher than the infection rate for teachers
    in Finland, which had closed its schools. In early 2021, three CDC
    scientists acknowledged in the Journal of the American Medical
-   Association: âAs many schools have reopened for in-person instruction
-   in some parts of the U.S. â¦ there has been little evidence that schools
-   have contributed meaningfully to increased community transmission.â
+   Association: "As many schools have reopened for in-person instruction
+   in some parts of the U.S. ... there has been little evidence that
+   schools have contributed meaningfully to increased community
+   transmission."
 
    So why did so many big-city schools stay closed long after the evidence
    was clear? There were three reasons. The first, and most
    understandable, was fear. No matter how small the chance, no parent
    wanted his or her child to die from COVID-19. And no teacher wanted to
    become infected while in school and bring COVID-19 home. Because kids
-   often brought colds and flus to school â which then spread to others â
-   both parents and teachers had a hard time accepting that that was not
-   how the virus spread. Here, for instance, was a typical comment from a
-   teacher in Westchester, reacting to a series of New York Timesâ
+   often brought colds and flus to school -- which then spread to others
+   -- both parents and teachers had a hard time accepting that that was
+   not how the virus spread. Here, for instance, was a typical comment
+   from a teacher in Westchester, reacting to a series of New York Times'
    articles about reopening schools:
 
      Tell me how to get a 6-year-old to not sneeze on his friends let
@@ -557,48 +558,48 @@ A key lesson of the pandemic.
      six feet.
 
    That it was well established that the coronavirus was not spread
-   through saliva or pee or by sharing books didnât matter. Too many
-   people were simply unable to judge risk rationally â a problem due in
+   through saliva or pee or by sharing books didn't matter. Too many
+   people were simply unable to judge risk rationally -- a problem due in
    part to unwillingness of government officials to talk honestly about
    COVID-19. In 2020, for instance, COVID-19 ranked below suicide, cancer,
    accidents, homicide, and even heart disease as a cause of death for
    children under the age of 15, according to CDC data. Yet public-health
-   experts did not stress any of this â on the contrary, many of them
+   experts did not stress any of this -- on the contrary, many of them
    emphasized instead that children could get COVID-19 without explaining
    how small the risk was. Is it any wonder, then, that COVID-19 seemed to
    be the only thing parents and teachers focused on?
 
-   The second factor was Trump. On July 6, he tweeted, âSCHOOLS MUST
-   REOPEN IN THE FALL!!â The next day, at a White House event, the
-   president said, âWeâre very much going to put pressure on governors and
-   everybody else to open the schools. Itâs very important for our
-   country. Itâs very important for the well-being of the student and the
-   parents.â
+   The second factor was Trump. On July 6, he tweeted, "SCHOOLS MUST
+   REOPEN IN THE FALL!!" The next day, at a White House event, the
+   president said, "We're very much going to put pressure on governors and
+   everybody else to open the schools. It's very important for our
+   country. It's very important for the well-being of the student and the
+   parents."
 
    In this case, Trump happened to be right; it was important. But by this
    late stage in his presidency, most Democrats assumed that anything he
    said was a lie. If Trump said schools should reopen, that was reason
    enough for them to assume they should stay closed. The sense that
    opening up was a Trump-endorsed policy seems to have energized
-   opposition to it in blue America â even as data accumulated that the
-   harm being done to the countryâs children outweighed any potential
+   opposition to it in blue America -- even as data accumulated that the
+   harm being done to the country's children outweighed any potential
    benefit.
 
-   The third reason was the teachersâ unions. Public-school teachers were
-   unionized, and their unions â American Federation of Teachers (AFT) and
-   the National Education Association (NEA) â were allies of, and
+   The third reason was the teachers' unions. Public-school teachers were
+   unionized, and their unions -- American Federation of Teachers (AFT)
+   and the National Education Association (NEA) -- were allies of, and
    contributors to, the Democratic Party, which dominated most major urban
    areas. They held enormous sway over big-city school systems.
 
    No one can doubt that teachers were afraid of dying of COVID-19. They
-   truly believed they were putting themselves in harmâs way if they went
+   truly believed they were putting themselves in harm's way if they went
    back into a classroom full of children. But instead of helping their
-   members see how small the risk truly was, the teachersâ unions embraced
+   members see how small the risk truly was, the teachers' unions embraced
    the fight to keep teachers away from the classroom.
 
-   By the time September 2020 rolled around, at least a dozen of Americaâs
+   By the time September 2020 rolled around, at least a dozen of America's
    biggest cities started the school year remotely. They included Los
-   Angeles, San Francisco, New York, Chicago, and Houston â all cities
+   Angeles, San Francisco, New York, Chicago, and Houston -- all cities
    with the kind of large, disadvantaged communities that would suffer the
    most if schools were closed. In most cases, city officials said they
    were trying to move from remote learning to at least a hybrid model, in
@@ -606,44 +607,44 @@ A key lesson of the pandemic.
    rest of the week online.
 
    In school districts that did open their schools that fall, the results
-   were remarkably aligned with Emily Osterâs data. In New York, Mayor
+   were remarkably aligned with Emily Oster's data. In New York, Mayor
    Bill de Blasio was finally able to get the schools open in late
-   September; between Thanksgiving and the end of the year, the cityâs
+   September; between Thanksgiving and the end of the year, the city's
    positivity rate rose from 3 percent to 6 percent. The positivity rate
-   in the public schools also rose â from 0.28 percent to 0.67 percent.
-   âThe safest place in New York City is, of course, our public schools,â
-   said de Blasio. To the holdout unions, those numbers didnât matter.
+   in the public schools also rose -- from 0.28 percent to 0.67 percent.
+   "The safest place in New York City is, of course, our public schools,"
+   said de Blasio. To the holdout unions, those numbers didn't matter.
    Ultimately, only 15 percent of school districts offered full-time
    classroom instruction during the fall 2020 semester.
 
    By 2022, journalists, academics, and even some public-health officials
    were finally coming to grips with the enormous damage done to children
-   â especially disadvantaged children â because of remote learning. A
+   -- especially disadvantaged children -- because of remote learning. A
    lengthy analysis by two professors in The Atlantic toted up some of the
    issues. First, millions of kids simply gave up on learning. In New
    York, even after schools had reopened, the chronic absentee rate was 40
-   percent â up from 26 percent before the pandemic. Studies showed that
+   percent -- up from 26 percent before the pandemic. Studies showed that
    public-school children got less exercise (no recess) and ate more junk
    food (no free hot meals) during the pandemic. According to a CDC
    survey, during the first six months of 2021, nearly half the
-   high-school students surveyed âfelt persistently sad or helpless.â
+   high-school students surveyed "felt persistently sad or helpless."
    Parental emotional abuse was four times higher than in 2013, and
    parental physical abuse nearly doubled, The Atlantic reported.
 
-   A study by three major research institutions, including Harvardâs
+   A study by three major research institutions, including Harvard's
    Center for Education Policy Research, showed that the longer a school
-   relied on remote learning, the further behind their students were. âIn
+   relied on remote learning, the further behind their students were. "In
    high-poverty schools that were remote for more than half of 2021, the
-   loss was about half of a school yearâs worth of typical achievement
-   growth,â said Thomas Kane, the director of the Harvard center.
+   loss was about half of a school year's worth of typical achievement
+   growth," said Thomas Kane, the director of the Harvard center.
 
    Although test scores in 2023 would suggest that students were slowly
-   catching up, those scores didnât take into account the kids who had
+   catching up, those scores didn't take into account the kids who had
    dropped out entirely. One analysis found an estimated 230,000 students
    in 21 states whose absences could not be accounted for. They had simply
    gone missing.
-   âThe pandemic has amounted to a comprehensive assault on the American
-   public school,â concluded the authors of The Atlantic article. Yet as
+   "The pandemic has amounted to a comprehensive assault on the American
+   public school," concluded the authors of The Atlantic article. Yet as
    late as the fall of 2022, there were still those who refused to
    acknowledge the damage done by lengthy school closings.
 
@@ -652,13 +653,13 @@ A key lesson of the pandemic.
    he made the rounds to discuss how the country had fared during the
    pandemic. Invariably, he was asked whether he regretted his forceful
    advocacy of lockdowns, especially given its effect on children. At one
-   forum, he said, âSometimes when you do draconian things, it has
-   collateral negative consequences â¦ on the economy, on the
-   schoolchildren.â But, he added, âThe only way to stop something cold in
-   its tracks is to try and shut things down.â
+   forum, he said, "Sometimes when you do draconian things, it has
+   collateral negative consequences ... on the economy, on the
+   schoolchildren." But, he added, "The only way to stop something cold in
+   its tracks is to try and shut things down."
 
-   What he could never acknowledge was that âshutting things downâ didnât
-   stop the virus, and that keeping schools closed didnât save kidsâ
+   What he could never acknowledge was that "shutting things down" didn't
+   stop the virus, and that keeping schools closed didn't save kids'
    lives. Then again, to understand that, you had to be willing to follow
    the science.
 
@@ -690,15 +691,15 @@ Tags:
    we'll do it live
    [ld+json]
    we'll do it live
-   Trump Says âWeâre Going to Runâ Venezuela and âTakeâ Its Oil: Now What?
+   Trump Says `We're Going to Run' Venezuela and `Take' Its Oil: Now What?
    By Intelligencer Staff
-   Hereâs what happened, what may happen next, and collected commentary
+   Here's what happened, what may happen next, and collected commentary
    and analysis about what it all means.
    1/3/2026
    foreign interests
    [ld+json]
    foreign interests
-   Trumpâs Venezuela Coup Sets a Destabilizing Precedent
+   Trump's Venezuela Coup Sets a Destabilizing Precedent
    By Jonah Shepp
    Asserting the power to kidnap a head of state and take over their
    country could inspire other countries to do the same, or Trump to do it
@@ -709,31 +710,31 @@ Tags:
    early and often
    The Wildest Things Trump Said About the Venezuela Attack
    By Margaret Hartmann
-   From declaring âNobody can stop usâ to coining the term âDonroe
-   Document,â Trumpâs remarks on the attack were staggeringly dumb and
+   From declaring "Nobody can stop us" to coining the term "Donroe
+   Document," Trump's remarks on the attack were staggeringly dumb and
    brazen.
 
 Most Popular
 
-    1. Trump Says âWeâre Going to Runâ Venezuela and âTakeâ Its Oil: Now
+    1. Trump Says `We're Going to Run' Venezuela and `Take' Its Oil: Now
        What?
        By Intelligencer Staff
     2. The Wildest Things Trump Said About the Venezuela Attack
        By Margaret Hartmann
-    3. What Zohran Mamdani Has Done Since Becoming Mayor
-       By Nia Prater and Chas Danner
-    4. Trumpâs Venezuela Coup Sets a Destabilizing Precedent
+    3. Trump's Venezuela Coup Sets a Destabilizing Precedent
        By Jonah Shepp
+    4. What Zohran Mamdani Has Done Since Becoming Mayor
+       By Nia Prater and Chas Danner
     5. Eric Adams Exited Gracie Mansion in the Most Eric Adams Way
        Possible
        By Matt Stieb
 
-    1. Trump Says âWeâre Going to Runâ Venezuela and âTakeâ Its Oil: Now
+    1. Trump Says `We're Going to Run' Venezuela and `Take' Its Oil: Now
        What?
        By Intelligencer Staff
     2. The Wildest Things Trump Said About the Venezuela Attack
        By Margaret Hartmann
-    3. Trumpâs Venezuela Coup Sets a Destabilizing Precedent
+    3. Trump's Venezuela Coup Sets a Destabilizing Precedent
        By Jonah Shepp
     4. What Zohran Mamdani Has Done Since Becoming Mayor
        By Nia Prater and Chas Danner
@@ -745,7 +746,7 @@ Most Popular
    early and often
    [ld+json]
    early and often
-   Californiaâs Starless Governorâs Race Could Get Very Weird
+   California's Starless Governor's Race Could Get Very Weird
    By Ed Kilgore
    After a series of legendary governors, the state will be led by someone
    from a large field of lesser-known politicians, possibly even a
@@ -757,7 +758,7 @@ Most Popular
    Eric Adams Exited Gracie Mansion in the Most Eric Adams Way Possible
    By Matt Stieb
    On his way out, Adams dropped weird catchphrases, hit back at Andy
-   Cohen for his âdrunken rant,â and vowed to fight antisemitism with
+   Cohen for his "drunken rant," and vowed to fight antisemitism with
    cryptocurrency.
    1/2/2026
    the city politic
@@ -765,30 +766,30 @@ Most Popular
    the city politic
    What Zohran Mamdani Has Done Since Becoming Mayor
    By Nia Prater and Chas Danner
-   A look at the new mayorâs first wave of executive orders and
+   A look at the new mayor's first wave of executive orders and
    appointees, his moving plans, and his misuse of a subway floor.
    1/2/2026
    tremendous content
    [ld+json]
    tremendous content
-   Trump Fears âThick Blood,â So Heâs Taking Way Too Much Aspirin
+   Trump Fears `Thick Blood,' So He's Taking Way Too Much Aspirin
    By Margaret Hartmann
    The president said he has a persistent hand bruise because he takes a
-   huge dose of daily aspirin, against his doctorsâ wishes.
+   huge dose of daily aspirin, against his doctors' wishes.
    1/2/2026
    the law
    [ld+json]
    the law
-   How Trumpâs Justice Department Is Dropping the Ball on the Epstein
+   How Trump's Justice Department Is Dropping the Ball on the Epstein
    Files
    By Elie Honig
-   For all their bluster about âtransparency,â Pam Bondi and Todd Blanche
+   For all their bluster about "transparency," Pam Bondi and Todd Blanche
    have ignored the requirements of the new law.
    1/2/2026
    screen time
    [ld+json]
    screen time
-   How Elon Muskâs X Shapes the AI Boom
+   How Elon Musk's X Shapes the AI Boom
    By John Herrman
    Like it or not, the artificial-intelligence race is playing out on X.
    That fact has some big implications.
@@ -798,8 +799,8 @@ Most Popular
    the city politic
    Mamdani Begins
    By David Freedlander
-   The new mayorâs inauguration aimed to set a bold new progressive
-   standard. Now weâll see if he and his administration can also do the
+   The new mayor's inauguration aimed to set a bold new progressive
+   standard. Now we'll see if he and his administration can also do the
    work.
    1/1/2026
    american affairs
@@ -807,7 +808,7 @@ Most Popular
    american affairs
    The Democratic Party Is Making a Big Mistake
    By Ross Barkan
-   Party elites have a pathological aversion to introspection. Thatâs
+   Party elites have a pathological aversion to introspection. That's
    dangerous headed into a major election year.
    12/31/2025
    the city politic
@@ -820,10 +821,10 @@ Most Popular
    tremendous content
    [ld+json]
    tremendous content
-   Trump Teases White House Ballroom Is âBigger Than I Told Youâ
+   Trump Teases White House Ballroom Is `Bigger Than I Told You'
    By Margaret Hartmann
-   The ballroom also features a âdrone-free roof,â and weâll be holding
-   inaugurations in there â or the president might just be spitballing.
+   The ballroom also features a "drone-free roof," and we'll be holding
+   inaugurations in there -- or the president might just be spitballing.
    12/30/2025
    politics
    [ld+json]
@@ -851,18 +852,10 @@ Most Popular
    tremendous content
    [ld+json]
    tremendous content
-   Trumpâs Hand Bruise Is on the Move
+   Trump's Hand Bruise Is on the Move
    By Margaret Hartmann
-   While the White House still claims itâs a hand-shaking injury, the
-   bruise is now on Trumpâs left hand, too.
-   12/29/2025
-   the city politic
-   [ld+json]
-   the city politic
-   The New Mayorâs Power Brokers
-   By Matt Stieb and Nia Prater
-   Even as Zohran Mamdani expands his circle, a tight-knit group has his
-   ear.
+   While the White House still claims it's a hand-shaking injury, the
+   bruise is now on Trump's left hand, too.
    12/29/2025
    the city politic
    [ld+json]
@@ -871,11 +864,19 @@ Most Popular
    By David Freedlander
    He is a brilliant political talent with dizzying ambitions to change
    the city. Is he ready for the actual job, though?
+   12/29/2025
+   the city politic
+   [ld+json]
+   the city politic
+   The New Mayor's Power Brokers
+   By Matt Stieb and Nia Prater
+   Even as Zohran Mamdani expands his circle, a tight-knit group has his
+   ear.
    12/28/2025
    early and often
    [ld+json]
    early and often
-   Why History Points to Huge 2026 Losses for Trumpâs GOP
+   Why History Points to Huge 2026 Losses for Trump's GOP
    By Ed Kilgore
    A few presidents have pulled off what Trump is trying to do in the 2026
    midterms. None had much in common with Trump or his party.
@@ -886,18 +887,18 @@ Most Popular
    5 Big Questions for Sports in 2026
    By Will Leitch
    From the spread-out Winter Olympics to the Trump-heavy World Cup to a
-   looming MLB lockout, thereâs a lot on the horizon.
+   looming MLB lockout, there's a lot on the horizon.
    12/26/2025
    the approval matrix
    [ld+json]
    the approval matrix
-   The 2025 Approval Matrix: A Very Allâs Fair Year
+   The 2025 Approval Matrix: A Very All's Fair Year
    Our deliberately oversimplified retrospective of the year that was.
    12/26/2025
    early and often
    [ld+json]
    early and often
-   2025âs Biggest Political Losers
+   2025's Biggest Political Losers
    By Ed Kilgore
    It was a rough year for a lot of people in Washington. But few had as
    bad a 2025 as Elise Stefanik and Andrew Cuomo.
@@ -914,7 +915,7 @@ Most Popular
    early and often
    Trump Started 2025 Strong, Then His Approval Rating Crashed
    By Ed Kilgore
-   The presidentâs back in the polling doldrums where he spent most of his
+   The president's back in the polling doldrums where he spent most of his
    first term, with particularly bad numbers on the economy.
 
    (BUTTON)
@@ -970,9 +971,9 @@ Create Your Free Account
    (BUTTON) Sign In (BUTTON) Create Account
    (BUTTON)
 
-Youâre in!
+You're in!
 
-   As part of your account, youâll receive occasional updates and offers
+   As part of your account, you'll receive occasional updates and offers
    from New York, which you can opt out of anytime.
    (BUTTON) Continue Reading
 
@@ -1019,9 +1020,9 @@ Create Your Free Account
    (BUTTON) Sign In (BUTTON) Create Account
    (BUTTON)
 
-Youâre in!
+You're in!
 
-   As part of your account, youâll receive occasional updates and offers
+   As part of your account, you'll receive occasional updates and offers
    from New York, which you can opt out of anytime.
    (BUTTON) Continue Reading
    (BUTTON)
@@ -1062,14 +1063,14 @@ Youâre in!
      * Contact
      * Press
      * Media Kit
-     * Weâre Hiring
+     * We're Hiring
      * Privacy
      * Terms
      * Ad Choices
      * Accessibility
      * (BUTTON) Do not sell or share my personal data
 
-   intelligencer is a Vox Media Network. Â© 2026 Vox Media, LLC. All rights
+   intelligencer is a Vox Media Network. © 2026 Vox Media, LLC. All rights
    reserved.
 
    IFRAME: https://metrics.nymag.com/gtm.js?id=GTM-NL7LR9Z

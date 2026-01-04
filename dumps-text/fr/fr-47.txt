@@ -1,18 +1,18 @@
    #JSON oEmbed (JSON) oEmbed (XML)
 
    [logo-SFEN.png] [logo-SFEN.png]
-   RGN L'information de rÃ©fÃ©rence sur l'Ã©nergie nuclÃ©aire
-   S'identifier AdhÃ©rer
+   RGN L'information de référence sur l'énergie nucléaire
+   S'identifier Adhérer
 
-     * Quâest-ce que la RGN ?
+     * Qu'est-ce que la RGN ?
      * Rubriques
-          + DÃ©cryptage
-          + Ãdito
+          + Décryptage
+          + Édito
           + En direct
           + Focus International
           + Histoire
           + Infographies
-          + NuclÃ©aire et SociÃ©tÃ©
+          + Nucléaire et Société
           + Portrait
           + Regard sur
           + Reportage
@@ -21,95 +21,95 @@
           + Zoom sur
           + On en parle
           + Formation
-          + Jeune gÃ©nÃ©ration
-          + Le nuclÃ©aire en chiffres
+          + Jeune génération
+          + Le nucléaire en chiffres
      * En direct
      * Dossiers
      * Archives
 
    Sfen In English
 
-   RGN > Sciences et techniques > La durÃ©e de fonctionnement des enceintes
+   RGN > Sciences et techniques > La durée de fonctionnement des enceintes
    de confinement
 
-La durÃ©e de fonctionnement des enceintes de confinement
+La durée de fonctionnement des enceintes de confinement
 
-   PubliÃ© le 30 avril 2015 - Mis Ã  jour le 28 septembre 2021
+   Publié le 30 avril 2015 - Mis à jour le 28 septembre 2021
    ilotnucleaire
 
-Deux conceptions dâenceintes de confinement
+Deux conceptions d'enceintes de confinement
 
-   Comme son nom lâindique, lâenceinte doit confiner les produits
-   radioactifs prÃ©sents dans lâatmosphÃ¨re du bÃ¢timent rÃ©acteur en
-   situation accidentelle, pour protÃ©ger lâhomme et son environnement.
-   Pour cela, elle doit Ã  la fois rester intÃ¨gre alors que la pression
-   interne est amenÃ©e Ã  augmenter du fait de la vaporisation plus ou moins
-   rapide du fluide primaire (fonction tenue mÃ©canique), et ne pas laisser
-   les produits radioactifs sâÃ©chapper vers lâextÃ©rieur (fonction
-   confinement). LâÃ©tanchÃ©itÃ© de lâenceinte repose aussi sur celle des
-   circuits qui la traversent et dont la problÃ©matique sera Ã©voquÃ©e
-   briÃ¨vement, car ces organes dâisolement sont rÃ©parables et
-   remplaÃ§ables.
+   Comme son nom l'indique, l'enceinte doit confiner les produits
+   radioactifs présents dans l'atmosphère du bâtiment réacteur en
+   situation accidentelle, pour protéger l'homme et son environnement.
+   Pour cela, elle doit à la fois rester intègre alors que la pression
+   interne est amenée à augmenter du fait de la vaporisation plus ou moins
+   rapide du fluide primaire (fonction tenue mécanique), et ne pas laisser
+   les produits radioactifs s'échapper vers l'extérieur (fonction
+   confinement). L'étanchéité de l'enceinte repose aussi sur celle des
+   circuits qui la traversent et dont la problématique sera évoquée
+   brièvement, car ces organes d'isolement sont réparables et
+   remplaçables.
 
-   Sur le parc nuclÃ©aire franÃ§ais en exploitation (hors EPR), deux
-   conceptions coexistent. La premiÃ¨re, sur le palier 900â¯MWe, est celle
-   des enceintes Ã  simple paroi (ESP) des rÃ©acteurs REP (rÃ©acteurs Ã  eau
-   sous pression) conÃ§ue initialement aux Ãtats-Unis. Elle est constituÃ©e
-   dâune enceinte en bÃ©ton armÃ© prÃ©contraint qui assure la tenue
-   mÃ©canique, Ã  lâintÃ©rieur de laquelle un liner (peau) mÃ©tallique est
-   ancrÃ© sur toute la surface, dÃ´me et radier inclus. Le liner, utilisÃ©
-   comme coffrage perdu lors du bÃ©tonnage, assure la fonction de
-   confinement. Le bÃ©ton ne porte ainsi aucun requis dâÃ©tanchÃ©itÃ©. La
-   prÃ©contrainte permet de crÃ©er dans la paroi de lâenceinte un Ã©tat
-   mÃ©canique de compression, cette compression sâopposant lors dâun
-   hypothÃ©tique accident aux tensions crÃ©Ã©es par la mise en pression de
-   lâenceinte. LâÃ©tat de contrainte ainsi atteint permet alors de ne pas
-   dÃ©passer les seuils dâendommagement du bÃ©ton. Pour les ESP, on parle
-   ainsi de concept dâÃ©tanchÃ©itÃ© statique de la paroi (unique).
+   Sur le parc nucléaire français en exploitation (hors EPR), deux
+   conceptions coexistent. La première, sur le palier 900MWe, est celle
+   des enceintes à simple paroi (ESP) des réacteurs REP (réacteurs à eau
+   sous pression) conçue initialement aux États-Unis. Elle est constituée
+   d'une enceinte en béton armé précontraint qui assure la tenue
+   mécanique, à l'intérieur de laquelle un liner (peau) métallique est
+   ancré sur toute la surface, dôme et radier inclus. Le liner, utilisé
+   comme coffrage perdu lors du bétonnage, assure la fonction de
+   confinement. Le béton ne porte ainsi aucun requis d'étanchéité. La
+   précontrainte permet de créer dans la paroi de l'enceinte un état
+   mécanique de compression, cette compression s'opposant lors d'un
+   hypothétique accident aux tensions créées par la mise en pression de
+   l'enceinte. L'état de contrainte ainsi atteint permet alors de ne pas
+   dépasser les seuils d'endommagement du béton. Pour les ESP, on parle
+   ainsi de concept d'étanchéité statique de la paroi (unique).
 
-   Plus tard, les enceintes Ã  double paroi (EDP) sont apparues sur les
-   paliers 1â300 et 1â450â¯MW. Si le bÃ©ton prÃ©contraint de la paroi interne
-   continue dâassurer la fonction de tenue mÃ©canique, on lui confie aussi
-   le rÃ´le de barriÃ¨re dâÃ©tanchÃ©itÃ©. Pour cela, le niveau de prÃ©contrainte
-   a Ã©tÃ© sensiblement augmentÃ© pour que la paroi demeure dans un Ã©tat
-   comprimÃ© mÃªme lorsquâelle est sollicitÃ©e par une pression interne
-   engendrant des efforts de traction. On comprend aisÃ©ment le principe
-   retenu par les concepteurs, les Ã©ventuelles fissures du bÃ©ton ne
-   pouvant sâouvrir lorsque la paroi est comprimÃ©e. Lâenceinte interne est
-   protÃ©gÃ©e des agressions extÃ©rieures par une seconde enceinte, en bÃ©ton
-   armÃ©. Lâespace crÃ©Ã© entre les deux enceintes â lâEspace entreâenceintes
-   (EEE) â permet de collecter la fuite de lâenceinte interne (aspect
-   confinement) et sa filtration avant rejet par un systÃ¨me actif de
-   filtres et de ventilateurs dâextraction (aspect dynamique). Pour les
-   EDP, on parle donc dâun concept mixte dâÃ©tanchÃ©itÃ©â: statique pour la
-   paroi interne et dynamique pour lâespace entre-enceintes.
+   Plus tard, les enceintes à double paroi (EDP) sont apparues sur les
+   paliers 1 300 et 1 450MW. Si le béton précontraint de la paroi interne
+   continue d'assurer la fonction de tenue mécanique, on lui confie aussi
+   le rôle de barrière d'étanchéité. Pour cela, le niveau de précontrainte
+   a été sensiblement augmenté pour que la paroi demeure dans un état
+   comprimé même lorsqu'elle est sollicitée par une pression interne
+   engendrant des efforts de traction. On comprend aisément le principe
+   retenu par les concepteurs, les éventuelles fissures du béton ne
+   pouvant s'ouvrir lorsque la paroi est comprimée. L'enceinte interne est
+   protégée des agressions extérieures par une seconde enceinte, en béton
+   armé. L'espace créé entre les deux enceintes - l'Espace entre-enceintes
+   (EEE) - permet de collecter la fuite de l'enceinte interne (aspect
+   confinement) et sa filtration avant rejet par un système actif de
+   filtres et de ventilateurs d'extraction (aspect dynamique). Pour les
+   EDP, on parle donc d'un concept mixte d'étanchéité : statique pour la
+   paroi interne et dynamique pour l'espace entre-enceintes.
 
    Prolongez la lecture de la RGN
 
-   Cet article est rÃ©servÃ© aux adhÃ©rents de la SFEN. Pour lire la suite et
-   avoir accÃ¨s Ã  lâensemble de nos archives, abonnez-vous Ã  la Revue
-   GÃ©nÃ©rale NuclÃ©aire.
-   DÃ©jÃ  adhÃ©rent ? Identifiez-vous !
+   Cet article est réservé aux adhérents de la SFEN. Pour lire la suite et
+   avoir accès à l'ensemble de nos archives, abonnez-vous à la Revue
+   Générale Nucléaire.
+   Déjà adhérent ? Identifiez-vous !
    Abonnez-vous !
 
-   Par BenoÃ®t Masson â EDF SEPTEN
-   DÃ©couvrez aussi ...
+   Par Benoît Masson - EDF SEPTEN
+   Découvrez aussi ...
 
-Quelles pistes pour augmenter la disponibilitÃ© du parc nuclÃ©aire franÃ§ais ?
+Quelles pistes pour augmenter la disponibilité du parc nucléaire français ?
 
-   PubliÃ© le 29 aoÃ»t 2025
+   Publié le 29 août 2025
 
 1979, Three Mile Island : retour sur un accident multidimensionnel
 
-   PubliÃ© le 20 fÃ©vrier 2025
+   Publié le 20 février 2025
 
-ARC-NuclÃ©art : le nuclÃ©aire au chevet du patrimoine
+ARC-Nucléart : le nucléaire au chevet du patrimoine
 
-   PubliÃ© le 29 octobre 2024
+   Publié le 29 octobre 2024
 
    [sfen-mobile.png]
 
-SociÃ©tÃ© franÃ§aise dâÃ©nergie nuclÃ©aire
+Société française d'énergie nucléaire
 
    Nous contacter Nous suivre
      *
@@ -117,67 +117,67 @@ SociÃ©tÃ© franÃ§aise dâÃ©nergie nuclÃ©aire
      *
      *
 
-     * Mentions lÃ©gales
-     * Politique de confidentialitÃ©
+     * Mentions légales
+     * Politique de confidentialité
 
-   AcadÃ©mie 235
+   Académie 235
    Qui sommes-nous ?
    Nos travaux
-   Nos Ã©vÃ©nements
-   Dans les mÃ©dias
-   Revue GÃ©nÃ©rale du NuclÃ©aire
-   SociÃ©tÃ© franÃ§aise dâÃ©nergie nuclÃ©aire CrÃ©Ã©e en 1973, la Sfen a pour
-   mission le dÃ©veloppement des connaissances de toutes celles et ceux qui
-   sâintÃ©ressent Ã  lâÃ©nergie nuclÃ©aire.
+   Nos événements
+   Dans les médias
+   Revue Générale du Nucléaire
+   Société française d'énergie nucléaire Créée en 1973, la Sfen a pour
+   mission le développement des connaissances de toutes celles et ceux qui
+   s'intéressent à l'énergie nucléaire.
    [logo-SFEN.png]
-   (BUTTON) Ã
+   (BUTTON) ×
 
 Academie 235
 
-   Des ressources pour dÃ©velopper ses connaissances sur lâÃ©nergie
-   nuclÃ©aire
+   Des ressources pour développer ses connaissances sur l'énergie
+   nucléaire
 
 Qui sommes-nous ?
 
-   Une association de femmes et d'hommes pour faire avancer le nuclÃ©aire
+   Une association de femmes et d'hommes pour faire avancer le nucléaire
 
 Nos travaux
 
-   Les analyses de nos sections techniques pour nourrir le dÃ©bat public
+   Les analyses de nos sections techniques pour nourrir le débat public
 
-Nos Ã©vÃ©nements
+Nos événements
 
-   Des rendez-vous pour discuter des derniÃ¨res avancÃ©es du nuclÃ©aire
+   Des rendez-vous pour discuter des dernières avancées du nucléaire
 
-Dans les mÃ©dias
+Dans les médias
 
-   Une prÃ©sence pour enrichir les dÃ©bats sur lâÃ©nergie nuclÃ©aire
+   Une présence pour enrichir les débats sur l'énergie nucléaire
 
-Revue GÃ©nÃ©rale du NuclÃ©aire
+Revue Générale du Nucléaire
 
-   L'information de rÃ©fÃ©rence sur l'Ã©nergie nuclÃ©aire
-   Votre recherche Rechercher un article par mot(s) clÃ©(s)
+   L'information de référence sur l'énergie nucléaire
+   Votre recherche Rechercher un article par mot(s) clé(s)
    [logo-SFEN.png]
-   (BUTTON) Ã
+   (BUTTON) ×
    Search for: ____________________ (BUTTON) Search
    Information
-   (BUTTON) Ã
+   (BUTTON) ×
 
-   Votre espace adhÃ©rent Sfen fait peau neuve pendant les fÃªtes ! Vous
-   pourrez vous y connecter de nouveau Ã  la mi-janvier.
+   Votre espace adhérent Sfen fait peau neuve pendant les fêtes ! Vous
+   pourrez vous y connecter de nouveau à la mi-janvier.
 
    (BUTTON)
    [logo-SFEN.png]
 
-     * Quâest-ce que la RGN ?
+     * Qu'est-ce que la RGN ?
      * Rubriques
-          + DÃ©cryptage
-          + Ãdito
+          + Décryptage
+          + Édito
           + En direct
           + Focus International
           + Histoire
           + Infographies
-          + NuclÃ©aire et SociÃ©tÃ©
+          + Nucléaire et Société
           + Portrait
           + Regard sur
           + Reportage
@@ -186,36 +186,36 @@ Revue GÃ©nÃ©rale du NuclÃ©aire
           + Zoom sur
           + On en parle
           + Formation
-          + Jeune gÃ©nÃ©ration
-          + Le nuclÃ©aire en chiffres
+          + Jeune génération
+          + Le nucléaire en chiffres
      * En direct
      * Dossiers
      * Archives
 
 Academie 235
 
-   Des ressources pour dÃ©velopper ses connaissances sur lâÃ©nergie
-   nuclÃ©aire
+   Des ressources pour développer ses connaissances sur l'énergie
+   nucléaire
 
 Qui sommes-nous ?
 
-   Une association de femmes et d'hommes pour faire avancer le nuclÃ©aire
+   Une association de femmes et d'hommes pour faire avancer le nucléaire
 
 Nos travaux
 
-   Les analyses de nos sections techniques pour nourrir le dÃ©bat public
+   Les analyses de nos sections techniques pour nourrir le débat public
 
-Nos Ã©vÃ©nements
+Nos événements
 
-   Des rendez-vous pour discuter des derniÃ¨res avancÃ©es du nuclÃ©aire
+   Des rendez-vous pour discuter des dernières avancées du nucléaire
 
-Dans les mÃ©dias
+Dans les médias
 
-   Une prÃ©sence pour enrichir les dÃ©bats sur lâÃ©nergie nuclÃ©aire
+   Une présence pour enrichir les débats sur l'énergie nucléaire
 
-Revue GÃ©nÃ©rale du NuclÃ©aire
+Revue Générale du Nucléaire
 
-   L'information de rÃ©fÃ©rence sur l'Ã©nergie nuclÃ©aire
+   L'information de référence sur l'énergie nucléaire
 
    We use cookies to ensure that we give you the best experience on our
    website. If you continue to use this site we will assume that you are
