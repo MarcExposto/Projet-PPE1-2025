@@ -55,7 +55,7 @@ Mitigation Potential for South Asia
           Volume 22, Issue 4, April 2022
           17 March 2022
 
-   Reach: 9817
+   Reach: 9818
    Empty
      *  Print
      * Email
@@ -1375,58 +1375,58 @@ REFERENCES
 
 Other readers also read ...
 
-   Temporal and Spatial Distribution Characteristics of NOx Emissions of
-   City Buses on Real Road Based on Spatial Autocorrelation
-   Temporal and Spatial Distribution Characteristics of NOx Emissions of
-   City Buses on Real Road Based on Spatial Autocorrelation
+   A Technical Overview on Beta-Attenuation Method for the Monitoring of
+   Particulate Matter in Ambient Air
+   A Technical Overview on Beta-Attenuation Method for the Monitoring of
+   Particulate Matter in Ambient Air
 
    Read more: ...
-   Chemical Looping Combustion of Isopropanol in Aqueous Solution with
-   Fabricated Fe2O3/Al2O3 and Fe2O3/Al2O3/TiO2 Oxygen Carriers
-   Chemical Looping Combustion of Isopropanol in Aqueous Solution with
-   Fabricated Fe2O3/Al2O3 and Fe2O3/Al2O3/TiO2 Oxygen Carriers
+   Volatile Organic Compounds and Carbonyls Pollution in Mexico City and
+   an Urban Industrialized Area of Central Mexico
+   Volatile Organic Compounds and Carbonyls Pollution in Mexico City and
+   an Urban Industrialized Area of Central Mexico
 
    Read more: ...
-   Impact of COVID-19 Case Numbers on the Emission of Pollutants from a
-   Medical Waste Incineration Plant
-   Impact of COVID-19 Case Numbers on the Emission of Pollutants from a
-   Medical Waste Incineration Plant
+   Probable Relationship between COVID-19, Pollutants and Meteorology: A
+   Case Study at Santiago, Chile
+   Probable Relationship between COVID-19, Pollutants and Meteorology: A
+   Case Study at Santiago, Chile
 
    Read more: ...
-   On the Filtration efficiency of Composite Media Composed of Multiple
-   Layers of Electret Media
-   On the Filtration Efficiency of Composite Media Composed of Multiple
-   Layers of Electret Media
+   Physicochemical Characteristics of Particulate Matter Emitted from the
+   Oxygenated Fuel/Diesel Blend Engine
+   Physicochemical Characteristics of Particulate Matter Emitted from the
+   Oxygenated Fuel/Diesel Blend Engine
 
    Read more: ...
-   Chemical Characteristics and Trends of Indian Summer Monsoon Rainfall:
-   A Review
-   Chemical Characteristics and Trends of Indian Summer Monsoon Rainfall:
-   A Review
+   Long-term Characterization of Urban PM10 in Hungary
+   Long-term Characterization of Urban PM10 in Hungary
 
    Read more: ...
-   Atmospheric Concentration, Particle-bound Content, and Dry Deposition
-   of PCDD/Fs
-   Atmospheric Concentration, Particle-bound Content, and Dry Deposition
-   of PCDD/Fs
+   Comparing the Change in Air Quality during the COVID-19 Lockdown
+   between Dry and Wet Seasons in Nepal
+   Comparing the Change in Air Quality during the COVID-19 Lockdown
+   between Dry and Wet Seasons in Nepal
 
    Read more: ...
-   Effects of COVID-19 Emergency Response Levels on Air Quality in the
-   Guangdong-Hong Kong-Macao Greater Bay Area, China
-   Effects of COVID-19 Emergency Response Levels on Air Quality in the
-   Guangdong-Hong Kong-Macao Greater Bay Area, China
+   Review of Comprehensive Measurements of Speciated NOy and its
+   Chemistry: Need for Quantifying the Role of Heterogeneous Processes of
+   HNO3 and HONO
+   Review of Comprehensive Measurements of Speciated NOy and its
+   Chemistry: Need for Quantifying the Role of Heterogeneous Processes of
+   HNO3 and HONO
 
    Read more: ...
-   Refined Source Apportionment of Atmospheric PM2.5 in a Typical City in
-   Northwest China
-   Refined Source Apportionment of Atmospheric PM2.5 in a Typical City in
-   Northwest China
+   Filtration Efficiency of Air Conditioner Filters and Face Masks to
+   Limit Exposure to Aerosolized Algal Toxins
+   Filtration Efficiency of Air Conditioner Filters and Face Masks to
+   Limit Exposure to Aerosolized Algal Toxins
 
    Read more: ...
-   Air Quality Status in Wuhan City during and One Year after the COVID-19
-   Lockdown
-   Air Quality Status in Wuhan City during and One Year after the COVID-19
-   Lockdown
+   Suppression Efficiency for Dust from an Iron Ore Pile Using a
+   Conventional Sprinkler and a Water Mist Generator
+   Suppression Efficiency for Dust from an Iron Ore Pile Using a
+   Conventional Sprinkler and a Water Mist Generator
 
    Read more: ...
 
@@ -1442,7 +1442,7 @@ Other readers also read ...
    Email Address *
    ____________________
    (BUTTON) Subscribe
-   Message ____________________
+   Name ____________________
 
    Aerosol and Air Quality Research is an Open Access Journal
    8.3
@@ -1469,20 +1469,19 @@ Other readers also read ...
      * Most Read
      * In Press
 
-     * Emissions and Chemical Components of PM2.5 from Simulated Cooking
-       Conditions Using Traditional Cookstoves and Fuels under a Dilution
-       Tunnel System (Volume 21, Issue 7, July 2021)
-     * Analysis of Air Quality during the COVID-19 Pandemic Lockdown in
-       Naples (Italy) (Volume 21, Issue 2, February 2021)
-     * A Performance Evaluation and Inter-laboratory Comparison of
-       Community Face Coverings Media in the Context of COVID-19 Pandemic
-       (Volume 21, Issue 6, June 2021)
-     * Impact of COVID-19 Pandemic on Air Pollution in Poland Based on
-       Surface Measurements and Satellite Data (Volume 21, Issue 7, July
-       2021)
-     * Effect of Double Masking with Silk or Cotton Over-masks on the
-       Source Control Capabilities of a Surgical Mask ( Volume 22, Issue
-       6, June 2022)
+     * Simultaneous Measurements of Carbonaceous Aerosol in Three Major
+       Cities in the Beijing-Tianjin-Hebei Region, China (Volume 22, Issue
+       8, August 2022)
+     * Effects of Lockdown due to the COVID-19 Pandemic on Air Quality at
+       Latin America's Largest Open-pit Coal Mine (Volume 21, Issue 8,
+       August 2021)
+     * Isothermal Evaporation Rate of Deposited Liquid Aerosols and the
+       SARS-CoV-2 Coronavirus Survival (Volume 21, Issue 3, March 2021)
+     * Respiratory Protective Equipment Reconsiderations in the Age of
+       SARS-CoV-2 (Volume 22, Issue 2, February 2022)
+     * Mixture Aerosols Filtration on Filters with Wide Fibre Diameter
+       Distribution - Comparison with Theoretical and Empirical Models (
+       Volume 22, Issue 6, June 2022)
 
 You may also like
 
@@ -1501,18 +1500,18 @@ You may also like
 
 Research Categories
 
-     * Air Toxics
-     * Bioaerosols
-     * Air Pollution Modeling
-     * CO2 Capture, Storage and Emission
-     * Diesel Engine Emission
-     * Indoor Air Quality
-     * Aerosol and Atmospheric Chemistry
      * Optical/Radiative Properties and Remote Sensing
-     * Low-Cost Sensors
-     * Nanoparticles
+     * Bioaerosols
+     * Indoor Air Quality
+     * Diesel Engine Emission
+     * Air Pollution Modeling
+     * Physical and Chemical Characteristics of Aerosols
      * Air Pollution and Health Effects
+     * Urban Air Quality
+     * Nanoparticles
+     * CO2 Capture, Storage and Emission
      * Aerosol Physics and Instrumentation
+     * Aerosol and Atmospheric Chemistry
 
 Research Regions
 
