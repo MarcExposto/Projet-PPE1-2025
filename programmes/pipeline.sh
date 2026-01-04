@@ -23,8 +23,9 @@ else
 fi
 
 # Calcul du chemin du script et de la racine
-CheminScript="$(cd "$(dirname "$0")" && pwd)"
-CheminRacineProjet="$(cd "${CheminScript}/.." && pwd)"
+#CheminScript="$(cd "$(dirname "$0")" && pwd)"
+#CheminRacineProjet="$(cd "${CheminScript}/.." && pwd)"
+CheminRacineProjet=".."
 
 # Création de l'arborescence si elle n'existe pas
 mkdir -p \
@@ -35,6 +36,7 @@ mkdir -p \
   "${CheminRacineProjet}/contextes/${Langue}" \
   "${CheminRacineProjet}/concordances/${Langue}" \
   "${CheminRacineProjet}/coocurrents" \
+  "${CheminRacineProjet}/tableaux" \
   "${CheminRacineProjet}/images"
 
 # Définition de fonctions à partir des scripts pour plus de lisibilité du code
@@ -76,6 +78,7 @@ while read -r line; do
   Robots=$(robots $Url)
   if [[ $Robots = 'Disallow' ]]; then
     printf "${id}\t${Url}\t${Robots}\t\t\t\t\t\t\t\n"
+    echo "${Langue}: ${id} non accepté par robots.txt" >&2
     ((id++))
     continue
   fi
@@ -86,6 +89,7 @@ while read -r line; do
   CodeHTTP=$(echo "${data}" | head -1)
   if [[ ! "${CodeHTTP}" =~ (2|3).. ]]; then
     printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t\t\t\t\t\t\n"
+    echo "${Langue}: ${id} code http supérieur à 400" >&2
     ((id++))
     continue
   fi
@@ -95,6 +99,7 @@ while read -r line; do
   ErreurConversion=$(convert_utf-8 "${CheminFichierAspiration}" "${Encodage}" 2>&1)
   if [[ -n "$ErreurConversion" ]]; then
     printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t${Encodage}\t\t\t\t\t\n"
+    echo "${Langue}: ${id} echec de la convertion de la page en UTF-8" >&2
     ((id++))
     continue
   fi
@@ -102,7 +107,7 @@ while read -r line; do
   CheminFichierTexte="${CheminRacineProjet}/dumps-text/${Langue}/${Langue}-${id}.txt"
   text_dump "${CheminFichierAspiration}" "${CheminFichierTexte}"
 
-  convert_utf-8 "${CheminFichierTexte}" ISO-8859-1
+  convert_utf-8 "${CheminFichierTexte}" ISO-8859-1 # La sortie par défaut de lynx est ISO-8859-1 et la converstion en UTF-8 a posteriori produit moins d'erreurs que de faire générer une sortie en UTF-8 à lynx
 
   NbMots=$(cat "${CheminFichierTexte}" | wc -w)
   if [[ -z "${NbMots}" ]]; then
