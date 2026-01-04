@@ -1,0 +1,539 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <style>
+    :root {
+    --bulma-primary-h: 194deg;
+    --bulma-link-h: 178deg;
+    --bulma-link-l: 37%;
+    --bulma-info-h: 226deg;
+    --bulma-danger-l: 56%;
+    --bulma-scheme-h: 278;
+    --bulma-light-l: 85%;
+    }
+    </style>
+
+    <title>PPE</title>
+  </head>
+  <body>
+    <!-- Section avec le menu -->
+    <nav class="navbar has-shadow is-info">
+      <div class="navbar-brand m1">
+        <a href="../index.html" class="navbar-item">
+          <h1 class="title is-4">Bigrammes coocurrents de confinement</h1>
+        </a>
+      </div>
+
+      <div class="navbar-menu">
+        <div class="navbar-start">
+          <a href="../index.html" class="navbar-item">Accueil</a>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Tableaux
+            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="../tableaux/fr.html"> Tableau Français </a>
+              <a class="navbar-item" href="../tableaux/en.html"> Tableau Anglais </a>
+            </div>
+          </div>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Concordanciers
+            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="../concordances/concordancier_fr.html"> Concordancier confinement </a>
+              <a class="navbar-item" href="../concordances/concordancier_en.html"> Concordancier lockdown </a>
+            </div>
+          </div>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Coocurrences
+            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="../coocurrents/fr.html"> Tokens coocurrents de confinement </a>
+              <a class="navbar-item" href="../coocurrents/en.html"> Tokens coocurrents de lockdown </a>
+              <a class="navbar-item" href="../coocurrents/fr_bigrammes.html"> Bigrammes coocurrents de confinement </a>
+              <a class="navbar-item" href="../coocurrents/en_bigrammes.html"> Bigrammes coocurrents de lockdown </a>
+            </div>
+          </div>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Analyses
+            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="../pages/anafr.html"> Analyse Français </a>
+              <a class="navbar-item" href="../pages/anen.html"> Analyse Anglais </a>
+              <a class="navbar-item" href="../pages/anmu.html"> Analyse Multingue </a>
+            </div>
+          </div>
+          <a href="../pages/equipe.html" class="navbar-item">Equipe</a>
+          <a href="../pages/code.html" class="navbar-item">Code</a>
+        </div>
+      </div>
+    </nav>
+    <section class="hero is-info mb-5">
+      <div class="hero-body">
+        <p class="title is-3">Bigrammes coocurrents de confinement</p>
+      </div>
+    </section>
+
+    <section class="container mb-5">
+      <div class="table-container">
+              <table class='table is-bordered is-striped is-centered'>
+        <tbody>
+          <tr>
+            <th>token</th>
+            <th>corpus size</th>
+            <th>all contexts size</th>
+            <th>frequency</th>
+            <th>co-frequency</th>
+            <th>specificity</th>
+          </tr>
+          <tr>
+            <td>les périodes</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>25</td>
+            <td>25</td>
+            <td>23.87</td>
+          </tr>
+          <tr>
+            <td>pendant les</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>28</td>
+            <td>26</td>
+            <td>22.35</td>
+          </tr>
+          <tr>
+            <td>périodes de</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>25</td>
+            <td>24</td>
+            <td>21.56</td>
+          </tr>
+          <tr>
+            <td>pendant le</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>16</td>
+            <td>16</td>
+            <td>15.27</td>
+          </tr>
+          <tr>
+            <td>durant le</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>13</td>
+            <td>13</td>
+            <td>12.40</td>
+          </tr>
+          <tr>
+            <td>de covid</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>41</td>
+            <td>20</td>
+            <td>8.73</td>
+          </tr>
+          <tr>
+            <td>liés à</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>12</td>
+            <td>10</td>
+            <td>7.82</td>
+          </tr>
+          <tr>
+            <td>pandémie de</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>31</td>
+            <td>16</td>
+            <td>7.55</td>
+          </tr>
+          <tr>
+            <td>covid 19</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>83</td>
+            <td>27</td>
+            <td>6.92</td>
+          </tr>
+          <tr>
+            <td>sortie de</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>7</td>
+            <td>7</td>
+            <td>6.68</td>
+          </tr>
+          <tr>
+            <td>la pandémie</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>35</td>
+            <td>16</td>
+            <td>6.63</td>
+          </tr>
+          <tr>
+            <td>selon le</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>23</td>
+            <td>11</td>
+            <td>4.97</td>
+          </tr>
+          <tr>
+            <td>lié à</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>7</td>
+            <td>6</td>
+            <td>4.93</td>
+          </tr>
+          <tr>
+            <td>de vie</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>50</td>
+            <td>17</td>
+            <td>4.91</td>
+          </tr>
+          <tr>
+            <td>sentiment d</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>16</td>
+            <td>9</td>
+            <td>4.88</td>
+          </tr>
+          <tr>
+            <td>d abandon</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>16</td>
+            <td>9</td>
+            <td>4.88</td>
+          </tr>
+          <tr>
+            <td>code] cette</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>5</td>
+            <td>5</td>
+            <td>4.77</td>
+          </tr>
+          <tr>
+            <td>section est</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>5</td>
+            <td>5</td>
+            <td>4.77</td>
+          </tr>
+          <tr>
+            <td>un extrait</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>5</td>
+            <td>5</td>
+            <td>4.77</td>
+          </tr>
+          <tr>
+            <td>extrait de</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>5</td>
+            <td>5</td>
+            <td>4.77</td>
+          </tr>
+          <tr>
+            <td>19 en</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>10</td>
+            <td>7</td>
+            <td>4.75</td>
+          </tr>
+          <tr>
+            <td>la période</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>11</td>
+            <td>7</td>
+            <td>4.36</td>
+          </tr>
+          <tr>
+            <td>est un</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>6</td>
+            <td>5</td>
+            <td>4.04</td>
+          </tr>
+          <tr>
+            <td>16 mars</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>6</td>
+            <td>5</td>
+            <td>4.04</td>
+          </tr>
+          <tr>
+            <td>le niveau</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>24</td>
+            <td>10</td>
+            <td>3.96</td>
+          </tr>
+          <tr>
+            <td>alors que</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>9</td>
+            <td>6</td>
+            <td>3.95</td>
+          </tr>
+          <tr>
+            <td>la sortie</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>le mot</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>jugent le</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>3 perception</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>perception du</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>comme pénible</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>et difficultés</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>scolaire selon</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>dégradée durant</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>4 perception</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>perception d</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>financière dégradée</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3.81</td>
+          </tr>
+          <tr>
+            <td>conditions de</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>10</td>
+            <td>6</td>
+            <td>3.60</td>
+          </tr>
+          <tr>
+            <td>que le</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>18</td>
+            <td>8</td>
+            <td>3.50</td>
+          </tr>
+          <tr>
+            <td>à la</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>85</td>
+            <td>20</td>
+            <td>3.26</td>
+          </tr>
+          <tr>
+            <td>niveau de</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>34</td>
+            <td>11</td>
+            <td>3.21</td>
+          </tr>
+          <tr>
+            <td>cette section</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>8</td>
+            <td>5</td>
+            <td>3.17</td>
+          </tr>
+          <tr>
+            <td>période de</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>8</td>
+            <td>5</td>
+            <td>3.17</td>
+          </tr>
+          <tr>
+            <td>abandon pendant</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>5</td>
+            <td>4</td>
+            <td>3.17</td>
+          </tr>
+          <tr>
+            <td>de 2020</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>5</td>
+            <td>4</td>
+            <td>3.17</td>
+          </tr>
+          <tr>
+            <td>pénible et</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>5</td>
+            <td>4</td>
+            <td>3.17</td>
+          </tr>
+          <tr>
+            <td>difficultés de</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>5</td>
+            <td>4</td>
+            <td>3.17</td>
+          </tr>
+          <tr>
+            <td>de suivi</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>5</td>
+            <td>4</td>
+            <td>3.17</td>
+          </tr>
+          <tr>
+            <td>| modifier</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>25</td>
+            <td>9</td>
+            <td>3.09</td>
+          </tr>
+          <tr>
+            <td>le code]</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>25</td>
+            <td>9</td>
+            <td>3.09</td>
+          </tr>
+          <tr>
+            <td>de 18</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>16</td>
+            <td>7</td>
+            <td>3.08</td>
+          </tr>
+          <tr>
+            <td>18 ans</td>
+            <td>29074</td>
+            <td>3238</td>
+            <td>16</td>
+            <td>7</td>
+            <td>3.08</td>
+          </tr>
+          <tr>
+            <td>en 
+
+      </div>
+    </section>
+  </body>
+  <!-- Section avec le footer -->
+  <footer class="footer" style="bottom:0; left: 0; right: 0">
+    <div class="content has-text-centered">
+      <p>
+        Copyright © L'équipe du groupe de
+        <a href="https://github.com/MarcExposto/Projet-PPE1-2025">PPE1</a>
+      </p>
+      <p>
+        Licence Creative Commons :
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0//"
+        >CC BY NC SA 4.0
+        </a>
+      </p>
+    </div>
+  </footer>
+</html>

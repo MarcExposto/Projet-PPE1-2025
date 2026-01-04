@@ -55,7 +55,7 @@ Mitigation Potential for South Asia
           Volume 22, Issue 4, April 2022
           17 March 2022
 
-   Reach: 9821
+   Reach: 9824
    Empty
      *  Print
      * Email
@@ -1375,64 +1375,53 @@ REFERENCES
 
 Other readers also read ...
 
-   Assessing the Filtration Effectiveness of a Portable Ultraviolet Air
-   Cleaner on Airborne SARS-CoV-2 Laden Droplets in a Patient Room: A
-   Numerical Study
-   Assessing the Filtration Effectiveness of a Portable Ultraviolet Air
-   Cleaner on Airborne SARS-CoV-2 Laden Droplets in a Patient Room: A
-   Numerical Study
+   Measurement of Black Carbon in Delhi: Evidences of Regional Transport,
+   Meteorology and Local Sources for Pollution Episodes
+   Measurement of Black Carbon in Delhi: Evidences of Regional Transport,
+   Meteorology and Local Sources for Pollution Episodes
 
    Read more: ...
-   Assessment of Reductions in Emission-driven Air Pollution during the
-   Beijing Olympic Games, Shanghai World Expo, Guangzhou Asian Games and
-   Wuhan COVID-19 Lockdown
-   Assessment of Reductions in Emission-driven Air Pollution during the
-   Beijing Olympic Games, Shanghai World Expo, Guangzhou Asian Games and
-   Wuhan COVID-19 Lockdown
+   Calibration of Low-cost Gas Sensors for Air Quality Monitoring
 
    Read more: ...
-   Variability and Source Characterization of Regional PM of Two Urban
-   Areas Dominated by Biomass Burning and Anthropogenic Emission
-   Variability and Source Characterization of Regional PM of Two Urban
-   Areas Dominated by Biomass Burning and Anthropogenic Emission
+   Air Quality Assessment by Moss Biomonitoring and Trace Metals
+   Atmospheric Deposition
+   Air Quality Assessment by Moss Biomonitoring and Trace Metals
+   Atmospheric Deposition
 
    Read more: ...
-   Improving Filtration Efficacy of Medical Face Masks
-   Improving Filtration Efficacy of Medical Face Masks
+   Impact of Biomass Burning on Air Quality in Temuco City, Chile
+   Impact of Biomass Burning on Air Quality in Temuco City, Chile
 
    Read more: ...
-   Design and Optimization of Cross-corrugated Triangular Ducts Towards
-   Reducing CO2 Emission and Improving Energy Efficiency
-   Design and Optimization of Cross-corrugated Triangular Ducts Towards
-   Reducing CO2 Emission and Improving Energy Efficiency
+   Assessing the Relationship between COVID-19, Air Quality, and
+   Meteorological Variables: A Case Study of Dhaka City in Bangladesh
+   Assessing the Relationship between COVID-19, Air Quality, and
+   Meteorological Variables: A Case Study of Dhaka City in Bangladesh
 
    Read more: ...
-   Influences of a Quasi-stationary Front on Particulate Matter in the
-   Low-latitude Plateau Region in China
-   Influences of a Quasi-stationary Front on Particulate Matter in the
-   Low-latitude Plateau Region in China
+   Chemical Fingerprints for PM2.5 in the Ambient Air near a Raw Material
+   Storage Site for Iron Ore, Coal, Limestone, and Sinter
+   Chemical Fingerprints for PM2.5 in the Ambient Air near a Raw Material
+   Storage Site for Iron Ore, Coal, Limestone, and Sinter
 
    Read more: ...
-   Quantitative Performance Analysis of Respiratory Facemasks Using
-   Atmospheric and Laboratory Generated Aerosols Following with Gamma
-   Sterilization
-   Quantitative Performance Analysis of Respiratory Facemasks Using
-   Atmospheric and Laboratory Generated Aerosols Following with Gamma
-   Sterilization
+   Survival of Expiratory Aerosols in a Room: Study Using a Bi-compartment
+   and Bi-component Indoor Air Model
+   Survival of Expiratory Aerosols in a Room: Study Using a Bi-compartment
+   and Bi-component Indoor Air Model
 
    Read more: ...
-   Isothermal Evaporation Rate of Deposited Liquid Aerosols and the
-   SARS-CoV-2 Coronavirus Survival
-   Isothermal Evaporation Rate of Deposited Liquid Aerosols and the
-   SARS-CoV-2 Coronavirus Survival
+   Characteristics of Chemical Composition and Particle Size Distribution
+   from Real Coal-fired Circulating Fluidised Bed (CFB) Boiler
+   Characteristics of Chemical Composition and Particle Size Distribution
+   from Real Coal-fired Circulating Fluidised Bed (CFB) Boiler
 
    Read more: ...
-   Understanding Air Quality Changes after Implementation of Mitigation
-   Measures during a Pandemic: A Scoping Review of Literature in the
-   United States
-   Understanding Air Quality Changes after Implementation of Mitigation
-   Measures during a Pandemic: A Scoping Review of Literature in the
-   United States
+   Impact of Climate Change and Air Pollution Forecasting Using Machine
+   Learning Techniques in Bishkek
+   Impact of Climate Change and Air Pollution Forecasting Using Machine
+   Learning Techniques in Bishkek
 
    Read more: ...
 
@@ -1448,7 +1437,7 @@ Other readers also read ...
    Email Address *
    ____________________
    (BUTTON) Subscribe
-   Name ____________________
+   Message ____________________
 
    Aerosol and Air Quality Research is an Open Access Journal
    8.3
@@ -1475,21 +1464,19 @@ Other readers also read ...
      * Most Read
      * In Press
 
-     * Simulation of SARS-CoV-2 Aerosol Emissions in the Infected
-       Population and Resulting Airborne Exposures in Different Indoor
-       Scenarios (Volume 21, Issue 2, February 2021)
-     * Ventilation Strategy for Proper IAQ in Existing Nurseries Buildings
-       - Lesson Learned from the Research during COVID-19 Pandemic (Volume
-       22, Issue 3, March 2022)
-     * Chemical Composition Characteristics and Source Apportionment of
-       PM2.5 in Ceramic Industrial Base during Winter (Volume 22, Issue 5,
-       May 2022)
-     * Indoor and Ambient Air Pollution in Chennai, India during COVID-19
-       Lockdown: An Affordable Sensors Study (Volume 22, Issue 1, January
-       2022)
-     * Aerosol Opto-physical Properties: Temporal Variation, Aerosol Type
-       Discrimination and Source Identification (Volume 22, Issue 10,
-       October 2022)
+     * Numerical Simulation of Condensation of Natural Fog Aerosol under
+       Acoustic Wave Action (Volume 21, Issue 4, April 2021)
+     * Impact of 21 June 2020 Annular Solar Eclipse on Meteorological
+       Parameters, O3 and CO at a High Mountain Site in Taiwan (Volume 22,
+       Issue 12, December 2022)
+     * Predicting Exposure to Dust Particles Using Spirometric Index and
+       Perception Studies among Farmers in Selected Farm Settlements in
+       Ogun State, Nigeria (Volume 21, Issue 7, July 2021)
+     * Prediction of High-ozone Events Using GAM, SMOTE, and Tail
+       Dependence Approaches in Texas (2005-2019) (Volume 21, Issue 10,
+       October 2021)
+     * Health Benefits Due to Reduction in Respirable Particulates during
+       COVID-19 Lockdown in India (Volume 21, Issue 5, May 2021)
 
 You may also like
 
@@ -1508,18 +1495,18 @@ You may also like
 
 Research Categories
 
-     * Optical/Radiative Properties and Remote Sensing
-     * Air Pollution and Health Effects
+     * Others
+     * Aerosol and Atmospheric Chemistry
+     * Bioaerosols
      * Nanoparticles
-     * Indoor Air Quality
-     * Air Pollution Modeling
      * Control Techniques and Strategy
      * Diesel Engine Emission
-     * Bioaerosols
+     * Air Pollution Modeling
      * Physical and Chemical Characteristics of Aerosols
-     * Aerosol and Atmospheric Chemistry
-     * Others
+     * Aerosol Physics and Instrumentation
+     * Air Toxics
      * Urban Air Quality
+     * Optical/Radiative Properties and Remote Sensing
 
 Research Regions
 

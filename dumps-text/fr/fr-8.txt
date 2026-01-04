@@ -15,6 +15,9 @@
    (BUTTON) France
    France Monde Politique Économie Société
      * Article
+       La candidate LFI à la mairie de Paris Sophia Chikirou jugée en mai
+       pour escroquerie
+     * Article
        Incendie à Crans-Montana : une victime française confirmée, 23
        blessés et huit disparus
      * Article
@@ -46,9 +49,6 @@
      * Article
        Béziers : cambriolée pendant les fêtes, une famille privée du
        matériel vital de sa fille polyhandicapée
-     * Article
-       Épiphanie : des galettes XXL de plus d'un mètre de diamètre
-       préparées pour l'Élysée
 
    (BUTTON) Précédent (BUTTON) Suivant
    France
@@ -87,7 +87,7 @@ Elle refuse que son employeur vienne chez elle, il lui interdit le
 télétravail : la Cour de cassation a tranché
      *
 
-Pouvoir d'achat : le taux d'épargne des Français atteint des niveaux records
+Craignez-vous de voir un jour disparaître les agences bancaires ?
 
    Pendant le confinement lié au Covid-19, qui démarrait le 17 mars 2020,
    de nouvelles habitudes de vie quotidienne ont émergé. Si certaines ont
@@ -145,17 +145,17 @@ Des habitudes encore ancrées dans notre quotidien ?
    (BUTTON) Partager
 
    Vos réactions doivent respecter nos CGU.
-     * 14:45
-       France - Incendie à Crans-Montana : une victime française
-       confirmée, 23 blessés et huit disparus
-     * 14:42
-       Monde - A Madrid, des milliers de personnes dénonçent l'"agression
-       impérialiste" au Venezuela
-     * 14:40
-       Sports - Serie A (J18) : Vainqueur à Rome, Naples recolle à Milan
-     * 14:24
-       France - Candidate LFI à la mairie de Paris, Sophia Chikirou sera
-       jugée pour escroquerie
+     * 15:49
+       Économie - Grèce: un problème technique aux fréquences aériens
+       provoque retards et reports de vols
+     * 15:40
+       Sports - Premier League (J20) : Leeds ralentit aussi Man Utd
+     * 15:35
+       Monde - Incendie d'un bar en Suisse: hommage vibrant aux victimes à
+       Crans-Montana
+     * 15:20
+       France - La candidate LFI à la mairie de Paris Sophia Chikirou
+       jugée en mai pour escroquerie
      * 09:20
        Auto - Vélo électrique : une autonomie fragile en hiver
 
@@ -165,8 +165,8 @@ Vidéos
 
    Tous publics
 
-Incendie à Crans-Montana: un ancien employé du bar pointe de nombreuses
-négligences
+"Crans-montana, c'était les mêmes images": un rescapé de l'incendie du 5-7,
+qui avait fait 146 morts en 1970, en Isère, témoigne
 
    4 janvier 2026 - BFMTV
    Toute l'actu en vidéos

@@ -18,11 +18,11 @@ CheminFichierTexte=$1
 TailleFenetre=$2
 MotCible=$3
 
-LignesOccurrences=$(egrep "${MotCible}" "${CheminFichierTexte}")
+LignesOccurrences="$(egrep "${MotCible}" "${CheminFichierTexte}")"
 
 while read -r line; do
-  ContexteGauche=$(echo "${line}" | LC_CTYPE=C sed -E "s/(.*)(${MotCible})(.*)/\1/")
-  OccurrenceMotCible=$(echo "${line}" | LC_CTYPE=C sed -E "s/(.*)(${MotCible})(.*)/\2/")
-  ContexteDroit=$(echo "${line}" | LC_CTYPE=C sed -E "s/(.*)(${MotCible})(.*)/\3/")
+  ContexteGauche="$(echo "${line}" | LC_CTYPE=C sed -E "s/(.*)(${MotCible})(.*)/\1/")"
+  OccurrenceMotCible="$(echo "${line}" | LC_CTYPE=C sed -E "s/(.*)(${MotCible})(.*)/\2/")"
+  ContexteDroit="$(echo "${line}" | LC_CTYPE=C sed -E "s/(.*)(${MotCible})(.*)/\3/")"
   printf "%s\t%s\t%s\n" "${ContexteGauche}" "${OccurrenceMotCible}" "${ContexteDroit}"
 done <<<"${LignesOccurrences}" # trois chevrons pour lire le contenu de la variable et pas le contenu du fichier dont le chemin est stoqué dans la variable, ce langage est HORRIBLE

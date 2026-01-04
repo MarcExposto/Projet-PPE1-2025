@@ -73,7 +73,7 @@ printf "%s\t%s\t%s\n" "Contexte Gauche" "Mot Cible" "Contexte Droit" >"${CheminF
 id=1
 
 # Entête du tableau
-printf " id \t url \t gestion de robots.txt \t code http \t encodage initial de la page \t lien vers la page brute \t lien vers le dump textuel \t nombre total de mots dans le dump \t nombre d'occurrences du mot cible dans le dump \t lien vers le concordancier\n"
+printf " id \t url \t gestion de robots.txt \t code http \t encodage initial de la page \t lien vers la page brute \t lien vers le dump textuel \t nombre total de mots dans le dump \t nombre d'occurrences du mot cible dans le dump\n"
 
 while read -r line; do
 
@@ -81,7 +81,7 @@ while read -r line; do
 
   Robots=$(robots $Url)
   if [[ $Robots = 'Disallow' ]]; then
-    printf "${id}\t${Url}\t${Robots}\t\t\t\t\t\t\t\n"
+    printf "${id}\t${Url}\t${Robots}\t\t\t\t\t\t\n"
     echo "${Langue}: ${id} non accepté par robots.txt" >&2
     ((id++))
     continue
@@ -92,7 +92,7 @@ while read -r line; do
 
   CodeHTTP=$(echo "${data}" | head -1)
   if [[ ! "${CodeHTTP}" =~ (2|3).. ]]; then
-    printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t\t\t\t\t\t\n"
+    printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t\t\t\t\t\n"
     echo "${Langue}: ${id} code http supérieur à 400" >&2
     ((id++))
     continue
@@ -102,7 +102,7 @@ while read -r line; do
 
   ErreurConversion=$(convert_utf-8 "${CheminFichierAspiration}" "${Encodage}" 2>&1)
   if [[ -n "$ErreurConversion" ]]; then
-    printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t${Encodage}\t\t\t\t\t\n"
+    printf "${id}\t${Url}\t${Robots}\t${CodeHTTP}\t${Encodage}\t\t\t\t\n"
     echo "${Langue}: ${id} echec de la convertion de la page en UTF-8" >&2
     ((id++))
     continue
@@ -134,10 +134,10 @@ while read -r line; do
   egrep -C 4 -i "${MotCible}" "${CheminFichierTexte}" >"${CheminFichierContextes}"
 
   # Ajout des concordances obtenues pour l'url courante dans le concordancier tsv
-  Concordancier_url_courante=$(concordances "${CheminFichierTexte}" "${TailleFenetre}" "${MotCible}")
+  Concordancier_url_courante="$(concordances "${CheminFichierTexte}" "${TailleFenetre}" "${MotCible}")"
   printf "${Concordancier_url_courante}" >>"${CheminFichierConcordances}"
 
-  printf "${id}\t<a href=${Url}>${Url}</a>\t${Robots}\t${CodeHTTP}\t${Encodage}\t<a href=${CheminFichierAspiration}>Lien page brute</a>\t<a href=${CheminFichierTexte}>Lien dump</a>\t${NbMots}\t${NbOccurrences}\t<a href=${CheminFichierConcordances}>Lien Concordancier</a>\n"
+  printf "${id}\t<a href=${Url}>${Url}</a>\t${Robots}\t${CodeHTTP}\t${Encodage}\t<a href=${CheminFichierAspiration}>Lien page brute</a>\t<a href=${CheminFichierTexte}>Lien dump</a>\t${NbMots}\t${NbOccurrences}\n"
 
   echo "${Langue}: ${id} terminé" >&2
   ((id++))

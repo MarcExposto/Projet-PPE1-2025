@@ -1,0 +1,921 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <style>
+    :root {
+    --bulma-primary-h: 194deg;
+    --bulma-link-h: 178deg;
+    --bulma-link-l: 37%;
+    --bulma-info-h: 226deg;
+    --bulma-danger-l: 56%;
+    --bulma-scheme-h: 278;
+    --bulma-light-l: 85%;
+    }
+    </style>
+
+    <title>PPE</title>
+  </head>
+  <body>
+    <!-- Section avec le menu -->
+    <nav class="navbar has-shadow is-info">
+      <div class="navbar-brand m1">
+        <a href="../index.html" class="navbar-item">
+          <h1 class="title is-4">Concordancier confinement</h1>
+        </a>
+      </div>
+
+      <div class="navbar-menu">
+        <div class="navbar-start">
+          <a href="../index.html" class="navbar-item">Accueil</a>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Tableaux
+            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="../tableaux/fr.html"> Tableau Français </a>
+              <a class="navbar-item" href="../tableaux/en.html"> Tableau Anglais </a>
+            </div>
+          </div>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Concordanciers
+            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="../concordances/concordancier_fr.html"> Concordancier confinement </a>
+              <a class="navbar-item" href="../concordances/concordancier_en.html"> Concordancier lockdown </a>
+            </div>
+          </div>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Coocurrences
+            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="../coocurrents/fr.html"> Tokens coocurrents de confinement </a>
+              <a class="navbar-item" href="../coocurrents/en.html"> Tokens coocurrents de lockdown </a>
+              <a class="navbar-item" href="../coocurrents/fr_bigrammes.html"> Bigrammes coocurrents de confinement </a>
+              <a class="navbar-item" href="../coocurrents/en_bigrammes.html"> Bigrammes coocurrents de lockdown </a>
+            </div>
+          </div>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Analyses
+            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="../pages/anafr.html"> Analyse Français </a>
+              <a class="navbar-item" href="../pages/anen.html"> Analyse Anglais </a>
+              <a class="navbar-item" href="../pages/anmu.html"> Analyse Multingue </a>
+            </div>
+          </div>
+          <a href="../pages/equipe.html" class="navbar-item">Equipe</a>
+          <a href="../pages/code.html" class="navbar-item">Code</a>
+        </div>
+      </div>
+    </nav>
+    <section class="hero is-info mb-5">
+      <div class="hero-body">
+        <p class="title is-3">Concordancier confinement</p>
+      </div>
+    </section>
+
+    <section class="container mb-5">
+      <div class="table-container">
+              <table class='table is-bordered is-striped is-centered'>
+        <tbody>
+          <tr>
+            <th>Contexte Gauche</th>
+            <th>Mot Cible</th>
+            <th>Contexte Droit</th>
+          </tr>
+          <tr>
+            <td>Cet article concerne le </td>
+            <td>confinement</td>
+            <td> des populations. Pour le</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td> dans les laboratoires biologiques, voir Confinement</td>
+          </tr>
+          <tr>
+            <td>le </td>
+            <td>confinement</td>
+            <td> de 2020 en Espagne.</td>
+          </tr>
+          <tr>
+            <td>Le </td>
+            <td>confinement</td>
+            <td> est une stratégie de réduction des risques sanitaires</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td> sanitaire est parfois utilisé en cas d'épidémie de maladie</td>
+          </tr>
+          <tr>
+            <td>de </td>
+            <td>confinement</td>
+            <td>, définies au niveau international, national et local</td>
+          </tr>
+          <tr>
+            <td>À la fin de la période du confinement s'ouvre celle du dé</td>
+            <td>confinement</td>
+            <td>,</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td> est alors réservé à des mesures qui touchent</td>
+          </tr>
+          <tr>
+            <td>n'emploie, dans un premier temps, ni le mot « </td>
+            <td>confinement</td>
+            <td> » ni le mot</td>
+          </tr>
+          <tr>
+            <td>mot </td>
+            <td>confinement</td>
+            <td> ne leur est pas adapté^[9].</td>
+          </tr>
+          <tr>
+            <td>L'objectif majeur poursuivi par une mesure de </td>
+            <td>confinement</td>
+            <td> est de</td>
+          </tr>
+          <tr>
+            <td>trois stratégies de </td>
+            <td>confinement</td>
+            <td>^[12]^,^[13] :</td>
+          </tr>
+          <tr>
+            <td>domicile, appelé aussi auto-</td>
+            <td>confinement</td>
+            <td> ; isolement collectif qui</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td>^[14]) ;</td>
+          </tr>
+          <tr>
+            <td>(parfois le terme est employé pour désigner le </td>
+            <td>confinement</td>
+            <td> de</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td> d'individus ou de groupes en bonne santé</td>
+          </tr>
+          <tr>
+            <td>(auto-</td>
+            <td>confinement</td>
+            <td> de la population) qui ont été potentiellement</td>
+          </tr>
+          <tr>
+            <td>exposés à un agent en cas de flambée épidémique^[15] (</td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>local, autour des foyers d'infection, ou </td>
+            <td>confinement</td>
+            <td> général ;</td>
+          </tr>
+          <tr>
+            <td>confinement partiel ou </td>
+            <td>confinement</td>
+            <td> total^[16]).</td>
+          </tr>
+          <tr>
+            <td>Au-delà des effets sanitaires recherchés, le </td>
+            <td>confinement</td>
+            <td> peut avoir des</td>
+          </tr>
+          <tr>
+            <td>Selon Stéphane Gayet, infectiologue, les </td>
+            <td>confinements</td>
+            <td> de 2020 liés à la</td>
+          </tr>
+          <tr>
+            <td>émotionnel. Le </td>
+            <td>confinement</td>
+            <td> à domicile COVID-19 a eu un effet</td>
+          </tr>
+          <tr>
+            <td>10 Comment a été vécu le </td>
+            <td>confinement</td>
+            <td> ? Quelles ont été les conséquences</td>
+          </tr>
+          <tr>
+            <td>Comment a été vécu le </td>
+            <td>confinement</td>
+            <td> ? Quelles ont été les conséquences</td>
+          </tr>
+          <tr>
+            <td>Le 16 mars 2020, Emmanuel Macron déclenchait le </td>
+            <td>confinement</td>
+            <td>. Au niveau</td>
+          </tr>
+          <tr>
+            <td>matérielles et sociales du </td>
+            <td>confinement</td>
+            <td> ?</td>
+          </tr>
+          <tr>
+            <td>Le 16 mars 2020, Emmanuel Macron décrète le </td>
+            <td>confinement</td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td>kilomètre. Le </td>
+            <td>confinement</td>
+            <td> sera prolongé jusqu'au 15 avril puis jusqu'au</td>
+          </tr>
+          <tr>
+            <td>dans le temps les conséquences du </td>
+            <td>confinement</td>
+            <td> sur la vie quotidienne</td>
+          </tr>
+          <tr>
+            <td>Le </td>
+            <td>confinement</td>
+            <td> révélateur d'inégalités</td>
+          </tr>
+          <tr>
+            <td>millions de personnes. Et un adulte sur 10 a passé le </td>
+            <td>confinement</td>
+            <td> dans</td>
+          </tr>
+          <tr>
+            <td>Et pendant le premier </td>
+            <td>confinement</td>
+            <td>, « 38 0es adultes se sont sentis</td>
+          </tr>
+          <tr>
+            <td>normal. » (...) "Et la veille du dé</td>
+            <td>confinement</td>
+            <td>, début mai, on avait un</td>
+          </tr>
+          <tr>
+            <td>Face à ce </td>
+            <td>confinement</td>
+            <td>, les Français ne sont pas restés passifs, comme</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td>, certains Français se sont déplacés ou regroupés, une</td>
+          </tr>
+          <tr>
+            <td>Pendant le premier </td>
+            <td>confinement</td>
+            <td>, les autorités avaient mis en place une</td>
+          </tr>
+          <tr>
+            <td>Mais a-t-on eu des baisses de revenus pendant le </td>
+            <td>confinement</td>
+            <td> ? Comme le</td>
+          </tr>
+          <tr>
+            <td>financières pendant le </td>
+            <td>confinement</td>
+            <td>. »</td>
+          </tr>
+          <tr>
+            <td>L'impact du </td>
+            <td>confinement</td>
+            <td> sur les relations au sein de la sphère familiale</td>
+          </tr>
+          <tr>
+            <td>ses relations avec ses enfants pendant le </td>
+            <td>confinement</td>
+            <td>, les pères aussi</td>
+          </tr>
+          <tr>
+            <td>pendant le premier </td>
+            <td>confinement</td>
+            <td>. Et le point important, c'est que pour</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td>. »</td>
+          </tr>
+          <tr>
+            <td>* Comment a été vécu le </td>
+            <td>confinement</td>
+            <td> ? Quelles ont été les4. Les effets négatifs du premier </td>
+            <td>confinement</td>
+            <td> sur l'hygiène de vie des</td>
+          </tr>
+          <tr>
+            <td>Les effets négatifs du premier </td>
+            <td>confinement</td>
+            <td> sur l'hygiène de vie des Français</td>
+          </tr>
+          <tr>
+            <td>le </td>
+            <td>confinement</td>
+            <td> que nous avons vécu au printemps a induit des</td>
+          </tr>
+          <tr>
+            <td>Alors que les Français vivent leur deuxième épisode de </td>
+            <td>confinement</td>
+            <td>, que</td>
+          </tr>
+          <tr>
+            <td>la troisième et la quatrième semaine de </td>
+            <td>confinement</td>
+            <td>, du 8 au 20 avril</td>
+          </tr>
+          <tr>
+            <td>depuis la mi-mars (début du </td>
+            <td>confinement</td>
+            <td>), pour cinq comportements</td>
+          </tr>
+          <tr>
+            <td>depuis le début </td>
+            <td>confinement</td>
+            <td> alors que seulement 4 sur 10 ont déclaré un</td>
+          </tr>
+          <tr>
+            <td>« Lors du </td>
+            <td>confinement</td>
+            <td>, le gouvernement laisse la possibilité à chacun</td>
+          </tr>
+          <tr>
+            <td>à expliquer la nécessité du </td>
+            <td>confinement</td>
+            <td>. Ces messages étaient légitimes</td>
+          </tr>
+          <tr>
+            <td>changements d'habitude lors du deuxième </td>
+            <td>confinement</td>
+            <td>, mais cela reste3. Conditions de vie pendant le </td>
+            <td>confinement</td>
+            <td> : des écarts selon le</td>
+          </tr>
+          <tr>
+            <td>Insee Focus Conditions de vie pendant le </td>
+            <td>confinement</td>
+            <td> : des écarts selon le</td>
+          </tr>
+          <tr>
+            <td>Le </td>
+            <td>confinement</td>
+            <td> sanitaire lié à l'épidémie de Covid-19 a duré près de</td>
+          </tr>
+          <tr>
+            <td>s'est dégradée. Les conséquences négatives du </td>
+            <td>confinement</td>
+            <td> ont été plus</td>
+          </tr>
+          <tr>
+            <td>6. Les personnes seules jugent le </td>
+            <td>confinement</td>
+            <td> plus pénible</td>
+          </tr>
+          <tr>
+            <td>Le </td>
+            <td>confinement</td>
+            <td> lié à l'épidémie de Covid-19 a eu de fortes conséquences</td>
+          </tr>
+          <tr>
+            <td>Le </td>
+            <td>confinement</td>
+            <td> a aussi eu des conséquences importantes sur les</td>
+          </tr>
+          <tr>
+            <td>télétravaillé pendant le </td>
+            <td>confinement</td>
+            <td> contre 53  0es plus aisés</td>
+          </tr>
+          <tr>
+            <td>phique -Figure 3 - Perception du </td>
+            <td>confinement</td>
+            <td> comme pément comme pénible</td>
+          </tr>
+          <tr>
+            <td>tableauFigure 3 - Perception du </td>
+            <td>confinement</td>
+            <td> comme pénible et difficultés de</td>
+          </tr>
+          <tr>
+            <td>CAPTION: Figure 3 - Perception du </td>
+            <td>confinement</td>
+            <td> comme pénible et</td>
+          </tr>
+          <tr>
+            <td>période de </td>
+            <td>confinement</td>
+            <td> vous a paru pénible (sur une échelle de</td>
+          </tr>
+          <tr>
+            <td>graphiqueFigure 3 - Perception du </td>
+            <td>confinement</td>
+            <td> comme pénible et difficultés de</td>
+          </tr>
+          <tr>
+            <td>période de </td>
+            <td>confinement</td>
+            <td> vous a paru pénible (sur une échelle de</td>
+          </tr>
+          <tr>
+            <td>s'est dégradée durant le </td>
+            <td>confinement</td>
+            <td>, 72 ''u'elle n'a pas changé et</td>
+          </tr>
+          <tr>
+            <td>égradée durant le </td>
+            <td>confinement</td>
+            <td> selon le niveau de vie]</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td> selon le niveau de vie</td>
+          </tr>
+          <tr>
+            <td>durant le </td>
+            <td>confinement</td>
+            <td> selon le niveau de vie (en Covid-19 : les habitudes du </td>
+            <td>confinement</td>
+            <td> qui ont marqué notre quotidien il y a</td>
+          </tr>
+          <tr>
+            <td>Pendant le </td>
+            <td>confinement</td>
+            <td> lié au Covid-19, qui démarrait le 17 mars 2020,</td>
+          </tr>
+          <tr>
+            <td>dans un </td>
+            <td>confinement</td>
+            <td> strict face à la pandémie du Covid-19. Pendant près</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td> qui, aujourd'hui, semblent presque comiques. Par exemple,</td>
+          </tr>
+          <tr>
+            <td>avait pris de l'ampleur pendant le </td>
+            <td>confinement</td>
+            <td>, n'a, elle, pas perduréUn </td>
+            <td>confinement</td>
+            <td> inutile, vraiment?</td>
+          </tr>
+          <tr>
+            <td>L'impatience monte alors que le </td>
+            <td>confinement</td>
+            <td> se prolonge et certains</td>
+          </tr>
+          <tr>
+            <td>questions autour du </td>
+            <td>confinement</td>
+            <td>. Commençons par le rappeler : oui le</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td> est utile. Pourquoi ? Parce qu'il permet de diminuer le</td>
+          </tr>
+          <tr>
+            <td>L'impatience monte alors que le </td>
+            <td>confinement</td>
+            <td> se prolonge et certains</td>
+          </tr>
+          <tr>
+            <td>questions autour du </td>
+            <td>confinement</td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td>Commençons par le rappeler : oui le </td>
+            <td>confinement</td>
+            <td> est utile. Pourquoi ?</td>
+          </tr>
+          <tr>
+            <td>deux autres. L'objectif du </td>
+            <td>confinement</td>
+            <td> est de descendre en dessous</td>
+          </tr>
+          <tr>
+            <td>S'il est utile, le </td>
+            <td>confinement</td>
+            <td> est une mesure qui demande du temps pour</td>
+          </tr>
+          <tr>
+            <td>d'autre solution que le </td>
+            <td>confinement</td>
+            <td> pour permettre une telle réduction</td>
+          </tr>
+          <tr>
+            <td>et l'Italie, que le </td>
+            <td>confinement</td>
+            <td> permet - après une période plus ou</td>
+          </tr>
+          <tr>
+            <td>diminuer le nombre journalier de nouvelles infections. Le </td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Si le </td>
+            <td>confinement</td>
+            <td> était interrompu en France aujourd'hui, on verrait très</td>
+          </tr>
+          <tr>
+            <td>Quelles sont alors les perspectives concernant le </td>
+            <td>confinement</td>
+            <td> ? À quel</td>
+          </tr>
+          <tr>
+            <td>de ce moment-là que la mise en oeuvre du dé</td>
+            <td>confinement</td>
+            <td> pourra être</td>
+          </tr>
+          <tr>
+            <td>vraisemblable que la stratégie adoptée soit celle d'un dé</td>
+            <td>confinement</td>
+            <td>3. Pendant les périodes de </td>
+            <td>confinement</td>
+            <td>, un tiers des personnes de</td>
+          </tr>
+          <tr>
+            <td>Insee Focus Pendant les périodes de </td>
+            <td>confinement</td>
+            <td>, un tiers des personnes</td>
+          </tr>
+          <tr>
+            <td>Pendant les périodes particulières des </td>
+            <td>confinements</td>
+            <td> liés à l'épidémie</td>
+          </tr>
+          <tr>
+            <td>Les périodes de </td>
+            <td>confinement</td>
+            <td> ont, par ailleurs, amené à adapter les</td>
+          </tr>
+          <tr>
+            <td>les périodes de </td>
+            <td>confinement</td>
+            <td>, contre un peu plus d'un quart avant la</td>
+          </tr>
+          <tr>
+            <td>récurrent pendant les </td>
+            <td>confinements</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>pendant les périodes de </td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>pendant les </td>
+            <td>confinements</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Les périodes de </td>
+            <td>confinement</td>
+            <td> liées à la pandémie de Covid-19 (17 mars -</td>
+          </tr>
+          <tr>
+            <td>perdues ou abandonnées pendant les trois </td>
+            <td>confinements</td>
+            <td>. Ce mal-être est</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinements</td>
+            <td> ont déclaré l'avoir été de nouveau au cours des quatre</td>
+          </tr>
+          <tr>
+            <td>s de </td>
+            <td>confinement</td>
+            <td>]</td>
+          </tr>
+          <tr>
+            <td>tableauFigure 1 - Sentiment d'abandon pendant les périodes de </td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td> (en #1jour1actu.com » C'est quoi, le </td>
+            <td>confinement</td>
+            <td> ? Flux des commentaires</td>
+          </tr>
+          <tr>
+            <td>C'est quoi, le </td>
+            <td>confinement</td>
+            <td> ?</td>
+          </tr>
+          <tr>
+            <td>C'est quoi, le </td>
+            <td>confinement</td>
+            <td> ?</td>
+          </tr>
+          <tr>
+            <td>confinement </td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>C'est quoi, le </td>
+            <td>confinement</td>
+            <td> ?</td>
+          </tr>
+          <tr>
+            <td>Le </td>
+            <td>confinement</td>
+            <td>, c'est quand on enferme quelqu'un pour le protéger, ou</td>
+          </tr>
+          <tr>
+            <td>c'est nécessaire. Ce </td>
+            <td>confinement</td>
+            <td> touche des milliards de personnes à</td>
+          </tr>
+          <tr>
+            <td>Mais pourquoi c'est efficace, le </td>
+            <td>confinement</td>
+            <td> ?</td>
+          </tr>
+          <tr>
+            <td>Dès le Moyen Âge, on a utilisé le </td>
+            <td>confinement</td>
+            <td>. Notamment contre la</td>
+          </tr>
+          <tr>
+            <td>Le </td>
+            <td>confinement</td>
+            <td> n'est pas la seule solution. On teste aussi des</td>
+          </tr>
+          <tr>
+            <td>beaucoup de temps. Alors que le </td>
+            <td>confinement</td>
+            <td>, lui, est efficace</td>
+          </tr>
+          <tr>
+            <td>Le </td>
+            <td>confinement</td>
+            <td> c'est trop triste!!!!!!!!!!!!!!!!!!!!! ¡</td>
+          </tr>
+          <tr>
+            <td>Je ne comprend pas ques-ce que c'est le </td>
+            <td>confinement</td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td>hier c est té ma fete mais je suis en </td>
+            <td>confinement</td>
+            <td> grrrrrrr</td>
+          </tr>
+          <tr>
+            <td>moi j'aime pas le </td>
+            <td>confinement</td>
+            <td> parce qu'on ne peux pas voir ses</td>
+          </tr>
+          <tr>
+            <td>Salut moi j'aime le </td>
+            <td>confinement</td>
+            <td> car on voit plus sa famille même si</td>
+          </tr>
+          <tr>
+            <td>j' ai bien compris le </td>
+            <td>confinement</td>
+            <td> grâce à cette vidéo .</td>
+          </tr>
+          <tr>
+            <td>suis pour le </td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>respecterons ce </td>
+            <td>confinement</td>
+            <td> plus vite nous pourrons vaincre la</td>
+          </tr>
+          <tr>
+            <td>pour le </td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Salut , moi j'aime bien le </td>
+            <td>confinement</td>
+            <td> ,on reste chez sois et lesémergence annoncée / sortie de </td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Covid-19 : chronique d'une émergence annoncée / sortie de </td>
+            <td>confinement</td>
+            <td>, ou la</td>
+          </tr>
+          <tr>
+            <td>Expliquant les raisons du </td>
+            <td>confinement</td>
+            <td> par l'insuffisance de la seule</td>
+          </tr>
+          <tr>
+            <td>nécessaires pour un futur dé</td>
+            <td>confinement</td>
+            <td> - qui ne mettra pas fin aux</td>
+          </tr>
+          <tr>
+            <td>France). Cette prise de parole consacrée à la sortie de </td>
+            <td>confinement</td>
+            <td> est</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td> de l'ensemble de la population, en toute conscience du</td>
+          </tr>
+          <tr>
+            <td>qu'après quatre semaines de </td>
+            <td>confinement</td>
+            <td> laisse à penser ce qu'aurait</td>
+          </tr>
+          <tr>
+            <td>La distanciation devra continuer après le dé</td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>l'échec de la distanciation sociale qui a amené au </td>
+            <td>confinement</td>
+            <td> dans</td>
+          </tr>
+          <tr>
+            <td>sortie de </td>
+            <td>confinement</td>
+            <td> ne pourra se concevoir autrement que par la</td>
+          </tr>
+          <tr>
+            <td>Si la Chine a opté en une étape pour une approche de </td>
+            <td>confinement</td>
+            <td> total,</td>
+          </tr>
+          <tr>
+            <td>décidé pour le 7 avril un </td>
+            <td>confinement</td>
+            <td> total de sa population. C'est</td>
+          </tr>
+          <tr>
+            <td>compris de décès et a décidé pour le 7 avril un </td>
+            <td>confinement</td>
+            <td> total de sa</td>
+          </tr>
+          <tr>
+            <td>d'exception va durer. La fin du </td>
+            <td>confinement</td>
+            <td> ne sonnera pas la fin de</td>
+          </tr>
+          <tr>
+            <td>demandant qu'à rebondir. Non seulement le dé</td>
+            <td>confinement</td>
+            <td> devra être</td>
+          </tr>
+          <tr>
+            <td>mesures de </td>
+            <td>confinement</td>
+            <td> « en accordéon ». C'est inimaginable, nous</td>
+          </tr>
+          <tr>
+            <td>devons réussir notre dé</td>
+            <td>confinement</td>
+            <td> et n'avons que peu de temps pour le</td>
+          </tr>
+          <tr>
+            <td>du succès de notre sortie de </td>
+            <td>confinement</td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td>leurs contacts directs, voire à un </td>
+            <td>confinement</td>
+            <td> plus précoce. Ce qui a</td>
+          </tr>
+          <tr>
+            <td>Les conditions pour prononcer le dé</td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Quand faudra-t-il sortir du </td>
+            <td>confinement</td>
+            <td> ? Le plus tôt serait bien sûr</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>confinement</td>
+            <td>, alors que se fait sentir un véritable relâchement dans</td>
+          </tr>
+          <tr>
+            <td>stratégie de dé</td>
+            <td>confinement</td>
+            <td> des chances maximales de succès ? Non ! Et</td>
+          </tr>
+          <tr>
+            <td>Il faut dire clairement à nos concitoyens que la date de dé</td>
+            <td>confinement</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>dans la période précédant le </td>
+            <td>confinement</td>
+            <td>. Voici quelques questions</td>
+          </tr>
+          <tr>
+            <td>"Il faut dire clairement à nos concitoyens que la date de dé</td>
+            <td>confinement</td>
+            <td> ne se</td>
+          </tr>
+          <tr>
+            <td>dé</td>
+            <td>confinement</td>
+            <td> pourrait se faire dans des conditions évitant au maximum</td>
+          </tr>
+          <tr>
+            <td>d'un dé</td>
+            <td>confinement</td>
+            <td> total si y sont mêlées les populations présentant un</td>
+          </tr>
+          <tr>
+            <td>2 - Une fois décidée, la sortie de </td>
+            <td>confinement</td>
+            <td> doit s'accompagner d'un</td>
+          </tr>
+          <tr>
+            <td>après dé</td>
+            <td>confinement</td>
+            <td>. Il est clair que ce paradigme inédit, s'il est</td>
+          </tr>
+          <tr>
+            <td>participation active. Le </td>
+            <td>confinement</td>
+            <td>, le « restez chez vous ! » pour</td>
+          </tr>
+          <tr>
+            <td>préparer à jouer un rôle actif lorsque le </td>
+            <td>confinement</td>
+            <td> sera levé. Cette</td>
+          </tr>
+          <tr>
+            <td>préparation de la phase de dé</td>
+            <td>confinement</td>
+            <td> où des citoyens volontaires et</td>
+          </tr>
+          <tr>
+            <td>organisationnelles du dé</td>
+            <td>confinement</td>
+            <td> que l'on ne pourra pas faire porter</td>
+          </tr>
+          <tr>
+            <td>3 - Une fois décidée, la sortie de </td>
+            <td>confinement</td>
+            <td> devra s'accompagner d'un</td>
+          </tr>
+          <tr>
+            <td>cartographie de l'évolution de l'épidémie, suite au dé</td>
+            <td>confinement</td>
+            <td>,</td>
+          </tr>
+          <tr>
+            <td>indiquent même que le </td>
+            <td>confinement</td>
+            <td> actuel pourrait ne faire que pousser</td>
+          </tr>
+          <tr>
+            <td>économique, sociale, de ce moment clé du dé</td>
+            <td>confinement</td>
+            <td> des citoyens</td>
+          </tr>
+        </tbody>
+      </table>
+
+      </div>
+    </section>
+  </body>
+  <!-- Section avec le footer -->
+  <footer class="footer" style="bottom:0; left: 0; right: 0">
+    <div class="content has-text-centered">
+      <p>
+        Copyright © L'équipe du groupe de
+        <a href="https://github.com/MarcExposto/Projet-PPE1-2025">PPE1</a>
+      </p>
+      <p>
+        Licence Creative Commons :
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0//"
+        >CC BY NC SA 4.0
+        </a>
+      </p>
+    </div>
+  </footer>
+</html>
