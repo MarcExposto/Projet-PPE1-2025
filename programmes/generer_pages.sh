@@ -1,8 +1,13 @@
 #!/bin/bash
 
-# Calcul du chemin du script et de la racine
-CheminScript="$(cd "$(dirname "$0")" && pwd)"
-CheminRacineProjet="$(cd "${CheminScript}/.." && pwd)"
+# Définition du chemin relatif vers la racine depuis ce script
+CheminRacineProjet=".."
+
+# Définition des chemins relatifs vers la racine à passer aux scripts awk pour générer les liens
+CheminRacineDepuisTableaux=".."
+
+# Crée le dossier tableaux s'il n'existe pas encore
+mkdir -p "${CheminRacineProjet}/tableaux"
 
 # Générer le tableau anglais
 FichierUrls="../URLs/en.txt"
@@ -12,8 +17,8 @@ ${CheminRacineProjet}/programmes/pipeline.sh "${FichierUrls}" "${Langue}" "${Mot
 
 Titre="Tableau récapitulatif pour les URLs séléctionnées pour l'anglais"
 CheminTableau="${CheminRacineProjet}/tableaux/tableau_urls_${Langue}.tsv"
-Tableau="$(awk -f ${CheminRacineProjet}/programmes/awk/tsv_vers_html.awk -v indentation=4 ${CheminTableau})"
-printf "${Tableau}" | awk -f ${CheminRacineProjet}/programmes/awk/formater_page.awk -v racine="${CheminRacineProjet}" -v titre="${Titre}" "${CheminRacineProjet}/programmes/templates/tableau.html" >"${CheminRacineProjet}/tableaux/${Langue}.html"
+Tableau="$(awk -f ${CheminRacineProjet}/programmes/awk/tsv_vers_html.awk -v indentation=6 ${CheminTableau})"
+printf "${Tableau}" | awk -f ${CheminRacineProjet}/programmes/awk/formater_page.awk -v racine="${CheminRacineDepuisTableaux}" -v titre="${Titre}" "${CheminRacineProjet}/programmes/templates/tableau.html" >"${CheminRacineProjet}/tableaux/${Langue}.html"
 
 # Générer le tableau français
 FichierUrls="../URLs/fr.txt"
@@ -23,5 +28,5 @@ ${CheminRacineProjet}/programmes/pipeline.sh "${FichierUrls}" "${Langue}" "${Mot
 
 Titre="Tableau récapitulatif pour les URLs séléctionnées pour le français"
 CheminTableau="${CheminRacineProjet}/tableaux/tableau_urls_${Langue}.tsv"
-Tableau="$(awk -f ${CheminRacineProjet}/programmes/awk/tsv_vers_html.awk -v indentation=4 ${CheminTableau})"
-printf "${Tableau}" | awk -f ${CheminRacineProjet}/programmes/awk/formater_page.awk -v racine="${CheminRacineProjet}" -v titre="${Titre}" "${CheminRacineProjet}/programmes/templates/tableau.html" >"${CheminRacineProjet}/tableaux/${Langue}.html"
+Tableau="$(awk -f ${CheminRacineProjet}/programmes/awk/tsv_vers_html.awk -v indentation=6 ${CheminTableau})"
+printf "${Tableau}" | awk -f ${CheminRacineProjet}/programmes/awk/formater_page.awk -v racine="${CheminRacineDepuisTableaux}" -v titre="${Titre}" "${CheminRacineProjet}/programmes/templates/tableau.html" >"${CheminRacineProjet}/tableaux/${Langue}.html"
